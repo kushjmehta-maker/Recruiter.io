@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JobCrawler</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <!-- ═══ ONBOARDING VIEW ═══ -->
+  <div id="view-onboarding" class="view">
+    <div class="header">
+      <h1>🎯 JobCrawler</h1>
+      <p class="subtitle">Smart job matching across 50+ companies</p>
+    </div>
+
+    <form id="onboarding-form" class="form">
+      <div class="field">
+        <label for="email">Email Address</label>
+        <input type="email" id="email" placeholder="you@email.com" required>
+      </div>
+
+      <div class="field">
+        <label for="resume">Resume (PDF)</label>
+        <div class="file-input">
+          <input type="file" id="resume" accept=".pdf" required>
+          <div class="file-label" id="file-label">Choose PDF file...</div>
+        </div>
+      </div>
+
+      <div class="field">
+        <label>Target Roles</label>
+        <div class="tag-input">
+          <div id="role-tags" class="tags"></div>
+          <input type="text" id="role-input" placeholder="e.g. Software Engineer 2"
+                 list="role-suggestions">
+          <datalist id="role-suggestions">
+            <option value="Software Engineer">
+            <option value="Software Engineer 2">
+            <option value="Senior Software Engineer">
+            <option value="MTS-2">
+            <option value="SDE-2">
+            <option value="Backend Engineer">
+            <option value="Frontend Engineer">
+            <option value="Full Stack Engineer">
+            <option value="DevOps Engineer">
+            <option value="Data Scientist">
+            <option value="ML Engineer">
+            <option value="Product Manager">
+          </datalist>
+        </div>
+        <small class="hint">Press Enter to add each role</small>
+      </div>
+
+      <div class="field">
+        <label>Preferred Locations <span class="optional">(optional)</span></label>
+        <div class="tag-input">
+          <div id="location-tags" class="tags"></div>
+          <input type="text" id="location-input" placeholder="e.g. India, Bangalore, Remote"
+                 list="location-suggestions">
+          <datalist id="location-suggestions">
+            <option value="India">
+            <option value="Bangalore">
+            <option value="Hyderabad">
+            <option value="Mumbai">
+            <option value="Delhi NCR">
+            <option value="Pune">
+            <option value="Remote">
+            <option value="US">
+            <option value="San Francisco">
+            <option value="New York">
+            <option value="Seattle">
+            <option value="London">
+            <option value="Singapore">
+          </datalist>
+        </div>
+        <small class="hint">Press Enter to add. Leave empty for all locations.</small>
+      </div>
+
+      <div class="field">
+        <label>Alert Companies <span class="optional">(optional)</span></label>
+        <div class="tag-input">
+          <div id="company-tags" class="tags"></div>
+          <input type="text" id="company-input" placeholder="e.g. Google, Stripe, NVIDIA"
+                 list="company-suggestions">
+          <datalist id="company-suggestions">
+            <option value="Google">
+            <option value="Microsoft">
+            <option value="Amazon">
+            <option value="Apple">
+            <option value="Meta">
+            <option value="Netflix">
+            <option value="Stripe">
+            <option value="NVIDIA">
+            <option value="Adobe">
+            <option value="Airbnb">
+            <option value="Cloudflare">
+            <option value="Flipkart">
+            <option value="Razorpay">
+            <option value="Swiggy">
+            <option value="Zomato">
+          </datalist>
+        </div>
+        <small class="hint">Press Enter to add. Leave empty to get alerts from all companies.</small>
+      </div>
+
+      <button type="submit" class="btn btn-primary" id="btn-submit">
+        <span class="btn-text">Get Started</span>
+        <span class="btn-loading" style="display:none">Setting up...</span>
+      </button>
+
+      <div id="error-msg" class="error" style="display:none"></div>
+    </form>
+  </div>
+
+  <!-- ═══ JOB LIST VIEW ═══ -->
+  <div id="view-jobs" class="view" style="display:none">
+    <div class="header compact">
+      <div class="header-row">
+        <h2>🎯 Jobs</h2>
+        <div class="header-actions">
+          <button id="btn-refresh" class="btn btn-sm btn-ghost" title="Trigger crawl">⟳</button>
+          <button id="btn-settings" class="btn btn-sm btn-ghost" title="Settings">⚙</button>
+        </div>
+      </div>
+
+      <div id="stats-bar" class="stats-bar">
+        <span id="stat-total">-</span> jobs · <span id="stat-new">-</span> new today
+      </div>
+
+      <!-- Controls -->
+      <div class="controls">
+        <div class="sort-group">
+          <button class="sort-btn active" data-sort="combined">Best Match</button>
+          <button class="sort-btn" data-sort="relevance">Relevance</button>
+          <button class="sort-btn" data-sort="recent">Most Recent</button>
+        </div>
+
+        <div class="filter-row">
+          <input type="text" id="search-input" placeholder="Search jobs..." class="search-input">
+          <input type="text" id="location-filter" placeholder="Location..." class="search-input" style="max-width:120px">
+          <select id="company-filter" class="select-sm">
+            <option value="">All Companies</option>
+          </select>
+          <div class="relevance-filter">
+            <label>Min: <span id="relevance-val">0</span>%</label>
+            <input type="range" id="relevance-slider" min="0" max="100" value="0" step="5">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Job Cards -->
+    <div id="job-list" class="job-list">
+      <div class="loading" id="loading">Loading jobs...</div>
+    </div>
+
+    <div id="load-more" class="load-more" style="display:none">
+      <button class="btn btn-sm btn-ghost">Load more</button>
+    </div>
+  </div>
+
+  <!-- ═══ JOB DETAIL VIEW ═══ -->
+  <div id="view-detail" class="view" style="display:none">
+    <div class="header compact">
+      <button id="btn-back" class="btn btn-sm btn-ghost">← Back</button>
+    </div>
+    <div id="job-detail" class="job-detail"></div>
+  </div>
+
+  <script src="../lib/api-client.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>

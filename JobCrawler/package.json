@@ -1,0 +1,30 @@
+{
+  "name": "jobcrawler",
+  "version": "1.0.0",
+  "description": "Job crawler browser extension with relevance scoring and email alerts",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "nodemon backend/server.js",
+    "crawl": "node scripts/test-crawlers.js",
+    "seed": "node scripts/seed-companies.js",
+    "discover-workday": "node scripts/discover-workday-slugs.js"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.0",
+    "apify-client": "^2.9.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.0",
+    "express": "^4.21.0",
+    "html-to-text": "^9.0.5",
+    "mongoose": "^8.8.0",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "node-cron": "^3.0.3",
+    "openai": "^4.104.0",
+    "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
