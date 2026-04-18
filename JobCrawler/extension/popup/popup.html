@@ -81,27 +81,11 @@
         <label>Alert Companies <span class="optional">(optional)</span></label>
         <div class="tag-input">
           <div id="company-tags" class="tags"></div>
-          <input type="text" id="company-input" placeholder="e.g. Google, Stripe, NVIDIA"
-                 list="company-suggestions">
-          <datalist id="company-suggestions">
-            <option value="Google">
-            <option value="Microsoft">
-            <option value="Amazon">
-            <option value="Apple">
-            <option value="Meta">
-            <option value="Netflix">
-            <option value="Stripe">
-            <option value="NVIDIA">
-            <option value="Adobe">
-            <option value="Airbnb">
-            <option value="Cloudflare">
-            <option value="Flipkart">
-            <option value="Razorpay">
-            <option value="Swiggy">
-            <option value="Zomato">
-          </datalist>
+          <select id="company-input" class="select-sm" style="flex:1; border:none; outline:none;">
+            <option value="">Select a company...</option>
+          </select>
         </div>
-        <small class="hint">Press Enter to add. Leave empty to get alerts from all companies.</small>
+        <small class="hint">Select companies to get priority alerts for.</small>
       </div>
 
       <button type="submit" class="btn btn-primary" id="btn-submit">

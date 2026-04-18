@@ -1,4 +1,5 @@
-const API_BASE = 'http://localhost:3000/api';
+const API_BASE = 'https://jobcrawler-func.azurewebsites.net/api';
+const API_KEY = 'dcec9d9bf19d9ff3f036b6ba658ee28a3d2a82ecad7eb5d8a7962f26e3390722';
 
 class ApiClient {
   constructor() {
@@ -7,7 +8,11 @@ class ApiClient {
 
   async request(path, options = {}) {
     const res = await fetch(`${this.baseUrl}${path}`, {
-      headers: { 'Content-Type': 'application/json', ...options.headers },
+      headers: {
+        'Content-Type': 'application/json',
+        'x-api-key': API_KEY,
+        ...options.headers,
+      },
       ...options,
     });
     if (!res.ok) {
@@ -33,6 +38,7 @@ class ApiClient {
   async uploadResume(formData) {
     const res = await fetch(`${this.baseUrl}/upload/resume`, {
       method: 'POST',
+      headers: { 'x-api-key': API_KEY },
       body: formData, // multipart — no Content-Type header
     });
     if (!res.ok) {

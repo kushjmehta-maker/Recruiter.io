@@ -49,32 +49,63 @@ function bindEvents() {
     }
   });
 
-  // Role tag input
-  document.getElementById('role-input').addEventListener('keydown', (e) => {
+  // Role tag input — Enter key or datalist selection
+  const roleInput = document.getElementById('role-input');
+  roleInput.addEventListener('keydown', (e) => {
     if (e.key === 'Enter') {
       e.preventDefault();
       addTag('role', e.target.value.trim());
       e.target.value = '';
     }
   });
+  // Handle datalist click selection (fires 'input' after value changes)
+  let lastRoleValue = '';
+  roleInput.addEventListener('input', (e) => {
+    const val = e.target.value.trim();
+    // Datalist selection sets value instantly to a full match
+    const options = document.querySelectorAll('#role-suggestions option');
+    const isDatalistPick = [...options].some((opt) => opt.value === val);
+    if (isDatalistPick && val !== lastRoleValue) {
+      addTag('role', val);
+      e.target.value = '';
+    }
+    lastRoleValue = val;
+  });
 
-  // Location tag input (onboarding)
-  document.getElementById('location-input').addEventListener('keydown', (e) => {
+  // Location tag input (onboarding) — Enter key or datalist selection
+  const locInput = document.getElementById('location-input');
+  locInput.addEventListener('keydown', (e) => {
     if (e.key === 'Enter') {
       e.preventDefault();
       addTag('location', e.target.value.trim());
       e.target.value = '';
     }
   });
+  let lastLocValue = '';
+  locInput.addEventListener('input', (e) => {
+    const val = e.target.value.trim();
+    const options = document.querySelectorAll('#location-suggestions option');
+    const isDatalistPick = [...options].some((opt) => opt.value === val);
+    if (isDatalistPick && val !== lastLocValue) {
+      addTag('location', val);
+      e.target.value = '';
+    }
+    lastLocValue = val;
+  });
 
-  // Company tag input (onboarding)
-  document.getElementById('company-input').addEventListener('keydown', (e) => {
-    if (e.key === 'Enter') {
-      e.preventDefault();
-      addTag('company', e.target.value.trim());
+  // Company select input (onboarding) — dropdown of all companies from API
+  const companySelect = document.getElementById('company-input');
+  companySelect.addEventListener('change', (e) => {
+    const val = e.target.value;
+    if (val) {
+      // Find display name from the option text
+      const displayName = e.target.options[e.target.selectedIndex].textContent;
+      addTag('company', val, displayName);
       e.target.value = '';
     }
   });
+  // Populate company dropdown from API
+  loadOnboardingCompanies();
 
   // Sort buttons
   document.querySelectorAll('.sort-btn').forEach((btn) => {
@@ -164,27 +195,41 @@ function bindEvents() {
 const tagState = {
   role: [],
   location: [],
-  company: [],
+  company: [], // stores { key, displayName } for companies
 };
 
-function addTag(type, value) {
-  if (!value || tagState[type].includes(value)) return;
-  tagState[type].push(value);
+function addTag(type, value, displayName) {
+  if (!value) return;
+  if (type === 'company') {
+    if (tagState.company.some((c) => c.key === value)) return;
+    tagState.company.push({ key: value, displayName: displayName || value });
+  } else {
+    if (tagState[type].includes(value)) return;
+    tagState[type].push(value);
+  }
   renderTags(type);
 }
 
 function removeTag(type, value) {
-  const idx = tagState[type].indexOf(value);
-  if (idx > -1) tagState[type].splice(idx, 1);
+  if (type === 'company') {
+    tagState.company = tagState.company.filter((c) => c.key !== value);
+  } else {
+    const idx = tagState[type].indexOf(value);
+    if (idx > -1) tagState[type].splice(idx, 1);
+  }
   renderTags(type);
 }
 
 function renderTags(type) {
   const container = document.getElementById(`${type}-tags`);
-  container.innerHTML = tagState[type]
+  const items = type === 'company'
+    ? tagState.company.map((c) => ({ display: c.displayName, value: c.key }))
+    : tagState[type].map((v) => ({ display: v, value: v }));
+
+  container.innerHTML = items
     .map(
-      (v) =>
-        `<span class="tag">${v}<span class="remove" data-type="${type}" data-value="${v}">×</span></span>`
+      (item) =>
+        `<span class="tag">${escapeHtml(item.display)}<span class="remove" data-type="${type}" data-value="${item.value}">×</span></span>`
     )
     .join('');
 
@@ -219,7 +264,7 @@ async function handleOnboarding(e) {
     formData.append('resume', resumeFile);
     formData.append('targetRoles', JSON.stringify(tagState.role));
     formData.append('preferredLocations', JSON.stringify(tagState.location));
-    formData.append('alertCompanies', JSON.stringify(tagState.company));
+    formData.append('alertCompanies', JSON.stringify(tagState.company.map((c) => c.key)));
 
     const result = await api.uploadResume(formData);
 
@@ -384,6 +429,23 @@ async function loadCompanyFilter() {
   try {
     const data = await api.getCompanies();
     const select = document.getElementById('company-filter');
+    data.companies
+      .sort((a, b) => a.displayName.localeCompare(b.displayName))
+      .forEach((c) => {
+        const opt = document.createElement('option');
+        opt.value = c.key;
+        opt.textContent = c.displayName;
+        select.appendChild(opt);
+      });
+  } catch {
+    // Non-critical
+  }
+}
+
+async function loadOnboardingCompanies() {
+  try {
+    const data = await api.getCompanies();
+    const select = document.getElementById('company-input');
     data.companies
       .sort((a, b) => a.displayName.localeCompare(b.displayName))
       .forEach((c) => {

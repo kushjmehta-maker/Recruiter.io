@@ -1,5 +1,7 @@
 const ALARM_NAME = 'jobcrawler-badge-check';
 const CHECK_INTERVAL_MINUTES = 30;
+const API_BASE = 'https://jobcrawler-func.azurewebsites.net/api';
+const API_KEY = 'dcec9d9bf19d9ff3f036b6ba658ee28a3d2a82ecad7eb5d8a7962f26e3390722';
 
 chrome.runtime.onInstalled.addListener(() => {
   chrome.alarms.create(ALARM_NAME, { periodInMinutes: CHECK_INTERVAL_MINUTES });
@@ -8,13 +10,13 @@ chrome.runtime.onInstalled.addListener(() => {
 chrome.alarms.onAlarm.addListener(async (alarm) => {
   if (alarm.name !== ALARM_NAME) return;
 
-  const data = await chrome.storage.local.get(['userId', 'lastPopupOpenedAt']);
+  const data = await chrome.storage.local.get(['userId']);
   if (!data.userId) return;
 
   try {
-    const since = data.lastPopupOpenedAt || new Date(0).toISOString();
     const res = await fetch(
-      `http://localhost:3000/api/jobs?userId=${data.userId}&minRelevance=75&limit=1`
+      `${API_BASE}/jobs?userId=${data.userId}&minRelevance=75&limit=1`,
+      { headers: { 'x-api-key': API_KEY } }
     );
     if (!res.ok) return;
 

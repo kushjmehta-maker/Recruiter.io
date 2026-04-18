@@ -2,19 +2,45 @@ require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
 const morgan = require('morgan');
+const helmet = require('helmet');
+const rateLimit = require('express-rate-limit');
 const connectDB = require('./config/db');
+const { apiKeyAuth } = require('./middleware/auth');
+const { sanitizeInput } = require('./middleware/sanitize');
 const logger = require('./utils/logger');
 
 const app = express();
 
-// Middleware
+// Security headers
+app.use(helmet());
+
+// CORS — lock to extension origin in production
 app.use(cors({
   origin: process.env.NODE_ENV === 'production'
     ? process.env.EXTENSION_CORS_ORIGIN
     : '*',
 }));
+
+// Rate limiting — 100 requests per 15 minutes per IP
+app.use(rateLimit({
+  windowMs: 15 * 60 * 1000,
+  max: 100,
+  standardHeaders: true,
+  legacyHeaders: false,
+  message: { error: 'Too many requests, please try again later' },
+}));
+
+// Body parsing
 app.use(express.json({ limit: '10mb' }));
+
+// Request logging
 app.use(morgan('dev'));
+
+// Sanitize inputs (NoSQL injection prevention)
+app.use(sanitizeInput);
+
+// API key authentication (skips /api/health)
+app.use(apiKeyAuth);
 
 // Routes
 app.use('/api/users', require('./routes/users'));
