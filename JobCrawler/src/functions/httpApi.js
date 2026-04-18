@@ -7,7 +7,7 @@ const { companies } = require('../../backend/config/companies');
 const { COMBINED_SORT_RELEVANCE_WEIGHT, COMBINED_SORT_RECENCY_WEIGHT, RECENCY_DECAY_DAYS } = require('../../backend/config/constants');
 const { runCrawl } = require('../../backend/crawlers');
 const { scoreJobsForUser } = require('../../backend/services/relevance-scorer');
-const { sendJobAlerts } = require('../../backend/services/email-service');
+const { sendJobAlerts, sendAlertForUser } = require('../../backend/services/email-service');
 const { parseResume } = require('../../backend/services/resume-parser');
 const { clearCrawlFilterCache } = require('../../backend/utils/crawl-filter');
 const logger = require('../../backend/utils/logger');
@@ -60,14 +60,21 @@ function cors(response) {
     'Access-Control-Allow-Origin': '*',
     'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, OPTIONS',
     'Access-Control-Allow-Headers': 'Content-Type, x-api-key',
+    'Access-Control-Max-Age': '86400',
   };
   return response;
+}
+
+const CORS_PREFLIGHT = cors({ status: 204 });
+
+function isPreflight(request) {
+  return request.method === 'OPTIONS';
 }
 
 // --- Health ---
 
 app.http('health', {
-  methods: ['GET'],
+  methods: ['GET', 'OPTIONS'],
   authLevel: 'anonymous',
   route: 'health',
   handler: async () => {
@@ -97,10 +104,11 @@ app.http('corsPreflight', {
 // --- Users ---
 
 app.http('userRegister', {
-  methods: ['POST'],
+  methods: ['POST', 'OPTIONS'],
   authLevel: 'anonymous',
   route: 'users/register',
   handler: async (request) => {
+    if (isPreflight(request)) return CORS_PREFLIGHT;
     if (!checkAuth(request)) return cors(json({ error: 'Invalid or missing API key' }, 401));
     await connectDB();
     try {
@@ -136,10 +144,11 @@ app.http('userRegister', {
 });
 
 app.http('userGet', {
-  methods: ['GET'],
+  methods: ['GET', 'OPTIONS'],
   authLevel: 'anonymous',
   route: 'users/{id}',
   handler: async (request, context) => {
+    if (isPreflight(request)) return CORS_PREFLIGHT;
     if (!checkAuth(request)) return cors(json({ error: 'Invalid or missing API key' }, 401));
     await connectDB();
     try {
@@ -166,10 +175,11 @@ app.http('userGet', {
 });
 
 app.http('userUpdate', {
-  methods: ['PUT'],
+  methods: ['PUT', 'OPTIONS'],
   authLevel: 'anonymous',
   route: 'users/{id}',
   handler: async (request) => {
+    if (isPreflight(request)) return CORS_PREFLIGHT;
     if (!checkAuth(request)) return cors(json({ error: 'Invalid or missing API key' }, 401));
     await connectDB();
     try {
@@ -196,10 +206,11 @@ app.http('userUpdate', {
 // --- Jobs ---
 
 app.http('jobsList', {
-  methods: ['GET'],
+  methods: ['GET', 'OPTIONS'],
   authLevel: 'anonymous',
   route: 'jobs',
   handler: async (request) => {
+    if (isPreflight(request)) return CORS_PREFLIGHT;
     if (!checkAuth(request)) return cors(json({ error: 'Invalid or missing API key' }, 401));
     await connectDB();
     try {
@@ -291,10 +302,11 @@ app.http('jobsList', {
 // --- Jobs (detail, companies, stats) ---
 
 app.http('jobDetail', {
-  methods: ['GET'],
+  methods: ['GET', 'OPTIONS'],
   authLevel: 'anonymous',
   route: 'jobs/{id}',
   handler: async (request) => {
+    if (isPreflight(request)) return CORS_PREFLIGHT;
     const id = request.params.id;
 
     // Handle sub-routes that Azure Functions incorrectly routes here
@@ -344,10 +356,11 @@ app.http('jobDetail', {
 // --- Crawl ---
 
 app.http('crawlTrigger', {
-  methods: ['POST'],
+  methods: ['POST', 'OPTIONS'],
   authLevel: 'anonymous',
   route: 'crawl/trigger',
   handler: async (request) => {
+    if (isPreflight(request)) return CORS_PREFLIGHT;
     if (!checkAuth(request)) return cors(json({ error: 'Invalid or missing API key' }, 401));
     await connectDB();
     try {
@@ -376,10 +389,11 @@ app.http('crawlTrigger', {
 });
 
 app.http('crawlStatus', {
-  methods: ['GET'],
+  methods: ['GET', 'OPTIONS'],
   authLevel: 'anonymous',
   route: 'crawl/{subpath}',
   handler: async (request) => {
+    if (isPreflight(request)) return CORS_PREFLIGHT;
     if (!checkAuth(request)) return cors(json({ error: 'Invalid or missing API key' }, 401));
     await connectDB();
     const subpath = request.params.subpath;
@@ -401,10 +415,11 @@ app.http('crawlStatus', {
 });
 
 app.http('crawlStatusDetail', {
-  methods: ['GET'],
+  methods: ['GET', 'OPTIONS'],
   authLevel: 'anonymous',
   route: 'crawl/status/{runId}',
   handler: async (request) => {
+    if (isPreflight(request)) return CORS_PREFLIGHT;
     if (!checkAuth(request)) return cors(json({ error: 'Invalid or missing API key' }, 401));
     await connectDB();
     try {
@@ -429,10 +444,11 @@ app.http('crawlStatusDetail', {
 // --- Upload ---
 
 app.http('uploadResume', {
-  methods: ['POST'],
+  methods: ['POST', 'OPTIONS'],
   authLevel: 'anonymous',
   route: 'upload/resume',
   handler: async (request) => {
+    if (isPreflight(request)) return CORS_PREFLIGHT;
     if (!checkAuth(request)) return cors(json({ error: 'Invalid or missing API key' }, 401));
     await connectDB();
     try {
@@ -482,6 +498,54 @@ app.http('uploadResume', {
         alertCompanies: user.alertCompanies,
         resumeParsed: true,
         resumeSnippet: resumeText.slice(0, 200) + '...',
+      }));
+    } catch (err) {
+      return cors(json({ error: err.message }, 500));
+    }
+  },
+});
+
+// --- Test Alert (admin only — forces an email alert ignoring cooldown) ---
+
+app.http('testAlert', {
+  methods: ['POST', 'OPTIONS'],
+  authLevel: 'anonymous',
+  route: 'test/send-alert',
+  handler: async (request) => {
+    if (isPreflight(request)) return CORS_PREFLIGHT;
+    if (!checkAuth(request)) return cors(json({ error: 'Invalid or missing API key' }, 401));
+    await connectDB();
+    try {
+      const { userId } = await getBody(request);
+      const user = await User.findById(userId);
+      if (!user) return cors(json({ error: 'User not found' }, 404));
+      if (!user.resumeText) return cors(json({ error: 'User has no resume' }, 400));
+
+      // Clear cooldown to force email
+      user.lastAlertSentAt = null;
+      await user.save();
+
+      // Find high-scoring jobs for this user
+      const jobs = await Job.find({
+        isActive: true,
+        'relevanceScores': {
+          $elemMatch: {
+            userId: user._id,
+            score: { $gte: user.alertThreshold },
+          },
+        },
+      }).limit(20);
+
+      if (jobs.length === 0) {
+        return cors(json({ error: 'No jobs above threshold to send', threshold: user.alertThreshold }));
+      }
+
+      const sent = await sendAlertForUser(user, jobs);
+      return cors(json({
+        message: sent ? 'Alert email sent!' : 'Email filtered out (location/company filters)',
+        jobsFound: jobs.length,
+        email: user.email,
+        sent,
       }));
     } catch (err) {
       return cors(json({ error: err.message }, 500));
