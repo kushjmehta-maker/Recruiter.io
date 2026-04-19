@@ -1,0 +1,423 @@
+============================================================
+  LeetCode Company-Wise Questions Scraper (Premium)
+============================================================
+
+  Rate limiting: 1.5s base + 0.5s jitter per request
+  Batch pause: 15s every 25 requests
+  Retries: 3x with exponential backoff
+
+Fetching company list...
+Found 941 companies.
+
+  Resuming from checkpoint (2026-04-19T14:13:56.710897) — 150 companies already fetched.
+
+  [151/941] Fetching: General Motors                      (150 done, 0 failed | ETA: 0min)    [152/941] Fetching: Millennium                          (151 done, 0 failed | ETA: 0min)    [153/941] Fetching: Cloudflare                          (152 done, 0 failed | ETA: 0min)    [154/941] Fetching: Mastercard                          (153 done, 0 failed | ETA: 0min)    [155/941] Fetching: UiPath                              (154 done, 0 failed | ETA: 1min)    [156/941] Fetching: WeRide                              (155 done, 0 failed | ETA: 1min)    [157/941] Fetching: Baidu                               (156 done, 0 failed | ETA: 1min)    [158/941] Fetching: UKG                                 (157 done, 0 failed | ETA: 1min)  
+[API] UKG                  reports totalNum=3906, page1=50 fetched=3906
+  [159/941] Fetching: Affirm                              (158 done, 0 failed | ETA: 7min)    [160/941] Fetching: Tencent                             (159 done, 0 failed | ETA: 7min)    [161/941] Fetching: Disney                              (160 done, 0 failed | ETA: 8min)    [162/941] Fetching: Akamai                              (161 done, 0 failed | ETA: 8min)    [163/941] Fetching: Dell                                (162 done, 0 failed | ETA: 8min)    [164/941] Fetching: SIG                                 (163 done, 0 failed | ETA: 8min)    [165/941] Fetching: Avito                               (164 done, 0 failed | ETA: 8min)    [166/941] Fetching: Ripple                              (165 done, 0 failed | ETA: 8min)    [167/941] Fetching: ZS Associates                       (166 done, 0 failed | ETA: 8min)    [168/941] Fetching: C3.ai                               (167 done, 0 failed | ETA: 8min)    [169/941] Fetching: Motive                              (168 done, 0 failed | ETA: 8min)    [170/941] Fetching: Flexport                            (169 done, 0 failed | ETA: 8min)    [171/941] Fetching: persistent systems                  (170 done, 0 failed | ETA: 8min)    [172/941] Fetching: Applied Intuition                   (171 done, 0 failed | ETA: 8min)  
+[API] Applied Intuition    reports totalNum=3906, page1=50 fetched=3906
+  [173/941] Fetching: Revolut                             (172 done, 0 failed | ETA: 14min)  
+[API] Revolut              reports totalNum=3906, page1=50 fetched=3906
+  [174/941] Fetching: BCG                                 (173 done, 0 failed | ETA: 20min)  
+[API] BCG                  reports totalNum=3906, page1=50 fetched=3906
+  [175/941] Fetching: Hudson River Trading                (174 done, 0 failed | ETA: 25min)  
+  [Rate Limit] Batch 1 done (25 companies). Cooling 19s...
+  [176/941] Fetching: Twilio                              (175 done, 0 failed | ETA: 27min)    [177/941] Fetching: Confluent                           (176 done, 0 failed | ETA: 27min)    [178/941] Fetching: Instacart                           (177 done, 0 failed | ETA: 26min)    [179/941] Fetching: Pornhub                             (178 done, 0 failed | ETA: 26min)    [180/941] Fetching: Rivian                              (179 done, 0 failed | ETA: 26min)    [181/941] Fetching: Warnermedia                         (180 done, 0 failed | ETA: 26min)    [182/941] Fetching: FreshWorks                          (181 done, 0 failed | ETA: 26min)    [183/941] Fetching: Criteo                              (182 done, 0 failed | ETA: 26min)    [184/941] Fetching: Cadence                             (183 done, 0 failed | ETA: 26min)    [185/941] Fetching: InMobi                              (184 done, 0 failed | ETA: 26min)    [186/941] Fetching: Microstrategy                       (185 done, 0 failed | ETA: 26min)    [187/941] Fetching: Coursera                            (186 done, 0 failed | ETA: 26min)    [188/941] Fetching: Axon                                (187 done, 0 failed | ETA: 26min)    [189/941] Fetching: VMware                              (188 done, 0 failed | ETA: 26min)    [190/941] Fetching: Shopee                              (189 done, 0 failed | ETA: 26min)    [191/941] Fetching: Target                              (190 done, 0 failed | ETA: 26min)    [192/941] Fetching: athenahealth                        (191 done, 0 failed | ETA: 26min)    [193/941] Fetching: Nokia                               (192 done, 0 failed | ETA: 26min)    [194/941] Fetching: KLA                                 (193 done, 0 failed | ETA: 25min)    [195/941] Fetching: LTIMindtree                         (194 done, 0 failed | ETA: 25min)    [196/941] Fetching: Compass                             (195 done, 0 failed | ETA: 25min)    [197/941] Fetching: Info Edge                           (196 done, 0 failed | ETA: 25min)    [198/941] Fetching: Directi                             (197 done, 0 failed | ETA: 25min)    [199/941] Fetching: Nielsen                             (198 done, 0 failed | ETA: 25min)  
+[API] Nielsen              reports totalNum=3906, page1=50 fetched=3906
+  [200/941] Fetching: Optiver                             (199 done, 0 failed | ETA: 30min)  
+  [Rate Limit] Batch 2 done (50 companies). Cooling 17s...
+  [201/941] Fetching: Workday                             (200 done, 0 failed | ETA: 31min)    [202/941] Fetching: Pure Storage                        (201 done, 0 failed | ETA: 31min)    [203/941] Fetching: IMC                                 (202 done, 0 failed | ETA: 31min)    [204/941] Fetching: Twitch                              (203 done, 0 failed | ETA: 31min)    [205/941] Fetching: Indeed                              (204 done, 0 failed | ETA: 31min)    [206/941] Fetching: Box                                 (205 done, 0 failed | ETA: 30min)    [207/941] Fetching: Rakuten                             (206 done, 0 failed | ETA: 30min)    [208/941] Fetching: 6sense                              (207 done, 0 failed | ETA: 30min)    [209/941] Fetching: Airtel                              (208 done, 0 failed | ETA: 30min)    [210/941] Fetching: ThoughtWorks                        (209 done, 0 failed | ETA: 30min)    [211/941] Fetching: thoughtspot                         (210 done, 0 failed | ETA: 30min)    [212/941] Fetching: Lime                                (211 done, 0 failed | ETA: 30min)    [213/941] Fetching: Jio                                 (212 done, 0 failed | ETA: 30min)    [214/941] Fetching: MAQ Software                        (213 done, 0 failed | ETA: 30min)    [215/941] Fetching: Netskope                            (214 done, 0 failed | ETA: 30min)    [216/941] Fetching: Virtusa                             (215 done, 0 failed | ETA: 30min)    [217/941] Fetching: Trilogy                             (216 done, 0 failed | ETA: 30min)    [218/941] Fetching: oyo                                 (217 done, 0 failed | ETA: 29min)    [219/941] Fetching: spinny                              (218 done, 0 failed | ETA: 29min)    [220/941] Fetching: Vimeo                               (219 done, 0 failed | ETA: 29min)    [221/941] Fetching: CleverTap                           (220 done, 0 failed | ETA: 29min)    [222/941] Fetching: Graviton                            (220 done, 1 failed | ETA: 29min)  
+[API] Graviton             reports totalNum=3906, page1=50 fetched=3906
+  [223/941] Fetching: Udemy                               (221 done, 1 failed | ETA: 33min)    [224/941] Fetching: The Trade Desk                      (221 done, 2 failed | ETA: 33min)    [225/941] Fetching: Tripadvisor                         (222 done, 2 failed | ETA: 33min)  
+  [Rate Limit] Batch 3 done (75 companies). Cooling 17s...
+  [226/941] Fetching: Zoox                                (223 done, 2 failed | ETA: 34min)    [227/941] Fetching: Toast                               (224 done, 2 failed | ETA: 34min)    [228/941] Fetching: Point72                             (225 done, 2 failed | ETA: 34min)    [229/941] Fetching: Moveworks                           (226 done, 2 failed | ETA: 34min)    [230/941] Fetching: PayPay                              (227 done, 2 failed | ETA: 33min)    [231/941] Fetching: LiveRamp                            (228 done, 2 failed | ETA: 33min)    [232/941] Fetching: Deliveroo                           (229 done, 2 failed | ETA: 33min)    [233/941] Fetching: Shopify                             (230 done, 2 failed | ETA: 33min)    [234/941] Fetching: Bolt                                (231 done, 2 failed | ETA: 33min)    [235/941] Fetching: Upstart                             (232 done, 2 failed | ETA: 33min)    [236/941] Fetching: Comcast                             (233 done, 2 failed | ETA: 33min)    [237/941] Fetching: HSBC                                (234 done, 2 failed | ETA: 33min)    [238/941] Fetching: LG Electronics                      (235 done, 2 failed | ETA: 33min)    [239/941] Fetching: Nagarro                             (236 done, 2 failed | ETA: 32min)    [240/941] Fetching: AT&T                                (237 done, 2 failed | ETA: 32min)    [241/941] Fetching: Nordstrom                           (238 done, 2 failed | ETA: 32min)    [242/941] Fetching: Garmin                              (239 done, 2 failed | ETA: 32min)    [243/941] Fetching: Publicis Sapient                    (240 done, 2 failed | ETA: 32min)    [244/941] Fetching: Citrix                              (241 done, 2 failed | ETA: 32min)    [245/941] Fetching: Careem                              (242 done, 2 failed | ETA: 32min)    [246/941] Fetching: Couchbase                           (243 done, 2 failed | ETA: 32min)    [247/941] Fetching: Verizon                             (244 done, 2 failed | ETA: 32min)    [248/941] Fetching: Dunzo                               (244 done, 3 failed | ETA: 32min)    [249/941] Fetching: Urban Company                       (245 done, 3 failed | ETA: 32min)    [250/941] Fetching: Lucid                               (246 done, 3 failed | ETA: 32min)  
+  [Rate Limit] Batch 4 done (100 companies). Cooling 19s...
+  [251/941] Fetching: Darwinbox                           (247 done, 3 failed | ETA: 32min)  
+[API] Darwinbox            reports totalNum=3906, page1=50 fetched=3906
+  [252/941] Fetching: blinkit                             (248 done, 3 failed | ETA: 36min)  
+[API] blinkit              reports totalNum=3906, page1=50 fetched=3906
+  [253/941] Fetching: Attentive                           (249 done, 3 failed | ETA: 39min)  
+[API] Attentive            reports totalNum=3906, page1=50 fetched=3906
+  [254/941] Fetching: Rokt                                (250 done, 3 failed | ETA: 43min)  
+[API] Rokt                 reports totalNum=3906, page1=50 fetched=3906
+  [255/941] Fetching: Alibaba                             (251 done, 3 failed | ETA: 46min)    [256/941] Fetching: Reddit                              (252 done, 3 failed | ETA: 46min)    [257/941] Fetching: Citigroup                           (253 done, 3 failed | ETA: 46min)    [258/941] Fetching: Audible                             (253 done, 4 failed | ETA: 46min)    [259/941] Fetching: Chewy                               (254 done, 4 failed | ETA: 46min)    [260/941] Fetching: Virtu Financial                     (255 done, 4 failed | ETA: 45min)    [261/941] Fetching: Duolingo                            (256 done, 4 failed | ETA: 45min)    [262/941] Fetching: Gusto                               (257 done, 4 failed | ETA: 45min)    [263/941] Fetching: Optum                               (258 done, 4 failed | ETA: 45min)    [264/941] Fetching: Remitly                             (259 done, 4 failed | ETA: 45min)    [265/941] Fetching: Qualtrics                           (260 done, 4 failed | ETA: 45min)    [266/941] Fetching: Github                              (261 done, 4 failed | ETA: 44min)    [267/941] Fetching: Faire                               (262 done, 4 failed | ETA: 44min)    [268/941] Fetching: Guidewire                           (263 done, 4 failed | ETA: 44min)    [269/941] Fetching: Samsara                             (264 done, 4 failed | ETA: 44min)    [270/941] Fetching: Squarespace                         (265 done, 4 failed | ETA: 44min)    [271/941] Fetching: AQR Capital Management              (266 done, 4 failed | ETA: 44min)    [272/941] Fetching: Mercari                             (267 done, 4 failed | ETA: 43min)    [273/941] Fetching: GoDaddy                             (268 done, 4 failed | ETA: 43min)    [274/941] Fetching: Groww                               (269 done, 4 failed | ETA: 43min)    [275/941] Fetching: Nykaa                               (270 done, 4 failed | ETA: 43min)  
+  [Rate Limit] Batch 5 done (125 companies). Cooling 16s...
+  [276/941] Fetching: MindTree                            (271 done, 4 failed | ETA: 44min)    [277/941] Fetching: Lowe's                              (272 done, 4 failed | ETA: 43min)    [278/941] Fetching: Gameskraft                          (273 done, 4 failed | ETA: 43min)    [279/941] Fetching: Amdocs                              (274 done, 4 failed | ETA: 43min)    [280/941] Fetching: Commvault                           (275 done, 4 failed | ETA: 43min)    [281/941] Fetching: Wish                                (276 done, 4 failed | ETA: 43min)    [282/941] Fetching: Hulu                                (277 done, 4 failed | ETA: 43min)    [283/941] Fetching: opentext                            (278 done, 4 failed | ETA: 42min)    [284/941] Fetching: HTC                                 (279 done, 4 failed | ETA: 42min)    [285/941] Fetching: Cashfree                            (279 done, 5 failed | ETA: 42min)    [286/941] Fetching: Hive                                (280 done, 5 failed | ETA: 42min)    [287/941] Fetching: Aon                                 (281 done, 5 failed | ETA: 42min)    [288/941] Fetching: EarnIn                              (282 done, 5 failed | ETA: 42min)  
+[API] EarnIn               reports totalNum=3906, page1=50 fetched=3906
+  [289/941] Fetching: GSN Games                           (283 done, 5 failed | ETA: 45min)    [290/941] Fetching: Gojek                               (284 done, 5 failed | ETA: 45min)  
+[API] Gojek                reports totalNum=3906, page1=50 fetched=3906
+  [291/941] Fetching: Cohesity                            (285 done, 5 failed | ETA: 47min)    [292/941] Fetching: Jump Trading                        (286 done, 5 failed | ETA: 47min)    [293/941] Fetching: Zoom                                (287 done, 5 failed | ETA: 47min)    [294/941] Fetching: Fidelity                            (288 done, 5 failed | ETA: 47min)    [295/941] Fetching: DRW                                 (289 done, 5 failed | ETA: 47min)    [296/941] Fetching: Asana                               (290 done, 5 failed | ETA: 47min)    [297/941] Fetching: Pwc                                 (291 done, 5 failed | ETA: 46min)    [298/941] Fetching: Riot Games                          (292 done, 5 failed | ETA: 46min)    [299/941] Fetching: Veeva Systems                       (293 done, 5 failed | ETA: 46min)    [300/941] Fetching: Cloudera                            (294 done, 5 failed | ETA: 46min)  
+  [Rate Limit] Batch 6 done (150 companies). Cooling 18s...
+  [301/941] Fetching: Niantic                             (295 done, 5 failed | ETA: 46min)    [302/941] Fetching: WorldQuant                          (296 done, 5 failed | ETA: 46min)    [303/941] Fetching: Sony                                (297 done, 5 failed | ETA: 46min)    [304/941] Fetching: Patreon                             (298 done, 5 failed | ETA: 46min)    [305/941] Fetching: HP                                  (299 done, 5 failed | ETA: 46min)    [306/941] Fetching: FactSet                             (299 done, 6 failed | ETA: 46min)    [307/941] Fetching: Nextdoor                            (300 done, 6 failed | ETA: 46min)    [308/941] Fetching: Fortinet                            (301 done, 6 failed | ETA: 45min)    [309/941] Fetching: Texas Instruments                   (302 done, 6 failed | ETA: 45min)    [310/941] Fetching: Honeywell                           (303 done, 6 failed | ETA: 45min)    [311/941] Fetching: Innovaccer                          (304 done, 6 failed | ETA: 45min)    [312/941] Fetching: Pony.ai                             (304 done, 7 failed | ETA: 45min)    [313/941] Fetching: UBS                                 (305 done, 7 failed | ETA: 45min)    [314/941] Fetching: Poshmark                            (306 done, 7 failed | ETA: 45min)    [315/941] Fetching: Valve                               (307 done, 7 failed | ETA: 44min)    [316/941] Fetching: CoinDCX                             (308 done, 7 failed | ETA: 44min)    [317/941] Fetching: KLA Tencor                          (309 done, 7 failed | ETA: 44min)    [318/941] Fetching: Zalando                             (310 done, 7 failed | ETA: 44min)    [319/941] Fetching: Mindtickle                          (311 done, 7 failed | ETA: 44min)    [320/941] Fetching: Airbus SE                           (312 done, 7 failed | ETA: 44min)    [321/941] Fetching: Altimetrik                          (313 done, 7 failed | ETA: 43min)    [322/941] Fetching: Works Applications                  (314 done, 7 failed | ETA: 43min)    [323/941] Fetching: TuSimple                            (315 done, 7 failed | ETA: 43min)    [324/941] Fetching: Delhivery                           (316 done, 7 failed | ETA: 43min)    [325/941] Fetching: Otter.ai                            (317 done, 7 failed | ETA: 43min)  
+[API] Otter.ai             reports totalNum=3906, page1=50 fetched=3906
+
+  [Rate Limit] Batch 7 done (175 companies). Cooling 16s...
+  [326/941] Fetching: Chubb                               (318 done, 7 failed | ETA: 46min)  
+[API] Chubb                reports totalNum=3906, page1=50 fetched=3906
+  [327/941] Fetching: NCR                                 (319 done, 7 failed | ETA: 48min)    [328/941] Fetching: DevRev                              (320 done, 7 failed | ETA: 48min)  
+[API] DevRev               reports totalNum=3906, page1=50 fetched=3906
+  [329/941] Fetching: ThousandEyes                        (321 done, 7 failed | ETA: 51min)    [330/941] Fetching: Wise                                (322 done, 7 failed | ETA: 51min)  
+[API] Wise                 reports totalNum=3906, page1=50 fetched=3906
+  [331/941] Fetching: ZipRecruiter                        (323 done, 7 failed | ETA: 53min)  
+[API] ZipRecruiter         reports totalNum=3906, page1=50 fetched=3906
+  [332/941] Fetching: Acko                                (324 done, 7 failed | ETA: 55min)    [333/941] Fetching: ZIP                                 (325 done, 7 failed | ETA: 55min)  
+[API] ZIP                  reports totalNum=3906, page1=50 fetched=3906
+  [334/941] Fetching: micro1                              (326 done, 7 failed | ETA: 58min)  
+[API] micro1               reports totalNum=3906, page1=50 fetched=3906
+  [335/941] Fetching: Anthropic                           (327 done, 7 failed | ETA: 60min)  
+[API] Anthropic            reports totalNum=3906, page1=50 fetched=3906
+  [336/941] Fetching: Liftoff                             (328 done, 7 failed | ETA: 62min)  
+[API] Liftoff              reports totalNum=3906, page1=50 fetched=3906
+  [337/941] Fetching: TomTom                              (329 done, 7 failed | ETA: 64min)  
+[API] TomTom               reports totalNum=3906, page1=50 fetched=3906
+  [338/941] Fetching: Trexquant                           (330 done, 7 failed | ETA: 66min)  
+[API] Trexquant            reports totalNum=3906, page1=50 fetched=3906
+  [339/941] Fetching: Harness                             (331 done, 7 failed | ETA: 68min)  
+[API] Harness              reports totalNum=3906, page1=50 fetched=3906
+  [340/941] Fetching: Tech Mahindra                       (332 done, 7 failed | ETA: 71min)  
+[API] Tech Mahindra        reports totalNum=3906, page1=50 fetched=3906
+  [341/941] Fetching: Chime                               (333 done, 7 failed | ETA: 72min)    [342/941] Fetching: HPE                                 (334 done, 7 failed | ETA: 72min)    [343/941] Fetching: Tower Research Capital              (335 done, 7 failed | ETA: 72min)    [344/941] Fetching: Tiger Analytics                     (336 done, 7 failed | ETA: 72min)    [345/941] Fetching: Teradata                            (337 done, 7 failed | ETA: 71min)    [346/941] Fetching: Navi                                (338 done, 7 failed | ETA: 71min)    [347/941] Fetching: Oscar Health                        (339 done, 7 failed | ETA: 71min)    [348/941] Fetching: Boeing                              (340 done, 7 failed | ETA: 71min)    [349/941] Fetching: KPMG                                (341 done, 7 failed | ETA: 70min)    [350/941] Fetching: Sumo Logic                          (342 done, 7 failed | ETA: 70min)  
+  [Rate Limit] Batch 8 done (200 companies). Cooling 18s...
+  [351/941] Fetching: GE Healthcare                       (343 done, 7 failed | ETA: 70min)    [352/941] Fetching: Societe Generale                    (344 done, 7 failed | ETA: 70min)    [353/941] Fetching: Canonical                           (345 done, 7 failed | ETA: 70min)    [354/941] Fetching: Ericsson                            (346 done, 7 failed | ETA: 69min)    [355/941] Fetching: AppFolio                            (347 done, 7 failed | ETA: 69min)    [356/941] Fetching: HiLabs                              (348 done, 7 failed | ETA: 69min)    [357/941] Fetching: fourkites                           (349 done, 7 failed | ETA: 69min)    [358/941] Fetching: PubMatic                            (350 done, 7 failed | ETA: 68min)    [359/941] Fetching: ADP                                 (351 done, 7 failed | ETA: 68min)    [360/941] Fetching: LINE                                (352 done, 7 failed | ETA: 68min)    [361/941] Fetching: Activision                          (353 done, 7 failed | ETA: 68min)    [362/941] Fetching: GE Digital                          (354 done, 7 failed | ETA: 67min)    [363/941] Fetching: carwale                             (355 done, 7 failed | ETA: 67min)    [364/941] Fetching: Freecharge                          (355 done, 8 failed | ETA: 67min)    [365/941] Fetching: SoundHound                          (356 done, 8 failed | ETA: 67min)    [366/941] Fetching: Gartner                             (357 done, 8 failed | ETA: 66min)    [367/941] Fetching: Informatica                         (357 done, 9 failed | ETA: 66min)    [368/941] Fetching: Postmates                           (358 done, 9 failed | ETA: 66min)    [369/941] Fetching: Clari                               (359 done, 9 failed | ETA: 66min)    [370/941] Fetching: DeltaX                              (360 done, 9 failed | ETA: 66min)  
+[API] DeltaX               reports totalNum=3906, page1=50 fetched=3906
+  [371/941] Fetching: StackAdapt                          (361 done, 9 failed | ETA: 67min)  
+[API] StackAdapt           reports totalNum=3906, page1=50 fetched=3906
+  [372/941] Fetching: NatWest                             (362 done, 9 failed | ETA: 69min)  
+[API] NatWest              reports totalNum=3906, page1=50 fetched=3906
+  [373/941] Fetching: BuyHatke                            (363 done, 9 failed | ETA: 71min)    [374/941] Fetching: Kickdrum                            (364 done, 9 failed | ETA: 71min)  
+[API] Kickdrum             reports totalNum=3906, page1=50 fetched=3906
+  [375/941] Fetching: instabase                           (365 done, 9 failed | ETA: 72min)  
+  [Rate Limit] Batch 9 done (225 companies). Cooling 18s...
+  [376/941] Fetching: CARS24                              (366 done, 9 failed | ETA: 73min)  
+[API] CARS24               reports totalNum=3906, page1=50 fetched=3906
+  [377/941] Fetching: Navan                               (367 done, 9 failed | ETA: 74min)  
+[API] Navan                reports totalNum=3906, page1=50 fetched=3906
+  [378/941] Fetching: Cyntexa                             (368 done, 9 failed | ETA: 77min)  
+[API] Cyntexa              reports totalNum=3906, page1=50 fetched=3906
+  [379/941] Fetching: Blend                               (369 done, 9 failed | ETA: 79min)    [380/941] Fetching: Dialpad                             (369 done, 10 failed | ETA: 79min)    [381/941] Fetching: Apollo.io                           (369 done, 11 failed | ETA: 79min)  
+[API] Apollo.io            reports totalNum=3906, page1=50 fetched=3906
+  [382/941] Fetching: Ramp                                (370 done, 11 failed | ETA: 81min)  
+[API] Ramp                 reports totalNum=3906, page1=50 fetched=3906
+  [383/941] Fetching: CME Group                           (371 done, 11 failed | ETA: 83min)  
+[API] CME Group            reports totalNum=3906, page1=50 fetched=3906
+  [384/941] Fetching: Zillow                              (372 done, 11 failed | ETA: 85min)    [385/941] Fetching: Cruise                              (372 done, 12 failed | ETA: 85min)    [386/941] Fetching: McKinsey                            (373 done, 12 failed | ETA: 85min)    [387/941] Fetching: Electronic Arts                     (374 done, 12 failed | ETA: 84min)    [388/941] Fetching: Redfin                              (374 done, 13 failed | ETA: 84min)    [389/941] Fetching: F5                                  (375 done, 13 failed | ETA: 84min)    [390/941] Fetching: Bank of America                     (376 done, 13 failed | ETA: 84min)    [391/941] Fetching: Synopsys                            (377 done, 13 failed | ETA: 83min)    [392/941] Fetching: RBC                                 (378 done, 13 failed | ETA: 83min)    [393/941] Fetching: Unity                               (379 done, 13 failed | ETA: 83min)    [394/941] Fetching: Tesco                               (379 done, 14 failed | ETA: 83min)    [395/941] Fetching: Tinder                              (380 done, 14 failed | ETA: 82min)    [396/941] Fetching: Toptal                              (381 done, 14 failed | ETA: 82min)    [397/941] Fetching: Plaid                               (382 done, 14 failed | ETA: 82min)    [398/941] Fetching: Amadeus                             (382 done, 15 failed | ETA: 81min)    [399/941] Fetching: Zendesk                             (383 done, 15 failed | ETA: 81min)    [400/941] Fetching: observe.ai                          (384 done, 15 failed | ETA: 81min)  
+  [Rate Limit] Batch 10 done (250 companies). Cooling 18s...
+  [401/941] Fetching: Pure                                (385 done, 15 failed | ETA: 81min)    [402/941] Fetching: Thomson Reuters                     (385 done, 16 failed | ETA: 81min)    [403/941] Fetching: Quince                              (386 done, 16 failed | ETA: 80min)    [404/941] Fetching: Moengage                            (387 done, 16 failed | ETA: 80min)    [405/941] Fetching: Kakao                               (388 done, 16 failed | ETA: 80min)    [406/941] Fetching: BlackStone                          (389 done, 16 failed | ETA: 80min)    [407/941] Fetching: Starbucks                           (390 done, 16 failed | ETA: 79min)    [408/941] Fetching: Zynga                               (390 done, 17 failed | ETA: 79min)    [409/941] Fetching: FPT                                 (391 done, 17 failed | ETA: 79min)    [410/941] Fetching: Philips                             (392 done, 17 failed | ETA: 79min)    [411/941] Fetching: Peloton                             (392 done, 18 failed | ETA: 78min)    [412/941] Fetching: Argo AI                             (393 done, 18 failed | ETA: 78min)    [413/941] Fetching: redbus                              (393 done, 19 failed | ETA: 78min)    [414/941] Fetching: Softwire                            (394 done, 19 failed | ETA: 78min)    [415/941] Fetching: Braze                               (395 done, 19 failed | ETA: 77min)    [416/941] Fetching: Viasat                              (395 done, 20 failed | ETA: 77min)    [417/941] Fetching: CVENT                               (395 done, 21 failed | ETA: 77min)    [418/941] Fetching: CRED                                (395 done, 22 failed | ETA: 77min)    [419/941] Fetching: Snapdeal                            (395 done, 23 failed | ETA: 77min)    [420/941] Fetching: Houzz                               (396 done, 23 failed | ETA: 77min)    [421/941] Fetching: Groupon                             (397 done, 23 failed | ETA: 76min)    [422/941] Fetching: Bridgewater Associates              (398 done, 23 failed | ETA: 76min)    [423/941] Fetching: NetEase                             (399 done, 23 failed | ETA: 76min)    [424/941] Fetching: AppDynamics                         (400 done, 23 failed | ETA: 76min)    [425/941] Fetching: ShareChat                           (401 done, 23 failed | ETA: 75min)  
+  [Rate Limit] Batch 11 done (275 companies). Cooling 18s...
+  [426/941] Fetching: Zulily                              (402 done, 23 failed | ETA: 75min)    [427/941] Fetching: Garena                              (402 done, 24 failed | ETA: 75min)    [428/941] Fetching: Dataminr                            (403 done, 24 failed | ETA: 75min)    [429/941] Fetching: Zeta Suite                          (404 done, 24 failed | ETA: 75min)    [430/941] Fetching: ciena                               (405 done, 24 failed | ETA: 74min)    [431/941] Fetching: OLX                                 (405 done, 25 failed | ETA: 74min)    [432/941] Fetching: smartnews                           (405 done, 26 failed | ETA: 74min)    [433/941] Fetching: Odoo                                (406 done, 26 failed | ETA: 74min)  
+[API] Odoo                 reports totalNum=3906, page1=50 fetched=3906
+  [434/941] Fetching: Netsuite                            (407 done, 26 failed | ETA: 76min)    [435/941] Fetching: Machine Zone                        (408 done, 26 failed | ETA: 75min)    [436/941] Fetching: OKX                                 (409 done, 26 failed | ETA: 75min)  
+[API] OKX                  reports totalNum=3906, page1=50 fetched=3906
+  [437/941] Fetching: Gopuff                              (410 done, 26 failed | ETA: 76min)    [438/941] Fetching: Grubhub                             (410 done, 27 failed | ETA: 76min)    [439/941] Fetching: Luxoft                              (411 done, 27 failed | ETA: 76min)    [440/941] Fetching: park+                               (411 done, 28 failed | ETA: 76min)  
+[API] park+                reports totalNum=3906, page1=50 fetched=3906
+  [441/941] Fetching: Kotak Mahindra Bank                 (412 done, 28 failed | ETA: 77min)  
+[API] Kotak Mahindra Bank  reports totalNum=3906, page1=50 fetched=3906
+  [442/941] Fetching: McDonalds                           (413 done, 28 failed | ETA: 79min)    [443/941] Fetching: Turvo                               (414 done, 28 failed | ETA: 79min)    [444/941] Fetching: Canva                               (415 done, 28 failed | ETA: 78min)  
+[API] Canva                reports totalNum=3906, page1=50 fetched=3906
+  [445/941] Fetching: Quantiphi                           (416 done, 28 failed | ETA: 80min)  
+[API] Quantiphi            reports totalNum=3906, page1=50 fetched=3906
+  [446/941] Fetching: Exl                                 (417 done, 28 failed | ETA: 81min)  
+[API] Exl                  reports totalNum=3906, page1=50 fetched=3906
+  [447/941] Fetching: fivetran                            (418 done, 28 failed | ETA: 83min)  
+[API] fivetran             reports totalNum=3906, page1=50 fetched=3906
+  [448/941] Fetching: scaler                              (419 done, 28 failed | ETA: 84min)  
+[API] scaler               reports totalNum=3906, page1=50 fetched=3906
+  [449/941] Fetching: Porter                              (420 done, 28 failed | ETA: 85min)  
+[API] Porter               reports totalNum=3906, page1=50 fetched=3906
+  [450/941] Fetching: Mobileye                            (421 done, 28 failed | ETA: 87min)  
+[API] Mobileye             reports totalNum=3906, page1=50 fetched=3906
+
+  [Rate Limit] Batch 12 done (300 companies). Cooling 15s...
+  [451/941] Fetching: Livspace                            (422 done, 28 failed | ETA: 88min)    [452/941] Fetching: BlackBuck                           (422 done, 29 failed | ETA: 88min)  
+[API] BlackBuck            reports totalNum=3906, page1=50 fetched=3906
+  [453/941] Fetching: OPPO                                (423 done, 29 failed | ETA: 89min)    [454/941] Fetching: BP                                  (423 done, 30 failed | ETA: 89min)  
+[API] BP                   reports totalNum=3906, page1=50 fetched=3906
+  [455/941] Fetching: Yugabyte                            (424 done, 30 failed | ETA: 90min)  
+[API] Yugabyte             reports totalNum=3906, page1=50 fetched=3906
+  [456/941] Fetching: National Payments Corporation of India (425 done, 30 failed | ETA: 91min)    [457/941] Fetching: Fanatics                            (426 done, 30 failed | ETA: 91min)  
+[API] Fanatics             reports totalNum=3906, page1=50 fetched=3906
+  [458/941] Fetching: Wissen Technology                   (427 done, 30 failed | ETA: 92min)  
+[API] Wissen Technology    reports totalNum=3906, page1=50 fetched=3906
+  [459/941] Fetching: glovo                               (428 done, 30 failed | ETA: 93min)  
+[API] glovo                reports totalNum=3906, page1=50 fetched=3906
+  [460/941] Fetching: Scale AI                            (429 done, 30 failed | ETA: 94min)  
+[API] Scale AI             reports totalNum=3906, page1=50 fetched=3906
+  [461/941] Fetching: Analytics quotient                  (430 done, 30 failed | ETA: 95min)    [462/941] Fetching: Mixpanel                            (431 done, 30 failed | ETA: 95min)  
+[API] Mixpanel             reports totalNum=3906, page1=50 fetched=3906
+  [463/941] Fetching: Cerner                              (432 done, 30 failed | ETA: 96min)    [464/941] Fetching: Blue Origin                         (432 done, 31 failed | ETA: 96min)  
+[API] Blue Origin          reports totalNum=3906, page1=50 fetched=3906
+  [465/941] Fetching: Zemoso                              (433 done, 31 failed | ETA: 97min)  
+[API] Zemoso               reports totalNum=3906, page1=50 fetched=3906
+  [466/941] Fetching: Fiverr                              (434 done, 31 failed | ETA: 98min)  
+[API] Fiverr               reports totalNum=3906, page1=50 fetched=3906
+  [467/941] Fetching: Broadcom                            (435 done, 31 failed | ETA: 99min)  
+[API] Broadcom             reports totalNum=3906, page1=50 fetched=3906
+  [468/941] Fetching: IVP                                 (436 done, 31 failed | ETA: 100min)  
+[API] IVP                  reports totalNum=3906, page1=50 fetched=3906
+  [469/941] Fetching: Paycom                              (437 done, 31 failed | ETA: 101min)  
+[API] Paycom               reports totalNum=3906, page1=50 fetched=3906
+  [470/941] Fetching: Circle                              (438 done, 31 failed | ETA: 102min)  
+[API] Circle               reports totalNum=3906, page1=50 fetched=3906
+  [471/941] Fetching: NewsBreak                           (439 done, 31 failed | ETA: 103min)  
+[API] NewsBreak            reports totalNum=3906, page1=50 fetched=3906
+  [472/941] Fetching: Larsen & Toubro                     (440 done, 31 failed | ETA: 104min)    [473/941] Fetching: GSA Capital                         (441 done, 31 failed | ETA: 103min)  
+[API] GSA Capital          reports totalNum=3906, page1=50 fetched=3906
+  [474/941] Fetching: Bending Spoons                      (442 done, 31 failed | ETA: 104min)  
+[API] Bending Spoons       reports totalNum=3906, page1=50 fetched=3906
+  [475/941] Fetching: Tanium                              (443 done, 31 failed | ETA: 105min)  
+[API] Tanium               reports totalNum=3906, page1=50 fetched=3906
+
+  [Rate Limit] Batch 13 done (325 companies). Cooling 19s...
+  [476/941] Fetching: Zluri                               (444 done, 31 failed | ETA: 106min)    [477/941] Fetching: Flexera                             (445 done, 31 failed | ETA: 106min)    [478/941] Fetching: Marqeta                             (446 done, 31 failed | ETA: 105min)  
+[API] Marqeta              reports totalNum=3906, page1=50 fetched=3906
+  [479/941] Fetching: Shift Technology                    (447 done, 31 failed | ETA: 106min)  
+[API] Shift Technology     reports totalNum=3906, page1=50 fetched=3906
+  [480/941] Fetching: Stackline                           (448 done, 31 failed | ETA: 107min)  
+[API] Stackline            reports totalNum=3906, page1=50 fetched=3906
+  [481/941] Fetching: Envoy                               (449 done, 31 failed | ETA: 108min)  
+[API] Envoy                reports totalNum=3906, page1=50 fetched=3906
+  [482/941] Fetching: Sentry                              (450 done, 31 failed | ETA: 108min)  
+[API] Sentry               reports totalNum=3906, page1=50 fetched=3906
+  [483/941] Fetching: SingleStore                         (451 done, 31 failed | ETA: 109min)  
+[API] SingleStore          reports totalNum=3906, page1=50 fetched=3906
+  [484/941] Fetching: Cockroach Labs                      (452 done, 31 failed | ETA: 110min)  
+[API] Cockroach Labs       reports totalNum=3906, page1=50 fetched=3906
+  [485/941] Fetching: GlobalLogic                         (453 done, 31 failed | ETA: 111min)  
+[API] GlobalLogic          reports totalNum=3906, page1=50 fetched=3906
+  [486/941] Fetching: peak6                               (454 done, 31 failed | ETA: 112min)  
+[API] peak6                reports totalNum=3906, page1=50 fetched=3906
+  [487/941] Fetching: Coveo                               (455 done, 31 failed | ETA: 113min)  
+[API] Coveo                reports totalNum=3906, page1=50 fetched=3906
+  [488/941] Fetching: CTC Global Sdn Bhd                  (456 done, 31 failed | ETA: 113min)    [489/941] Fetching: DiDi                                (457 done, 31 failed | ETA: 113min)    [490/941] Fetching: Wealthfront                         (457 done, 32 failed | ETA: 113min)    [491/941] Fetching: Hotstar                             (458 done, 32 failed | ETA: 112min)    [492/941] Fetching: Wayve                               (459 done, 32 failed | ETA: 112min)    [493/941] Fetching: Discord                             (460 done, 32 failed | ETA: 111min)    [494/941] Fetching: Slice                               (461 done, 32 failed | ETA: 111min)    [495/941] Fetching: Thumbtack                           (462 done, 32 failed | ETA: 110min)    [496/941] Fetching: Smartsheet                          (463 done, 32 failed | ETA: 110min)    [497/941] Fetching: Cleartrip                           (463 done, 33 failed | ETA: 110min)    [498/941] Fetching: MSCI                                (463 done, 34 failed | ETA: 109min)    [499/941] Fetching: National Instruments                (464 done, 34 failed | ETA: 109min)    [500/941] Fetching: Western Digital                     (465 done, 34 failed | ETA: 109min)  
+  [Rate Limit] Batch 14 done (350 companies). Cooling 16s...
+  [501/941] Fetching: Caterpillar                         (466 done, 34 failed | ETA: 108min)    [502/941] Fetching: ForUsAll                            (466 done, 35 failed | ETA: 108min)    [503/941] Fetching: Bloomreach                          (467 done, 35 failed | ETA: 108min)    [504/941] Fetching: JD.com                              (468 done, 35 failed | ETA: 107min)    [505/941] Fetching: Tableau                             (468 done, 36 failed | ETA: 107min)    [506/941] Fetching: Hopper                              (468 done, 37 failed | ETA: 107min)    [507/941] Fetching: Discovery                           (468 done, 38 failed | ETA: 107min)    [508/941] Fetching: Etsy                                (468 done, 39 failed | ETA: 106min)    [509/941] Fetching: Naver                               (468 done, 40 failed | ETA: 106min)    [510/941] Fetching: SOTI                                (469 done, 40 failed | ETA: 106min)    [511/941] Fetching: CureFit                             (470 done, 40 failed | ETA: 105min)    [512/941] Fetching: IIT Bombay                          (471 done, 40 failed | ETA: 105min)    [513/941] Fetching: JTG                                 (472 done, 40 failed | ETA: 104min)    [514/941] Fetching: Whatfix                             (473 done, 40 failed | ETA: 104min)    [515/941] Fetching: Schlumberger                        (474 done, 40 failed | ETA: 104min)    [516/941] Fetching: Lenskart                            (474 done, 41 failed | ETA: 103min)    [517/941] Fetching: Aetion                              (474 done, 42 failed | ETA: 103min)    [518/941] Fetching: Alphonso                            (475 done, 42 failed | ETA: 103min)    [519/941] Fetching: GainSight                           (476 done, 42 failed | ETA: 102min)    [520/941] Fetching: McAfee                              (476 done, 43 failed | ETA: 102min)    [521/941] Fetching: Strava                              (476 done, 44 failed | ETA: 102min)    [522/941] Fetching: HBO                                 (477 done, 44 failed | ETA: 101min)    [523/941] Fetching: PayU                                (477 done, 45 failed | ETA: 101min)    [524/941] Fetching: Meituan                             (478 done, 45 failed | ETA: 101min)    [525/941] Fetching: Zappos                              (479 done, 45 failed | ETA: 100min)  
+  [Rate Limit] Batch 15 done (375 companies). Cooling 17s...
+  [526/941] Fetching: Symantec                            (480 done, 45 failed | ETA: 100min)    [527/941] Fetching: Quantcast                           (480 done, 46 failed | ETA: 100min)    [528/941] Fetching: 1Kosmos                             (480 done, 47 failed | ETA: 100min)    [529/941] Fetching: Drawbridge                          (481 done, 47 failed | ETA: 99min)    [530/941] Fetching: Veritas                             (482 done, 47 failed | ETA: 99min)    [531/941] Fetching: TripleByte                          (483 done, 47 failed | ETA: 98min)    [532/941] Fetching: EY                                  (484 done, 47 failed | ETA: 98min)  
+[API] EY                   reports totalNum=3906, page1=50 fetched=3906
+  [533/941] Fetching: Druva                               (485 done, 47 failed | ETA: 99min)    [534/941] Fetching: Increff                             (486 done, 47 failed | ETA: 98min)    [535/941] Fetching: Gilt Groupe                         (487 done, 47 failed | ETA: 98min)    [536/941] Fetching: Chargebee                           (488 done, 47 failed | ETA: 97min)    [537/941] Fetching: Avalara                             (488 done, 48 failed | ETA: 97min)    [538/941] Fetching: epiFi                               (489 done, 48 failed | ETA: 97min)  
+[API] epiFi                reports totalNum=3906, page1=50 fetched=3906
+  [539/941] Fetching: Fallible                            (490 done, 48 failed | ETA: 97min)    [540/941] Fetching: Rackspace                           (491 done, 48 failed | ETA: 97min)    [541/941] Fetching: MoneyLion                           (492 done, 48 failed | ETA: 96min)    [542/941] Fetching: Yext                                (493 done, 48 failed | ETA: 96min)    [543/941] Fetching: tokopedia                           (493 done, 49 failed | ETA: 96min)    [544/941] Fetching: Helix                               (493 done, 50 failed | ETA: 96min)    [545/941] Fetching: UST                                 (494 done, 50 failed | ETA: 95min)  
+[API] UST                  reports totalNum=3906, page1=50 fetched=3906
+  [546/941] Fetching: Yatra                               (495 done, 50 failed | ETA: 96min)    [547/941] Fetching: Airwallex                           (496 done, 50 failed | ETA: 95min)  
+[API] Airwallex            reports totalNum=3906, page1=50 fetched=3906
+  [548/941] Fetching: General Electric                    (497 done, 50 failed | ETA: 96min)    [549/941] Fetching: Code Studio                         (498 done, 50 failed | ETA: 96min)    [550/941] Fetching: PlaySimple                          (499 done, 50 failed | ETA: 95min)  
+[API] PlaySimple           reports totalNum=3906, page1=50 fetched=3906
+
+  [Rate Limit] Batch 16 done (400 companies). Cooling 16s...
+  [551/941] Fetching: GlassDoor                           (500 done, 50 failed | ETA: 96min)    [552/941] Fetching: Jingchi                             (500 done, 51 failed | ETA: 96min)    [553/941] Fetching: BNP Paribas                         (501 done, 51 failed | ETA: 95min)  
+[API] BNP Paribas          reports totalNum=3906, page1=50 fetched=3906
+  [554/941] Fetching: Ixigo                               (502 done, 51 failed | ETA: 96min)  
+[API] Ixigo                reports totalNum=3906, page1=50 fetched=3906
+  [555/941] Fetching: Poynt                               (503 done, 51 failed | ETA: 96min)    [556/941] Fetching: Flatiron Health                     (504 done, 51 failed | ETA: 96min)    [557/941] Fetching: Syfe                                (505 done, 51 failed | ETA: 95min)  
+[API] Syfe                 reports totalNum=3906, page1=50 fetched=3906
+  [558/941] Fetching: WinZO                               (506 done, 51 failed | ETA: 96min)  
+[API] WinZO                reports totalNum=3906, page1=50 fetched=3906
+  [559/941] Fetching: GoTo                                (507 done, 51 failed | ETA: 96min)    [560/941] Fetching: FAST                                (507 done, 52 failed | ETA: 96min)    [561/941] Fetching: Affinity                            (507 done, 53 failed | ETA: 96min)    [562/941] Fetching: Noon                                (508 done, 53 failed | ETA: 95min)  
+[API] Noon                 reports totalNum=3906, page1=50 fetched=3906
+  [563/941] Fetching: TripActions                         (509 done, 53 failed | ETA: 96min)    [564/941] Fetching: Fleetx                              (509 done, 54 failed | ETA: 96min)    [565/941] Fetching: Accelya                             (510 done, 54 failed | ETA: 95min)    [566/941] Fetching: Ultraleap                           (511 done, 54 failed | ETA: 95min)    [567/941] Fetching: Radius                              (512 done, 54 failed | ETA: 94min)    [568/941] Fetching: Impetus                             (513 done, 54 failed | ETA: 94min)  
+[API] Impetus              reports totalNum=3906, page1=50 fetched=3906
+  [569/941] Fetching: SIXT                                (514 done, 54 failed | ETA: 94min)  
+[API] SIXT                 reports totalNum=3906, page1=50 fetched=3906
+  [570/941] Fetching: Maersk                              (515 done, 54 failed | ETA: 95min)  
+[API] Maersk               reports totalNum=3906, page1=50 fetched=3906
+  [571/941] Fetching: fynd                                (516 done, 54 failed | ETA: 95min)  
+[API] fynd                 reports totalNum=3906, page1=50 fetched=3906
+  [572/941] Fetching: Reliance Retails                    (517 done, 54 failed | ETA: 96min)    [573/941] Fetching: CoinSwitch                          (517 done, 55 failed | ETA: 95min)    [574/941] Fetching: Nasdaq                              (517 done, 56 failed | ETA: 95min)  
+[API] Nasdaq               reports totalNum=3906, page1=50 fetched=3906
+  [575/941] Fetching: TIAA                                (518 done, 56 failed | ETA: 95min)  
+  [Rate Limit] Batch 17 done (425 companies). Cooling 16s...
+  [576/941] Fetching: Shipsy                              (519 done, 56 failed | ETA: 95min)  
+[API] Shipsy               reports totalNum=3906, page1=50 fetched=3906
+  [577/941] Fetching: Mphasis                             (520 done, 56 failed | ETA: 96min)  
+[API] Mphasis              reports totalNum=3906, page1=50 fetched=3906
+  [578/941] Fetching: chalo                               (521 done, 56 failed | ETA: 96min)  
+[API] chalo                reports totalNum=3906, page1=50 fetched=3906
+  [579/941] Fetching: Highspot                            (522 done, 56 failed | ETA: 96min)  
+[API] Highspot             reports totalNum=3906, page1=50 fetched=3906
+  [580/941] Fetching: Cyware                              (523 done, 56 failed | ETA: 97min)  
+[API] Cyware               reports totalNum=3906, page1=50 fetched=3906
+  [581/941] Fetching: Murex                               (524 done, 56 failed | ETA: 97min)  
+[API] Murex                reports totalNum=3906, page1=50 fetched=3906
+  [582/941] Fetching: Qualys                              (525 done, 56 failed | ETA: 97min)  
+[API] Qualys               reports totalNum=3906, page1=50 fetched=3906
+  [583/941] Fetching: DailyHunt                           (526 done, 56 failed | ETA: 98min)    [584/941] Fetching: Interactive Brokers                 (527 done, 56 failed | ETA: 97min)  
+[API] Interactive Brokers  reports totalNum=3906, page1=50 fetched=3906
+  [585/941] Fetching: ShopUp                              (528 done, 56 failed | ETA: 98min)  
+[API] ShopUp               reports totalNum=3906, page1=50 fetched=3906
+  [586/941] Fetching: DTCC                                (529 done, 56 failed | ETA: 98min)    [587/941] Fetching: Purplle                             (530 done, 56 failed | ETA: 97min)    [588/941] Fetching: RetailMeNot                         (531 done, 56 failed | ETA: 97min)    [589/941] Fetching: KPIT                                (532 done, 56 failed | ETA: 97min)  
+[API] KPIT                 reports totalNum=3906, page1=50 fetched=3906
+  [590/941] Fetching: Check Point                         (533 done, 56 failed | ETA: 97min)  
+[API] Check Point          reports totalNum=3906, page1=50 fetched=3906
+  [591/941] Fetching: WatchGuard                          (534 done, 56 failed | ETA: 97min)  
+[API] WatchGuard           reports totalNum=3906, page1=50 fetched=3906
+  [592/941] Fetching: Trend Micro                         (535 done, 56 failed | ETA: 97min)  
+[API] Trend Micro          reports totalNum=3906, page1=50 fetched=3906
+  [593/941] Fetching: ShopBack                            (536 done, 56 failed | ETA: 98min)  
+[API] ShopBack             reports totalNum=3906, page1=50 fetched=3906
+  [594/941] Fetching: Pega                                (537 done, 56 failed | ETA: 98min)  
+[API] Pega                 reports totalNum=3906, page1=50 fetched=3906
+  [595/941] Fetching: Coditas                             (538 done, 56 failed | ETA: 98min)  
+[API] Coditas              reports totalNum=3906, page1=50 fetched=3906
+  [596/941] Fetching: Xing                                (539 done, 56 failed | ETA: 98min)    [597/941] Fetching: Fastenal                            (540 done, 56 failed | ETA: 98min)  
+[API] Fastenal             reports totalNum=3906, page1=50 fetched=3906
+  [598/941] Fetching: Unstop                              (541 done, 56 failed | ETA: 98min)    [599/941] Fetching: TA Digital                          (542 done, 56 failed | ETA: 98min)    [600/941] Fetching: Equinix                             (543 done, 56 failed | ETA: 97min)  
+[API] Equinix              reports totalNum=3906, page1=50 fetched=3906
+
+  [Rate Limit] Batch 18 done (450 companies). Cooling 18s...
+  [601/941] Fetching: NextJump                            (544 done, 56 failed | ETA: 98min)    [602/941] Fetching: BrowserStack                        (545 done, 56 failed | ETA: 97min)  
+[API] BrowserStack         reports totalNum=3906, page1=50 fetched=3906
+  [603/941] Fetching: DeepMind                            (546 done, 56 failed | ETA: 97min)  
+[API] DeepMind             reports totalNum=3906, page1=50 fetched=3906
+  [604/941] Fetching: Edelweiss Group                     (547 done, 56 failed | ETA: 98min)    [605/941] Fetching: Unbxd                               (548 done, 56 failed | ETA: 97min)    [606/941] Fetching: State Farm                          (549 done, 56 failed | ETA: 97min)  
+[API] State Farm           reports totalNum=3906, page1=50 fetched=3906
+  [607/941] Fetching: AllinCall                           (550 done, 56 failed | ETA: 97min)    [608/941] Fetching: Alten                               (551 done, 56 failed | ETA: 96min)  
+[API] Alten                reports totalNum=3906, page1=50 fetched=3906
+  [609/941] Fetching: Sonatus                             (552 done, 56 failed | ETA: 97min)  
+[API] Sonatus              reports totalNum=3906, page1=50 fetched=3906
+  [610/941] Fetching: Mobisy                              (553 done, 56 failed | ETA: 97min)    [611/941] Fetching: Axis Bank                           (554 done, 56 failed | ETA: 96min)  
+[API] Axis Bank            reports totalNum=3906, page1=50 fetched=3906
+  [612/941] Fetching: FactWise                            (555 done, 56 failed | ETA: 97min)  
+[API] FactWise             reports totalNum=3906, page1=50 fetched=3906
+  [613/941] Fetching: Notion                              (556 done, 56 failed | ETA: 97min)  
+[API] Notion               reports totalNum=3906, page1=50 fetched=3906
+  [614/941] Fetching: Woven by Toyota                     (557 done, 56 failed | ETA: 97min)  
+[API] Woven by Toyota      reports totalNum=3906, page1=50 fetched=3906
+  [615/941] Fetching: Figma                               (558 done, 56 failed | ETA: 97min)  
+[API] Figma                reports totalNum=3906, page1=50
+  [Unexpected Error] The read operation timed out
+ fetched=50
+  [616/941] Fetching: Andela                              (559 done, 56 failed | ETA: 97min)  
+  [Network Error] <urlopen error [Errno 8] nodename nor servname provided, or not known>. Retrying in 6s (1/3)...
+
+  [Network Error] <urlopen error [Errno 8] nodename nor servname provided, or not known>. Retrying in 10s (2/3)...
+
+  [Network Error] <urlopen error [Errno 8] nodename nor servname provided, or not known>. Retrying in 21s (3/3)...
+
+  [Network Error] <urlopen error [Errno 8] nodename nor servname provided, or not known> — giving up after 3 retries
+  [617/941] Fetching: DataArt                             (559 done, 57 failed | ETA: 97min)  
+  [Network Error] <urlopen error [Errno 8] nodename nor servname provided, or not known>. Retrying in 5s (1/3)...
+
+  [Network Error] <urlopen error [Errno 8] nodename nor servname provided, or not known>. Retrying in 13s (2/3)...
+
+  [Network Error] <urlopen error [Errno 8] nodename nor servname provided, or not known>. Retrying in 22s (3/3)...
+
+  [Network Error] <urlopen error [Errno 8] nodename nor servname provided, or not known> — giving up after 3 retries
+  [618/941] Fetching: Coupa                               (559 done, 58 failed | ETA: 97min)  
+  [Network Error] <urlopen error [Errno 8] nodename nor servname provided, or not known>. Retrying in 6s (1/3)...
+
+  [Network Error] <urlopen error [Errno 8] nodename nor servname provided, or not known>. Retrying in 11s (2/3)...
+
+  [Network Error] <urlopen error [Errno 8] nodename nor servname provided, or not known>. Retrying in 22s (3/3)...
+
+  [Network Error] <urlopen error [Errno 8] nodename nor servname provided, or not known> — giving up after 3 retries
+  [619/941] Fetching: Globant                             (559 done, 59 failed | ETA: 98min)  
+  [Network Error] <urlopen error [Errno 8] nodename nor servname provided, or not known>. Retrying in 6s (1/3)...
+
+  [Network Error] <urlopen error [Errno 8] nodename nor servname provided, or not known>. Retrying in 11s (2/3)...
+
+  [Network Error] <urlopen error [Errno 8] nodename nor servname provided, or not known>. Retrying in 20s (3/3)...
+
+  [Network Error] <urlopen error [Errno 8] nodename nor servname provided, or not known> — giving up after 3 retries
+  [620/941] Fetching: Auriga                              (559 done, 60 failed | ETA: 98min)  
+  [Network Error] <urlopen error [Errno 8] nodename nor servname provided, or not known>. Retrying in 7s (1/3)...
+
+  [Network Error] <urlopen error [Errno 8] nodename nor servname provided, or not known>. Retrying in 13s (2/3)...
+
+  [Network Error] <urlopen error [Errno 8] nodename nor servname provided, or not known>. Retrying in 21s (3/3)...
+
+  [Network Error] <urlopen error [Errno 8] nodename nor servname provided, or not known> — giving up after 3 retries
+  [621/941] Fetching: Pickrr                              (559 done, 61 failed | ETA: 98min)    [622/941] Fetching: MishiPay                            (560 done, 61 failed | ETA: 98min)    [623/941] Fetching: Impact Analytics                    (561 done, 61 failed | ETA: 97min)  
+[API] Impact Analytics     reports totalNum=3906, page1=50
+  [Network Error] <urlopen error [Errno 54] Connection reset by peer>. Retrying in 7s (1/3)...
+ fetched=3906
+  [624/941] Fetching: NPCI                                (562 done, 61 failed | ETA: 99min)  
+[API] NPCI                 reports totalNum=3906, page1=50 fetched=3906
+  [625/941] Fetching: BT Group                            (563 done, 61 failed | ETA: 99min)  
+  [Rate Limit] Batch 19 done (475 companies). Cooling 17s...
+  [626/941] Fetching: Zocdoc                              (564 done, 61 failed | ETA: 98min)  
+[API] Zocdoc               reports totalNum=3906, page1=50 fetched=3906
+  [627/941] Fetching: MachineZone                         (565 done, 61 failed | ETA: 99min)    [628/941] Fetching: Rally Health                        (566 done, 61 failed | ETA: 98min)    [629/941] Fetching: American Airlines                   (566 done, 62 failed | ETA: 98min)  
+[API] American Airlines    reports totalNum=3906, page1=50
+  [Unexpected Error] The read operation timed out
+ fetched=700
+  [630/941] Fetching: Epic Games                          (567 done, 62 failed | ETA: 98min)  
+[API] Epic Games           reports totalNum=3906, page1=50 fetched=3906
+  [631/941] Fetching: Justworks                           (568 done, 62 failed | ETA: 98min)  
+[API] Justworks            reports totalNum=3906, page1=50 fetched=3906
+  [632/941] Fetching: Schneider Electric                  (569 done, 62 failed | ETA: 99min)  
+[API] Schneider Electric   reports totalNum=3906, page1=50 fetched=3906
+  [633/941] Fetching: Ascend                              (570 done, 62 failed | ETA: 99min)    [634/941] Fetching: Jeavio                              (571 done, 62 failed | ETA: 98min)    [635/941] Fetching: Anyscale                            (572 done, 62 failed | ETA: 98min)  
+[API] Anyscale             reports totalNum=3906, page1=50 fetched=3906
+  [636/941] Fetching: Polar                               (573 done, 62 failed | ETA: 98min)    [637/941] Fetching: Tracxn                              (574 done, 62 failed | ETA: 98min)  
+[API] Tracxn               reports totalNum=3906, page1=50 fetched=3906
+  [638/941] Fetching: Fidessa                             (575 done, 62 failed | ETA: 98min)  
+[API] Fidessa              reports totalNum=3906, page1=50 fetched=3906
+  [639/941] Fetching: DJI                                 (576 done, 62 failed | ETA: 98min)  
+[API] DJI                  reports totalNum=3906, page1=50 fetched=3906
+  [640/941] Fetching: AppLovin                            (577 done, 62 failed | ETA: 98min)  
+[API] AppLovin             reports totalNum=3906, page1=50 fetched=3906
+  [641/941] Fetching: Lendingkart Technologies            (578 done, 62 failed | ETA: 98min)  
+[API] Lendingkart Technologies reports totalNum=3906, page1=50
+  [Network Error] <urlopen error [Errno 54] Connection reset by peer>. Retrying in 6s (1/3)...
+ fetched=3906
+  [642/941] Fetching: Amplitude                           (579 done, 62 failed | ETA: 99min)  
+[API] Amplitude            reports totalNum=3906, page1=50 fetched=3906
+  [643/941] Fetching: Intercom                            (580 done, 62 failed | ETA: 99min)  
+[API] Intercom             reports totalNum=3906, page1=50 fetched=3906
+  [644/941] Fetching: Ubisoft                             (581 done, 62 failed | ETA: 99min)  
+[API] Ubisoft              reports totalNum=3906, page1=50 fetched=3906
+  [645/941] Fetching: FICO                                (582 done, 62 failed | ETA: 99min)  
+[API] FICO                 reports totalNum=3906, page1=50
+  [Unexpected Error] The read operation timed out
+ fetched=100
+  [646/941] Fetching: Practo                              (583 done, 62 failed | ETA: 99min)  
+[API] Practo               reports totalNum=3906, page1=50 fetched=3906
+  [647/941] Fetching: myKaarma                            (584 done, 62 failed | ETA: 99min)  
+[API] myKaarma             reports totalNum=3906, page1=50 fetched=3906
+  [648/941] Fetching: SpaceX                              (585 done, 62 failed | ETA: 100min)  
+[API] SpaceX               reports totalNum=3906, page1=50 fetched=3906
+  [649/941] Fetching: lacework                            (586 done, 62 failed | ETA: 100min)  
+[API] lacework             reports totalNum=3906, page1=50 fetched=3906
+  [650/941] Fetching: NerdWallet                          (587 done, 62 failed | ETA: 100min)  
+[API] NerdWallet           reports totalNum=3906, page1=50 fetched=3906
+
+  [Rate Limit] Batch 20 done (500 companies). Cooling 17s...
+  [651/941] Fetching: Liberty Mutual                      (588 done, 62 failed | ETA: 100min)  
+[API] Liberty Mutual       reports totalNum=3906, page1=50 fetched=3906
+  [652/941] Fetching: Acorns                              (589 done, 62 failed | ETA: 101min)  
+[API] Acorns               reports totalNum=3906, page1=50 fetched=3906
+  [653/941] Fetching: PayPal Honey                        (590 done, 62 failed | ETA: 101min)  
+[API] PayPal Honey         reports totalNum=3906, page1=50 fetched=3906
+  [654/941] Fetching: Traveloka                           (591 done, 62 failed | ETA: 101min)  
+[API] Traveloka            reports totalNum=3906, page1=50 fetched=3906
+  [655/941] Fetching: Clutter                             (592 done, 62 failed | ETA: 101min)    [656/941] Fetching: SambaNova                           (593 done, 62 failed | ETA: 100min)  
+[API] SambaNova            reports totalNum=3906, page1=50
+  [Unexpected Error] The read operation timed out
+ fetched=3050
+  [657/941] Fetching: Postman                             (594 done, 62 failed | ETA: 101min)  
+[API] Postman              reports totalNum=3906, page1=50 fetched=3906
+  [658/941] Fetching: Mapbox                              (595 done, 62 failed | ETA: 101min)  
+[API] Mapbox               reports totalNum=3906, page1=50 fetched=3906
+  [659/941] Fetching: Brillio                             (596 done, 62 failed | ETA: 101min)  
+[API] Brillio              reports totalNum=3906, page1=50 fetched=3906
+  [660/941] Fetching: Netcracker Technology               (597 done, 62 failed | ETA: 101min)  
+[API] Netcracker Technology reports totalNum=3906, page1=50 fetched=3906
+  [661/941] Fetching: eLitmus                             (598 done, 62 failed | ETA: 101min)  
+[API] eLitmus              reports totalNum=3906, page1=50 fetched=3906
+  [662/941] Fetching: Dassault Sysètmes                   (599 done, 62 failed | ETA: 101min)  
+[API] Dassault Sysètmes    reports totalNum=3906, page1=50 fetched=3906
+
+
+Completed in 219.4 minutes.
+  Fetched: 600 companies
+  Resumed: 150 companies from checkpoint
+  Failed:  62 companies: CleverTap, Udemy, Verizon, Citigroup, HTC, HP, Innovaccer, carwale, Gartner, Blend
+  Total API calls: 12057
+
+Generating HTML report...
+  Saved: /Users/kushmehta/Documents/Projects/Recruiter.io/LeetcodeCompany/leetcode_company_questions.html
+Generating Markdown report...
+  Saved: /Users/kushmehta/Documents/Projects/Recruiter.io/LeetcodeCompany/leetcode_company_questions.md
+  Saved: /Users/kushmehta/Documents/Projects/Recruiter.io/LeetcodeCompany/leetcode_company_questions.json
+
+Done! Open the HTML file in your browser for the best experience.
+  open "/Users/kushmehta/Documents/Projects/Recruiter.io/LeetcodeCompany/leetcode_company_questions.html"

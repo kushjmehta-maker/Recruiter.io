@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 LeetCode Premium - Company-wise Questions Scraper
-Fetches all company tags and their associated questions using LeetCode's GraphQL API.
-Outputs a beautifully formatted HTML file and a Markdown file.
+Uses the companyTag GraphQL query to fetch accurate company-question mappings.
+Outputs HTML, Markdown, and JSON reports.
 """
 
 import json
@@ -15,7 +15,7 @@ import random
 from datetime import datetime
 
 # ── Config ──────────────────────────────────────────────────────────────────
-LEETCODE_SESSION = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfYXV0aF91c2VyX2lkIjoiMTkwMjU3NCIsIl9hdXRoX3VzZXJfYmFja2VuZCI6ImFsbGF1dGguYWNjb3VudC5hdXRoX2JhY2tlbmRzLkF1dGhlbnRpY2F0aW9uQmFja2VuZCIsIl9hdXRoX3VzZXJfaGFzaCI6ImY3YjQ4ZGZlZTgxYzFiOTk5ZjgyMDJjNzdhNjk4YTAyZTc2Y2Y4NjNlNjk3YjI4MTFmMTQ3MjRkMGZkYmMwNjUiLCJzZXNzaW9uX3V1aWQiOiJiMzdiZDhmNCIsImlkIjoxOTAyNTc0LCJlbWFpbCI6InNhdXJhYmhiaDIxQGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiYmhhZ3ZhdHVsYSIsInVzZXJfc2x1ZyI6ImJoYWd2YXR1bGEiLCJhdmF0YXIiOiJodHRwczovL2Fzc2V0cy5sZWV0Y29kZS5jb20vdXNlcnMvYmhhZ3ZhdHVsYS9hdmF0YXJfMTU5MDkxMzQ3Mi5wbmciLCJyZWZyZXNoZWRfYXQiOjE3NzY1MTA4MDMsImlwIjoiMjQwNToyMDE6YzAzYzo3OTo2Y2FkOmU2ZjA6YmMzZjo2OTRjIiwiaWRlbnRpdHkiOiI5NThkNWU1M2RiYTdlMGFmODEyZWEwZWUwZTRlODI5MyIsImRldmljZV93aXRoX2lwIjpbIjNiMTZiNmMxNGFhMzEwYTgwYjlmNTgzODU0ZmNkMGE3IiwiMjQwNToyMDE6YzAzYzo3OTo2Y2FkOmU2ZjA6YmMzZjo2OTRjIl0sIl9zZXNzaW9uX2V4cGlyeSI6MTIwOTYwMH0.n7f9sfCPcVq8xtJFEtSL-XyCdoozGb0m8dPYn_Hlj_k"
+LEETCODE_SESSION = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfYXV0aF91c2VyX2lkIjoiMTkwMjU3NCIsIl9hdXRoX3VzZXJfYmFja2VuZCI6ImFsbGF1dGguYWNjb3VudC5hdXRoX2JhY2tlbmRzLkF1dGhlbnRpY2F0aW9uQmFja2VuZCIsIl9hdXRoX3VzZXJfaGFzaCI6ImY3YjQ4ZGZlZTgxYzFiOTk5ZjgyMDJjNzdhNjk4YTAyZTc2Y2Y4NjNlNjk3YjI4MTFmMTQ3MjRkMGZkYmMwNjUiLCJzZXNzaW9uX3V1aWQiOiJiMzdiZDhmNCIsImlkIjoxOTAyNTc0LCJlbWFpbCI6InNhdXJhYmhiaDIxQGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiYmhhZ3ZhdHVsYSIsInVzZXJfc2x1ZyI6ImJoYWd2YXR1bGEiLCJhdmF0YXIiOiJodHRwczovL2Fzc2V0cy5sZWV0Y29kZS5jb20vdXNlcnMvYmhhZ3ZhdHVsYS9hdmF0YXJfMTU5MDkxMzQ3Mi5wbmciLCJyZWZyZXNoZWRfYXQiOjE3NzY1MTA4MDMsImlwIjoiMjQwNToyMDE6YzAzYzo3OTo2NDE0OmI2ZTY6NDllZDpiMzlmIiwiaWRlbnRpdHkiOiI5NThkNWU1M2RiYTdlMGFmODEyZWEwZWUwZTRlODI5MyIsImRldmljZV93aXRoX2lwIjpbIjNiMTZiNmMxNGFhMzEwYTgwYjlmNTgzODU0ZmNkMGE3IiwiMjQwNToyMDE6YzAzYzo3OTo2NDE0OmI2ZTY6NDllZDpiMzlmIl0sIl9zZXNzaW9uX2V4cGlyeSI6MTIwOTYwMH0.6Zdq4DEVEVeCuDUW3sCo_Sbjf25RPnZHs2xIqAgDOlQ"
 CSRF_TOKEN = "kGiU3XyL1jjEg8NfK5Xiskmy7c0oeHZy"
 
 GRAPHQL_URL = "https://leetcode.com/graphql"
@@ -24,10 +24,10 @@ CHECKPOINT_FILE = os.path.join(OUTPUT_DIR, ".leetcode_checkpoint.json")
 
 # ── Rate Limiting Config ────────────────────────────────────────────────────
 BASE_DELAY = 1.5          # Base delay between requests (seconds)
-JITTER_RANGE = 0.5        # Random jitter added to delay (0 to this value)
-BATCH_SIZE = 25            # Number of requests before a long pause
+JITTER_RANGE = 0.5        # Random jitter added to delay
+BATCH_SIZE = 25            # Companies before a long pause
 BATCH_PAUSE = 15           # Seconds to pause between batches
-MAX_RETRIES = 3            # Max retries per request
+MAX_RETRIES = 5            # Max retries per request
 BACKOFF_FACTOR = 2         # Exponential backoff multiplier
 BACKOFF_BASE = 5           # Base wait on first retry (seconds)
 REQUEST_TIMEOUT = 60       # Timeout per HTTP request (seconds)
@@ -44,11 +44,14 @@ query {
 }
 """
 
-COMPANY_QUESTIONS_QUERY = """
-query questionList($categorySlug: String, $limit: Int, $skip: Int, $filters: QuestionListFilterInput) {
-  questionList(categorySlug: $categorySlug, limit: $limit, skip: $skip, filters: $filters) {
-    totalNum
-    data {
+# This is the CORRECT query - fetches questions directly from the company tag
+COMPANY_TAG_QUESTIONS_QUERY = """
+query getCompanyTag($slug: String!) {
+  companyTag(slug: $slug) {
+    name
+    slug
+    questionCount
+    questions {
       title
       titleSlug
       difficulty
@@ -59,46 +62,33 @@ query questionList($categorySlug: String, $limit: Int, $skip: Int, $filters: Que
 }
 """
 
-PAGE_SIZE = 500  # Questions per page (larger = fewer round trips)
-PAGINATION_DELAY = 0.8  # Shorter delay for pagination within same company
 
-# ── Rate Limiter ────────────────────────────────────────────────────────────
+# ── Helpers ─────────────────────────────────────────────────────────────────
 class RateLimiter:
-    """Tracks request timing and enforces rate limits."""
     def __init__(self):
-        self.company_count = 0     # Companies fetched (for batch tracking)
+        self.request_count = 0
+        self.company_count = 0
         self.batch_count = 0
-        self.total_requests = 0
         self.last_request_time = 0
         self.consecutive_errors = 0
 
-    def wait_before_request(self, is_pagination=False):
-        """Wait the appropriate amount before making the next request."""
-        # Per-request delay with jitter
+    def wait(self):
         elapsed = time.time() - self.last_request_time
-        if is_pagination:
-            delay = PAGINATION_DELAY + random.uniform(0, 0.3)
-        else:
-            delay = BASE_DELAY + random.uniform(0, JITTER_RANGE)
-
-        # Slow down more if consecutive errors
+        delay = BASE_DELAY + random.uniform(0, JITTER_RANGE)
         if self.consecutive_errors > 0:
             delay += self.consecutive_errors * 2
-
         remaining = delay - elapsed
         if remaining > 0:
             time.sleep(remaining)
-
         self.last_request_time = time.time()
-        self.total_requests += 1
+        self.request_count += 1
 
     def company_done(self):
-        """Called after each company is fully fetched."""
         self.company_count += 1
         if self.company_count > 0 and self.company_count % BATCH_SIZE == 0:
             self.batch_count += 1
             pause = BATCH_PAUSE + random.uniform(0, 5)
-            print(f"\n  [Rate Limit] Batch {self.batch_count} done ({self.company_count} companies). "
+            print(f"\n  [Batch {self.batch_count}] {self.company_count} companies done. "
                   f"Cooling {pause:.0f}s...")
             time.sleep(pause)
 
@@ -111,21 +101,22 @@ class RateLimiter:
 
 rate_limiter = RateLimiter()
 
-# ── Helpers ─────────────────────────────────────────────────────────────────
-def graphql_request(query, variables=None, is_pagination=False):
+
+def graphql_request(query, variables=None):
     """Make an authenticated GraphQL request with retry + exponential backoff."""
     payload = json.dumps({"query": query, "variables": variables or {}}).encode("utf-8")
 
     for attempt in range(MAX_RETRIES + 1):
         if attempt == 0:
-            rate_limiter.wait_before_request(is_pagination=is_pagination)
+            rate_limiter.wait()
 
         req = urllib.request.Request(GRAPHQL_URL, data=payload, method="POST")
         req.add_header("Content-Type", "application/json")
         req.add_header("Cookie", f"LEETCODE_SESSION={LEETCODE_SESSION}; csrftoken={CSRF_TOKEN}")
         req.add_header("x-csrftoken", CSRF_TOKEN)
         req.add_header("Referer", "https://leetcode.com")
-        req.add_header("User-Agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        req.add_header("User-Agent",
+                        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
                         "AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15")
 
         try:
@@ -133,55 +124,40 @@ def graphql_request(query, variables=None, is_pagination=False):
                 data = json.loads(resp.read().decode())
                 rate_limiter.report_success()
                 return data
-
         except urllib.error.HTTPError as e:
-            body = e.read().decode()[:200] if e.fp else ""
             rate_limiter.report_error()
-
             if e.code == 429:
-                # Rate limited — long pause
                 wait = RATE_LIMIT_PAUSE * (attempt + 1) + random.uniform(0, 10)
-                print(f"\n  [429 RATE LIMITED] Waiting {wait:.0f}s before retry "
-                      f"({attempt + 1}/{MAX_RETRIES})...")
+                print(f"\n  [429 RATE LIMITED] Waiting {wait:.0f}s ({attempt+1}/{MAX_RETRIES})...")
                 time.sleep(wait)
                 continue
-
             elif e.code == 403:
-                # Forbidden — session may have expired
                 wait = BACKOFF_BASE * (BACKOFF_FACTOR ** attempt) + random.uniform(0, 3)
-                print(f"\n  [403 Forbidden] Session issue? Retrying in {wait:.0f}s "
-                      f"({attempt + 1}/{MAX_RETRIES})...")
+                print(f"\n  [403 Forbidden] Retrying in {wait:.0f}s ({attempt+1}/{MAX_RETRIES})...")
                 time.sleep(wait)
                 continue
-
             elif e.code >= 500:
-                # Server error — retry with backoff
                 wait = BACKOFF_BASE * (BACKOFF_FACTOR ** attempt) + random.uniform(0, 3)
-                print(f"\n  [HTTP {e.code}] Server error. Retrying in {wait:.0f}s "
-                      f"({attempt + 1}/{MAX_RETRIES})...")
+                print(f"\n  [HTTP {e.code}] Retrying in {wait:.0f}s ({attempt+1}/{MAX_RETRIES})...")
                 time.sleep(wait)
                 continue
-
             else:
+                body = e.read().decode()[:200] if e.fp else ""
                 print(f"\n  [HTTP {e.code}]: {body}")
                 return None
-
         except (urllib.error.URLError, TimeoutError, ConnectionError) as e:
             rate_limiter.report_error()
             if attempt < MAX_RETRIES:
                 wait = BACKOFF_BASE * (BACKOFF_FACTOR ** attempt) + random.uniform(0, 3)
-                print(f"\n  [Network Error] {e}. Retrying in {wait:.0f}s "
-                      f"({attempt + 1}/{MAX_RETRIES})...")
+                print(f"\n  [Network Error] {e}. Retrying in {wait:.0f}s ({attempt+1}/{MAX_RETRIES})...")
                 time.sleep(wait)
                 continue
-            print(f"\n  [Network Error] {e} — giving up after {MAX_RETRIES} retries")
+            print(f"\n  [Network Error] {e} — giving up")
             return None
-
         except Exception as e:
             rate_limiter.report_error()
             print(f"\n  [Unexpected Error] {e}")
             return None
-
     return None
 
 
@@ -195,72 +171,49 @@ def fetch_all_companies():
         sys.exit(1)
 
     companies = result["data"]["companyTags"]
+    # Filter out companies with 0 questions
+    companies = [c for c in companies if c.get("questionCount", 0) > 0]
     companies.sort(key=lambda c: c.get("questionCount", 0), reverse=True)
-    print(f"Found {len(companies)} companies.\n")
+    print(f"Found {len(companies)} companies with questions.\n")
     return companies
 
 
-def fetch_company_questions(slug, name):
-    """Fetch questions for a specific company using paginated questionList API."""
-    all_questions = []
-    skip = 0
-
-    # First request to get totalNum
-    result = graphql_request(COMPANY_QUESTIONS_QUERY, {
-        'categorySlug': '',
-        'skip': 0,
-        'limit': PAGE_SIZE,
-        'filters': {'companies': [slug]}
-    })
+def fetch_company_questions(slug):
+    """Fetch questions for a company using the companyTag query (accurate, single request)."""
+    result = graphql_request(COMPANY_TAG_QUESTIONS_QUERY, {"slug": slug})
     if not result or "data" not in result:
-        return []
+        return None
 
-    ql = result["data"].get("questionList")
-    if not ql:
-        return []
+    tag = result["data"].get("companyTag")
+    if not tag:
+        return None
 
-    total = ql.get("totalNum", 0)
-    questions = ql.get("data", [])
-    all_questions.extend(questions)
-
-    # Paginate if there are more questions
-    while len(all_questions) < total:
-        skip += PAGE_SIZE
-        result = graphql_request(COMPANY_QUESTIONS_QUERY, {
-            'categorySlug': '',
-            'skip': skip,
-            'limit': PAGE_SIZE,
-            'filters': {'companies': [slug]}
-        }, is_pagination=True)
-        if not result or "data" not in result:
-            break
-        page = result["data"].get("questionList", {}).get("data", [])
-        if not page:
-            break
-        all_questions.extend(page)
-
-    return all_questions
+    questions = tag.get("questions", [])
+    return questions
 
 
 # ── Checkpoint (resume support) ─────────────────────────────────────────────
 def save_checkpoint(all_data, completed_slugs):
-    """Save progress so we can resume if interrupted."""
     checkpoint = {
         "completed_slugs": list(completed_slugs),
         "data": all_data,
-        "timestamp": datetime.now().isoformat()
+        "timestamp": datetime.now().isoformat(),
+        "version": 2  # Mark as v2 (companyTag-based)
     }
     with open(CHECKPOINT_FILE, "w", encoding="utf-8") as f:
         json.dump(checkpoint, f)
 
 
 def load_checkpoint():
-    """Load previous progress if available."""
     if not os.path.exists(CHECKPOINT_FILE):
         return {}, set()
     try:
         with open(CHECKPOINT_FILE, "r", encoding="utf-8") as f:
             checkpoint = json.load(f)
+        # Only resume v2 checkpoints (companyTag-based)
+        if checkpoint.get("version") != 2:
+            print("  Old checkpoint found (v1, incorrect data). Starting fresh.\n")
+            return {}, set()
         data = checkpoint.get("data", {})
         slugs = set(checkpoint.get("completed_slugs", []))
         ts = checkpoint.get("timestamp", "unknown")
@@ -271,7 +224,6 @@ def load_checkpoint():
 
 
 def clear_checkpoint():
-    """Remove checkpoint file after successful completion."""
     if os.path.exists(CHECKPOINT_FILE):
         os.remove(CHECKPOINT_FILE)
 
@@ -287,6 +239,11 @@ def difficulty_emoji(d):
 # ── HTML Generator ──────────────────────────────────────────────────────────
 def generate_html(all_data):
     total_q = sum(len(qs) for qs in all_data.values())
+    # Count unique questions
+    unique_slugs = set()
+    for qs in all_data.values():
+        for q in qs:
+            unique_slugs.add(q.get("titleSlug", ""))
     timestamp = datetime.now().strftime("%B %d, %Y at %I:%M %p")
 
     html = f"""<!DOCTYPE html>
@@ -429,7 +386,8 @@ def generate_html(all_data):
   <p>Premium question bank organized by company &mdash; Generated {timestamp}</p>
   <div class="stats">
     <div class="stat"><div class="num">{len(all_data)}</div><div class="label">Companies</div></div>
-    <div class="stat"><div class="num">{total_q:,}</div><div class="label">Total Questions</div></div>
+    <div class="stat"><div class="num">{len(unique_slugs):,}</div><div class="label">Unique Questions</div></div>
+    <div class="stat"><div class="num">{total_q:,}</div><div class="label">Total Mappings</div></div>
   </div>
   <div class="search-bar">
     <input type="text" id="search" placeholder="Search companies or questions..." oninput="filterAll(this.value)">
@@ -601,11 +559,12 @@ def generate_markdown(all_data):
 # ── Main ────────────────────────────────────────────────────────────────────
 def main():
     print("=" * 60)
-    print("  LeetCode Company-Wise Questions Scraper (Premium)")
+    print("  LeetCode Company-Wise Questions Scraper v2")
+    print("  (Using companyTag API for accurate results)")
     print("=" * 60)
     print()
-    print(f"  Rate limiting: {BASE_DELAY}s base + {JITTER_RANGE}s jitter per request")
-    print(f"  Batch pause: {BATCH_PAUSE}s every {BATCH_SIZE} requests")
+    print(f"  Rate limiting: {BASE_DELAY}s base + {JITTER_RANGE}s jitter")
+    print(f"  Batch pause: {BATCH_PAUSE}s every {BATCH_SIZE} companies")
     print(f"  Retries: {MAX_RETRIES}x with exponential backoff")
     print()
 
@@ -625,9 +584,6 @@ def main():
         slug = company["slug"]
         expected = company.get("questionCount", 0)
 
-        if expected == 0:
-            continue
-
         # Skip already-fetched companies (resume support)
         if slug in completed_slugs:
             skipped += 1
@@ -637,21 +593,28 @@ def main():
         done = len(all_data)
         remaining = total - i
         elapsed = time.time() - start_time
-        rate = done / elapsed if elapsed > 0 and done > 0 else 0
-        eta = f" | ETA: {remaining / rate / 60:.0f}min" if rate > 0 else ""
+        actual_fetched = done - skipped if done > skipped else max(done - skipped, 1)
+        rate = actual_fetched / elapsed if elapsed > 0 and actual_fetched > 0 else 0
+        eta = f" | ETA: {remaining / rate / 60:.0f}min" if rate > 0.01 else ""
 
         sys.stdout.write(
-            f"\r  [{i}/{total}] Fetching: {name:<35} "
-            f"({done} done, {len(failed)} failed{eta})  "
+            f"\r  [{i}/{total}] {name:<35} "
+            f"(expected: {expected:>4}, done: {done}, failed: {len(failed)}{eta})  "
         )
         sys.stdout.flush()
 
-        questions = fetch_company_questions(slug, name)
-        if questions:
+        questions = fetch_company_questions(slug)
+        if questions is not None:
             all_data[name] = questions
             completed_slugs.add(slug)
+
+            # Sanity check: flag if returned count is wildly different from expected
+            actual = len(questions)
+            if expected > 0 and actual > expected * 3:
+                print(f"\n  [WARNING] {name}: expected ~{expected}, got {actual} — possible API issue")
         else:
             failed.append(name)
+            print(f"\n  [FAILED] {name}")
 
         rate_limiter.company_done()
 
@@ -669,7 +632,16 @@ def main():
         print(f"  Resumed: {skipped} companies from checkpoint")
     if failed:
         print(f"  Failed:  {len(failed)} companies: {', '.join(failed[:10])}")
-    print(f"  Total API calls: {rate_limiter.total_requests}")
+    print(f"  Total API calls: {rate_limiter.request_count}")
+
+    # Data quality summary
+    total_q = sum(len(qs) for qs in all_data.values())
+    unique_slugs = set()
+    for qs in all_data.values():
+        for q in qs:
+            unique_slugs.add(q.get("titleSlug", ""))
+    print(f"\n  Total question-company mappings: {total_q:,}")
+    print(f"  Unique questions across all companies: {len(unique_slugs):,}")
     print()
 
     # Step 3: Generate outputs
@@ -687,16 +659,15 @@ def main():
         f.write(md)
     print(f"  Saved: {md_path}")
 
-    # Also save raw JSON for programmatic use
+    # Save raw JSON
     json_path = os.path.join(OUTPUT_DIR, "leetcode_company_questions.json")
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(all_data, f, indent=2)
     print(f"  Saved: {json_path}")
 
-    # Clean up checkpoint on success
     clear_checkpoint()
 
-    print(f"\nDone! Open the HTML file in your browser for the best experience.")
+    print(f"\nDone! Open the HTML file in your browser:")
     print(f"  open \"{html_path}\"")
 
 

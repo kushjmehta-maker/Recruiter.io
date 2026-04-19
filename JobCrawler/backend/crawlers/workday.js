@@ -70,27 +70,7 @@ async function crawlWorkday(companyKey, config) {
         continue;
       }
 
-      // Fetch detail only for NEW relevant jobs
-      let description = '';
-      let descriptionHtml = '';
-      let metadata = {};
-      try {
-        await delay(WORKDAY_DETAIL_DELAY_MS);
-        const detailRes = await fetch(`${baseUrl}/job/${externalPath}`);
-        if (detailRes.ok) {
-          const detail = await detailRes.json();
-          const info = detail.jobPostingInfo || {};
-          descriptionHtml = info.jobDescription || '';
-          description = htmlToText(descriptionHtml);
-          metadata = {
-            reqId: info.jobReqId || '',
-            workplaceType: info.timeType || '',
-          };
-        }
-      } catch (err) {
-        logger.warn(`[Workday] Failed detail for ${displayName}: ${externalPath}`, { error: err.message });
-      }
-
+      // Store listing info only (skip detail fetch for speed)
       try {
         const created = await Job.create({
           externalId,
@@ -98,15 +78,15 @@ async function crawlWorkday(companyKey, config) {
           companyDisplayName: displayName,
           atsType: 'workday',
           title: posting.title,
-          description,
-          descriptionHtml,
+          description: '',
+          descriptionHtml: '',
           location: posting.locationsText || '',
           url: `https://${host}.myworkdayjobs.com/en-US/${site}/job/${externalPath}`,
           postedAt: posting.postedOn && !isNaN(new Date(posting.postedOn).getTime())
             ? new Date(posting.postedOn) : new Date(),
           discoveredAt: new Date(),
           isActive: true,
-          metadata,
+          metadata: {},
         });
         newJobs++;
         newJobIds.push(created._id);

@@ -11,16 +11,14 @@ const companies = {
   twilio:       { ats: 'greenhouse', slug: 'twilio',       displayName: 'Twilio',       url: 'https://www.twilio.com/company/jobs' },
   okta:         { ats: 'greenhouse', slug: 'okta',         displayName: 'Okta',         url: 'https://www.okta.com/company/careers/' },
   postman:      { ats: 'greenhouse', slug: 'postman',      displayName: 'Postman',      url: 'https://www.postman.com/company/careers/' },
-
-  // Greenhouse — slugs need discovery (fall through to custom/apify if 0 results)
-  atlassian:    { ats: 'greenhouse', slug: 'atlassian',    displayName: 'Atlassian',    url: 'https://www.atlassian.com/company/careers', fallbackToApify: true },
   zeta:         { ats: 'greenhouse', slug: 'zetaglobal',    displayName: 'Zeta',         url: 'https://careers.zeta.tech/' },
-  snowflake:    { ats: 'greenhouse', slug: 'snowflakecomputing', displayName: 'Snowflake', url: 'https://careers.snowflake.com/', fallbackToApify: true },
-  hashicorp:    { ats: 'greenhouse', slug: 'hashicorp',    displayName: 'HashiCorp',    url: 'https://www.hashicorp.com/careers', fallbackToApify: true },
-  zomato:       { ats: 'greenhouse', slug: 'zomato',       displayName: 'Zomato',       url: 'https://www.zomato.com/careers', fallbackToApify: true },
-  dream11:      { ats: 'greenhouse', slug: 'dream11',      displayName: 'Dream11',      url: 'https://www.dreamsports.group/careers/', fallbackToApify: true },
-  browserstack: { ats: 'greenhouse', slug: 'browserstack', displayName: 'BrowserStack', url: 'https://www.browserstack.com/careers', fallbackToApify: true },
-  sharechat:    { ats: 'greenhouse', slug: 'sharechat',    displayName: 'ShareChat',    url: 'https://sharechat.com/careers', fallbackToApify: true },
+  razorpay:     { ats: 'greenhouse', slug: 'razorpaysoftwareprivatelimited', displayName: 'Razorpay', url: 'https://razorpay.com/jobs/' },
+
+  // Greenhouse — these companies moved off Greenhouse, fall through to Apify
+  zomato:       { ats: 'greenhouse', slug: 'zomato',       displayName: 'Zomato',       url: 'https://www.zomato.com/careers', fallbackToApify: true, apifyConfig: { startUrl: 'https://www.zomato.com/careers' } },
+  dream11:      { ats: 'greenhouse', slug: 'dream11',      displayName: 'Dream11',      url: 'https://www.dreamsports.group/careers/', fallbackToApify: true, apifyConfig: { startUrl: 'https://www.dreamsports.group/careers/' } },
+  browserstack: { ats: 'greenhouse', slug: 'browserstack', displayName: 'BrowserStack', url: 'https://www.browserstack.com/careers', fallbackToApify: true, apifyConfig: { startUrl: 'https://www.browserstack.com/careers' } },
+  sharechat:    { ats: 'greenhouse', slug: 'sharechat',    displayName: 'ShareChat',    url: 'https://sharechat.com/careers', fallbackToApify: true, apifyConfig: { startUrl: 'https://sharechat.com/careers' } },
 
   // ═══════════════════════════════════════════
   // WORKDAY (POST-based JSON API)
@@ -31,20 +29,26 @@ const companies = {
   nvidia:  { ats: 'workday', host: 'nvidia.wd5',  org: 'nvidia',  site: 'NVIDIAExternalCareerSite', displayName: 'NVIDIA',  url: 'https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite' },
   adobe:   { ats: 'workday', host: 'adobe.wd5',   org: 'adobe',   site: 'external_experienced',     displayName: 'Adobe',   url: 'https://careers.adobe.com/' },
   zoom:    { ats: 'workday', host: 'zoom.wd5',    org: 'zoom',    site: 'Zoom',                     displayName: 'Zoom',    url: 'https://careers.zoom.us/home' },
+  intel:   { ats: 'workday', host: 'intel.wd1',   org: 'intel',   site: 'External',                 displayName: 'Intel',   url: 'https://jobs.intel.com/' },
+  // VMware merged into Broadcom — updated endpoint
+  vmware:  { ats: 'workday', host: 'broadcom.wd1', org: 'broadcom', site: 'External_Career', displayName: 'Broadcom (VMware)', url: 'https://broadcom.wd1.myworkdayjobs.com/External_Career' },
 
-  // Workday — site slugs need discovery
-  vmware:      { ats: 'workday', host: 'vmware.wd1',      org: 'vmware',      site: 'VMwareExternalCareerSite', displayName: 'VMware',      url: 'https://careers.vmware.com/', fallbackToApify: true },
-  servicenow:  { ats: 'workday', host: 'servicenow.wd1',  org: 'servicenow',  site: 'ServiceNowCareers',        displayName: 'ServiceNow',  url: 'https://www.servicenow.com/careers.html', fallbackToApify: true },
-  qualcomm:    { ats: 'workday', host: 'qualcomm.wd5',    org: 'qualcomm',    site: 'External',                 displayName: 'Qualcomm',    url: 'https://www.qualcomm.com/company/careers', fallbackToApify: true },
-  intel:       { ats: 'workday', host: 'intel.wd1',       org: 'intel',       site: 'External',                 displayName: 'Intel',       url: 'https://jobs.intel.com/' },
-  amd:         { ats: 'workday', host: 'amd.wd1',         org: 'amd',         site: 'AMD',                      displayName: 'AMD',         url: 'https://careers.amd.com/', fallbackToApify: true },
-  ti:          { ats: 'workday', host: 'ti.wd1',          org: 'ti',          site: 'Careers',                  displayName: 'Texas Instruments', url: 'https://careers.ti.com/', fallbackToApify: true },
-  freshworks:  { ats: 'workday', host: 'freshworks.wd1',  org: 'freshworks',  site: 'Careers',                  displayName: 'Freshworks',  url: 'https://careers.freshworks.com/', fallbackToApify: true },
+  // Workday — companies that moved off Workday, now use custom/Apify scraping
+  servicenow:  { ats: 'custom', displayName: 'ServiceNow',      url: 'https://www.servicenow.com/careers.html', apifyConfig: { startUrl: 'https://servicenow.wd1.myworkdayjobs.com/careers', pageFunction: 'servicenow' } },
+  qualcomm:    { ats: 'custom', displayName: 'Qualcomm',        url: 'https://www.qualcomm.com/company/careers', apifyConfig: { startUrl: 'https://www.qualcomm.com/company/careers', pageFunction: 'qualcomm' } },
+  amd:         { ats: 'custom', displayName: 'AMD',              url: 'https://careers.amd.com/',  apifyConfig: { startUrl: 'https://careers.amd.com/careers-home/jobs', pageFunction: 'amd' } },
+  ti:          { ats: 'custom', displayName: 'Texas Instruments', url: 'https://careers.ti.com/', apifyConfig: { startUrl: 'https://careers.ti.com/', pageFunction: 'ti' } },
+  freshworks:  { ats: 'custom', displayName: 'Freshworks',      url: 'https://careers.freshworks.com/', apifyConfig: { startUrl: 'https://careers.smartrecruiters.com/Freshworks', pageFunction: 'freshworks' } },
 
   // ═══════════════════════════════════════════
-  // LEVER (public JSON API)
+  // CUSTOM PORTALS — moved off old ATS platforms
+  // Atlassian: uses Beamery/custom React app
+  // Snowflake: uses Phenom
+  // HashiCorp: now IBM
   // ═══════════════════════════════════════════
-  razorpay: { ats: 'lever', slug: 'razorpay', displayName: 'Razorpay', url: 'https://razorpay.com/jobs/', fallbackToApify: true },
+  atlassian:  { ats: 'custom', displayName: 'Atlassian',  url: 'https://www.atlassian.com/company/careers', apifyConfig: { startUrl: 'https://www.atlassian.com/company/careers/all-jobs', pageFunction: 'atlassian' } },
+  snowflake:  { ats: 'custom', displayName: 'Snowflake',  url: 'https://careers.snowflake.com/', apifyConfig: { startUrl: 'https://careers.snowflake.com/us/en', pageFunction: 'snowflake' } },
+  hashicorp:  { ats: 'custom', displayName: 'HashiCorp',  url: 'https://www.hashicorp.com/careers', apifyConfig: { startUrl: 'https://www.ibm.com/careers/search?field_keyword_18[0]=HashiCorp', pageFunction: 'hashicorp' } },
 
   // ═══════════════════════════════════════════
   // CUSTOM PORTALS (Apify web scraping)

@@ -129,13 +129,17 @@ async function runCrawl(options = {}) {
     entries = entries.filter(([, config]) => options.atsTypes.includes(config.ats));
   }
 
+  // Split into API-based (can batch) and custom/Apify (must serialize to avoid memory limit)
+  const apiEntries = entries.filter(([, c]) => c.ats !== 'custom');
+  const customEntries = entries.filter(([, c]) => c.ats === 'custom');
+
   let totalNew = 0;
   let totalUpdated = 0;
   let companiesCrawled = 0;
 
-  // Process in batches
-  for (let i = 0; i < entries.length; i += CRAWL_BATCH_SIZE) {
-    const batch = entries.slice(i, i + CRAWL_BATCH_SIZE);
+  // Process API-based crawlers in batches (Greenhouse, Workday, Lever)
+  for (let i = 0; i < apiEntries.length; i += CRAWL_BATCH_SIZE) {
+    const batch = apiEntries.slice(i, i + CRAWL_BATCH_SIZE);
 
     const results = await Promise.allSettled(
       batch.map(([key, config]) => crawlCompany(key, config))
@@ -169,6 +173,28 @@ async function runCrawl(options = {}) {
     if (batchNewJobIds.length > 0) {
       await enrichRecruiters(batchNewJobIds);
       await scoreAndAlertForNewJobs(batchNewJobIds);
+    }
+  }
+
+  // Process custom/Apify crawlers ONE AT A TIME to avoid Apify memory limits
+  for (const [key, config] of customEntries) {
+    try {
+      const result = await crawlCompany(key, config);
+      totalNew += result.newJobs;
+      totalUpdated += result.updatedJobs;
+      companiesCrawled++;
+
+      if (result.newJobIds?.length) {
+        await enrichRecruiters(result.newJobIds);
+        await scoreAndAlertForNewJobs(result.newJobIds);
+      }
+    } catch (err) {
+      logger.error(`[Orchestrator] ${config.displayName} failed`, { error: err.message });
+      crawlRun.crawlErrors.push({
+        company: key,
+        error: err.message || 'Unknown error',
+        timestamp: new Date(),
+      });
     }
   }
 

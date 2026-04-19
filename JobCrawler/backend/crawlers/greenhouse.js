@@ -64,21 +64,7 @@ async function crawlGreenhouse(companyKey, config) {
       continue;
     }
 
-    // 2. Fetch full job detail only for NEW relevant jobs
-    let description = '';
-    let descriptionHtml = '';
-    try {
-      await delay(GREENHOUSE_DELAY_MS);
-      const detailRes = await fetch(`${GREENHOUSE_API}/${slug}/jobs/${job.id}`);
-      if (detailRes.ok) {
-        const detail = await detailRes.json();
-        descriptionHtml = detail.content || '';
-        description = htmlToText(descriptionHtml);
-      }
-    } catch (err) {
-      logger.warn(`[Greenhouse] Failed to fetch detail for ${displayName} job ${job.id}`, { error: err.message });
-    }
-
+    // Store listing info only (skip detail fetch for speed)
     const department = job.departments?.map((d) => d.name).join(', ') || '';
 
     try {
@@ -88,8 +74,8 @@ async function crawlGreenhouse(companyKey, config) {
         companyDisplayName: displayName,
         atsType: 'greenhouse',
         title: job.title,
-        description,
-        descriptionHtml,
+        description: '',
+        descriptionHtml: '',
         location: job.location?.name || '',
         url: job.absolute_url,
         postedAt: job.updated_at ? new Date(job.updated_at) : new Date(),
