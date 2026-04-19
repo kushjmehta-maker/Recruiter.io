@@ -1,0 +1,40 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+6,Zigzag Conversion,https://leetcode.com/problems/zigzag-conversion/,Medium,,,,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
+19,Remove Nth Node From End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+40,Combination Sum II,https://leetcode.com/problems/combination-sum-ii/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,,,,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
+75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,,,,No
+81,Search in Rotated Sorted Array II,https://leetcode.com/problems/search-in-rotated-sorted-array-ii/,Medium,,,,No
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No
+180,Consecutive Numbers,https://leetcode.com/problems/consecutive-numbers/,Medium,,,,No
+184,Department Highest Salary,https://leetcode.com/problems/department-highest-salary/,Medium,,,,No
+185,Department Top Three Salaries,https://leetcode.com/problems/department-top-three-salaries/,Hard,,,,No
+217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,,,,No
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,,,,No
+412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
+451,Sort Characters By Frequency,https://leetcode.com/problems/sort-characters-by-frequency/,Medium,,,,No
+503,Next Greater Element II,https://leetcode.com/problems/next-greater-element-ii/,Medium,,,,No
+567,Permutation in String,https://leetcode.com/problems/permutation-in-string/,Medium,,,,No
+790,Domino and Tromino Tiling,https://leetcode.com/problems/domino-and-tromino-tiling/,Medium,,,,No
+887,Super Egg Drop,https://leetcode.com/problems/super-egg-drop/,Hard,,,,No
+986,Interval List Intersections,https://leetcode.com/problems/interval-list-intersections/,Medium,,,,No
+1168,Optimize Water Distribution in a Village,https://leetcode.com/problems/optimize-water-distribution-in-a-village/,Hard,,,,Yes
+1071,Greatest Common Divisor of Strings,https://leetcode.com/problems/greatest-common-divisor-of-strings/,Easy,,,,No
+1089,Duplicate Zeros,https://leetcode.com/problems/duplicate-zeros/,Easy,,,,No
+1299,Replace Elements with Greatest Element on Right Side,https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/,Easy,,,,No
+1146,Snapshot Array,https://leetcode.com/problems/snapshot-array/,Medium,,,,No
+1143,Longest Common Subsequence,https://leetcode.com/problems/longest-common-subsequence/,Medium,,,,No
+1250,Check If It Is a Good Array,https://leetcode.com/problems/check-if-it-is-a-good-array/,Hard,,,,No
+1352,Product of the Last K Numbers,https://leetcode.com/problems/product-of-the-last-k-numbers/,Medium,,,,No
+1723,Find Minimum Time to Finish All Jobs,https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/,Hard,,,,No
+2246,Longest Path With Different Adjacent Characters,https://leetcode.com/problems/longest-path-with-different-adjacent-characters/,Hard,,,,No
+2591,Distribute Money to Maximum Children,https://leetcode.com/problems/distribute-money-to-maximum-children/,Easy,,,,No
+2799,Count Complete Subarrays in an Array,https://leetcode.com/problems/count-complete-subarrays-in-an-array/,Medium,,,,No

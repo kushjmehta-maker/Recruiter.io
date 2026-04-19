@@ -1,0 +1,14 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+37,Sudoku Solver,https://leetcode.com/problems/sudoku-solver/,Hard,,,,No
+85,Maximal Rectangle,https://leetcode.com/problems/maximal-rectangle/,Hard,,,,No
+115,Distinct Subsequences,https://leetcode.com/problems/distinct-subsequences/,Hard,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,,,,No
+316,Remove Duplicate Letters,https://leetcode.com/problems/remove-duplicate-letters/,Medium,,,,No
+359,Logger Rate Limiter,https://leetcode.com/problems/logger-rate-limiter/,Easy,,,,Yes
+416,Partition Equal Subset Sum,https://leetcode.com/problems/partition-equal-subset-sum/,Medium,,,,No
+1328,Break a Palindrome,https://leetcode.com/problems/break-a-palindrome/,Medium,,,,No
+1481,Least Number of Unique Integers after K Removals,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/,Medium,100.0%,"3m,6m",63.7%,No
+1839,Longest Substring Of All Vowels in Order,https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/,Medium,,,,No
+2615,Sum of Distances,https://leetcode.com/problems/sum-of-distances/,Medium,,,,No
+3439,Reschedule Meetings for Maximum Free Time I,https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/,Medium,100.0%,,53.9%,No

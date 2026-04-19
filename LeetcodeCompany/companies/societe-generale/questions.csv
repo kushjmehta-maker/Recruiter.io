@@ -1,0 +1,25 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,,,,No
+17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,1.1%,,65.5%,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
+74,Search a 2D Matrix,https://leetcode.com/problems/search-a-2d-matrix/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,2.1%,6m+,56.4%,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,,,,No
+176,Second Highest Salary,https://leetcode.com/problems/second-highest-salary/,Medium,,,,No
+197,Rising Temperature,https://leetcode.com/problems/rising-temperature/,Easy,,,,No
+273,Integer to English Words,https://leetcode.com/problems/integer-to-english-words/,Hard,,,,No
+300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,,,,No
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,,,,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
+696,Count Binary Substrings,https://leetcode.com/problems/count-binary-substrings/,Easy,,,,No
+752,Open the Lock,https://leetcode.com/problems/open-the-lock/,Medium,,,,No
+509,Fibonacci Number,https://leetcode.com/problems/fibonacci-number/,Easy,,,,No
+1123,Lowest Common Ancestor of Deepest Leaves,https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/,Medium,,,,No
+1539,Kth Missing Positive Number,https://leetcode.com/problems/kth-missing-positive-number/,Easy,,,,No
+1864,Minimum Number of Swaps to Make the Binary String Alternating,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/,Medium,100.0%,6m+,43.8%,No
+2239,Find Closest Number to Zero,https://leetcode.com/problems/find-closest-number-to-zero/,Easy,,,,No
+2616,Minimize the Maximum Difference of Pairs,https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/,Medium,,,,No
+2825,Make String a Subsequence Using Cyclic Increments,https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/,Medium,,,,No

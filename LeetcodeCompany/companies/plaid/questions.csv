@@ -1,0 +1,7 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,100.0%,6m+,63.8%,No
+721,Accounts Merge,https://leetcode.com/problems/accounts-merge/,Medium,,,,No
+973,K Closest Points to Origin,https://leetcode.com/problems/k-closest-points-to-origin/,Medium,100.0%,6m+,68.7%,No
+1438,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/,Medium,,,,No
+1475,Final Prices With a Special Discount in a Shop,https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/,Easy,,,,No

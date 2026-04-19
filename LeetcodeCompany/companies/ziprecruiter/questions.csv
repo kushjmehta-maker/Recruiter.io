@@ -1,0 +1,17 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,,,,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,,,,No
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,,,,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
+539,Minimum Time Difference,https://leetcode.com/problems/minimum-time-difference/,Medium,,,,No
+723,Candy Crush,https://leetcode.com/problems/candy-crush/,Medium,,,,Yes
+921,Minimum Add to Make Parentheses Valid,https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/,Medium,,,,No
+945,Minimum Increment to Make Array Unique,https://leetcode.com/problems/minimum-increment-to-make-array-unique/,Medium,,,,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,87.5%,6m+,58.1%,No
+1353,Maximum Number of Events That Can Be Attended,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/,Medium,,,,No
+1366,Rank Teams by Votes,https://leetcode.com/problems/rank-teams-by-votes/,Medium,,,,No
+1526,Minimum Number of Increments on Subarrays to Form a Target Array,https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/,Hard,,,,No
+2043,Simple Bank System,https://leetcode.com/problems/simple-bank-system/,Medium,,,,No
+3043,Find the Length of the Longest Common Prefix,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/,Medium,100.0%,6m+,57.0%,No
+3071,Minimum Operations to Write the Letter Y on a Grid,https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid/,Medium,87.5%,6m+,64.3%,No
+3161,Block Placement Queries,https://leetcode.com/problems/block-placement-queries/,Hard,,,,No

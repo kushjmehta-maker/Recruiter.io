@@ -1,0 +1,8 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,,,,No
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,,,,No
+111,Minimum Depth of Binary Tree,https://leetcode.com/problems/minimum-depth-of-binary-tree/,Easy,100.0%,6m+,52.3%,No
+131,Palindrome Partitioning,https://leetcode.com/problems/palindrome-partitioning/,Medium,,,,No
+424,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Medium,,,,No
+452,Minimum Number of Arrows to Burst Balloons,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/,Medium,87.5%,6m+,61.2%,No
+1498,Number of Subsequences That Satisfy the Given Sum Condition,https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/,Medium,,,,No

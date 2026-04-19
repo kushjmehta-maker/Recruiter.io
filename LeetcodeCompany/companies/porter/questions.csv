@@ -1,0 +1,14 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,100.0%,6m+,50.0%,No
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,,,,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No
+327,Count of Range Sum,https://leetcode.com/problems/count-of-range-sum/,Hard,,,,No
+496,Next Greater Element I,https://leetcode.com/problems/next-greater-element-i/,Easy,,,,No
+503,Next Greater Element II,https://leetcode.com/problems/next-greater-element-ii/,Medium,,,,No
+739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,,,,No
+962,Maximum Width Ramp,https://leetcode.com/problems/maximum-width-ramp/,Medium,,,,No
+1068,Product Sales Analysis I,https://leetcode.com/problems/product-sales-analysis-i/,Easy,,,,No
+1760,Minimum Limit of Balls in a Bag,https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/,Medium,,,,No
+2563,Count the Number of Fair Pairs,https://leetcode.com/problems/count-the-number-of-fair-pairs/,Medium,,,,No

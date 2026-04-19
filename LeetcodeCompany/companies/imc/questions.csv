@@ -1,0 +1,28 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,75.0%,6m+,57.7%,No
+232,Implement Queue using Stacks,https://leetcode.com/problems/implement-queue-using-stacks/,Easy,,,,No
+363,Max Sum of Rectangle No Larger Than K,https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/,Hard,,,,No
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,,,,No
+412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
+455,Assign Cookies,https://leetcode.com/problems/assign-cookies/,Easy,,,,No
+505,The Maze II,https://leetcode.com/problems/the-maze-ii/,Medium,,,,Yes
+735,Asteroid Collision,https://leetcode.com/problems/asteroid-collision/,Medium,100.0%,6m+,47.1%,No
+761,Special Binary String,https://leetcode.com/problems/special-binary-string/,Hard,,,,No
+935,Knight Dialer,https://leetcode.com/problems/knight-dialer/,Medium,,,,No
+1197,Minimum Knight Moves,https://leetcode.com/problems/minimum-knight-moves/,Medium,,,,Yes
+1483,Kth Ancestor of a Tree Node,https://leetcode.com/problems/kth-ancestor-of-a-tree-node/,Hard,,,,No
+1292,Maximum Side Length of a Square with Sum Less than or Equal to Threshold,https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/,Medium,100.0%,6m+,65.5%,No
+1293,Shortest Path in a Grid with Obstacles Elimination,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/,Hard,75.0%,6m+,46.1%,No
+1340,Jump Game V,https://leetcode.com/problems/jump-game-v/,Hard,,,,No
+1381,Design a Stack With Increment Operation,https://leetcode.com/problems/design-a-stack-with-increment-operation/,Medium,75.0%,6m+,79.9%,No
+1889,Minimum Space Wasted From Packaging,https://leetcode.com/problems/minimum-space-wasted-from-packaging/,Hard,100.0%,"3m,6m,6m+",33.4%,No
+1962,Remove Stones to Minimize the Total,https://leetcode.com/problems/remove-stones-to-minimize-the-total/,Medium,,,,No
+2534,Time Taken to Cross the Door,https://leetcode.com/problems/time-taken-to-cross-the-door/,Hard,,,,Yes
+2812,Find the Safest Path in a Grid,https://leetcode.com/problems/find-the-safest-path-in-a-grid/,Medium,75.0%,6m+,48.6%,No
+3169,Count Days Without Meetings,https://leetcode.com/problems/count-days-without-meetings/,Medium,,,,No
+3234,Count the Number of Substrings With Dominant Ones,https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/,Medium,,,,No
+3822,Design Order Management System,https://leetcode.com/problems/design-order-management-system/,Medium,,,,Yes

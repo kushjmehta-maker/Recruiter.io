@@ -1,0 +1,29 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,4.5%,6m+,57.1%,No
+21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,6.8%,6m+,67.9%,No
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,50.0%,6m+,58.8%,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,5.0%,6m+,51.1%,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,,,,No
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,,,,No
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,6.7%,6m+,54.4%,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+152,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/,Medium,,,,No
+167,Two Sum II - Input Array Is Sorted,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,Medium,,,,No
+206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No
+224,Basic Calculator,https://leetcode.com/problems/basic-calculator/,Hard,,,,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,5.5%,6m+,52.5%,Yes
+277,Find the Celebrity,https://leetcode.com/problems/find-the-celebrity/,Medium,11.1%,"30d,3m,6m,6m+",48.9%,Yes
+347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,50.0%,6m+,65.8%,No
+588,Design In-Memory File System,https://leetcode.com/problems/design-in-memory-file-system/,Hard,,,,Yes
+731,My Calendar II,https://leetcode.com/problems/my-calendar-ii/,Medium,,,,No
+933,Number of Recent Calls,https://leetcode.com/problems/number-of-recent-calls/,Easy,,,,No
+986,Interval List Intersections,https://leetcode.com/problems/interval-list-intersections/,Medium,,,,No
+1297,Maximum Number of Occurrences of a Substring,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/,Medium,75.0%,6m+,54.2%,No
+1751,Maximum Number of Events That Can Be Attended II,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/,Hard,,,,No
+2043,Simple Bank System,https://leetcode.com/problems/simple-bank-system/,Medium,87.5%,"30d,3m,6m,6m+",69.8%,No
+2386,Find the K-Sum of an Array,https://leetcode.com/problems/find-the-k-sum-of-an-array/,Hard,50.0%,6m+,41.1%,No
+2623,Memoize,https://leetcode.com/problems/memoize/,Medium,50.0%,,64.8%,No
+2933,High-Access Employees,https://leetcode.com/problems/high-access-employees/,Medium,,,,No
+3439,Reschedule Meetings for Maximum Free Time I,https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/,Medium,,,,No

@@ -1,0 +1,12 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,100.0%,,38.5%,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+44,Wildcard Matching,https://leetcode.com/problems/wildcard-matching/,Hard,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,100.0%,6m+,72.2%,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,100.0%,,51.1%,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,100.0%,6m+,50.4%,No
+179,Largest Number,https://leetcode.com/problems/largest-number/,Medium,,,,No
+378,Kth Smallest Element in a Sorted Matrix,https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/,Medium,,,,No
+394,Decode String,https://leetcode.com/problems/decode-string/,Medium,100.0%,"3m,6m",62.2%,No
+724,Find Pivot Index,https://leetcode.com/problems/find-pivot-index/,Easy,,,,No

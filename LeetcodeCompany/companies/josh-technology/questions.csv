@@ -1,0 +1,98 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,4.5%,6m+,47.9%,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+7,Reverse Integer,https://leetcode.com/problems/reverse-integer/,Medium,,,,No
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,,,,No
+19,Remove Nth Node From End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Medium,1.9%,6m+,51.0%,No
+21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,1.5%,6m+,67.9%,No
+22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,,,,No
+25,Reverse Nodes in k-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,Hard,3.3%,6m+,65.3%,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,2.3%,6m+,44.1%,No
+34,Find First and Last Position of Element in Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,2.4%,6m+,72.2%,No
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,3.9%,"6m,6m+",56.1%,No
+61,Rotate List,https://leetcode.com/problems/rotate-list/,Medium,3.2%,6m+,41.2%,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,1.6%,,53.9%,No
+71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,,,,No
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,62.5%,6m+,49.3%,No
+90,Subsets II,https://leetcode.com/problems/subsets-ii/,Medium,,,,No
+96,Unique Binary Search Trees,https://leetcode.com/problems/unique-binary-search-trees/,Medium,,,,No
+102,Binary Tree Level Order Traversal,https://leetcode.com/problems/binary-tree-level-order-traversal/,Medium,,,,No
+103,Binary Tree Zigzag Level Order Traversal,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/,Medium,,,,No
+112,Path Sum,https://leetcode.com/problems/path-sum/,Easy,,,,No
+114,Flatten Binary Tree to Linked List,https://leetcode.com/problems/flatten-binary-tree-to-linked-list/,Medium,62.5%,6m+,70.2%,No
+116,Populating Next Right Pointers in Each Node,https://leetcode.com/problems/populating-next-right-pointers-in-each-node/,Medium,,,,No
+120,Triangle,https://leetcode.com/problems/triangle/,Medium,,,,No
+132,Palindrome Partitioning II,https://leetcode.com/problems/palindrome-partitioning-ii/,Hard,62.5%,6m+,36.6%,No
+143,Reorder List,https://leetcode.com/problems/reorder-list/,Medium,,,,No
+151,Reverse Words in a String,https://leetcode.com/problems/reverse-words-in-a-string/,Medium,,,,No
+152,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/,Medium,,,,No
+160,Intersection of Two Linked Lists,https://leetcode.com/problems/intersection-of-two-linked-lists/,Easy,,,,No
+174,Dungeon Game,https://leetcode.com/problems/dungeon-game/,Hard,,,,No
+175,Combine Two Tables,https://leetcode.com/problems/combine-two-tables/,Easy,,,,No
+179,Largest Number,https://leetcode.com/problems/largest-number/,Medium,6.9%,"6m,6m+",42.6%,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
+206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No
+226,Invert Binary Tree,https://leetcode.com/problems/invert-binary-tree/,Easy,3.0%,6m+,79.8%,No
+230,Kth Smallest Element in a BST,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,Medium,,,,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,3.9%,6m+,63.5%,No
+328,Odd Even Linked List,https://leetcode.com/problems/odd-even-linked-list/,Medium,3.5%,6m+,62.3%,No
+337,House Robber III,https://leetcode.com/problems/house-robber-iii/,Medium,,,,No
+347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,,,,No
+394,Decode String,https://leetcode.com/problems/decode-string/,Medium,,,,No
+402,Remove K Digits,https://leetcode.com/problems/remove-k-digits/,Medium,4.0%,6m+,36.4%,No
+404,Sum of Left Leaves,https://leetcode.com/problems/sum-of-left-leaves/,Easy,,,,No
+413,Arithmetic Slices,https://leetcode.com/problems/arithmetic-slices/,Medium,,,,No
+414,Third Maximum Number,https://leetcode.com/problems/third-maximum-number/,Easy,,,,No
+424,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Medium,,,,No
+437,Path Sum III,https://leetcode.com/problems/path-sum-iii/,Medium,,,,No
+463,Island Perimeter,https://leetcode.com/problems/island-perimeter/,Easy,3.7%,,74.2%,No
+513,Find Bottom Left Tree Value,https://leetcode.com/problems/find-bottom-left-tree-value/,Medium,6.0%,6m+,72.2%,No
+515,Find Largest Value in Each Tree Row,https://leetcode.com/problems/find-largest-value-in-each-tree-row/,Medium,4.6%,6m,66.3%,No
+543,Diameter of Binary Tree,https://leetcode.com/problems/diameter-of-binary-tree/,Easy,,,,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
+605,Can Place Flowers,https://leetcode.com/problems/can-place-flowers/,Easy,,,,No
+617,Merge Two Binary Trees,https://leetcode.com/problems/merge-two-binary-trees/,Easy,4.9%,6m+,79.0%,No
+653,Two Sum IV - Input is a BST,https://leetcode.com/problems/two-sum-iv-input-is-a-bst/,Easy,,,,No
+669,Trim a Binary Search Tree,https://leetcode.com/problems/trim-a-binary-search-tree/,Medium,,,,No
+739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,3.1%,6m+,68.3%,No
+757,Set Intersection Size At Least Two,https://leetcode.com/problems/set-intersection-size-at-least-two/,Hard,,,,No
+814,Binary Tree Pruning,https://leetcode.com/problems/binary-tree-pruning/,Medium,,,,No
+863,All Nodes Distance K in Binary Tree,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/,Medium,,,,No
+875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,62.5%,6m+,49.7%,No
+929,Unique Email Addresses,https://leetcode.com/problems/unique-email-addresses/,Easy,,,,No
+962,Maximum Width Ramp,https://leetcode.com/problems/maximum-width-ramp/,Medium,,,,No
+987,Vertical Order Traversal of a Binary Tree,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/,Hard,,,,No
+993,Cousins in Binary Tree,https://leetcode.com/problems/cousins-in-binary-tree/,Easy,,,,No
+1004,Max Consecutive Ones III,https://leetcode.com/problems/max-consecutive-ones-iii/,Medium,,,,No
+1026,Maximum Difference Between Node and Ancestor,https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/,Medium,62.5%,6m+,78.1%,No
+1038,Binary Search Tree to Greater Sum Tree,https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/,Medium,,,,No
+1315,Sum of Nodes with Even-Valued Grandparent,https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/,Medium,62.5%,6m+,85.9%,No
+1171,Remove Zero Sum Consecutive Nodes from Linked List,https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/,Medium,62.5%,6m+,53.1%,No
+2273,Find Resultant Array After Removing Anagrams,https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/,Easy,,,,No
+1325,Delete Leaves With a Given Value,https://leetcode.com/problems/delete-leaves-with-a-given-value/,Medium,75.0%,6m+,77.2%,No
+1346,Check If N and Its Double Exist,https://leetcode.com/problems/check-if-n-and-its-double-exist/,Easy,,,,No
+1448,Count Good Nodes in Binary Tree,https://leetcode.com/problems/count-good-nodes-in-binary-tree/,Medium,62.5%,6m+,73.8%,No
+1572,Matrix Diagonal Sum,https://leetcode.com/problems/matrix-diagonal-sum/,Easy,,,,No
+1760,Minimum Limit of Balls in a Bag,https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/,Medium,,,,No
+1792,Maximum Average Pass Ratio,https://leetcode.com/problems/maximum-average-pass-ratio/,Medium,,,,No
+1817,Finding the Users Active Minutes,https://leetcode.com/problems/finding-the-users-active-minutes/,Medium,,,,No
+1864,Minimum Number of Swaps to Make the Binary String Alternating,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/,Medium,,,,No
+1888,Minimum Number of Flips to Make the Binary String Alternating,https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/,Medium,,,,No
+2058,Find the Minimum and Maximum Number of Nodes Between Critical Points,https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/,Medium,,,,No
+2074,Reverse Nodes in Even Length Groups,https://leetcode.com/problems/reverse-nodes-in-even-length-groups/,Medium,100.0%,"6m,6m+",63.6%,No
+2130,Maximum Twin Sum of a Linked List,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/,Medium,87.5%,6m+,81.6%,No
+2134,Minimum Swaps to Group All 1's Together II,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/,Medium,75.0%,6m+,65.6%,No
+2136,Earliest Possible Day of Full Bloom,https://leetcode.com/problems/earliest-possible-day-of-full-bloom/,Hard,,,,No
+2181,Merge Nodes in Between Zeros,https://leetcode.com/problems/merge-nodes-in-between-zeros/,Medium,75.0%,6m+,89.7%,No
+2265,Count Nodes Equal to Average of Subtree,https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/,Medium,,,,No
+2375,Construct Smallest Number From DI String,https://leetcode.com/problems/construct-smallest-number-from-di-string/,Medium,62.5%,6m+,85.6%,No
+2381,Shifting Letters II,https://leetcode.com/problems/shifting-letters-ii/,Medium,,,,No
+2415,Reverse Odd Levels of Binary Tree,https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/,Medium,75.0%,6m+,86.7%,No
+2606,Find the Substring With Maximum Cost,https://leetcode.com/problems/find-the-substring-with-maximum-cost/,Medium,62.5%,6m+,57.8%,No
+2824,Count Pairs Whose Sum is Less than Target,https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/,Easy,75.0%,6m+,87.7%,No
+3025,Find the Number of Ways to Place People I,https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/,Medium,,,,No
+3325,Count Substrings With K-Frequency Characters I,https://leetcode.com/problems/count-substrings-with-k-frequency-characters-i/,Medium,,,,No
+3321,Find X-Sum of All K-Long Subarrays II,https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/,Hard,,,,No

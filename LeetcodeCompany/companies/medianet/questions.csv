@@ -1,0 +1,76 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,3.7%,6m+,66.8%,No
+44,Wildcard Matching,https://leetcode.com/problems/wildcard-matching/,Hard,,,,No
+45,Jump Game II,https://leetcode.com/problems/jump-game-ii/,Medium,,,,No
+48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
+51,N-Queens,https://leetcode.com/problems/n-queens/,Hard,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,50.0%,,56.1%,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
+62,Unique Paths,https://leetcode.com/problems/unique-paths/,Medium,,,,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,1.9%,"30d,3m,6m",53.9%,No
+87,Scramble String,https://leetcode.com/problems/scramble-string/,Hard,,,,No
+99,Recover Binary Search Tree,https://leetcode.com/problems/recover-binary-search-tree/,Medium,6.5%,6m,58.7%,No
+106,Construct Binary Tree from Inorder and Postorder Traversal,https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/,Medium,,,,No
+114,Flatten Binary Tree to Linked List,https://leetcode.com/problems/flatten-binary-tree-to-linked-list/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,62.5%,6m+,46.8%,No
+173,Binary Search Tree Iterator,https://leetcode.com/problems/binary-search-tree-iterator/,Medium,,,,No
+208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,,,,No
+235,Lowest Common Ancestor of a Binary Search Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,Medium,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,50.0%,,48.4%,No
+300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,,,,No
+336,Palindrome Pairs,https://leetcode.com/problems/palindrome-pairs/,Hard,,,,No
+354,Russian Doll Envelopes,https://leetcode.com/problems/russian-doll-envelopes/,Hard,5.6%,"6m,6m+",37.7%,No
+355,Design Twitter,https://leetcode.com/problems/design-twitter/,Medium,,,,No
+402,Remove K Digits,https://leetcode.com/problems/remove-k-digits/,Medium,,,,No
+406,Queue Reconstruction by Height,https://leetcode.com/problems/queue-reconstruction-by-height/,Medium,62.5%,6m+,74.6%,No
+407,Trapping Rain Water II,https://leetcode.com/problems/trapping-rain-water-ii/,Hard,8.3%,6m+,64.0%,No
+416,Partition Equal Subset Sum,https://leetcode.com/problems/partition-equal-subset-sum/,Medium,,,,No
+567,Permutation in String,https://leetcode.com/problems/permutation-in-string/,Medium,,,,No
+621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,,,,No
+668,Kth Smallest Number in Multiplication Table,https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/,Hard,5.5%,6m+,53.8%,No
+698,Partition to K Equal Sum Subsets,https://leetcode.com/problems/partition-to-k-equal-sum-subsets/,Medium,,,,No
+763,Partition Labels,https://leetcode.com/problems/partition-labels/,Medium,,,,No
+796,Rotate String,https://leetcode.com/problems/rotate-string/,Easy,,,,No
+827,Making A Large Island,https://leetcode.com/problems/making-a-large-island/,Hard,87.5%,6m,56.3%,No
+855,Exam Room,https://leetcode.com/problems/exam-room/,Medium,,,,No
+895,Maximum Frequency Stack,https://leetcode.com/problems/maximum-frequency-stack/,Hard,,,,No
+926,Flip String to Monotone Increasing,https://leetcode.com/problems/flip-string-to-monotone-increasing/,Medium,,,,No
+940,Distinct Subsequences II,https://leetcode.com/problems/distinct-subsequences-ii/,Hard,,,,No
+947,Most Stones Removed with Same Row or Column,https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/,Medium,75.0%,6m+,62.7%,No
+959,Regions Cut By Slashes,https://leetcode.com/problems/regions-cut-by-slashes/,Medium,,,,No
+961,N-Repeated Element in Size 2N Array,https://leetcode.com/problems/n-repeated-element-in-size-2n-array/,Easy,,,,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,,,,No
+1046,Last Stone Weight,https://leetcode.com/problems/last-stone-weight/,Easy,,,,No
+1074,Number of Submatrices That Sum to Target,https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/,Hard,,,,No
+1193,Monthly Transactions I,https://leetcode.com/problems/monthly-transactions-i/,Medium,,,,No
+1222,Queens That Can Attack the King,https://leetcode.com/problems/queens-that-can-attack-the-king/,Medium,62.5%,6m+,72.6%,No
+1235,Maximum Profit in Job Scheduling,https://leetcode.com/problems/maximum-profit-in-job-scheduling/,Hard,,,,No
+1266,Minimum Time Visiting All Points,https://leetcode.com/problems/minimum-time-visiting-all-points/,Easy,62.5%,6m+,84.8%,No
+1292,Maximum Side Length of a Square with Sum Less than or Equal to Threshold,https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/,Medium,,,,No
+1376,Time Needed to Inform All Employees,https://leetcode.com/problems/time-needed-to-inform-all-employees/,Medium,62.5%,6m+,60.4%,No
+1547,Minimum Cost to Cut a Stick,https://leetcode.com/problems/minimum-cost-to-cut-a-stick/,Hard,,,,No
+1642,Furthest Building You Can Reach,https://leetcode.com/problems/furthest-building-you-can-reach/,Medium,62.5%,6m+,50.7%,No
+1667,Fix Names in a Table,https://leetcode.com/problems/fix-names-in-a-table/,Easy,,,,No
+1787,Make the XOR of All Segments Equal to Zero,https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/,Hard,62.5%,6m+,40.9%,No
+1879,Minimum XOR Sum of Two Arrays,https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/,Hard,62.5%,6m+,50.5%,No
+1938,Maximum Genetic Difference Query,https://leetcode.com/problems/maximum-genetic-difference-query/,Hard,62.5%,6m+,46.4%,No
+1959,Minimum Total Space Wasted With K Resizing Operations,https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/,Medium,62.5%,6m+,43.9%,No
+1994,The Number of Good Subsets,https://leetcode.com/problems/the-number-of-good-subsets/,Hard,62.5%,6m+,37.1%,No
+2382,Maximum Segment Sum After Removals,https://leetcode.com/problems/maximum-segment-sum-after-removals/,Hard,62.5%,6m+,49.3%,No
+2473,Minimum Cost to Buy Apples,https://leetcode.com/problems/minimum-cost-to-buy-apples/,Medium,62.5%,6m+,67.2%,Yes
+2479,Maximum XOR of Two Non-Overlapping Subtrees,https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees/,Hard,62.5%,6m+,52.0%,Yes
+2538,Difference Between Maximum and Minimum Price Sum,https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/,Hard,75.0%,6m+,33.2%,No
+2572,Count the Number of Square-Free Subsets,https://leetcode.com/problems/count-the-number-of-square-free-subsets/,Medium,75.0%,6m+,26.4%,No
+2616,Minimize the Maximum Difference of Pairs,https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/,Medium,,,,No
+2835,Minimum Operations to Form Subsequence With Target Sum,https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/,Hard,62.5%,6m+,32.3%,No
+2852,Sum of Remoteness of All Cells,https://leetcode.com/problems/sum-of-remoteness-of-all-cells/,Medium,62.5%,6m+,70.8%,Yes
+2874,Maximum Value of an Ordered Triplet II,https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/,Medium,62.5%,6m+,56.4%,No
+2873,Maximum Value of an Ordered Triplet I,https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/,Easy,62.5%,6m+,58.2%,No
+2945,Find Maximum Non-decreasing Array Length,https://leetcode.com/problems/find-maximum-non-decreasing-array-length/,Hard,62.5%,6m+,18.5%,No
+3291,Minimum Number of Valid Strings to Form Target I,https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i/,Medium,87.5%,6m,21.7%,No
+3685,Subsequence Sum After Capping Elements,https://leetcode.com/problems/subsequence-sum-after-capping-elements/,Medium,,,,No
+3594,Minimum Time to Transport All Individuals,https://leetcode.com/problems/minimum-time-to-transport-all-individuals/,Hard,,,,No
+3660,Jump Game IX,https://leetcode.com/problems/jump-game-ix/,Medium,87.5%,,23.8%,No

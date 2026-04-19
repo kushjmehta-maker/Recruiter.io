@@ -1,0 +1,27 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+16,3Sum Closest,https://leetcode.com/problems/3sum-closest/,Medium,,,,No
+24,Swap Nodes in Pairs,https://leetcode.com/problems/swap-nodes-in-pairs/,Medium,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,,,,No
+85,Maximal Rectangle,https://leetcode.com/problems/maximal-rectangle/,Hard,,,,No
+115,Distinct Subsequences,https://leetcode.com/problems/distinct-subsequences/,Hard,2.8%,6m+,51.5%,No
+174,Dungeon Game,https://leetcode.com/problems/dungeon-game/,Hard,,,,No
+401,Binary Watch,https://leetcode.com/problems/binary-watch/,Easy,,,,No
+592,Fraction Addition and Subtraction,https://leetcode.com/problems/fraction-addition-and-subtraction/,Medium,5.6%,6m+,66.4%,No
+647,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,Medium,,,,No
+749,Contain Virus,https://leetcode.com/problems/contain-virus/,Hard,,,,No
+828,Count Unique Characters of All Substrings of a Given String,https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/,Hard,,,,No
+1125,Smallest Sufficient Team,https://leetcode.com/problems/smallest-sufficient-team/,Hard,,,,No
+1307,Verbal Arithmetic Puzzle,https://leetcode.com/problems/verbal-arithmetic-puzzle/,Hard,,,,No
+1638,Count Substrings That Differ by One Character,https://leetcode.com/problems/count-substrings-that-differ-by-one-character/,Medium,,,,No
+1937,Maximum Number of Points with Cost,https://leetcode.com/problems/maximum-number-of-points-with-cost/,Medium,,,,No
+2438,Range Product Queries of Powers,https://leetcode.com/problems/range-product-queries-of-powers/,Medium,100.0%,6m+,61.4%,No
+2425,Bitwise XOR of All Pairings,https://leetcode.com/problems/bitwise-xor-of-all-pairings/,Medium,100.0%,6m+,66.9%,No
+2403,Minimum Time to Kill All Monsters,https://leetcode.com/problems/minimum-time-to-kill-all-monsters/,Hard,100.0%,6m+,57.2%,Yes
+2564,Substring XOR Queries,https://leetcode.com/problems/substring-xor-queries/,Medium,100.0%,6m+,35.4%,No
+2569,Handling Sum Queries After Update,https://leetcode.com/problems/handling-sum-queries-after-update/,Hard,100.0%,6m+,30.5%,No
+3277,Maximum XOR Score Subarray Queries,https://leetcode.com/problems/maximum-xor-score-subarray-queries/,Hard,,,,No
+3260,Find the Largest Palindrome Divisible by K,https://leetcode.com/problems/find-the-largest-palindrome-divisible-by-k/,Hard,,,,No
+3381,Maximum Subarray Sum With Length Divisible by K,https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/,Medium,,,,No
+3405,Count the Number of Arrays with K Matching Adjacent Elements,https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/,Hard,,,,No

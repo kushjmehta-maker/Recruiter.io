@@ -1,0 +1,43 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,62.5%,6m+,57.1%,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+16,3Sum Closest,https://leetcode.com/problems/3sum-closest/,Medium,,,,No
+21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,,,,No
+28,Find the Index of the First Occurrence in a String,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/,Easy,,,,No
+31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+44,Wildcard Matching,https://leetcode.com/problems/wildcard-matching/,Hard,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,2.9%,,72.2%,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+131,Palindrome Partitioning,https://leetcode.com/problems/palindrome-partitioning/,Medium,,,,No
+155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,,,,No
+166,Fraction to Recurring Decimal,https://leetcode.com/problems/fraction-to-recurring-decimal/,Medium,,,,No
+202,Happy Number,https://leetcode.com/problems/happy-number/,Easy,,,,No
+206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,62.5%,,80.3%,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
+217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,,,,No
+219,Contains Duplicate II,https://leetcode.com/problems/contains-duplicate-ii/,Easy,,,,No
+229,Majority Element II,https://leetcode.com/problems/majority-element-ii/,Medium,,,,No
+232,Implement Queue using Stacks,https://leetcode.com/problems/implement-queue-using-stacks/,Easy,,,,No
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,,,,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
+442,Find All Duplicates in an Array,https://leetcode.com/problems/find-all-duplicates-in-an-array/,Medium,,,,No
+626,Exchange Seats,https://leetcode.com/problems/exchange-seats/,Medium,,,,No
+680,Valid Palindrome II,https://leetcode.com/problems/valid-palindrome-ii/,Easy,,,,No
+735,Asteroid Collision,https://leetcode.com/problems/asteroid-collision/,Medium,,,,No
+912,Sort an Array,https://leetcode.com/problems/sort-an-array/,Medium,,,,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,,,,No
+1091,Shortest Path in Binary Matrix,https://leetcode.com/problems/shortest-path-in-binary-matrix/,Medium,,,,No
+1514,Path with Maximum Probability,https://leetcode.com/problems/path-with-maximum-probability/,Medium,,,,No
+1615,Maximal Network Rank,https://leetcode.com/problems/maximal-network-rank/,Medium,,,,No
+1668,Maximum Repeating Substring,https://leetcode.com/problems/maximum-repeating-substring/,Easy,,,,No
+1822,Sign of the Product of an Array,https://leetcode.com/problems/sign-of-the-product-of-an-array/,Easy,,,,No
+2620,Counter,https://leetcode.com/problems/counter/,Easy,,,,No
+2785,Sort Vowels in a String,https://leetcode.com/problems/sort-vowels-in-a-string/,Medium,,,,No
+2929,Distribute Candies Among Children II,https://leetcode.com/problems/distribute-candies-among-children-ii/,Medium,,,,No
+3013,Divide an Array Into Subarrays With Minimum Cost II,https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/,Hard,100.0%,6m+,54.8%,No
+3030,Find the Grid of Region Average,https://leetcode.com/problems/find-the-grid-of-region-average/,Medium,100.0%,6m+,43.2%,No
+3372,Maximize the Number of Target Nodes After Connecting Trees I,https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/,Medium,100.0%,6m+,69.5%,No
+3373,Maximize the Number of Target Nodes After Connecting Trees II,https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/,Hard,100.0%,6m+,73.2%,No
+3674,Minimum Operations to Equalize Array,https://leetcode.com/problems/minimum-operations-to-equalize-array/,Easy,,,,No

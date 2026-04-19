@@ -1,0 +1,17 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+131,Palindrome Partitioning,https://leetcode.com/problems/palindrome-partitioning/,Medium,,,,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
+224,Basic Calculator,https://leetcode.com/problems/basic-calculator/,Hard,4.2%,6m,46.5%,No
+263,Ugly Number,https://leetcode.com/problems/ugly-number/,Easy,,,,No
+770,Basic Calculator IV,https://leetcode.com/problems/basic-calculator-iv/,Hard,,,,No
+966,Vowel Spellchecker,https://leetcode.com/problems/vowel-spellchecker/,Medium,,,,No
+509,Fibonacci Number,https://leetcode.com/problems/fibonacci-number/,Easy,,,,No
+1017,Convert to Base -2,https://leetcode.com/problems/convert-to-base-2/,Medium,87.5%,,61.8%,No
+1070,Product Sales Analysis III,https://leetcode.com/problems/product-sales-analysis-iii/,Medium,6.0%,,,No
+1078,Occurrences After Bigram,https://leetcode.com/problems/occurrences-after-bigram/,Easy,,,,No
+1129,Shortest Path with Alternating Colors,https://leetcode.com/problems/shortest-path-with-alternating-colors/,Medium,,,,No
+1284,Minimum Number of Flips to Convert Binary Matrix to Zero Matrix,https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/,Hard,,,,No
+2416,Sum of Prefix Scores of Strings,https://leetcode.com/problems/sum-of-prefix-scores-of-strings/,Hard,100.0%,6m+,60.8%,No
+2428,Maximum Sum of an Hourglass,https://leetcode.com/problems/maximum-sum-of-an-hourglass/,Medium,,,,No

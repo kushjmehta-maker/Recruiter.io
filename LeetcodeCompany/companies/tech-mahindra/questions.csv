@@ -1,0 +1,25 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,100.0%,6m+,57.1%,No
+7,Reverse Integer,https://leetcode.com/problems/reverse-integer/,Medium,100.0%,6m+,31.5%,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,100.0%,,53.0%,No
+69,Sqrt(x),https://leetcode.com/problems/sqrtx/,Easy,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,100.0%,6m+,56.4%,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No
+138,Copy List with Random Pointer,https://leetcode.com/problems/copy-list-with-random-pointer/,Medium,,,,No
+202,Happy Number,https://leetcode.com/problems/happy-number/,Easy,,,,No
+204,Count Primes,https://leetcode.com/problems/count-primes/,Medium,100.0%,6m+,35.7%,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
+287,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,Medium,,,,No
+387,First Unique Character in a String,https://leetcode.com/problems/first-unique-character-in-a-string/,Easy,,,,No
+391,Perfect Rectangle,https://leetcode.com/problems/perfect-rectangle/,Hard,,,,No
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,,,,No
+570,Managers with at Least 5 Direct Reports,https://leetcode.com/problems/managers-with-at-least-5-direct-reports/,Medium,,,,No
+977,Squares of a Sorted Array,https://leetcode.com/problems/squares-of-a-sorted-array/,Easy,,,,No
+1128,Number of Equivalent Domino Pairs,https://leetcode.com/problems/number-of-equivalent-domino-pairs/,Easy,,,,No
+1378,Replace Employee ID With The Unique Identifier,https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/,Easy,,,,No
+1422,Maximum Score After Splitting a String,https://leetcode.com/problems/maximum-score-after-splitting-a-string/,Easy,,,,No
+1502,Can Make Arithmetic Progression From Sequence,https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/,Easy,,,,No
+1547,Minimum Cost to Cut a Stick,https://leetcode.com/problems/minimum-cost-to-cut-a-stick/,Hard,,,,No
+2929,Distribute Candies Among Children II,https://leetcode.com/problems/distribute-candies-among-children-ii/,Medium,,,,No

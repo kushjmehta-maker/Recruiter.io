@@ -1,0 +1,36 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,,,,No
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,,,,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,62.5%,6m+,51.1%,No
+63,Unique Paths II,https://leetcode.com/problems/unique-paths-ii/,Medium,,,,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,,,,No
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,,,,No
+82,Remove Duplicates from Sorted List II,https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/,Medium,,,,No
+135,Candy,https://leetcode.com/problems/candy/,Hard,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,62.5%,,46.8%,No
+184,Department Highest Salary,https://leetcode.com/problems/department-highest-salary/,Medium,62.5%,6m+,57.3%,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
+213,House Robber II,https://leetcode.com/problems/house-robber-ii/,Medium,,,,No
+269,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,Hard,62.5%,6m+,37.1%,Yes
+287,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,Medium,,,,No
+300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,,,,No
+394,Decode String,https://leetcode.com/problems/decode-string/,Medium,5.5%,"3m,6m,6m+",62.2%,No
+495,Teemo Attacking,https://leetcode.com/problems/teemo-attacking/,Easy,,,,No
+496,Next Greater Element I,https://leetcode.com/problems/next-greater-element-i/,Easy,,,,No
+546,Remove Boxes,https://leetcode.com/problems/remove-boxes/,Hard,,6m+,49.3%,No
+625,Minimum Factorization,https://leetcode.com/problems/minimum-factorization/,Medium,,6m+,33.9%,Yes
+746,Min Cost Climbing Stairs,https://leetcode.com/problems/min-cost-climbing-stairs/,Easy,,,,No
+796,Rotate String,https://leetcode.com/problems/rotate-string/,Easy,,,,No
+470,Implement Rand10() Using Rand7(),https://leetcode.com/problems/implement-rand10-using-rand7/,Medium,62.5%,6m+,46.2%,No
+1044,Longest Duplicate Substring,https://leetcode.com/problems/longest-duplicate-substring/,Hard,,,,No
+1174,Immediate Food Delivery II,https://leetcode.com/problems/immediate-food-delivery-ii/,Medium,,,,No
+1249,Minimum Remove to Make Valid Parentheses,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/,Medium,62.5%,6m+,71.3%,No
+1401,Circle and Rectangle Overlapping,https://leetcode.com/problems/circle-and-rectangle-overlapping/,Medium,,,,No
+1480,Running Sum of 1d Array,https://leetcode.com/problems/running-sum-of-1d-array/,Easy,,,,No
+2095,Delete the Middle Node of a Linked List,https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/,Medium,,,,No
+2141,Maximum Running Time of N Computers,https://leetcode.com/problems/maximum-running-time-of-n-computers/,Hard,,,,No
+2376,Count Special Integers,https://leetcode.com/problems/count-special-integers/,Hard,,,,No
+2627,Debounce,https://leetcode.com/problems/debounce/,Medium,62.5%,6m+,91.8%,No

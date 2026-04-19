@@ -1,0 +1,4 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,,,,No
+3170,Lexicographically Minimum String After Removing Stars,https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/,Medium,100.0%,6m+,51.0%,No
+3174,Clear Digits,https://leetcode.com/problems/clear-digits/,Easy,100.0%,6m+,82.7%,No

@@ -1,0 +1,9 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
+155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,,,,No
+237,Delete Node in a Linked List,https://leetcode.com/problems/delete-node-in-a-linked-list/,Medium,,,,No
+493,Reverse Pairs,https://leetcode.com/problems/reverse-pairs/,Hard,,,,No
+697,Degree of an Array,https://leetcode.com/problems/degree-of-an-array/,Easy,,6m+,58.2%,No
+1249,Minimum Remove to Make Valid Parentheses,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/,Medium,87.5%,6m+,71.3%,No
+1971,Find if Path Exists in Graph,https://leetcode.com/problems/find-if-path-exists-in-graph/,Easy,,,,No
+2162,Minimum Cost to Set Cooking Time,https://leetcode.com/problems/minimum-cost-to-set-cooking-time/,Medium,100.0%,6m+,41.5%,No

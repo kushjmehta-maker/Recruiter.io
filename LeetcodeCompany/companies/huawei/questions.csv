@@ -1,0 +1,67 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,100.0%,6m+,57.1%,No
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,2.8%,6m+,37.3%,No
+9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,,,,No
+10,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,Hard,,,,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,75.0%,6m+,59.5%,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,62.5%,,38.6%,No
+19,Remove Nth Node From End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,3.7%,6m+,43.7%,No
+21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,1.4%,6m+,67.9%,No
+22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,3.3%,6m+,78.2%,No
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,75.0%,6m+,58.8%,No
+29,Divide Two Integers,https://leetcode.com/problems/divide-two-integers/,Medium,,,,No
+32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,,,,No
+39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,75.0%,6m+,76.1%,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,62.5%,,66.8%,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+51,N-Queens,https://leetcode.com/problems/n-queens/,Hard,75.0%,6m+,74.9%,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,75.0%,6m+,53.0%,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+72,Edit Distance,https://leetcode.com/problems/edit-distance/,Medium,,,,No
+74,Search a 2D Matrix,https://leetcode.com/problems/search-a-2d-matrix/,Medium,,,,No
+85,Maximal Rectangle,https://leetcode.com/problems/maximal-rectangle/,Hard,,,,No
+134,Gas Station,https://leetcode.com/problems/gas-station/,Medium,,,,No
+136,Single Number,https://leetcode.com/problems/single-number/,Easy,,,,No
+141,Linked List Cycle,https://leetcode.com/problems/linked-list-cycle/,Easy,75.0%,6m+,53.9%,No
+171,Excel Sheet Column Number,https://leetcode.com/problems/excel-sheet-column-number/,Easy,,,,No
+177,Nth Highest Salary,https://leetcode.com/problems/nth-highest-salary/,Medium,,,,No
+179,Largest Number,https://leetcode.com/problems/largest-number/,Medium,,,,No
+190,Reverse Bits,https://leetcode.com/problems/reverse-bits/,Easy,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,3.5%,6m+,63.8%,No
+206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,,,,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
+230,Kth Smallest Element in a BST,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,Medium,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+240,Search a 2D Matrix II,https://leetcode.com/problems/search-a-2d-matrix-ii/,Medium,,,,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
+268,Missing Number,https://leetcode.com/problems/missing-number/,Easy,,,,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
+300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,2.8%,6m,59.0%,No
+310,Minimum Height Trees,https://leetcode.com/problems/minimum-height-trees/,Medium,,,,No
+316,Remove Duplicate Letters,https://leetcode.com/problems/remove-duplicate-letters/,Medium,,,,No
+329,Longest Increasing Path in a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,Hard,,,,No
+347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,,,,No
+378,Kth Smallest Element in a Sorted Matrix,https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/,Medium,,,,No
+394,Decode String,https://leetcode.com/problems/decode-string/,Medium,4.5%,6m+,62.2%,No
+402,Remove K Digits,https://leetcode.com/problems/remove-k-digits/,Medium,1.4%,6m+,36.4%,No
+409,Longest Palindrome,https://leetcode.com/problems/longest-palindrome/,Easy,,,,No
+556,Next Greater Element III,https://leetcode.com/problems/next-greater-element-iii/,Medium,,,,No
+603,Consecutive Available Seats,https://leetcode.com/problems/consecutive-available-seats/,Easy,,,,Yes
+640,Solve the Equation,https://leetcode.com/problems/solve-the-equation/,Medium,,,,No
+655,Print Binary Tree,https://leetcode.com/problems/print-binary-tree/,Medium,,,,No
+679,24 Game,https://leetcode.com/problems/24-game/,Hard,5.1%,6m+,59.3%,No
+739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,,,,No
+902,Numbers At Most N Given Digit Set,https://leetcode.com/problems/numbers-at-most-n-given-digit-set/,Hard,,,,No
+1248,Count Number of Nice Subarrays,https://leetcode.com/problems/count-number-of-nice-subarrays/,Medium,,,,No
+1277,Count Square Submatrices with All Ones,https://leetcode.com/problems/count-square-submatrices-with-all-ones/,Medium,,,,No
+1293,Shortest Path in a Grid with Obstacles Elimination,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/,Hard,,,,No
+1386,Cinema Seat Allocation,https://leetcode.com/problems/cinema-seat-allocation/,Medium,,,,No
+1448,Count Good Nodes in Binary Tree,https://leetcode.com/problems/count-good-nodes-in-binary-tree/,Medium,,,,No
+1702,Maximum Binary String After Change,https://leetcode.com/problems/maximum-binary-string-after-change/,Medium,75.0%,6m+,48.0%,No
+2161,Partition Array According to Given Pivot,https://leetcode.com/problems/partition-array-according-to-given-pivot/,Medium,,,,No
+2300,Successful Pairs of Spells and Potions,https://leetcode.com/problems/successful-pairs-of-spells-and-potions/,Medium,,,,No
+2617,Minimum Number of Visited Cells in a Grid,https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/,Hard,75.0%,6m+,23.6%,No
+2781,Length of the Longest Valid Substring,https://leetcode.com/problems/length-of-the-longest-valid-substring/,Hard,,,,No

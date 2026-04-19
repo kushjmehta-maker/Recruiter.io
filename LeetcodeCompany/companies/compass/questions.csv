@@ -1,0 +1,21 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,1.7%,6m+,72.2%,No
+91,Decode Ways,https://leetcode.com/problems/decode-ways/,Medium,,,,No
+139,Word Break,https://leetcode.com/problems/word-break/,Medium,,,,No
+211,Design Add and Search Words Data Structure,https://leetcode.com/problems/design-add-and-search-words-data-structure/,Medium,,,,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,4.3%,6m,52.5%,Yes
+329,Longest Increasing Path in a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,Hard,,,,No
+332,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,Hard,3.4%,,44.3%,No
+394,Decode String,https://leetcode.com/problems/decode-string/,Medium,4.1%,6m+,62.2%,No
+435,Non-overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/,Medium,,,,No
+572,Subtree of Another Tree,https://leetcode.com/problems/subtree-of-another-tree/,Easy,87.5%,6m+,51.2%,No
+729,My Calendar I,https://leetcode.com/problems/my-calendar-i/,Medium,,,,No
+772,Basic Calculator III,https://leetcode.com/problems/basic-calculator-iii/,Hard,,,,Yes
+981,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/,Medium,87.5%,6m+,49.7%,No
+1023,Camelcase Matching,https://leetcode.com/problems/camelcase-matching/,Medium,3.9%,6m+,65.0%,No
+1353,Maximum Number of Events That Can Be Attended,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/,Medium,,,,No
+2446,Determine if Two Events Have Conflict,https://leetcode.com/problems/determine-if-two-events-have-conflict/,Easy,,,,No
+2646,Minimize the Total Price of the Trips,https://leetcode.com/problems/minimize-the-total-price-of-the-trips/,Hard,,,,No
+2739,Total Distance Traveled,https://leetcode.com/problems/total-distance-traveled/,Easy,100.0%,6m+,41.2%,No

@@ -1,0 +1,20 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,,,,No
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No
+143,Reorder List,https://leetcode.com/problems/reorder-list/,Medium,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,100.0%,6m+,63.8%,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,,,,No
+236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Medium,,,,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
+309,Best Time to Buy and Sell Stock with Cooldown,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/,Medium,,,,No
+349,Intersection of Two Arrays,https://leetcode.com/problems/intersection-of-two-arrays/,Easy,,,,No
+350,Intersection of Two Arrays II,https://leetcode.com/problems/intersection-of-two-arrays-ii/,Easy,,,,No
+377,Combination Sum IV,https://leetcode.com/problems/combination-sum-iv/,Medium,,,,No
+378,Kth Smallest Element in a Sorted Matrix,https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/,Medium,,,,No
+494,Target Sum,https://leetcode.com/problems/target-sum/,Medium,,,,No
+743,Network Delay Time,https://leetcode.com/problems/network-delay-time/,Medium,,,,No
+1247,Minimum Swaps to Make Strings Equal,https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/,Medium,,,,No
+1762,Buildings With an Ocean View,https://leetcode.com/problems/buildings-with-an-ocean-view/,Medium,,,,Yes
+1898,Maximum Number of Removable Characters,https://leetcode.com/problems/maximum-number-of-removable-characters/,Medium,,,,No
+2444,Count Subarrays With Fixed Bounds,https://leetcode.com/problems/count-subarrays-with-fixed-bounds/,Hard,87.5%,6m+,69.3%,No

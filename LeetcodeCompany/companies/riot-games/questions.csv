@@ -1,0 +1,11 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,87.5%,6m+,64.1%,No
+37,Sudoku Solver,https://leetcode.com/problems/sudoku-solver/,Hard,87.5%,6m+,65.4%,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
+289,Game of Life,https://leetcode.com/problems/game-of-life/,Medium,62.5%,,72.3%,No
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,,,,No
+495,Teemo Attacking,https://leetcode.com/problems/teemo-attacking/,Easy,6.8%,6m+,57.5%,No
+1353,Maximum Number of Events That Can Be Attended,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/,Medium,,,,No
+3167,Better Compression of String,https://leetcode.com/problems/better-compression-of-string/,Medium,87.5%,6m+,75.2%,Yes

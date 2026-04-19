@@ -1,0 +1,15 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+164,Maximum Gap,https://leetcode.com/problems/maximum-gap/,Medium,,,,No
+301,Remove Invalid Parentheses,https://leetcode.com/problems/remove-invalid-parentheses/,Hard,5.2%,6m+,49.8%,No
+359,Logger Rate Limiter,https://leetcode.com/problems/logger-rate-limiter/,Easy,,,,Yes
+539,Minimum Time Difference,https://leetcode.com/problems/minimum-time-difference/,Medium,,,,No
+543,Diameter of Binary Tree,https://leetcode.com/problems/diameter-of-binary-tree/,Easy,,,,No
+632,Smallest Range Covering Elements from K Lists,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/,Hard,,,,No
+987,Vertical Order Traversal of a Binary Tree,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/,Hard,100.0%,6m+,53.2%,No
+1248,Count Number of Nice Subarrays,https://leetcode.com/problems/count-number-of-nice-subarrays/,Medium,100.0%,6m+,74.8%,No
+1797,Design Authentication Manager,https://leetcode.com/problems/design-authentication-manager/,Medium,100.0%,"3m,6m,6m+",58.4%,No
+1842,Next Palindrome Using Same Digits,https://leetcode.com/problems/next-palindrome-using-same-digits/,Hard,,,,Yes
+2332,The Latest Time to Catch a Bus,https://leetcode.com/problems/the-latest-time-to-catch-a-bus/,Medium,,,,No
+2942,Find Words Containing Character,https://leetcode.com/problems/find-words-containing-character/,Easy,100.0%,6m+,90.4%,No

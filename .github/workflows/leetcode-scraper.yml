@@ -1,0 +1,83 @@
+name: LeetCode Scraper Daily Run
+
+on:
+  schedule:
+    - cron: '17 6 * * *'  # 6:17 AM UTC daily
+  workflow_dispatch:       # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Auth check (fail fast if session expired)
+        env:
+          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+          LEETCODE_CSRF: ${{ secrets.LEETCODE_CSRF }}
+        run: |
+          python3 -c "
+          import json, urllib.request, os, sys
+          session = os.environ.get('LEETCODE_SESSION', '')
+          csrf = os.environ.get('LEETCODE_CSRF', '')
+          if not session or not csrf:
+              print('ERROR: LEETCODE_SESSION and LEETCODE_CSRF secrets not set.')
+              sys.exit(1)
+          payload = json.dumps({'query': 'query { companyTags { name } }'}).encode()
+          req = urllib.request.Request('https://leetcode.com/graphql', data=payload, method='POST')
+          req.add_header('Content-Type', 'application/json')
+          req.add_header('Cookie', f'LEETCODE_SESSION={session}; csrftoken={csrf}')
+          req.add_header('x-csrftoken', csrf)
+          req.add_header('Referer', 'https://leetcode.com')
+          req.add_header('User-Agent', 'Mozilla/5.0')
+          try:
+              with urllib.request.urlopen(req, timeout=30) as resp:
+                  data = json.loads(resp.read().decode())
+                  tags = data.get('data', {}).get('companyTags', [])
+                  if not tags:
+                      print('ERROR: Auth failed - no company tags returned. Session may be expired.')
+                      print('Please update the LEETCODE_SESSION secret in GitHub repo settings.')
+                      sys.exit(1)
+                  print(f'Auth OK - {len(tags)} companies accessible.')
+          except Exception as e:
+              print(f'ERROR: Auth check failed: {e}')
+              print('Please update the LEETCODE_SESSION secret in GitHub repo settings.')
+              sys.exit(1)
+          "
+
+      - name: Run scraper
+        env:
+          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+          LEETCODE_CSRF: ${{ secrets.LEETCODE_CSRF }}
+          JAVA_CSV_DIR: ${{ github.workspace }}/LeetcodeCompany/java_csv_data
+        run: |
+          cd LeetcodeCompany
+          python3 leetcode_companies.py
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add LeetcodeCompany/leetcode_company_questions.html
+          git add LeetcodeCompany/leetcode_company_questions.md
+          git add LeetcodeCompany/leetcode_company_questions.json
+          git add LeetcodeCompany/companies/
+          # Only commit if there are actual changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Daily LeetCode scraper update $(date +%Y-%m-%d)"
+            git pull --rebase origin main
+            git push
+          fi

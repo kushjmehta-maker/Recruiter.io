@@ -1,0 +1,19 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,100.0%,6m+,66.8%,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,1.9%,6m+,40.5%,No
+124,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Hard,,,,No
+273,Integer to English Words,https://leetcode.com/problems/integer-to-english-words/,Hard,,,,No
+396,Rotate Function,https://leetcode.com/problems/rotate-function/,Medium,,,,No
+410,Split Array Largest Sum,https://leetcode.com/problems/split-array-largest-sum/,Hard,,,,No
+498,Diagonal Traverse,https://leetcode.com/problems/diagonal-traverse/,Medium,,,,No
+502,IPO,https://leetcode.com/problems/ipo/,Hard,,,,No
+518,Coin Change II,https://leetcode.com/problems/coin-change-ii/,Medium,,,,No
+658,Find K Closest Elements,https://leetcode.com/problems/find-k-closest-elements/,Medium,,,,No
+875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,,,,No
+992,Subarrays with K Different Integers,https://leetcode.com/problems/subarrays-with-k-different-integers/,Hard,,,,No
+1339,Maximum Product of Splitted Binary Tree,https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/,Medium,,,,No
+1584,Min Cost to Connect All Points,https://leetcode.com/problems/min-cost-to-connect-all-points/,Medium,,,,No
+2616,Minimize the Maximum Difference of Pairs,https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/,Medium,100.0%,6m+,50.9%,No
+3394,Check if Grid can be Cut into Sections,https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/,Medium,,,,No

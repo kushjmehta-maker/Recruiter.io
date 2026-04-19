@@ -1,0 +1,11 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,87.5%,"3m,6m",45.9%,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,87.5%,"3m,6m",43.7%,No
+21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,87.5%,"3m,6m",67.9%,No
+26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,100.0%,"3m,6m",62.2%,No
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,100.0%,"3m,6m",64.1%,No
+62,Unique Paths,https://leetcode.com/problems/unique-paths/,Medium,,,,No
+271,Encode and Decode Strings,https://leetcode.com/problems/encode-and-decode-strings/,Medium,87.5%,"3m,6m",51.2%,Yes
+1581,Customer Who Visited but Did Not Make Any Transactions,https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/,Easy,,,,No
+3477,Fruits Into Baskets II,https://leetcode.com/problems/fruits-into-baskets-ii/,Easy,100.0%,"3m,6m",70.2%,No

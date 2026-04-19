@@ -1,0 +1,56 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,100.0%,6m+,57.1%,No
+2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,75.0%,6m+,37.3%,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,2.0%,6m+,59.5%,No
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,,,,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,3.5%,"6m,6m+",43.7%,No
+27,Remove Element,https://leetcode.com/problems/remove-element/,Easy,,,,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+51,N-Queens,https://leetcode.com/problems/n-queens/,Hard,,,,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
+61,Rotate List,https://leetcode.com/problems/rotate-list/,Medium,,,,No
+67,Add Binary,https://leetcode.com/problems/add-binary/,Easy,,,,No
+69,Sqrt(x),https://leetcode.com/problems/sqrtx/,Easy,,,,No
+79,Word Search,https://leetcode.com/problems/word-search/,Medium,75.0%,6m+,46.8%,No
+99,Recover Binary Search Tree,https://leetcode.com/problems/recover-binary-search-tree/,Medium,,,,No
+109,Convert Sorted List to Binary Search Tree,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,3.7%,6m+,56.4%,No
+124,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Hard,,,,No
+134,Gas Station,https://leetcode.com/problems/gas-station/,Medium,75.0%,6m+,47.5%,No
+135,Candy,https://leetcode.com/problems/candy/,Hard,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,,,,No
+167,Two Sum II - Input Array Is Sorted,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,Medium,,,,No
+184,Department Highest Salary,https://leetcode.com/problems/department-highest-salary/,Medium,,,,No
+189,Rotate Array,https://leetcode.com/problems/rotate-array/,Medium,,,,No
+204,Count Primes,https://leetcode.com/problems/count-primes/,Medium,,,,No
+206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No
+212,Word Search II,https://leetcode.com/problems/word-search-ii/,Hard,,,,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
+237,Delete Node in a Linked List,https://leetcode.com/problems/delete-node-in-a-linked-list/,Medium,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,75.0%,6m+,67.8%,No
+260,Single Number III,https://leetcode.com/problems/single-number-iii/,Medium,,,,No
+268,Missing Number,https://leetcode.com/problems/missing-number/,Easy,,,,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
+322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,3.7%,6m,47.9%,No
+371,Sum of Two Integers,https://leetcode.com/problems/sum-of-two-integers/,Medium,,,,No
+412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,100.0%,"30d,3m,6m",75.2%,No
+494,Target Sum,https://leetcode.com/problems/target-sum/,Medium,,,,No
+498,Diagonal Traverse,https://leetcode.com/problems/diagonal-traverse/,Medium,,,,No
+516,Longest Palindromic Subsequence,https://leetcode.com/problems/longest-palindromic-subsequence/,Medium,,,,No
+518,Coin Change II,https://leetcode.com/problems/coin-change-ii/,Medium,,,,No
+726,Number of Atoms,https://leetcode.com/problems/number-of-atoms/,Hard,,,,No
+796,Rotate String,https://leetcode.com/problems/rotate-string/,Easy,,,,No
+509,Fibonacci Number,https://leetcode.com/problems/fibonacci-number/,Easy,,,,No
+1068,Product Sales Analysis I,https://leetcode.com/problems/product-sales-analysis-i/,Easy,,,,No
+1962,Remove Stones to Minimize the Total,https://leetcode.com/problems/remove-stones-to-minimize-the-total/,Medium,,,,No
+2062,Count Vowel Substrings of a String,https://leetcode.com/problems/count-vowel-substrings-of-a-string/,Easy,,,,No
+2073,Time Needed to Buy Tickets,https://leetcode.com/problems/time-needed-to-buy-tickets/,Easy,,,,No
+2532,Time to Cross a Bridge,https://leetcode.com/problems/time-to-cross-a-bridge/,Hard,,,,No

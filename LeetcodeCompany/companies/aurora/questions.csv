@@ -1,0 +1,29 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+67,Add Binary,https://leetcode.com/problems/add-binary/,Easy,,,,No
+79,Word Search,https://leetcode.com/problems/word-search/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,6.0%,"3m,6m,6m+",46.8%,No
+167,Two Sum II - Input Array Is Sorted,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,Medium,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,3.2%,,,No
+212,Word Search II,https://leetcode.com/problems/word-search-ii/,Hard,4.2%,6m+,38.1%,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,3.5%,"3m,6m",48.4%,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,4.5%,,52.5%,Yes
+286,Walls and Gates,https://leetcode.com/problems/walls-and-gates/,Medium,,,,Yes
+305,Number of Islands II,https://leetcode.com/problems/number-of-islands-ii/,Hard,75.0%,6m+,40.4%,Yes
+341,Flatten Nested List Iterator,https://leetcode.com/problems/flatten-nested-list-iterator/,Medium,75.0%,6m+,65.6%,No
+416,Partition Equal Subset Sum,https://leetcode.com/problems/partition-equal-subset-sum/,Medium,,,,No
+488,Zuma Game,https://leetcode.com/problems/zuma-game/,Hard,75.0%,6m+,30.2%,No
+542,01 Matrix,https://leetcode.com/problems/01-matrix/,Medium,,,,No
+543,Diameter of Binary Tree,https://leetcode.com/problems/diameter-of-binary-tree/,Easy,75.0%,6m+,65.0%,No
+694,Number of Distinct Islands,https://leetcode.com/problems/number-of-distinct-islands/,Medium,75.0%,6m+,62.7%,Yes
+815,Bus Routes,https://leetcode.com/problems/bus-routes/,Hard,,,,No
+641,Design Circular Deque,https://leetcode.com/problems/design-circular-deque/,Medium,,,,No
+860,Lemonade Change,https://leetcode.com/problems/lemonade-change/,Easy,,,,No
+1166,Design File System,https://leetcode.com/problems/design-file-system/,Medium,,,,Yes
+1258,Synonymous Sentences,https://leetcode.com/problems/synonymous-sentences/,Medium,,,,Yes
+1146,Snapshot Array,https://leetcode.com/problems/snapshot-array/,Medium,,,,No
+1191,K-Concatenation Maximum Sum,https://leetcode.com/problems/k-concatenation-maximum-sum/,Medium,,,,No
+1209,Remove All Adjacent Duplicates in String II,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/,Medium,,,,No
+1344,Angle Between Hands of a Clock,https://leetcode.com/problems/angle-between-hands-of-a-clock/,Medium,,,,No
+1610,Maximum Number of Visible Points,https://leetcode.com/problems/maximum-number-of-visible-points/,Hard,75.0%,6m+,37.9%,No
+2563,Count the Number of Fair Pairs,https://leetcode.com/problems/count-the-number-of-fair-pairs/,Medium,,,,No

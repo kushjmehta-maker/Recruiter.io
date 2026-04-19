@@ -1,0 +1,64 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
+27,Remove Element,https://leetcode.com/problems/remove-element/,Easy,,,,No
+32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,50.0%,,66.8%,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,5.6%,6m+,50.0%,No
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,,,,No
+87,Scramble String,https://leetcode.com/problems/scramble-string/,Hard,,,,No
+111,Minimum Depth of Binary Tree,https://leetcode.com/problems/minimum-depth-of-binary-tree/,Easy,,,,No
+122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,,,,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,,,,No
+136,Single Number,https://leetcode.com/problems/single-number/,Easy,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+232,Implement Queue using Stacks,https://leetcode.com/problems/implement-queue-using-stacks/,Easy,,,,No
+241,Different Ways to Add Parentheses,https://leetcode.com/problems/different-ways-to-add-parentheses/,Medium,,,,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
+269,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,Hard,,,,Yes
+271,Encode and Decode Strings,https://leetcode.com/problems/encode-and-decode-strings/,Medium,8.4%,"6m,6m+",51.2%,Yes
+286,Walls and Gates,https://leetcode.com/problems/walls-and-gates/,Medium,,,,Yes
+311,Sparse Matrix Multiplication,https://leetcode.com/problems/sparse-matrix-multiplication/,Medium,,,,Yes
+329,Longest Increasing Path in a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,Hard,,,,No
+339,Nested List Weight Sum,https://leetcode.com/problems/nested-list-weight-sum/,Medium,,,,Yes
+341,Flatten Nested List Iterator,https://leetcode.com/problems/flatten-nested-list-iterator/,Medium,8.2%,6m+,65.6%,No
+362,Design Hit Counter,https://leetcode.com/problems/design-hit-counter/,Medium,4.5%,,,Yes
+407,Trapping Rain Water II,https://leetcode.com/problems/trapping-rain-water-ii/,Hard,,,,No
+412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
+454,4Sum II,https://leetcode.com/problems/4sum-ii/,Medium,,,,No
+455,Assign Cookies,https://leetcode.com/problems/assign-cookies/,Easy,,,,No
+486,Predict the Winner,https://leetcode.com/problems/predict-the-winner/,Medium,,,,No
+501,Find Mode in Binary Search Tree,https://leetcode.com/problems/find-mode-in-binary-search-tree/,Easy,,,,No
+541,Reverse String II,https://leetcode.com/problems/reverse-string-ii/,Easy,,,,No
+588,Design In-Memory File System,https://leetcode.com/problems/design-in-memory-file-system/,Hard,,,,Yes
+631,Design Excel Sum Formula,https://leetcode.com/problems/design-excel-sum-formula/,Hard,8.8%,6m+,39.8%,Yes
+636,Exclusive Time of Functions,https://leetcode.com/problems/exclusive-time-of-functions/,Medium,,,,No
+676,Implement Magic Dictionary,https://leetcode.com/problems/implement-magic-dictionary/,Medium,,,,No
+733,Flood Fill,https://leetcode.com/problems/flood-fill/,Easy,50.0%,6m+,67.8%,No
+735,Asteroid Collision,https://leetcode.com/problems/asteroid-collision/,Medium,3.6%,6m+,47.1%,No
+751,IP to CIDR,https://leetcode.com/problems/ip-to-cidr/,Medium,100.0%,"3m,6m,6m+",53.7%,Yes
+844,Backspace String Compare,https://leetcode.com/problems/backspace-string-compare/,Easy,,,,No
+867,Transpose Matrix,https://leetcode.com/problems/transpose-matrix/,Easy,,,,No
+887,Super Egg Drop,https://leetcode.com/problems/super-egg-drop/,Hard,,,,No
+909,Snakes and Ladders,https://leetcode.com/problems/snakes-and-ladders/,Medium,,,,No
+981,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/,Medium,75.0%,"6m,6m+",49.7%,No
+983,Minimum Cost For Tickets,https://leetcode.com/problems/minimum-cost-for-tickets/,Medium,,,,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,87.5%,"3m,6m",58.1%,No
+1024,Video Stitching,https://leetcode.com/problems/video-stitching/,Medium,,,,No
+1041,Robot Bounded In Circle,https://leetcode.com/problems/robot-bounded-in-circle/,Medium,,,,No
+1146,Snapshot Array,https://leetcode.com/problems/snapshot-array/,Medium,,,,No
+1236,Web Crawler,https://leetcode.com/problems/web-crawler/,Medium,,,,Yes
+1206,Design Skiplist,https://leetcode.com/problems/design-skiplist/,Hard,,,,No
+1235,Maximum Profit in Job Scheduling,https://leetcode.com/problems/maximum-profit-in-job-scheduling/,Hard,,,,No
+1242,Web Crawler Multithreaded,https://leetcode.com/problems/web-crawler-multithreaded/,Medium,50.0%,6m+,51.0%,Yes
+1292,Maximum Side Length of a Square with Sum Less than or Equal to Threshold,https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/,Medium,,,,No
+1413,Minimum Value to Get Positive Step by Step Sum,https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/,Easy,,,,No
+1948,Delete Duplicate Folders in System,https://leetcode.com/problems/delete-duplicate-folders-in-system/,Hard,,,,No
+2235,Add Two Integers,https://leetcode.com/problems/add-two-integers/,Easy,,,,No
+2373,Largest Local Values in a Matrix,https://leetcode.com/problems/largest-local-values-in-a-matrix/,Easy,50.0%,6m+,87.7%,No
+2408,Design SQL,https://leetcode.com/problems/design-sql/,Medium,75.0%,"6m,6m+",64.7%,Yes
+2502,Design Memory Allocator,https://leetcode.com/problems/design-memory-allocator/,Medium,87.5%,"3m,6m,6m+",49.7%,No
+3377,Digit Operations to Make Two Integers Equal,https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/,Medium,,,,No
+3484,Design Spreadsheet,https://leetcode.com/problems/design-spreadsheet/,Medium,50.0%,,74.3%,No
+3657,Find Loyal Customers,https://leetcode.com/problems/find-loyal-customers/,Medium,,,,No

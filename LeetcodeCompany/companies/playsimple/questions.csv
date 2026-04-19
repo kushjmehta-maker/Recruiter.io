@@ -1,0 +1,14 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,100.0%,,43.7%,No
+25,Reverse Nodes in k-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,Hard,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+72,Edit Distance,https://leetcode.com/problems/edit-distance/,Medium,,,,No
+315,Count of Smaller Numbers After Self,https://leetcode.com/problems/count-of-smaller-numbers-after-self/,Hard,,,,No
+432,All O`one Data Structure,https://leetcode.com/problems/all-oone-data-structure/,Hard,,,,No
+881,Boats to Save People,https://leetcode.com/problems/boats-to-save-people/,Medium,,,,No
+2139,Minimum Moves to Reach Target Score,https://leetcode.com/problems/minimum-moves-to-reach-target-score/,Medium,,,,No
+1353,Maximum Number of Events That Can Be Attended,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/,Medium,,,,No
+1415,The k-th Lexicographical String of All Happy Strings of Length n,https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/,Medium,,,,No
+1460,Make Two Arrays Equal by Reversing Subarrays,https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/,Easy,,,,No

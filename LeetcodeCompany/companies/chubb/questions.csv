@@ -1,0 +1,21 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,,,,No
+35,Search Insert Position,https://leetcode.com/problems/search-insert-position/,Easy,,,,No
+109,Convert Sorted List to Binary Search Tree,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/,Medium,,,,No
+122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,,,,No
+134,Gas Station,https://leetcode.com/problems/gas-station/,Medium,87.5%,6m+,47.5%,No
+185,Department Top Three Salaries,https://leetcode.com/problems/department-top-three-salaries/,Hard,,,,No
+221,Maximal Square,https://leetcode.com/problems/maximal-square/,Medium,,,,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
+328,Odd Even Linked List,https://leetcode.com/problems/odd-even-linked-list/,Medium,,,,No
+336,Palindrome Pairs,https://leetcode.com/problems/palindrome-pairs/,Hard,,,,No
+387,First Unique Character in a String,https://leetcode.com/problems/first-unique-character-in-a-string/,Easy,,,,No
+808,Soup Servings,https://leetcode.com/problems/soup-servings/,Medium,,,,No
+876,Middle of the Linked List,https://leetcode.com/problems/middle-of-the-linked-list/,Easy,,,,No
+509,Fibonacci Number,https://leetcode.com/problems/fibonacci-number/,Easy,,,,No
+1529,Minimum Suffix Flips,https://leetcode.com/problems/minimum-suffix-flips/,Medium,,,,No
+2104,Sum of Subarray Ranges,https://leetcode.com/problems/sum-of-subarray-ranges/,Medium,87.5%,,60.7%,No
+2444,Count Subarrays With Fixed Bounds,https://leetcode.com/problems/count-subarrays-with-fixed-bounds/,Hard,87.5%,,69.3%,No
+3355,Zero Array Transformation I,https://leetcode.com/problems/zero-array-transformation-i/,Medium,100.0%,6m+,54.4%,No

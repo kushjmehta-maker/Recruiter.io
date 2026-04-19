@@ -1,0 +1,17 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,87.5%,6m+,57.1%,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,2.4%,6m+,43.7%,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,5.0%,6m+,44.1%,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,3.4%,,53.0%,No
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
+287,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,Medium,,,,No
+323,Number of Connected Components in an Undirected Graph,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/,Medium,,,,Yes
+349,Intersection of Two Arrays,https://leetcode.com/problems/intersection-of-two-arrays/,Easy,5.5%,6m+,77.5%,No
+350,Intersection of Two Arrays II,https://leetcode.com/problems/intersection-of-two-arrays-ii/,Easy,4.8%,"3m,6m",59.7%,No
+383,Ransom Note,https://leetcode.com/problems/ransom-note/,Easy,5.3%,6m+,65.6%,No
+645,Set Mismatch,https://leetcode.com/problems/set-mismatch/,Easy,,,,No
+733,Flood Fill,https://leetcode.com/problems/flood-fill/,Easy,5.7%,6m+,67.8%,No
+704,Binary Search,https://leetcode.com/problems/binary-search/,Easy,,,,No
+528,Random Pick with Weight,https://leetcode.com/problems/random-pick-with-weight/,Medium,87.5%,6m+,48.9%,No

@@ -1,0 +1,21 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,87.5%,6m+,57.1%,No
+7,Reverse Integer,https://leetcode.com/problems/reverse-integer/,Medium,,,,No
+9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,87.5%,6m+,60.2%,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
+67,Add Binary,https://leetcode.com/problems/add-binary/,Easy,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,3.1%,6m+,56.4%,No
+185,Department Top Three Salaries,https://leetcode.com/problems/department-top-three-salaries/,Hard,,,,No
+191,Number of 1 Bits,https://leetcode.com/problems/number-of-1-bits/,Easy,,,,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
+344,Reverse String,https://leetcode.com/problems/reverse-string/,Easy,87.5%,6m+,80.5%,No
+402,Remove K Digits,https://leetcode.com/problems/remove-k-digits/,Medium,,,,No
+570,Managers with at Least 5 Direct Reports,https://leetcode.com/problems/managers-with-at-least-5-direct-reports/,Medium,,,,No
+908,Smallest Range I,https://leetcode.com/problems/smallest-range-i/,Easy,,,,No
+944,Delete Columns to Make Sorted,https://leetcode.com/problems/delete-columns-to-make-sorted/,Easy,87.5%,6m+,78.1%,No
+1143,Longest Common Subsequence,https://leetcode.com/problems/longest-common-subsequence/,Medium,,,,No
+1342,Number of Steps to Reduce a Number to Zero,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/,Easy,,,,No
+1608,Special Array With X Elements Greater Than or Equal X,https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/,Easy,,,,No
+1791,Find Center of Star Graph,https://leetcode.com/problems/find-center-of-star-graph/,Easy,,,,No
+2144,Minimum Cost of Buying Candies With Discount,https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/,Easy,100.0%,6m+,62.7%,No
+2570,Merge Two 2D Arrays by Summing Values,https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/,Easy,,,,No

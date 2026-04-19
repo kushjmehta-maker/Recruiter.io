@@ -1,0 +1,54 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,2.2%,6m+,70.4%,No
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,62.5%,6m+,66.2%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,62.5%,6m+,38.0%,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
+46,Permutations,https://leetcode.com/problems/permutations/,Medium,2.7%,6m+,81.6%,No
+64,Minimum Path Sum,https://leetcode.com/problems/minimum-path-sum/,Medium,,,,No
+80,Remove Duplicates from Sorted Array II,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.8%,6m+,46.8%,No
+179,Largest Number,https://leetcode.com/problems/largest-number/,Medium,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,,,,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,,,,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
+221,Maximal Square,https://leetcode.com/problems/maximal-square/,Medium,6.3%,6m+,50.0%,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,5.5%,"3m,6m,6m+",48.4%,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
+273,Integer to English Words,https://leetcode.com/problems/integer-to-english-words/,Hard,,,,No
+277,Find the Celebrity,https://leetcode.com/problems/find-the-celebrity/,Medium,,,,Yes
+309,Best Time to Buy and Sell Stock with Cooldown,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/,Medium,,,,No
+322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No
+332,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,Hard,5.2%,6m+,44.3%,No
+362,Design Hit Counter,https://leetcode.com/problems/design-hit-counter/,Medium,,,,Yes
+365,Water and Jug Problem,https://leetcode.com/problems/water-and-jug-problem/,Medium,,,,No
+636,Exclusive Time of Functions,https://leetcode.com/problems/exclusive-time-of-functions/,Medium,,,,No
+752,Open the Lock,https://leetcode.com/problems/open-the-lock/,Medium,,,,No
+787,Cheapest Flights Within K Stops,https://leetcode.com/problems/cheapest-flights-within-k-stops/,Medium,,,,No
+983,Minimum Cost For Tickets,https://leetcode.com/problems/minimum-cost-for-tickets/,Medium,,,,No
+992,Subarrays with K Different Integers,https://leetcode.com/problems/subarrays-with-k-different-integers/,Hard,,,,No
+1004,Max Consecutive Ones III,https://leetcode.com/problems/max-consecutive-ones-iii/,Medium,,,,No
+1034,Coloring A Border,https://leetcode.com/problems/coloring-a-border/,Medium,62.5%,6m+,51.1%,No
+1328,Break a Palindrome,https://leetcode.com/problems/break-a-palindrome/,Medium,,,,No
+1427,Perform String Shifts,https://leetcode.com/problems/perform-string-shifts/,Easy,,,,Yes
+1248,Count Number of Nice Subarrays,https://leetcode.com/problems/count-number-of-nice-subarrays/,Medium,,,,No
+1493,Longest Subarray of 1's After Deleting One Element,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/,Medium,,,,No
+1481,Least Number of Unique Integers after K Removals,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/,Medium,,,,No
+1502,Can Make Arithmetic Progression From Sequence,https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/,Easy,,,,No
+1648,Sell Diminishing-Valued Colored Balls,https://leetcode.com/problems/sell-diminishing-valued-colored-balls/,Medium,,,,No
+1768,Merge Strings Alternately,https://leetcode.com/problems/merge-strings-alternately/,Easy,,,,No
+1948,Delete Duplicate Folders in System,https://leetcode.com/problems/delete-duplicate-folders-in-system/,Hard,75.0%,6m+,77.7%,No
+1962,Remove Stones to Minimize the Total,https://leetcode.com/problems/remove-stones-to-minimize-the-total/,Medium,,,,No
+2032,Two Out of Three,https://leetcode.com/problems/two-out-of-three/,Easy,62.5%,6m+,77.4%,No
+2062,Count Vowel Substrings of a String,https://leetcode.com/problems/count-vowel-substrings-of-a-string/,Easy,,,,No
+2146,K Highest Ranked Items Within a Price Range,https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/,Medium,62.5%,6m+,46.4%,No
+2159,Order Two Columns Independently,https://leetcode.com/problems/order-two-columns-independently/,Medium,,6m+,61.5%,Yes
+2512,Reward Top K Students,https://leetcode.com/problems/reward-top-k-students/,Medium,100.0%,"30d,3m,6m,6m+",46.8%,No
+2587,Rearrange Array to Maximize Prefix Score,https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/,Medium,,,,No
+2558,Take Gifts From the Richest Pile,https://leetcode.com/problems/take-gifts-from-the-richest-pile/,Easy,,,,No
+2571,Minimum Operations to Reduce an Integer to 0,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/,Medium,,,,No
+3085,Minimum Deletions to Make String K-Special,https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/,Medium,,,,No
+3366,Minimum Array Sum,https://leetcode.com/problems/minimum-array-sum/,Medium,,,,No

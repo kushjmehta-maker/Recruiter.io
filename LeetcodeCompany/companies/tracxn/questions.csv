@@ -1,0 +1,9 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+79,Word Search,https://leetcode.com/problems/word-search/,Medium,,,,No
+135,Candy,https://leetcode.com/problems/candy/,Hard,,,,No
+141,Linked List Cycle,https://leetcode.com/problems/linked-list-cycle/,Easy,,,,No
+179,Largest Number,https://leetcode.com/problems/largest-number/,Medium,100.0%,6m+,42.6%,No
+459,Repeated Substring Pattern,https://leetcode.com/problems/repeated-substring-pattern/,Easy,,,,No

@@ -1,0 +1,23 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,100.0%,6m+,60.2%,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,87.5%,6m+,50.4%,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,100.0%,6m+,52.8%,No
+185,Department Top Three Salaries,https://leetcode.com/problems/department-top-three-salaries/,Hard,75.0%,6m+,59.8%,No
+209,Minimum Size Subarray Sum,https://leetcode.com/problems/minimum-size-subarray-sum/,Medium,87.5%,6m+,51.0%,No
+262,Trips and Users,https://leetcode.com/problems/trips-and-users/,Hard,,,,No
+319,Bulb Switcher,https://leetcode.com/problems/bulb-switcher/,Medium,,,,No
+322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No
+493,Reverse Pairs,https://leetcode.com/problems/reverse-pairs/,Hard,,,,No
+547,Number of Provinces,https://leetcode.com/problems/number-of-provinces/,Medium,,,,No
+621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,100.0%,6m+,62.6%,No
+1143,Longest Common Subsequence,https://leetcode.com/problems/longest-common-subsequence/,Medium,,,,No
+1312,Minimum Insertion Steps to Make a String Palindrome,https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/,Hard,,,,No
+1457,Pseudo-Palindromic Paths in a Binary Tree,https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/,Medium,100.0%,6m+,68.4%,No
+2502,Design Memory Allocator,https://leetcode.com/problems/design-memory-allocator/,Medium,,,,No
+3045,Count Prefix and Suffix Pairs II,https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/,Hard,,,,No
+3433,Count Mentions Per User,https://leetcode.com/problems/count-mentions-per-user/,Medium,100.0%,6m+,50.8%,No
+3452,Sum of Good Numbers,https://leetcode.com/problems/sum-of-good-numbers/,Easy,100.0%,6m+,69.5%,No
+3447,Assign Elements to Groups with Constraints,https://leetcode.com/problems/assign-elements-to-groups-with-constraints/,Medium,100.0%,6m+,26.7%,No
+3548,Equal Sum Grid Partition II,https://leetcode.com/problems/equal-sum-grid-partition-ii/,Hard,,,,No

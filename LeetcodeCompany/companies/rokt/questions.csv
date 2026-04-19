@@ -1,0 +1,11 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+10,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,Hard,100.0%,6m,30.4%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,87.5%,6m,43.7%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
+224,Basic Calculator,https://leetcode.com/problems/basic-calculator/,Hard,87.5%,"6m,6m+",46.5%,No
+227,Basic Calculator II,https://leetcode.com/problems/basic-calculator-ii/,Medium,100.0%,6m+,46.6%,No
+408,Valid Word Abbreviation,https://leetcode.com/problems/valid-word-abbreviation/,Easy,87.5%,"6m,6m+",37.0%,Yes
+460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,,,,No
+772,Basic Calculator III,https://leetcode.com/problems/basic-calculator-iii/,Hard,,,,Yes
+1472,Design Browser History,https://leetcode.com/problems/design-browser-history/,Medium,75.0%,6m+,78.2%,No

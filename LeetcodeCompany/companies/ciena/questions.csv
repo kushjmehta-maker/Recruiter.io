@@ -1,0 +1,18 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+38,Count and Say,https://leetcode.com/problems/count-and-say/,Medium,,,,No
+75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,,,,No
+89,Gray Code,https://leetcode.com/problems/gray-code/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+179,Largest Number,https://leetcode.com/problems/largest-number/,Medium,,,,No
+237,Delete Node in a Linked List,https://leetcode.com/problems/delete-node-in-a-linked-list/,Medium,,,,No
+416,Partition Equal Subset Sum,https://leetcode.com/problems/partition-equal-subset-sum/,Medium,,,,No
+869,Reordered Power of 2,https://leetcode.com/problems/reordered-power-of-2/,Medium,,,,No
+898,Bitwise ORs of Subarrays,https://leetcode.com/problems/bitwise-ors-of-subarrays/,Medium,,,,No
+1116,Print Zero Even Odd,https://leetcode.com/problems/print-zero-even-odd/,Medium,,,,No
+1454,Active Users,https://leetcode.com/problems/active-users/,Medium,100.0%,6m+,36.6%,Yes
+1472,Design Browser History,https://leetcode.com/problems/design-browser-history/,Medium,,,,No
+1695,Maximum Erasure Value,https://leetcode.com/problems/maximum-erasure-value/,Medium,,,,No
+2107,Number of Unique Flavors After Sharing K Candies,https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies/,Medium,100.0%,6m+,60.5%,Yes

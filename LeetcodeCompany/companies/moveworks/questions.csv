@@ -1,0 +1,16 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,1.8%,6m+,51.1%,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,4.2%,6m+,50.4%,No
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,,,,No
+139,Word Break,https://leetcode.com/problems/word-break/,Medium,,,,No
+140,Word Break II,https://leetcode.com/problems/word-break-ii/,Hard,3.5%,"6m,6m+",55.1%,No
+294,Flip Game II,https://leetcode.com/problems/flip-game-ii/,Medium,,,,Yes
+1258,Synonymous Sentences,https://leetcode.com/problems/synonymous-sentences/,Medium,100.0%,6m+,57.1%,Yes
+1177,Can Make Palindrome from Substring,https://leetcode.com/problems/can-make-palindrome-from-substring/,Medium,,,,No
+1254,Number of Closed Islands,https://leetcode.com/problems/number-of-closed-islands/,Medium,,,,No
+1745,Palindrome Partitioning IV,https://leetcode.com/problems/palindrome-partitioning-iv/,Hard,,,,No
+1771,Maximize Palindrome Length From Subsequences,https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/,Hard,,,,No
+1898,Maximum Number of Removable Characters,https://leetcode.com/problems/maximum-number-of-removable-characters/,Medium,,,,No
+1929,Concatenation of Array,https://leetcode.com/problems/concatenation-of-array/,Easy,,,,No
+2366,Minimum Replacements to Sort the Array,https://leetcode.com/problems/minimum-replacements-to-sort-the-array/,Hard,50.0%,,53.2%,No
+3076,Shortest Uncommon Substring in an Array,https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/,Medium,87.5%,"6m,6m+",50.0%,No

@@ -1,0 +1,44 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+16,3Sum Closest,https://leetcode.com/problems/3sum-closest/,Medium,,,,No
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,,,,No
+25,Reverse Nodes in k-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,Hard,,,,No
+39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,87.5%,6m+,66.8%,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,,,,No
+79,Word Search,https://leetcode.com/problems/word-search/,Medium,,,,No
+130,Surrounded Regions,https://leetcode.com/problems/surrounded-regions/,Medium,75.0%,,44.7%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,75.0%,,46.8%,No
+160,Intersection of Two Linked Lists,https://leetcode.com/problems/intersection-of-two-linked-lists/,Easy,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,87.5%,6m+,63.8%,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,100.0%,"30d,3m,6m",55.0%,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
+259,3Sum Smaller,https://leetcode.com/problems/3sum-smaller/,Medium,,,,Yes
+277,Find the Celebrity,https://leetcode.com/problems/find-the-celebrity/,Medium,,,,Yes
+286,Walls and Gates,https://leetcode.com/problems/walls-and-gates/,Medium,,,,Yes
+304,Range Sum Query 2D - Immutable,https://leetcode.com/problems/range-sum-query-2d-immutable/,Medium,,,,No
+305,Number of Islands II,https://leetcode.com/problems/number-of-islands-ii/,Hard,,,,Yes
+317,Shortest Distance from All Buildings,https://leetcode.com/problems/shortest-distance-from-all-buildings/,Hard,,,,Yes
+329,Longest Increasing Path in a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,Hard,,,,No
+394,Decode String,https://leetcode.com/problems/decode-string/,Medium,100.0%,6m,62.2%,No
+463,Island Perimeter,https://leetcode.com/problems/island-perimeter/,Easy,,,,No
+508,Most Frequent Subtree Sum,https://leetcode.com/problems/most-frequent-subtree-sum/,Medium,,,,No
+540,Single Element in a Sorted Array,https://leetcode.com/problems/single-element-in-a-sorted-array/,Medium,87.5%,6m+,59.2%,No
+658,Find K Closest Elements,https://leetcode.com/problems/find-k-closest-elements/,Medium,,,,No
+763,Partition Labels,https://leetcode.com/problems/partition-labels/,Medium,,,,No
+773,Sliding Puzzle,https://leetcode.com/problems/sliding-puzzle/,Hard,,,,No
+827,Making A Large Island,https://leetcode.com/problems/making-a-large-island/,Hard,75.0%,,56.3%,No
+843,Guess the Word,https://leetcode.com/problems/guess-the-word/,Hard,,,,No
+856,Score of Parentheses,https://leetcode.com/problems/score-of-parentheses/,Medium,,,,No
+875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,,,,No
+895,Maximum Frequency Stack,https://leetcode.com/problems/maximum-frequency-stack/,Hard,,,,No
+909,Snakes and Ladders,https://leetcode.com/problems/snakes-and-ladders/,Medium,,,,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,,,,No
+1048,Longest String Chain,https://leetcode.com/problems/longest-string-chain/,Medium,100.0%,6m+,62.8%,No
+1381,Design a Stack With Increment Operation,https://leetcode.com/problems/design-a-stack-with-increment-operation/,Medium,87.5%,6m+,79.9%,No
+1438,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/,Medium,87.5%,6m+,57.3%,No
+1493,Longest Subarray of 1's After Deleting One Element,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/,Medium,,,,No
+1971,Find if Path Exists in Graph,https://leetcode.com/problems/find-if-path-exists-in-graph/,Easy,,,,No
+2116,Check if a Parentheses String Can Be Valid,https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/,Medium,100.0%,6m,45.1%,No
+2672,Number of Adjacent Elements With the Same Color,https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/,Medium,,,,No
+3071,Minimum Operations to Write the Letter Y on a Grid,https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid/,Medium,,,,No

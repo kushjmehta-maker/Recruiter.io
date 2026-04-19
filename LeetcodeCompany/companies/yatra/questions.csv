@@ -1,0 +1,5 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+169,Majority Element,https://leetcode.com/problems/majority-element/,Easy,,,,No
+713,Subarray Product Less Than K,https://leetcode.com/problems/subarray-product-less-than-k/,Medium,4.7%,6m+,53.9%,No
+2793,Status of Flight Tickets,https://leetcode.com/problems/status-of-flight-tickets/,Hard,,,,Yes
+3488,Closest Equal Element Queries,https://leetcode.com/problems/closest-equal-element-queries/,Medium,,,,No

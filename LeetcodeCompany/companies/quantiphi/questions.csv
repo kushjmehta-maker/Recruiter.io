@@ -1,0 +1,15 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,100.0%,6m+,57.1%,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
+22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,,,,No
+26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+176,Second Highest Salary,https://leetcode.com/problems/second-highest-salary/,Medium,,,,No
+179,Largest Number,https://leetcode.com/problems/largest-number/,Medium,,,,No
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
+402,Remove K Digits,https://leetcode.com/problems/remove-k-digits/,Medium,,,,No
+485,Max Consecutive Ones,https://leetcode.com/problems/max-consecutive-ones/,Easy,,,,No
+626,Exchange Seats,https://leetcode.com/problems/exchange-seats/,Medium,,,,No
+875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,100.0%,,49.7%,No
+1731,The Number of Employees Which Report to Each Employee,https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/,Easy,,,,No
+2678,Number of Senior Citizens,https://leetcode.com/problems/number-of-senior-citizens/,Easy,,,,No

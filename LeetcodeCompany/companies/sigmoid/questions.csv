@@ -1,0 +1,64 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,100.0%,6m+,38.5%,No
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,,,,No
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,,,,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,1.3%,6m+,43.7%,No
+25,Reverse Nodes in k-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,Hard,100.0%,6m+,65.3%,No
+39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,75.0%,,66.8%,No
+46,Permutations,https://leetcode.com/problems/permutations/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,2.9%,,72.2%,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+61,Rotate List,https://leetcode.com/problems/rotate-list/,Medium,,,,No
+62,Unique Paths,https://leetcode.com/problems/unique-paths/,Medium,,,,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
+73,Set Matrix Zeroes,https://leetcode.com/problems/set-matrix-zeroes/,Medium,,,,No
+74,Search a 2D Matrix,https://leetcode.com/problems/search-a-2d-matrix/,Medium,,,,No
+82,Remove Duplicates from Sorted List II,https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/,Medium,,,,No
+100,Same Tree,https://leetcode.com/problems/same-tree/,Easy,,,,No
+102,Binary Tree Level Order Traversal,https://leetcode.com/problems/binary-tree-level-order-traversal/,Medium,,,,No
+103,Binary Tree Zigzag Level Order Traversal,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/,Medium,4.3%,"6m,6m+",63.1%,No
+114,Flatten Binary Tree to Linked List,https://leetcode.com/problems/flatten-binary-tree-to-linked-list/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,2.4%,6m,56.4%,No
+122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,2.2%,,70.7%,No
+153,Find Minimum in Rotated Sorted Array,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,Medium,,,,No
+155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,2.2%,,57.7%,No
+164,Maximum Gap,https://leetcode.com/problems/maximum-gap/,Medium,,,,No
+169,Majority Element,https://leetcode.com/problems/majority-element/,Easy,,,,No
+176,Second Highest Salary,https://leetcode.com/problems/second-highest-salary/,Medium,,,,No
+180,Consecutive Numbers,https://leetcode.com/problems/consecutive-numbers/,Medium,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
+209,Minimum Size Subarray Sum,https://leetcode.com/problems/minimum-size-subarray-sum/,Medium,,,,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,,,,No
+226,Invert Binary Tree,https://leetcode.com/problems/invert-binary-tree/,Easy,,,,No
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,1.7%,6m+,68.6%,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,87.5%,6m,63.5%,No
+295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,,,,No
+300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,,,,No
+322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No
+347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,,,,No
+349,Intersection of Two Arrays,https://leetcode.com/problems/intersection-of-two-arrays/,Easy,,,,No
+496,Next Greater Element I,https://leetcode.com/problems/next-greater-element-i/,Easy,,,,No
+502,IPO,https://leetcode.com/problems/ipo/,Hard,,,,No
+503,Next Greater Element II,https://leetcode.com/problems/next-greater-element-ii/,Medium,2.8%,,67.9%,No
+532,K-diff Pairs in an Array,https://leetcode.com/problems/k-diff-pairs-in-an-array/,Medium,,,,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
+661,Image Smoother,https://leetcode.com/problems/image-smoother/,Easy,,,,No
+714,Best Time to Buy and Sell Stock with Transaction Fee,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/,Medium,,,,No
+739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,,,,No
+881,Boats to Save People,https://leetcode.com/problems/boats-to-save-people/,Medium,100.0%,6m+,61.4%,No
+977,Squares of a Sorted Array,https://leetcode.com/problems/squares-of-a-sorted-array/,Easy,,,,No
+986,Interval List Intersections,https://leetcode.com/problems/interval-list-intersections/,Medium,,,,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,,,,No
+1004,Max Consecutive Ones III,https://leetcode.com/problems/max-consecutive-ones-iii/,Medium,100.0%,6m+,67.3%,No
+1071,Greatest Common Divisor of Strings,https://leetcode.com/problems/greatest-common-divisor-of-strings/,Easy,,,,No
+1122,Relative Sort Array,https://leetcode.com/problems/relative-sort-array/,Easy,,,,No
+1204,Last Person to Fit in the Bus,https://leetcode.com/problems/last-person-to-fit-in-the-bus/,Medium,,,,No
+1345,Jump Game IV,https://leetcode.com/problems/jump-game-iv/,Hard,,,,No
+2149,Rearrange Array Elements by Sign,https://leetcode.com/problems/rearrange-array-elements-by-sign/,Medium,,,,No

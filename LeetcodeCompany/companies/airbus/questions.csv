@@ -1,0 +1,21 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,1.9%,6m+,57.1%,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+46,Permutations,https://leetcode.com/problems/permutations/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
+64,Minimum Path Sum,https://leetcode.com/problems/minimum-path-sum/,Medium,,,,No
+176,Second Highest Salary,https://leetcode.com/problems/second-highest-salary/,Medium,,,,No
+181,Employees Earning More Than Their Managers,https://leetcode.com/problems/employees-earning-more-than-their-managers/,Easy,,,,No
+262,Trips and Users,https://leetcode.com/problems/trips-and-users/,Hard,,,,No
+633,Sum of Square Numbers,https://leetcode.com/problems/sum-of-square-numbers/,Medium,,,,No
+713,Subarray Product Less Than K,https://leetcode.com/problems/subarray-product-less-than-k/,Medium,,,,No
+1581,Customer Who Visited but Did Not Make Any Transactions,https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/,Easy,,,,No
+1768,Merge Strings Alternately,https://leetcode.com/problems/merge-strings-alternately/,Easy,,,,No
+3164,Find the Number of Good Pairs II,https://leetcode.com/problems/find-the-number-of-good-pairs-ii/,Medium,87.5%,6m+,26.6%,No
+3162,Find the Number of Good Pairs I,https://leetcode.com/problems/find-the-number-of-good-pairs-i/,Easy,87.5%,6m+,86.3%,No
+3224,Minimum Array Changes to Make Differences Equal,https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal/,Medium,87.5%,6m+,24.3%,No
+3356,Zero Array Transformation II,https://leetcode.com/problems/zero-array-transformation-ii/,Medium,,,,No
+3825,Longest Strictly Increasing Subsequence With Non-Zero Bitwise AND,https://leetcode.com/problems/longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/,Medium,,,,No
+3834,Merge Adjacent Equal Elements,https://leetcode.com/problems/merge-adjacent-equal-elements/,Medium,,,,No

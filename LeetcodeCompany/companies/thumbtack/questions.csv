@@ -1,0 +1,4 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,,,,No
+450,Delete Node in a BST,https://leetcode.com/problems/delete-node-in-a-bst/,Medium,,,,No
+966,Vowel Spellchecker,https://leetcode.com/problems/vowel-spellchecker/,Medium,100.0%,6m+,61.4%,No

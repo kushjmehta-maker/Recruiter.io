@@ -1,0 +1,12 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,100.0%,6m+,56.1%,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,,,,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,,,,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No
+141,Linked List Cycle,https://leetcode.com/problems/linked-list-cycle/,Easy,,,,No
+739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,,,,No

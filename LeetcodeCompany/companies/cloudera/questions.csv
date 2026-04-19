@@ -1,0 +1,20 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+50,"Pow(x, n)",https://leetcode.com/problems/powx-n/,Medium,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+222,Count Complete Tree Nodes,https://leetcode.com/problems/count-complete-tree-nodes/,Easy,,,,No
+388,Longest Absolute File Path,https://leetcode.com/problems/longest-absolute-file-path/,Medium,,,,No
+410,Split Array Largest Sum,https://leetcode.com/problems/split-array-largest-sum/,Hard,,,,No
+424,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Medium,,,,No
+476,Number Complement,https://leetcode.com/problems/number-complement/,Easy,4.6%,6m+,70.4%,No
+621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,,,,No
+682,Baseball Game,https://leetcode.com/problems/baseball-game/,Easy,,,,No
+870,Advantage Shuffle,https://leetcode.com/problems/advantage-shuffle/,Medium,,,,No
+1009,Complement of Base 10 Integer,https://leetcode.com/problems/complement-of-base-10-integer/,Easy,100.0%,6m+,60.6%,No
+1011,Capacity To Ship Packages Within D Days,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/,Medium,100.0%,6m+,73.5%,No
+1061,Lexicographically Smallest Equivalent String,https://leetcode.com/problems/lexicographically-smallest-equivalent-string/,Medium,100.0%,6m+,81.1%,No
+1248,Count Number of Nice Subarrays,https://leetcode.com/problems/count-number-of-nice-subarrays/,Medium,,,,No

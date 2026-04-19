@@ -1,0 +1,12 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+588,Design In-Memory File System,https://leetcode.com/problems/design-in-memory-file-system/,Hard,5.7%,6m+,48.4%,Yes
+653,Two Sum IV - Input is a BST,https://leetcode.com/problems/two-sum-iv-input-is-a-bst/,Easy,,,,No
+834,Sum of Distances in Tree,https://leetcode.com/problems/sum-of-distances-in-tree/,Hard,,,,No
+1031,Maximum Sum of Two Non-Overlapping Subarrays,https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/,Medium,,,,No
+1197,Minimum Knight Moves,https://leetcode.com/problems/minimum-knight-moves/,Medium,,,,Yes
+1095,Find in Mountain Array,https://leetcode.com/problems/find-in-mountain-array/,Hard,,,,No
+1710,Maximum Units on a Truck,https://leetcode.com/problems/maximum-units-on-a-truck/,Easy,,,,No
+2062,Count Vowel Substrings of a String,https://leetcode.com/problems/count-vowel-substrings-of-a-string/,Easy,,,,No
+2607,Make K-Subarray Sums Equal,https://leetcode.com/problems/make-k-subarray-sums-equal/,Medium,100.0%,6m+,38.2%,No
+2626,Array Reduce Transformation,https://leetcode.com/problems/array-reduce-transformation/,Easy,,,,No

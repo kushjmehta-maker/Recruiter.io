@@ -1,0 +1,17 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,,,,No
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No
+185,Department Top Three Salaries,https://leetcode.com/problems/department-top-three-salaries/,Hard,,,,No
+224,Basic Calculator,https://leetcode.com/problems/basic-calculator/,Hard,100.0%,6m+,46.5%,No
+227,Basic Calculator II,https://leetcode.com/problems/basic-calculator-ii/,Medium,100.0%,6m+,46.6%,No
+529,Minesweeper,https://leetcode.com/problems/minesweeper/,Medium,,,,No
+724,Find Pivot Index,https://leetcode.com/problems/find-pivot-index/,Easy,,,,No
+746,Min Cost Climbing Stairs,https://leetcode.com/problems/min-cost-climbing-stairs/,Easy,,,,No
+772,Basic Calculator III,https://leetcode.com/problems/basic-calculator-iii/,Hard,,,,Yes
+829,Consecutive Numbers Sum,https://leetcode.com/problems/consecutive-numbers-sum/,Hard,,,,No
+622,Design Circular Queue,https://leetcode.com/problems/design-circular-queue/,Medium,,,,No
+1275,Find Winner on a Tic Tac Toe Game,https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/,Easy,,,,No
+1472,Design Browser History,https://leetcode.com/problems/design-browser-history/,Medium,,,,No
+1628,Design an Expression Tree With Evaluate Function,https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/,Medium,,,,Yes
+1656,Design an Ordered Stream,https://leetcode.com/problems/design-an-ordered-stream/,Easy,,,,No

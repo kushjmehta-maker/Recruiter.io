@@ -1,0 +1,13 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
+528,Random Pick with Weight,https://leetcode.com/problems/random-pick-with-weight/,Medium,,,,No
+1143,Longest Common Subsequence,https://leetcode.com/problems/longest-common-subsequence/,Medium,,,,No
+1399,Count Largest Group,https://leetcode.com/problems/count-largest-group/,Easy,75.0%,6m+,74.7%,No
+1396,Design Underground System,https://leetcode.com/problems/design-underground-system/,Medium,,,,No
+1403,Minimum Subsequence in Non-Increasing Order,https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/,Easy,75.0%,6m+,73.6%,No
+1432,Max Difference You Can Get From Changing an Integer,https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/,Medium,75.0%,6m+,48.8%,No
+1598,Crawler Log Folder,https://leetcode.com/problems/crawler-log-folder/,Easy,75.0%,6m+,71.6%,No
+1851,Minimum Interval to Include Each Query,https://leetcode.com/problems/minimum-interval-to-include-each-query/,Hard,,,,No
+2598,Smallest Missing Non-negative Integer After Operations,https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/,Medium,100.0%,6m+,55.9%,No
+2779,Maximum Beauty of an Array After Applying Operation,https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/,Medium,,,,No

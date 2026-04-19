@@ -1,0 +1,8 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
+227,Basic Calculator II,https://leetcode.com/problems/basic-calculator-ii/,Medium,100.0%,6m+,46.6%,No
+1275,Find Winner on a Tic Tac Toe Game,https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/,Easy,,,,No
+1854,Maximum Population Year,https://leetcode.com/problems/maximum-population-year/,Easy,,,,No

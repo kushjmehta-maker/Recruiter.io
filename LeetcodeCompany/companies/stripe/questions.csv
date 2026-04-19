@@ -1,0 +1,50 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/,Hard,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+64,Minimum Path Sum,https://leetcode.com/problems/minimum-path-sum/,Medium,,,,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+137,Single Number II,https://leetcode.com/problems/single-number-ii/,Medium,,,,No
+161,One Edit Distance,https://leetcode.com/problems/one-edit-distance/,Medium,62.5%,6m+,34.5%,Yes
+206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No
+339,Nested List Weight Sum,https://leetcode.com/problems/nested-list-weight-sum/,Medium,,,,Yes
+357,Count Numbers with Unique Digits,https://leetcode.com/problems/count-numbers-with-unique-digits/,Medium,,,,No
+386,Lexicographical Numbers,https://leetcode.com/problems/lexicographical-numbers/,Medium,,,,No
+399,Evaluate Division,https://leetcode.com/problems/evaluate-division/,Medium,7.0%,6m+,64.0%,No
+460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,,,,No
+465,Optimal Account Balancing,https://leetcode.com/problems/optimal-account-balancing/,Hard,9.2%,,,Yes
+570,Managers with at Least 5 Direct Reports,https://leetcode.com/problems/managers-with-at-least-5-direct-reports/,Medium,,,,No
+592,Fraction Addition and Subtraction,https://leetcode.com/problems/fraction-addition-and-subtraction/,Medium,,,,No
+635,Design Log Storage System,https://leetcode.com/problems/design-log-storage-system/,Medium,,,,Yes
+645,Set Mismatch,https://leetcode.com/problems/set-mismatch/,Easy,,,,No
+787,Cheapest Flights Within K Stops,https://leetcode.com/problems/cheapest-flights-within-k-stops/,Medium,75.0%,6m+,41.4%,No
+815,Bus Routes,https://leetcode.com/problems/bus-routes/,Hard,,,,No
+895,Maximum Frequency Stack,https://leetcode.com/problems/maximum-frequency-stack/,Hard,,,,No
+929,Unique Email Addresses,https://leetcode.com/problems/unique-email-addresses/,Easy,,,,No
+935,Knight Dialer,https://leetcode.com/problems/knight-dialer/,Medium,,,,No
+981,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/,Medium,,,,No
+1087,Brace Expansion,https://leetcode.com/problems/brace-expansion/,Medium,87.5%,"6m,6m+",66.8%,Yes
+1288,Remove Covered Intervals,https://leetcode.com/problems/remove-covered-intervals/,Medium,,,,No
+1169,Invalid Transactions,https://leetcode.com/problems/invalid-transactions/,Medium,100.0%,"3m,6m",32.1%,No
+2303,Calculate Amount Paid in Taxes,https://leetcode.com/problems/calculate-amount-paid-in-taxes/,Easy,100.0%,"6m,6m+",69.0%,No
+1418,Display Table of Food Orders in a Restaurant,https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/,Medium,,,,No
+1463,Cherry Pickup II,https://leetcode.com/problems/cherry-pickup-ii/,Hard,,,,No
+1604,Alert Using Same Key-Card Three or More Times in a One Hour Period,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/,Medium,,,,No
+1611,Minimum One Bit Operations to Make Integers Zero,https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/,Hard,,,,No
+1801,Number of Orders in the Backlog,https://leetcode.com/problems/number-of-orders-in-the-backlog/,Medium,,,,No
+1838,Frequency of the Most Frequent Element,https://leetcode.com/problems/frequency-of-the-most-frequent-element/,Medium,,,,No
+1857,Largest Color Value in a Directed Graph,https://leetcode.com/problems/largest-color-value-in-a-directed-graph/,Hard,,,,No
+2043,Simple Bank System,https://leetcode.com/problems/simple-bank-system/,Medium,75.0%,6m,69.8%,No
+2050,Parallel Courses III,https://leetcode.com/problems/parallel-courses-iii/,Hard,62.5%,6m+,66.8%,No
+2483,Minimum Penalty for a Shop,https://leetcode.com/problems/minimum-penalty-for-a-shop/,Medium,100.0%,6m+,71.2%,No
+2768,Number of Black Blocks,https://leetcode.com/problems/number-of-black-blocks/,Medium,62.5%,6m+,41.5%,No
+2933,High-Access Employees,https://leetcode.com/problems/high-access-employees/,Medium,,,,No
+3163,String Compression III,https://leetcode.com/problems/string-compression-iii/,Medium,,,,No
+3387,Maximize Amount After Two Days of Conversions,https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions/,Medium,,,,No
+3408,Design Task Manager,https://leetcode.com/problems/design-task-manager/,Medium,,,,No
+3433,Count Mentions Per User,https://leetcode.com/problems/count-mentions-per-user/,Medium,,,,No
+3606,Coupon Code Validator,https://leetcode.com/problems/coupon-code-validator/,Easy,,,,No

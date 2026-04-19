@@ -1,0 +1,27 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,7.2%,6m+,65.5%,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
+38,Count and Say,https://leetcode.com/problems/count-and-say/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+57,Insert Interval,https://leetcode.com/problems/insert-interval/,Medium,,,,No
+93,Restore IP Addresses,https://leetcode.com/problems/restore-ip-addresses/,Medium,,,,No
+133,Clone Graph,https://leetcode.com/problems/clone-graph/,Medium,100.0%,6m+,64.7%,No
+299,Bulls and Cows,https://leetcode.com/problems/bulls-and-cows/,Medium,,,,No
+300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,3.0%,6m+,59.0%,No
+394,Decode String,https://leetcode.com/problems/decode-string/,Medium,100.0%,6m+,62.2%,No
+468,Validate IP Address,https://leetcode.com/problems/validate-ip-address/,Medium,62.5%,6m+,28.2%,No
+713,Subarray Product Less Than K,https://leetcode.com/problems/subarray-product-less-than-k/,Medium,3.4%,6m+,53.9%,No
+721,Accounts Merge,https://leetcode.com/problems/accounts-merge/,Medium,,,,No
+726,Number of Atoms,https://leetcode.com/problems/number-of-atoms/,Hard,,,,No
+729,My Calendar I,https://leetcode.com/problems/my-calendar-i/,Medium,6.3%,6m+,58.2%,No
+767,Reorganize String,https://leetcode.com/problems/reorganize-string/,Medium,,,,No
+948,Bag of Tokens,https://leetcode.com/problems/bag-of-tokens/,Medium,75.0%,6m+,59.5%,No
+981,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/,Medium,62.5%,6m+,49.7%,No
+1429,First Unique Number,https://leetcode.com/problems/first-unique-number/,Medium,,,,Yes
+1279,Traffic Light Controlled Intersection,https://leetcode.com/problems/traffic-light-controlled-intersection/,Easy,,,,Yes
+1436,Destination City,https://leetcode.com/problems/destination-city/,Easy,,,,No
+1642,Furthest Building You Can Reach,https://leetcode.com/problems/furthest-building-you-can-reach/,Medium,,,,No
+1971,Find if Path Exists in Graph,https://leetcode.com/problems/find-if-path-exists-in-graph/,Easy,,,,No
+2904,Shortest and Lexicographically Smallest Beautiful String,https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/,Medium,,,,No
+3635,Earliest Finish Time for Land and Water Rides II,https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/,Medium,,,,No

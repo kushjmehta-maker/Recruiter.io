@@ -1,0 +1,16 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+25,Reverse Nodes in k-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,Hard,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,87.5%,6m+,51.1%,No
+57,Insert Interval,https://leetcode.com/problems/insert-interval/,Medium,,,,No
+71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,,,,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No
+152,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/,Medium,,,,No
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,87.5%,6m+,52.9%,No
+416,Partition Equal Subset Sum,https://leetcode.com/problems/partition-equal-subset-sum/,Medium,,,,No
+452,Minimum Number of Arrows to Burst Balloons,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/,Medium,,,,No
+781,Rabbits in Forest,https://leetcode.com/problems/rabbits-in-forest/,Medium,100.0%,6m+,58.0%,No
+819,Most Common Word,https://leetcode.com/problems/most-common-word/,Easy,,,,No
+2869,Minimum Operations to Collect Elements,https://leetcode.com/problems/minimum-operations-to-collect-elements/,Easy,,,,No

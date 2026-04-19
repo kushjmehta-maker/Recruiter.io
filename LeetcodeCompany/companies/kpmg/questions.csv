@@ -1,0 +1,14 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,2.1%,6m+,38.5%,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+28,Find the Index of the First Occurrence in a String,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/,Easy,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+169,Majority Element,https://leetcode.com/problems/majority-element/,Easy,,,,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,1.6%,6m+,63.5%,No
+371,Sum of Two Integers,https://leetcode.com/problems/sum-of-two-integers/,Medium,,,,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
+977,Squares of a Sorted Array,https://leetcode.com/problems/squares-of-a-sorted-array/,Easy,,,,No
+1312,Minimum Insertion Steps to Make a String Palindrome,https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/,Hard,,,,No
+1683,Invalid Tweets,https://leetcode.com/problems/invalid-tweets/,Easy,,,,No
+3693,Climbing Stairs II,https://leetcode.com/problems/climbing-stairs-ii/,Medium,,,,No

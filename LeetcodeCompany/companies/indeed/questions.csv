@@ -1,0 +1,21 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,100.0%,6m+,58.8%,No
+26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,,,,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
+79,Word Search,https://leetcode.com/problems/word-search/,Medium,,,,No
+243,Shortest Word Distance,https://leetcode.com/problems/shortest-word-distance/,Easy,,,,Yes
+297,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,Hard,,,,No
+346,Moving Average from Data Stream,https://leetcode.com/problems/moving-average-from-data-stream/,Easy,,,,Yes
+453,Minimum Moves to Equal Array Elements,https://leetcode.com/problems/minimum-moves-to-equal-array-elements/,Medium,,6m+,58.5%,No
+480,Sliding Window Median,https://leetcode.com/problems/sliding-window-median/,Hard,,,,No
+563,Binary Tree Tilt,https://leetcode.com/problems/binary-tree-tilt/,Easy,2.9%,6m+,65.3%,No
+852,Peak Index in a Mountain Array,https://leetcode.com/problems/peak-index-in-a-mountain-array/,Medium,,,,No
+985,Sum of Even Numbers After Queries,https://leetcode.com/problems/sum-of-even-numbers-after-queries/,Medium,87.5%,6m+,68.8%,No
+987,Vertical Order Traversal of a Binary Tree,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/,Hard,,,,No
+1197,Minimum Knight Moves,https://leetcode.com/problems/minimum-knight-moves/,Medium,,,,Yes
+2225,Find Players With Zero or One Losses,https://leetcode.com/problems/find-players-with-zero-or-one-losses/,Medium,87.5%,6m+,72.4%,No
+2133,Check if Every Row and Column Contains All Numbers,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/,Easy,100.0%,6m+,53.9%,No
+2547,Minimum Cost to Split an Array,https://leetcode.com/problems/minimum-cost-to-split-an-array/,Hard,87.5%,6m+,44.0%,No
+2964,Number of Divisible Triplet Sums,https://leetcode.com/problems/number-of-divisible-triplet-sums/,Medium,,,,Yes

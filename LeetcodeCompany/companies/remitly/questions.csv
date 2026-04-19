@@ -1,0 +1,19 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,62.5%,6m+,51.1%,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,4.1%,6m+,56.4%,No
+205,Isomorphic Strings,https://leetcode.com/problems/isomorphic-strings/,Easy,6.5%,6m+,48.0%,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,,,,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,2.4%,6m+,55.0%,No
+384,Shuffle an Array,https://leetcode.com/problems/shuffle-an-array/,Medium,,,,No
+387,First Unique Character in a String,https://leetcode.com/problems/first-unique-character-in-a-string/,Easy,,,,No
+465,Optimal Account Balancing,https://leetcode.com/problems/optimal-account-balancing/,Hard,,,,Yes
+621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,,,,No
+528,Random Pick with Weight,https://leetcode.com/problems/random-pick-with-weight/,Medium,,,,No
+969,Pancake Sorting,https://leetcode.com/problems/pancake-sorting/,Medium,,,,No
+981,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/,Medium,,,,No
+1236,Web Crawler,https://leetcode.com/problems/web-crawler/,Medium,,,,Yes
+1807,Evaluate the Bracket Pairs of a String,https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/,Medium,62.5%,6m+,69.2%,No
+2365,Task Scheduler II,https://leetcode.com/problems/task-scheduler-ii/,Medium,,,,No
+3481,Apply Substitutions,https://leetcode.com/problems/apply-substitutions/,Medium,,,,Yes

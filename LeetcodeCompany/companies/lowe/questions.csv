@@ -1,0 +1,18 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,100.0%,"3m,6m",57.1%,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,,,,No
+75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,,,,No
+85,Maximal Rectangle,https://leetcode.com/problems/maximal-rectangle/,Hard,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+738,Monotone Increasing Digits,https://leetcode.com/problems/monotone-increasing-digits/,Medium,,,,No
+876,Middle of the Linked List,https://leetcode.com/problems/middle-of-the-linked-list/,Easy,,,,No
+1581,Customer Who Visited but Did Not Make Any Transactions,https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/,Easy,,,,No
+1994,The Number of Good Subsets,https://leetcode.com/problems/the-number-of-good-subsets/,Hard,62.5%,6m+,37.1%,No
+2157,Groups of Strings,https://leetcode.com/problems/groups-of-strings/,Hard,62.5%,6m+,27.4%,No
+3330,Find the Original Typed String I,https://leetcode.com/problems/find-the-original-typed-string-i/,Easy,100.0%,6m+,72.1%,No
+3375,Minimum Operations to Make Array Values Equal to K,https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/,Easy,100.0%,6m+,73.3%,No

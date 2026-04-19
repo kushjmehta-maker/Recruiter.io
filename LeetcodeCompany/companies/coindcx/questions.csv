@@ -1,0 +1,19 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+19,Remove Nth Node From End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,87.5%,6m+,43.7%,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+69,Sqrt(x),https://leetcode.com/problems/sqrtx/,Easy,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No
+134,Gas Station,https://leetcode.com/problems/gas-station/,Medium,,,,No
+402,Remove K Digits,https://leetcode.com/problems/remove-k-digits/,Medium,,,,No
+416,Partition Equal Subset Sum,https://leetcode.com/problems/partition-equal-subset-sum/,Medium,,,,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
+626,Exchange Seats,https://leetcode.com/problems/exchange-seats/,Medium,100.0%,6m+,73.8%,No
+706,Design HashMap,https://leetcode.com/problems/design-hashmap/,Easy,,,,No
+1070,Product Sales Analysis III,https://leetcode.com/problems/product-sales-analysis-iii/,Medium,,,,No
+1155,Number of Dice Rolls With Target Sum,https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/,Medium,87.5%,6m+,62.2%,No
+1200,Minimum Absolute Difference,https://leetcode.com/problems/minimum-absolute-difference/,Easy,,,,No
+1306,Jump Game III,https://leetcode.com/problems/jump-game-iii/,Medium,,,,No
+1372,Longest ZigZag Path in a Binary Tree,https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/,Medium,,,,No
+2008,Maximum Earnings From Taxi,https://leetcode.com/problems/maximum-earnings-from-taxi/,Medium,87.5%,6m+,46.2%,No

@@ -1,0 +1,11 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+38,Count and Say,https://leetcode.com/problems/count-and-say/,Medium,,,,No
+116,Populating Next Right Pointers in Each Node,https://leetcode.com/problems/populating-next-right-pointers-in-each-node/,Medium,,,,No
+117,Populating Next Right Pointers in Each Node II,https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/,Medium,,,,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
+337,House Robber III,https://leetcode.com/problems/house-robber-iii/,Medium,,,,No
+502,IPO,https://leetcode.com/problems/ipo/,Hard,,,,No
+632,Smallest Range Covering Elements from K Lists,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/,Hard,100.0%,6m+,70.0%,No
+790,Domino and Tromino Tiling,https://leetcode.com/problems/domino-and-tromino-tiling/,Medium,,,,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,,,,No
+1367,Linked List in Binary Tree,https://leetcode.com/problems/linked-list-in-binary-tree/,Medium,,,,No

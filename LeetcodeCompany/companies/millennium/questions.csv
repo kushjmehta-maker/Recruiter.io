@@ -1,0 +1,45 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,75.0%,,59.5%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,2.4%,6m+,43.7%,No
+26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+51,N-Queens,https://leetcode.com/problems/n-queens/,Hard,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,2.5%,6m+,51.1%,No
+67,Add Binary,https://leetcode.com/problems/add-binary/,Easy,,,,No
+98,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/,Medium,2.0%,6m,35.3%,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,3.4%,6m+,56.4%,No
+134,Gas Station,https://leetcode.com/problems/gas-station/,Medium,,,,No
+139,Word Break,https://leetcode.com/problems/word-break/,Medium,2.5%,6m+,49.1%,No
+140,Word Break II,https://leetcode.com/problems/word-break-ii/,Hard,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+168,Excel Sheet Column Title,https://leetcode.com/problems/excel-sheet-column-title/,Easy,,,,No
+171,Excel Sheet Column Number,https://leetcode.com/problems/excel-sheet-column-number/,Easy,,,,No
+202,Happy Number,https://leetcode.com/problems/happy-number/,Easy,,,,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
+284,Peeking Iterator,https://leetcode.com/problems/peeking-iterator/,Medium,,,,No
+295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,,,,No
+301,Remove Invalid Parentheses,https://leetcode.com/problems/remove-invalid-parentheses/,Hard,4.8%,6m+,49.8%,No
+350,Intersection of Two Arrays II,https://leetcode.com/problems/intersection-of-two-arrays-ii/,Easy,,,,No
+359,Logger Rate Limiter,https://leetcode.com/problems/logger-rate-limiter/,Easy,,,,Yes
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,,,,No
+412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
+437,Path Sum III,https://leetcode.com/problems/path-sum-iii/,Medium,3.7%,6m+,46.3%,No
+515,Find Largest Value in Each Tree Row,https://leetcode.com/problems/find-largest-value-in-each-tree-row/,Medium,,,,No
+647,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,Medium,,,,No
+680,Valid Palindrome II,https://leetcode.com/problems/valid-palindrome-ii/,Easy,,,,No
+759,Employee Free Time,https://leetcode.com/problems/employee-free-time/,Hard,,,,Yes
+797,All Paths From Source to Target,https://leetcode.com/problems/all-paths-from-source-to-target/,Medium,,,,No
+705,Design HashSet,https://leetcode.com/problems/design-hashset/,Easy,,,,No
+622,Design Circular Queue,https://leetcode.com/problems/design-circular-queue/,Medium,,,,No
+991,Broken Calculator,https://leetcode.com/problems/broken-calculator/,Medium,87.5%,6m+,55.9%,No
+1010,Pairs of Songs With Total Durations Divisible by 60,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/,Medium,,,,No
+1283,Find the Smallest Divisor Given a Threshold,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/,Medium,,,,No
+1574,Shortest Subarray to be Removed to Make Array Sorted,https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/,Medium,,,,No
+1727,Largest Submatrix With Rearrangements,https://leetcode.com/problems/largest-submatrix-with-rearrangements/,Medium,,,,No
+2034,Stock Price Fluctuation ,https://leetcode.com/problems/stock-price-fluctuation/,Medium,,,,No
+2035,Partition Array Into Two Arrays to Minimize Sum Difference,https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/,Hard,,,,No
+2164,Sort Even and Odd Indices Independently,https://leetcode.com/problems/sort-even-and-odd-indices-independently/,Easy,,,,No
+2484,Count Palindromic Subsequences,https://leetcode.com/problems/count-palindromic-subsequences/,Hard,100.0%,"6m,6m+",41.0%,No
+2571,Minimum Operations to Reduce an Integer to 0,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/,Medium,,,,No
+2603,Collect Coins in a Tree,https://leetcode.com/problems/collect-coins-in-a-tree/,Hard,100.0%,6m,39.6%,No
+2791,Count Paths That Can Form a Palindrome in a Tree,https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/,Hard,,,,No

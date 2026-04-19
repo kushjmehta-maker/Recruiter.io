@@ -1,0 +1,37 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+27,Remove Element,https://leetcode.com/problems/remove-element/,Easy,,,,No
+48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
+74,Search a 2D Matrix,https://leetcode.com/problems/search-a-2d-matrix/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,8.1%,"6m,6m+",46.8%,No
+150,Evaluate Reverse Polish Notation,https://leetcode.com/problems/evaluate-reverse-polish-notation/,Medium,,,,No
+155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,,,,No
+256,Paint House,https://leetcode.com/problems/paint-house/,Medium,6.5%,6m+,64.3%,Yes
+286,Walls and Gates,https://leetcode.com/problems/walls-and-gates/,Medium,,,,Yes
+348,Design Tic-Tac-Toe,https://leetcode.com/problems/design-tic-tac-toe/,Medium,,,,Yes
+354,Russian Doll Envelopes,https://leetcode.com/problems/russian-doll-envelopes/,Hard,,,,No
+486,Predict the Winner,https://leetcode.com/problems/predict-the-winner/,Medium,,,,No
+535,Encode and Decode TinyURL,https://leetcode.com/problems/encode-and-decode-tinyurl/,Medium,7.0%,6m+,86.6%,No
+588,Design In-Memory File System,https://leetcode.com/problems/design-in-memory-file-system/,Hard,8.5%,6m+,48.4%,Yes
+721,Accounts Merge,https://leetcode.com/problems/accounts-merge/,Medium,,,,No
+489,Robot Room Cleaner,https://leetcode.com/problems/robot-room-cleaner/,Hard,,,,Yes
+843,Guess the Word,https://leetcode.com/problems/guess-the-word/,Hard,,,,No
+874,Walking Robot Simulation,https://leetcode.com/problems/walking-robot-simulation/,Medium,87.5%,"6m,6m+",58.4%,No
+1041,Robot Bounded In Circle,https://leetcode.com/problems/robot-bounded-in-circle/,Medium,,,,No
+2218,Maximum Value of K Coins From Piles,https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/,Hard,,,,No
+1268,Search Suggestions System,https://leetcode.com/problems/search-suggestions-system/,Medium,,,,No
+1399,Count Largest Group,https://leetcode.com/problems/count-largest-group/,Easy,,,,No
+1423,Maximum Points You Can Obtain from Cards,https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/,Medium,,,,No
+1463,Cherry Pickup II,https://leetcode.com/problems/cherry-pickup-ii/,Hard,,,,No
+1517,Find Users With Valid E-Mails,https://leetcode.com/problems/find-users-with-valid-e-mails/,Easy,50.0%,6m+,36.8%,No
+1603,Design Parking System,https://leetcode.com/problems/design-parking-system/,Easy,,,,No
+2034,Stock Price Fluctuation ,https://leetcode.com/problems/stock-price-fluctuation/,Medium,,,,No
+2043,Simple Bank System,https://leetcode.com/problems/simple-bank-system/,Medium,,,,No
+2296,Design a Text Editor,https://leetcode.com/problems/design-a-text-editor/,Hard,50.0%,6m+,49.9%,No
+2515,Shortest Distance to Target String in a Circular Array,https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/,Easy,,,,No
+2525,Categorize Box According to Criteria,https://leetcode.com/problems/categorize-box-according-to-criteria/,Easy,,,,No
+2591,Distribute Money to Maximum Children,https://leetcode.com/problems/distribute-money-to-maximum-children/,Easy,,,,No
+2677,Chunk Array,https://leetcode.com/problems/chunk-array/,Easy,,,,No
+3248,Snake in Matrix,https://leetcode.com/problems/snake-in-matrix/,Easy,,,,No

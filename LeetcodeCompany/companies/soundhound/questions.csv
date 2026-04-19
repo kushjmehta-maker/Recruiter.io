@@ -1,0 +1,11 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/,Hard,2.5%,6m+,42.4%,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No
+134,Gas Station,https://leetcode.com/problems/gas-station/,Medium,,,,No
+340,Longest Substring with At Most K Distinct Characters,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/,Medium,,,,Yes
+387,First Unique Character in a String,https://leetcode.com/problems/first-unique-character-in-a-string/,Easy,,,,No
+472,Concatenated Words,https://leetcode.com/problems/concatenated-words/,Hard,,,,No
+609,Find Duplicate File in System,https://leetcode.com/problems/find-duplicate-file-in-system/,Medium,,,,No
+767,Reorganize String,https://leetcode.com/problems/reorganize-string/,Medium,,,,No
+1367,Linked List in Binary Tree,https://leetcode.com/problems/linked-list-in-binary-tree/,Medium,100.0%,6m+,51.9%,No
+1752,Check if Array Is Sorted and Rotated,https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/,Easy,100.0%,6m+,55.7%,No

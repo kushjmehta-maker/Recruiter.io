@@ -1,0 +1,22 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+152,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/,Medium,,,,No
+162,Find Peak Element,https://leetcode.com/problems/find-peak-element/,Medium,,,,No
+189,Rotate Array,https://leetcode.com/problems/rotate-array/,Medium,,,,No
+197,Rising Temperature,https://leetcode.com/problems/rising-temperature/,Easy,,,,No
+424,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Medium,100.0%,6m+,59.0%,No
+496,Next Greater Element I,https://leetcode.com/problems/next-greater-element-i/,Easy,,,,No
+721,Accounts Merge,https://leetcode.com/problems/accounts-merge/,Medium,,,,No
+704,Binary Search,https://leetcode.com/problems/binary-search/,Easy,,,,No
+811,Subdomain Visit Count,https://leetcode.com/problems/subdomain-visit-count/,Medium,,,,No
+871,Minimum Number of Refueling Stops,https://leetcode.com/problems/minimum-number-of-refueling-stops/,Hard,,,,No
+956,Tallest Billboard,https://leetcode.com/problems/tallest-billboard/,Hard,,,,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,,,,No
+1193,Monthly Transactions I,https://leetcode.com/problems/monthly-transactions-i/,Medium,,,,No
+1254,Number of Closed Islands,https://leetcode.com/problems/number-of-closed-islands/,Medium,,,,No
+1838,Frequency of the Most Frequent Element,https://leetcode.com/problems/frequency-of-the-most-frequent-element/,Medium,,,,No
+3005,Count Elements With Maximum Frequency,https://leetcode.com/problems/count-elements-with-maximum-frequency/,Easy,100.0%,6m+,79.8%,No
+3234,Count the Number of Substrings With Dominant Ones,https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/,Medium,,,,No

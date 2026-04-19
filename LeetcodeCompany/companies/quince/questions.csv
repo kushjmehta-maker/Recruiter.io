@@ -1,0 +1,26 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+72,Edit Distance,https://leetcode.com/problems/edit-distance/,Medium,,,,No
+79,Word Search,https://leetcode.com/problems/word-search/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
+300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,,,,No
+340,Longest Substring with At Most K Distinct Characters,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/,Medium,,,,Yes
+347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,,,,No
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,,,,No
+381,Insert Delete GetRandom O(1) - Duplicates allowed,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/,Hard,,,,No
+403,Frog Jump,https://leetcode.com/problems/frog-jump/,Hard,,,,No
+417,Pacific Atlantic Water Flow,https://leetcode.com/problems/pacific-atlantic-water-flow/,Medium,,,,No
+433,Minimum Genetic Mutation,https://leetcode.com/problems/minimum-genetic-mutation/,Medium,,,,No
+540,Single Element in a Sorted Array,https://leetcode.com/problems/single-element-in-a-sorted-array/,Medium,,,,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
+608,Tree Node,https://leetcode.com/problems/tree-node/,Medium,,,,No
+768,Max Chunks To Make Sorted II,https://leetcode.com/problems/max-chunks-to-make-sorted-ii/,Hard,,,,No
+875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,100.0%,6m+,49.7%,No
+1911,Maximum Alternating Subsequence Sum,https://leetcode.com/problems/maximum-alternating-subsequence-sum/,Medium,100.0%,6m+,59.0%,No
+1996,The Number of Weak Characters in the Game,https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/,Medium,,,,No
+2461,Maximum Sum of Distinct Subarrays With Length K,https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/,Medium,,,,No
+3465,Find Products with Valid Serial Numbers,https://leetcode.com/problems/find-products-with-valid-serial-numbers/,Easy,,,,No

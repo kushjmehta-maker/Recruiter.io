@@ -1,0 +1,23 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+6,Zigzag Conversion,https://leetcode.com/problems/zigzag-conversion/,Medium,3.7%,6m+,53.5%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,,,,No
+34,Find First and Last Position of Element in Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Medium,,,,No
+46,Permutations,https://leetcode.com/problems/permutations/,Medium,75.0%,6m+,81.6%,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
+75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,75.0%,6m+,56.4%,No
+153,Find Minimum in Rotated Sorted Array,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,Medium,,,,No
+155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,,,,No
+169,Majority Element,https://leetcode.com/problems/majority-element/,Easy,,,,No
+268,Missing Number,https://leetcode.com/problems/missing-number/,Easy,,,,No
+347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,1.9%,6m+,65.8%,No
+404,Sum of Left Leaves,https://leetcode.com/problems/sum-of-left-leaves/,Easy,,,,No
+419,Battleships in a Board,https://leetcode.com/problems/battleships-in-a-board/,Medium,4.2%,6m+,77.3%,No
+496,Next Greater Element I,https://leetcode.com/problems/next-greater-element-i/,Easy,,,,No
+844,Backspace String Compare,https://leetcode.com/problems/backspace-string-compare/,Easy,87.5%,6m+,49.8%,No
+940,Distinct Subsequences II,https://leetcode.com/problems/distinct-subsequences-ii/,Hard,,,,No
+1227,Airplane Seat Assignment Probability,https://leetcode.com/problems/airplane-seat-assignment-probability/,Medium,75.0%,6m+,67.2%,No
+1963,Minimum Number of Swaps to Make the String Balanced,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/,Medium,75.0%,6m+,78.1%,No
+2184,Number of Ways to Build Sturdy Brick Wall,https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall/,Medium,75.0%,6m+,49.5%,Yes

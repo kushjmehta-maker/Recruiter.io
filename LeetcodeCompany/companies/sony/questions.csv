@@ -1,0 +1,24 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+7,Reverse Integer,https://leetcode.com/problems/reverse-integer/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,2.4%,,43.7%,No
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,,,,No
+67,Add Binary,https://leetcode.com/problems/add-binary/,Easy,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+189,Rotate Array,https://leetcode.com/problems/rotate-array/,Medium,,,,No
+231,Power of Two,https://leetcode.com/problems/power-of-two/,Easy,,,,No
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,,,,No
+412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
+531,Lonely Pixel I,https://leetcode.com/problems/lonely-pixel-i/,Medium,,,,Yes
+528,Random Pick with Weight,https://leetcode.com/problems/random-pick-with-weight/,Medium,100.0%,6m+,48.9%,No
+904,Fruit Into Baskets,https://leetcode.com/problems/fruit-into-baskets/,Medium,,,,No
+509,Fibonacci Number,https://leetcode.com/problems/fibonacci-number/,Easy,,,,No
+1156,Swap For Longest Repeated Character Substring,https://leetcode.com/problems/swap-for-longest-repeated-character-substring/,Medium,,,,No
+1402,Reducing Dishes,https://leetcode.com/problems/reducing-dishes/,Hard,,,,No
+1512,Number of Good Pairs,https://leetcode.com/problems/number-of-good-pairs/,Easy,100.0%,6m+,89.8%,No
+1518,Water Bottles,https://leetcode.com/problems/water-bottles/,Easy,,,,No
+2006,Count Number of Pairs With Absolute Difference K,https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/,Easy,,,,No
+2005,Subtree Removal Game with Fibonacci Tree,https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree/,Hard,100.0%,6m+,57.9%,Yes
+2625,Flatten Deeply Nested Array,https://leetcode.com/problems/flatten-deeply-nested-array/,Medium,,,,No

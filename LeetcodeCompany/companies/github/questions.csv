@@ -1,0 +1,14 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+16,3Sum Closest,https://leetcode.com/problems/3sum-closest/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+131,Palindrome Partitioning,https://leetcode.com/problems/palindrome-partitioning/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.9%,,,No
+169,Majority Element,https://leetcode.com/problems/majority-element/,Easy,,,,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
+263,Ugly Number,https://leetcode.com/problems/ugly-number/,Easy,100.0%,6m+,43.1%,No
+645,Set Mismatch,https://leetcode.com/problems/set-mismatch/,Easy,87.5%,6m+,44.2%,No
+1248,Count Number of Nice Subarrays,https://leetcode.com/problems/count-number-of-nice-subarrays/,Medium,,,,No
+1341,Movie Rating,https://leetcode.com/problems/movie-rating/,Medium,,,,No
+1531,String Compression II,https://leetcode.com/problems/string-compression-ii/,Hard,100.0%,6m,52.2%,No
+2849,Determine if a Cell Is Reachable at a Given Time,https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/,Medium,100.0%,6m+,37.2%,No
+3116,Kth Smallest Amount With Single Denomination Combination,https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/,Hard,,,,No

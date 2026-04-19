@@ -1,0 +1,27 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,87.5%,6m+,38.5%,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+19,Remove Nth Node From End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Medium,,,,No
+31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,,,,No
+41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/,Hard,,,,No
+45,Jump Game II,https://leetcode.com/problems/jump-game-ii/,Medium,,,,No
+61,Rotate List,https://leetcode.com/problems/rotate-list/,Medium,,,,No
+83,Remove Duplicates from Sorted List,https://leetcode.com/problems/remove-duplicates-from-sorted-list/,Easy,,,,No
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,,,,No
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No
+103,Binary Tree Zigzag Level Order Traversal,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+134,Gas Station,https://leetcode.com/problems/gas-station/,Medium,3.4%,6m+,47.5%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,3.5%,6m+,46.8%,No
+167,Two Sum II - Input Array Is Sorted,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,Medium,,,,No
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
+233,Number of Digit One,https://leetcode.com/problems/number-of-digit-one/,Hard,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+287,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,Medium,,,,No
+322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No
+349,Intersection of Two Arrays,https://leetcode.com/problems/intersection-of-two-arrays/,Easy,,,,No
+936,Stamping The Sequence,https://leetcode.com/problems/stamping-the-sequence/,Hard,,,,No
+979,Distribute Coins in Binary Tree,https://leetcode.com/problems/distribute-coins-in-binary-tree/,Medium,,,,No
+1071,Greatest Common Divisor of Strings,https://leetcode.com/problems/greatest-common-divisor-of-strings/,Easy,,,,No
+1608,Special Array With X Elements Greater Than or Equal X,https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/,Easy,,,,No
+2559,Count Vowel Strings in Ranges,https://leetcode.com/problems/count-vowel-strings-in-ranges/,Medium,,,,No

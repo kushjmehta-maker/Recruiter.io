@@ -1,0 +1,23 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
+284,Peeking Iterator,https://leetcode.com/problems/peeking-iterator/,Medium,,,,No
+322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No
+646,Maximum Length of Pair Chain,https://leetcode.com/problems/maximum-length-of-pair-chain/,Medium,,,,No
+949,Largest Time for Given Digits,https://leetcode.com/problems/largest-time-for-given-digits/,Medium,,,,No
+1311,Get Watched Videos by Your Friends,https://leetcode.com/problems/get-watched-videos-by-your-friends/,Medium,87.5%,6m+,52.1%,No
+1324,Print Words Vertically,https://leetcode.com/problems/print-words-vertically/,Medium,87.5%,6m+,67.4%,No
+1353,Maximum Number of Events That Can Be Attended,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/,Medium,,,,No
+1386,Cinema Seat Allocation,https://leetcode.com/problems/cinema-seat-allocation/,Medium,,,,No
+2009,Minimum Number of Operations to Make Array Continuous,https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/,Hard,,,,No
+2086,Minimum Number of Food Buckets to Feed the Hamsters,https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/,Medium,,,,No
+2115,Find All Possible Recipes from Given Supplies,https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/,Medium,,,,No
+2391,Minimum Amount of Time to Collect Garbage,https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/,Medium,,,,No
+2471,Minimum Number of Operations to Sort a Binary Tree by Level,https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/,Medium,100.0%,6m+,74.2%,No
+2745,Construct the Longest New String,https://leetcode.com/problems/construct-the-longest-new-string/,Medium,100.0%,6m+,54.6%,No
+2850,Minimum Moves to Spread Stones Over Grid,https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/,Medium,7.7%,6m+,45.3%,No
+3366,Minimum Array Sum,https://leetcode.com/problems/minimum-array-sum/,Medium,,,,No
+3474,Lexicographically Smallest Generated String,https://leetcode.com/problems/lexicographically-smallest-generated-string/,Hard,,,,No

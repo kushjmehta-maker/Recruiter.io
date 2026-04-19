@@ -1,0 +1,29 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,62.5%,,57.1%,No
+2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
+9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,100.0%,6m+,60.2%,No
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,,,,No
+30,Substring with Concatenation of All Words,https://leetcode.com/problems/substring-with-concatenation-of-all-words/,Hard,,,,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
+71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,,,,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No
+135,Candy,https://leetcode.com/problems/candy/,Hard,,,,No
+268,Missing Number,https://leetcode.com/problems/missing-number/,Easy,,,,No
+273,Integer to English Words,https://leetcode.com/problems/integer-to-english-words/,Hard,,,,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,,,,No
+402,Remove K Digits,https://leetcode.com/problems/remove-k-digits/,Medium,,,,No
+561,Array Partition,https://leetcode.com/problems/array-partition/,Easy,,,,No
+627,Swap Sex of Employees,https://leetcode.com/problems/swap-sex-of-employees/,Easy,,,,No
+761,Special Binary String,https://leetcode.com/problems/special-binary-string/,Hard,,,,No
+1189,Maximum Number of Balloons,https://leetcode.com/problems/maximum-number-of-balloons/,Easy,,,,No
+1636,Sort Array by Increasing Frequency,https://leetcode.com/problems/sort-array-by-increasing-frequency/,Easy,,,,No
+2177,Find Three Consecutive Integers That Sum to a Given Number,https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/,Medium,100.0%,6m+,65.3%,No
+2210,Count Hills and Valleys in an Array,https://leetcode.com/problems/count-hills-and-valleys-in-an-array/,Easy,,,,No
+2579,Count Total Number of Colored Cells,https://leetcode.com/problems/count-total-number-of-colored-cells/,Medium,,,,No
+2625,Flatten Deeply Nested Array,https://leetcode.com/problems/flatten-deeply-nested-array/,Medium,,,,No
+3661,Maximum Walls Destroyed by Robots,https://leetcode.com/problems/maximum-walls-destroyed-by-robots/,Hard,,,,No

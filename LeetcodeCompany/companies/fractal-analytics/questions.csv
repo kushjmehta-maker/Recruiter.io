@@ -1,0 +1,33 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,62.5%,6m+,57.1%,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,62.5%,6m+,38.5%,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,75.0%,6m+,37.3%,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,1.4%,6m+,47.1%,No
+17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,,,,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,62.5%,6m+,53.0%,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,62.5%,6m+,40.5%,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,62.5%,6m+,53.9%,No
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+180,Consecutive Numbers,https://leetcode.com/problems/consecutive-numbers/,Medium,,,,No
+185,Department Top Three Salaries,https://leetcode.com/problems/department-top-three-salaries/,Hard,62.5%,6m+,59.8%,No
+196,Delete Duplicate Emails,https://leetcode.com/problems/delete-duplicate-emails/,Easy,,,,No
+197,Rising Temperature,https://leetcode.com/problems/rising-temperature/,Easy,62.5%,,51.0%,No
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,2.4%,6m+,68.6%,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
+270,Closest Binary Search Tree Value,https://leetcode.com/problems/closest-binary-search-tree-value/,Easy,62.5%,6m+,49.3%,Yes
+273,Integer to English Words,https://leetcode.com/problems/integer-to-english-words/,Hard,75.0%,6m+,34.8%,No
+322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,87.5%,6m+,47.9%,No
+392,Is Subsequence,https://leetcode.com/problems/is-subsequence/,Easy,87.5%,6m+,48.8%,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
+570,Managers with at Least 5 Direct Reports,https://leetcode.com/problems/managers-with-at-least-5-direct-reports/,Medium,,,,No
+585,Investments in 2016,https://leetcode.com/problems/investments-in-2016/,Medium,,,,No
+713,Subarray Product Less Than K,https://leetcode.com/problems/subarray-product-less-than-k/,Medium,,,,No
+761,Special Binary String,https://leetcode.com/problems/special-binary-string/,Hard,,,,No
+1174,Immediate Food Delivery II,https://leetcode.com/problems/immediate-food-delivery-ii/,Medium,,,,No
+1292,Maximum Side Length of a Square with Sum Less than or Equal to Threshold,https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/,Medium,100.0%,6m+,65.5%,No
+1484,Group Sold Products By The Date,https://leetcode.com/problems/group-sold-products-by-the-date/,Easy,,,,No
+1731,The Number of Employees Which Report to Each Employee,https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/,Easy,,,,No
+3441,Minimum Cost Good Caption,https://leetcode.com/problems/minimum-cost-good-caption/,Hard,100.0%,6m+,20.5%,No
+3445,Maximum Difference Between Even and Odd Frequency II,https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/,Hard,100.0%,6m+,48.7%,No

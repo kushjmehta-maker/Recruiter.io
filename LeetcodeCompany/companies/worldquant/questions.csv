@@ -1,0 +1,15 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+10,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,Hard,87.5%,6m+,30.4%,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+123,Best Time to Buy and Sell Stock III,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/,Hard,,,,No
+134,Gas Station,https://leetcode.com/problems/gas-station/,Medium,,,,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,5.1%,6m+,52.5%,Yes
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
+295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,87.5%,6m+,54.2%,No
+494,Target Sum,https://leetcode.com/problems/target-sum/,Medium,,,,No
+921,Minimum Add to Make Parentheses Valid,https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/,Medium,,,,No
+1035,Uncrossed Lines,https://leetcode.com/problems/uncrossed-lines/,Medium,,,,No
+1691,Maximum Height by Stacking Cuboids ,https://leetcode.com/problems/maximum-height-by-stacking-cuboids/,Hard,,,,No
+1373,Maximum Sum BST in Binary Tree,https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/,Hard,,,,No
+1611,Minimum One Bit Operations to Make Integers Zero,https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/,Hard,,,,No
+2617,Minimum Number of Visited Cells in a Grid,https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/,Hard,87.5%,6m+,23.6%,No

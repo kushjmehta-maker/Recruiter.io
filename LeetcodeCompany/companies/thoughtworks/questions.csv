@@ -1,0 +1,24 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,1.1%,,57.1%,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,2.2%,6m+,37.3%,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+28,Find the Index of the First Occurrence in a String,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/,Easy,,,,No
+44,Wildcard Matching,https://leetcode.com/problems/wildcard-matching/,Hard,,,,No
+80,Remove Duplicates from Sorted Array II,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,62.5%,6m+,56.4%,No
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,,,,No
+412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
+652,Find Duplicate Subtrees,https://leetcode.com/problems/find-duplicate-subtrees/,Medium,,,,No
+724,Find Pivot Index,https://leetcode.com/problems/find-pivot-index/,Easy,,,,No
+730,Count Different Palindromic Subsequences,https://leetcode.com/problems/count-different-palindromic-subsequences/,Hard,,,,No
+1190,Reverse Substrings Between Each Pair of Parentheses,https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/,Medium,,,,No
+1776,Car Fleet II,https://leetcode.com/problems/car-fleet-ii/,Hard,,,,No
+2769,Find the Maximum Achievable Number,https://leetcode.com/problems/find-the-maximum-achievable-number/,Easy,,,,No
+2941,Maximum GCD-Sum of a Subarray,https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray/,Hard,100.0%,6m+,38.5%,Yes
+3003,Maximize the Number of Partitions After Operations,https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/,Hard,100.0%,6m+,53.6%,No
+3036,Number of Subarrays That Match a Pattern II,https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/,Hard,100.0%,6m+,33.3%,No
+3226,Number of Bit Changes to Make Two Integers Equal,https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/,Easy,62.5%,6m+,63.3%,No

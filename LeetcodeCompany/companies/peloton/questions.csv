@@ -1,0 +1,8 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,5.3%,6m+,55.3%,No
+381,Insert Delete GetRandom O(1) - Duplicates allowed,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/,Hard,7.3%,6m+,36.4%,No
+387,First Unique Character in a String,https://leetcode.com/problems/first-unique-character-in-a-string/,Easy,,,,No
+695,Max Area of Island,https://leetcode.com/problems/max-area-of-island/,Medium,,,,No
+811,Subdomain Visit Count,https://leetcode.com/problems/subdomain-visit-count/,Medium,75.0%,6m+,77.2%,No
+2506,Count Pairs Of Similar Strings,https://leetcode.com/problems/count-pairs-of-similar-strings/,Easy,,,,No
+2594,Minimum Time to Repair Cars,https://leetcode.com/problems/minimum-time-to-repair-cars/,Medium,,,,No

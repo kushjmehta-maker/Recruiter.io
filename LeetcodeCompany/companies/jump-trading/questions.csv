@@ -1,0 +1,18 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+8,String to Integer (atoi),https://leetcode.com/problems/string-to-integer-atoi/,Medium,,,,No
+10,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,Hard,,,,No
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,,,,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
+60,Permutation Sequence,https://leetcode.com/problems/permutation-sequence/,Hard,100.0%,6m+,52.1%,No
+188,Best Time to Buy and Sell Stock IV,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/,Hard,,,,No
+202,Happy Number,https://leetcode.com/problems/happy-number/,Easy,4.1%,6m+,59.2%,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,,,,No
+224,Basic Calculator,https://leetcode.com/problems/basic-calculator/,Hard,,,,No
+300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,,,,No
+572,Subtree of Another Tree,https://leetcode.com/problems/subtree-of-another-tree/,Easy,87.5%,,51.2%,No
+622,Design Circular Queue,https://leetcode.com/problems/design-circular-queue/,Medium,,,,No
+887,Super Egg Drop,https://leetcode.com/problems/super-egg-drop/,Hard,,,,No
+1047,Remove All Adjacent Duplicates In String,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/,Easy,,,,No
+1250,Check If It Is a Good Array,https://leetcode.com/problems/check-if-it-is-a-good-array/,Hard,,,,No
+1253,Reconstruct a 2-Row Binary Matrix,https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/,Medium,,,,No
+2275,Largest Combination With Bitwise AND Greater Than Zero,https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/,Medium,87.5%,6m+,80.8%,No

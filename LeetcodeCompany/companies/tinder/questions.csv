@@ -1,0 +1,12 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,,,,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,,,,No
+75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,,,,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
+295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,5.8%,6m+,54.2%,No
+414,Third Maximum Number,https://leetcode.com/problems/third-maximum-number/,Easy,,,,No
+703,Kth Largest Element in a Stream,https://leetcode.com/problems/kth-largest-element-in-a-stream/,Easy,100.0%,6m+,60.7%,No
+710,Random Pick with Blacklist,https://leetcode.com/problems/random-pick-with-blacklist/,Hard,,,,No
+987,Vertical Order Traversal of a Binary Tree,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/,Hard,,,,No
+1306,Jump Game III,https://leetcode.com/problems/jump-game-iii/,Medium,,,,No
+3276,Select Cells in Grid With Maximum Score,https://leetcode.com/problems/select-cells-in-grid-with-maximum-score/,Hard,,,,No

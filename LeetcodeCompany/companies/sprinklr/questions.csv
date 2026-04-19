@@ -1,0 +1,133 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,62.5%,6m+,38.5%,No
+10,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,Hard,62.5%,6m+,30.4%,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+25,Reverse Nodes in k-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,Hard,,,,No
+32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,62.5%,6m+,38.0%,No
+37,Sudoku Solver,https://leetcode.com/problems/sudoku-solver/,Hard,,,,No
+41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/,Hard,1.3%,6m+,42.4%,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,1.3%,6m+,66.8%,No
+46,Permutations,https://leetcode.com/problems/permutations/,Medium,,,,No
+48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+51,N-Queens,https://leetcode.com/problems/n-queens/,Hard,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+64,Minimum Path Sum,https://leetcode.com/problems/minimum-path-sum/,Medium,,,,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
+72,Edit Distance,https://leetcode.com/problems/edit-distance/,Medium,,,,No
+74,Search a 2D Matrix,https://leetcode.com/problems/search-a-2d-matrix/,Medium,,,,No
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,,,,No
+85,Maximal Rectangle,https://leetcode.com/problems/maximal-rectangle/,Hard,3.4%,6m+,58.1%,No
+91,Decode Ways,https://leetcode.com/problems/decode-ways/,Medium,,,,No
+98,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/,Medium,,,,No
+99,Recover Binary Search Tree,https://leetcode.com/problems/recover-binary-search-tree/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,62.5%,6m+,56.4%,No
+124,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Hard,,,,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No
+129,Sum Root to Leaf Numbers,https://leetcode.com/problems/sum-root-to-leaf-numbers/,Medium,,,,No
+132,Palindrome Partitioning II,https://leetcode.com/problems/palindrome-partitioning-ii/,Hard,,,,No
+134,Gas Station,https://leetcode.com/problems/gas-station/,Medium,,,,No
+137,Single Number II,https://leetcode.com/problems/single-number-ii/,Medium,,,,No
+144,Binary Tree Preorder Traversal,https://leetcode.com/problems/binary-tree-preorder-traversal/,Easy,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,62.5%,6m+,46.8%,No
+149,Max Points on a Line,https://leetcode.com/problems/max-points-on-a-line/,Hard,6.8%,6m+,30.2%,No
+162,Find Peak Element,https://leetcode.com/problems/find-peak-element/,Medium,,,,No
+188,Best Time to Buy and Sell Stock IV,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/,Hard,,,,No
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
+205,Isomorphic Strings,https://leetcode.com/problems/isomorphic-strings/,Easy,2.5%,6m+,48.0%,No
+208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,,,,No
+213,House Robber II,https://leetcode.com/problems/house-robber-ii/,Medium,,,,No
+214,Shortest Palindrome,https://leetcode.com/problems/shortest-palindrome/,Hard,,,,No
+218,The Skyline Problem,https://leetcode.com/problems/the-skyline-problem/,Hard,,,,No
+226,Invert Binary Tree,https://leetcode.com/problems/invert-binary-tree/,Easy,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,50.0%,,48.4%,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
+295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,62.5%,6m+,54.2%,No
+297,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,Hard,62.5%,6m+,60.3%,No
+304,Range Sum Query 2D - Immutable,https://leetcode.com/problems/range-sum-query-2d-immutable/,Medium,,,,No
+316,Remove Duplicate Letters,https://leetcode.com/problems/remove-duplicate-letters/,Medium,,,,No
+337,House Robber III,https://leetcode.com/problems/house-robber-iii/,Medium,2.5%,,55.6%,No
+373,Find K Pairs with Smallest Sums,https://leetcode.com/problems/find-k-pairs-with-smallest-sums/,Medium,,,,No
+387,First Unique Character in a String,https://leetcode.com/problems/first-unique-character-in-a-string/,Easy,,,,No
+397,Integer Replacement,https://leetcode.com/problems/integer-replacement/,Medium,,,,No
+402,Remove K Digits,https://leetcode.com/problems/remove-k-digits/,Medium,,,,No
+403,Frog Jump,https://leetcode.com/problems/frog-jump/,Hard,3.3%,,47.1%,No
+410,Split Array Largest Sum,https://leetcode.com/problems/split-array-largest-sum/,Hard,,,,No
+456,132 Pattern,https://leetcode.com/problems/132-pattern/,Medium,100.0%,6m,34.5%,No
+460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,,,,No
+493,Reverse Pairs,https://leetcode.com/problems/reverse-pairs/,Hard,,,,No
+546,Remove Boxes,https://leetcode.com/problems/remove-boxes/,Hard,62.5%,6m+,49.3%,No
+552,Student Attendance Record II,https://leetcode.com/problems/student-attendance-record-ii/,Hard,8.7%,6m+,56.4%,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,2.2%,6m+,46.8%,No
+583,Delete Operation for Two Strings,https://leetcode.com/problems/delete-operation-for-two-strings/,Medium,,,,No
+621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,,,,No
+687,Longest Univalue Path,https://leetcode.com/problems/longest-univalue-path/,Medium,5.3%,6m+,43.5%,No
+735,Asteroid Collision,https://leetcode.com/problems/asteroid-collision/,Medium,62.5%,6m+,47.1%,No
+743,Network Delay Time,https://leetcode.com/problems/network-delay-time/,Medium,,,,No
+763,Partition Labels,https://leetcode.com/problems/partition-labels/,Medium,,,,No
+785,Is Graph Bipartite?,https://leetcode.com/problems/is-graph-bipartite/,Medium,,,,No
+795,Number of Subarrays with Bounded Maximum,https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/,Medium,,,,No
+829,Consecutive Numbers Sum,https://leetcode.com/problems/consecutive-numbers-sum/,Hard,,,,No
+834,Sum of Distances in Tree,https://leetcode.com/problems/sum-of-distances-in-tree/,Hard,,,,No
+837,New 21 Game,https://leetcode.com/problems/new-21-game/,Medium,,,,No
+847,Shortest Path Visiting All Nodes,https://leetcode.com/problems/shortest-path-visiting-all-nodes/,Hard,,,,No
+863,All Nodes Distance K in Binary Tree,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/,Medium,,,,No
+875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,,,,No
+904,Fruit Into Baskets,https://leetcode.com/problems/fruit-into-baskets/,Medium,,,,No
+907,Sum of Subarray Minimums,https://leetcode.com/problems/sum-of-subarray-minimums/,Medium,75.0%,6m+,38.3%,No
+909,Snakes and Ladders,https://leetcode.com/problems/snakes-and-ladders/,Medium,,,,No
+910,Smallest Range II,https://leetcode.com/problems/smallest-range-ii/,Medium,,,,No
+918,Maximum Sum Circular Subarray,https://leetcode.com/problems/maximum-sum-circular-subarray/,Medium,62.5%,6m+,49.4%,No
+929,Unique Email Addresses,https://leetcode.com/problems/unique-email-addresses/,Easy,,,,No
+943,Find the Shortest Superstring,https://leetcode.com/problems/find-the-shortest-superstring/,Hard,4.0%,,,No
+946,Validate Stack Sequences,https://leetcode.com/problems/validate-stack-sequences/,Medium,50.0%,,70.2%,No
+947,Most Stones Removed with Same Row or Column,https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/,Medium,,,,No
+975,Odd Even Jump,https://leetcode.com/problems/odd-even-jump/,Hard,62.5%,6m+,41.1%,No
+981,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/,Medium,,,,No
+1004,Max Consecutive Ones III,https://leetcode.com/problems/max-consecutive-ones-iii/,Medium,,,,No
+1010,Pairs of Songs With Total Durations Divisible by 60,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/,Medium,,,,No
+1011,Capacity To Ship Packages Within D Days,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/,Medium,,,,No
+1027,Longest Arithmetic Subsequence,https://leetcode.com/problems/longest-arithmetic-subsequence/,Medium,,,,No
+1129,Shortest Path with Alternating Colors,https://leetcode.com/problems/shortest-path-with-alternating-colors/,Medium,62.5%,6m+,47.7%,No
+1326,Minimum Number of Taps to Open to Water a Garden,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/,Hard,,,,No
+1351,Count Negative Numbers in a Sorted Matrix,https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/,Easy,,,,No
+1377,Frog Position After T Seconds,https://leetcode.com/problems/frog-position-after-t-seconds/,Hard,,,,No
+1423,Maximum Points You Can Obtain from Cards,https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/,Medium,,,,No
+1463,Cherry Pickup II,https://leetcode.com/problems/cherry-pickup-ii/,Hard,75.0%,6m+,72.3%,No
+1526,Minimum Number of Increments on Subarrays to Form a Target Array,https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/,Hard,,,,No
+1515,Best Position for a Service Centre,https://leetcode.com/problems/best-position-for-a-service-centre/,Hard,,,,No
+1521,Find a Value of a Mysterious Function Closest to Target,https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/,Hard,,,,No
+1594,Maximum Non Negative Product in a Matrix,https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/,Medium,,,,No
+1755,Closest Subsequence Sum,https://leetcode.com/problems/closest-subsequence-sum/,Hard,62.5%,6m+,43.2%,No
+1781,Sum of Beauty of All Substrings,https://leetcode.com/problems/sum-of-beauty-of-all-substrings/,Medium,,,,No
+1746,Maximum Subarray Sum After One Operation,https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/,Medium,62.5%,6m+,65.2%,Yes
+1799,Maximize Score After N Operations,https://leetcode.com/problems/maximize-score-after-n-operations/,Hard,62.5%,6m+,57.9%,No
+1792,Maximum Average Pass Ratio,https://leetcode.com/problems/maximum-average-pass-ratio/,Medium,,,,No
+1838,Frequency of the Most Frequent Element,https://leetcode.com/problems/frequency-of-the-most-frequent-element/,Medium,,,,No
+2003,Smallest Missing Genetic Value in Each Subtree,https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/,Hard,,,,No
+2048,Next Greater Numerically Balanced Number,https://leetcode.com/problems/next-greater-numerically-balanced-number/,Medium,62.5%,6m+,63.0%,No
+2071,Maximum Number of Tasks You Can Assign,https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/,Hard,,,,No
+2246,Longest Path With Different Adjacent Characters,https://leetcode.com/problems/longest-path-with-different-adjacent-characters/,Hard,,,,No
+2322,Minimum Score After Removals on a Tree,https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/,Hard,,,,No
+2402,Meeting Rooms III,https://leetcode.com/problems/meeting-rooms-iii/,Hard,,,,No
+2378,Choose Edges to Maximize Score in a Tree,https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree/,Medium,62.5%,6m+,56.6%,Yes
+2440,Create Components With Same Value,https://leetcode.com/problems/create-components-with-same-value/,Hard,87.5%,6m+,53.3%,No
+2518,Number of Great Partitions,https://leetcode.com/problems/number-of-great-partitions/,Hard,62.5%,6m+,33.3%,No
+2546,Apply Bitwise Operations to Make Strings Equal,https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/,Medium,62.5%,6m+,42.5%,No
+2589,Minimum Time to Complete All Tasks,https://leetcode.com/problems/minimum-time-to-complete-all-tasks/,Hard,,,,No
+2770,Maximum Number of Jumps to Reach the Last Index,https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/,Medium,,,,No
+2812,Find the Safest Path in a Grid,https://leetcode.com/problems/find-the-safest-path-in-a-grid/,Medium,,,,No
+2846,Minimum Edge Weight Equilibrium Queries in a Tree,https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/,Hard,62.5%,6m+,45.4%,No
+2895,Minimum Processing Time,https://leetcode.com/problems/minimum-processing-time/,Medium,,,,No
+2897,Apply Operations on Array to Maximize Sum of Squares,https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/,Hard,62.5%,6m+,44.2%,No
+2999,Count the Number of Powerful Integers,https://leetcode.com/problems/count-the-number-of-powerful-integers/,Hard,62.5%,6m+,46.3%,No
+2955,Number of Same-End Substrings,https://leetcode.com/problems/number-of-same-end-substrings/,Medium,62.5%,6m+,61.6%,Yes
+3031,Minimum Time to Revert Word to Initial State II,https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii/,Hard,62.5%,6m+,35.0%,No
+3029,Minimum Time to Revert Word to Initial State I,https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i/,Medium,62.5%,6m+,42.3%,No
+3414,Maximum Score of Non-overlapping Intervals,https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/,Hard,100.0%,6m+,31.0%,No
+3326,Minimum Division Operations to Make Array Non Decreasing,https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/,Medium,,,,No
+3363,Find the Maximum Number of Fruits Collected,https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/,Hard,,,,No
+3480,Maximize Subarrays After Removing One Conflicting Pair,https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/,Hard,,,,No

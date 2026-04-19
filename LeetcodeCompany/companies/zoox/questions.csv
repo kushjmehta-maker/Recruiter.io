@@ -1,0 +1,20 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+18,4Sum,https://leetcode.com/problems/4sum/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+64,Minimum Path Sum,https://leetcode.com/problems/minimum-path-sum/,Medium,,,,No
+72,Edit Distance,https://leetcode.com/problems/edit-distance/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,6.4%,"6m,6m+",56.4%,No
+149,Max Points on a Line,https://leetcode.com/problems/max-points-on-a-line/,Hard,3.9%,6m+,30.2%,No
+227,Basic Calculator II,https://leetcode.com/problems/basic-calculator-ii/,Medium,7.9%,6m+,46.6%,No
+278,First Bad Version,https://leetcode.com/problems/first-bad-version/,Easy,,,,No
+393,UTF-8 Validation,https://leetcode.com/problems/utf-8-validation/,Medium,,,,No
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,62.5%,6m+,59.5%,No
+605,Can Place Flowers,https://leetcode.com/problems/can-place-flowers/,Easy,,,,No
+633,Sum of Square Numbers,https://leetcode.com/problems/sum-of-square-numbers/,Medium,,,,No
+622,Design Circular Queue,https://leetcode.com/problems/design-circular-queue/,Medium,62.5%,6m+,54.0%,No
+509,Fibonacci Number,https://leetcode.com/problems/fibonacci-number/,Easy,,,,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,62.5%,6m+,58.1%,No
+1419,Minimum Number of Frogs Croaking,https://leetcode.com/problems/minimum-number-of-frogs-croaking/,Medium,62.5%,6m+,51.1%,No
+1442,Count Triplets That Can Form Two Arrays of Equal XOR,https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/,Medium,,,,No

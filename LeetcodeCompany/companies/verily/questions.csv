@@ -1,0 +1,30 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,87.5%,6m+,72.2%,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,100.0%,6m+,40.5%,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.2%,,,No
+202,Happy Number,https://leetcode.com/problems/happy-number/,Easy,100.0%,6m+,59.2%,No
+206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,87.5%,6m+,68.8%,No
+224,Basic Calculator,https://leetcode.com/problems/basic-calculator/,Hard,,,,No
+226,Invert Binary Tree,https://leetcode.com/problems/invert-binary-tree/,Easy,,,,No
+269,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,Hard,,,,Yes
+354,Russian Doll Envelopes,https://leetcode.com/problems/russian-doll-envelopes/,Hard,,,,No
+359,Logger Rate Limiter,https://leetcode.com/problems/logger-rate-limiter/,Easy,4.3%,,,Yes
+408,Valid Word Abbreviation,https://leetcode.com/problems/valid-word-abbreviation/,Easy,,,,Yes
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,,,,No
+772,Basic Calculator III,https://leetcode.com/problems/basic-calculator-iii/,Hard,,,,Yes
+843,Guess the Word,https://leetcode.com/problems/guess-the-word/,Hard,87.5%,6m+,36.9%,No
+875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,,,,No
+939,Minimum Area Rectangle,https://leetcode.com/problems/minimum-area-rectangle/,Medium,87.5%,6m+,55.3%,No
+963,Minimum Area Rectangle II,https://leetcode.com/problems/minimum-area-rectangle-ii/,Medium,87.5%,6m+,55.9%,No
+1024,Video Stitching,https://leetcode.com/problems/video-stitching/,Medium,87.5%,6m+,52.5%,No
+1048,Longest String Chain,https://leetcode.com/problems/longest-string-chain/,Medium,87.5%,6m+,62.8%,No
+1197,Minimum Knight Moves,https://leetcode.com/problems/minimum-knight-moves/,Medium,87.5%,6m+,41.7%,Yes
+1146,Snapshot Array,https://leetcode.com/problems/snapshot-array/,Medium,,,,No
+1376,Time Needed to Inform All Employees,https://leetcode.com/problems/time-needed-to-inform-all-employees/,Medium,,,,No
+1539,Kth Missing Positive Number,https://leetcode.com/problems/kth-missing-positive-number/,Easy,,,,No
+2007,Find Original Array From Doubled Array,https://leetcode.com/problems/find-original-array-from-doubled-array/,Medium,87.5%,6m+,40.7%,No
+2115,Find All Possible Recipes from Given Supplies,https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/,Medium,87.5%,6m+,56.8%,No
+3380,Maximum Area Rectangle With Point Constraints I,https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i/,Medium,,,,No

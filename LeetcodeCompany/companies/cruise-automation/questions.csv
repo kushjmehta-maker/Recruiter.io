@@ -1,0 +1,10 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,100.0%,6m+,50.8%,No
+252,Meeting Rooms,https://leetcode.com/problems/meeting-rooms/,Easy,,,,Yes
+297,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,Hard,,,,No
+310,Minimum Height Trees,https://leetcode.com/problems/minimum-height-trees/,Medium,,,,No
+621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,,,,No
+886,Possible Bipartition,https://leetcode.com/problems/possible-bipartition/,Medium,,,,No
+987,Vertical Order Traversal of a Binary Tree,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/,Hard,,,,No
+1258,Synonymous Sentences,https://leetcode.com/problems/synonymous-sentences/,Medium,100.0%,6m+,57.1%,Yes
+1248,Count Number of Nice Subarrays,https://leetcode.com/problems/count-number-of-nice-subarrays/,Medium,,,,No

@@ -1,0 +1,20 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,2.1%,6m+,56.1%,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+62,Unique Paths,https://leetcode.com/problems/unique-paths/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,100.0%,6m+,56.4%,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No
+273,Integer to English Words,https://leetcode.com/problems/integer-to-english-words/,Hard,,,,No
+344,Reverse String,https://leetcode.com/problems/reverse-string/,Easy,,,,No
+412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
+518,Coin Change II,https://leetcode.com/problems/coin-change-ii/,Medium,,,,No
+807,Max Increase to Keep City Skyline,https://leetcode.com/problems/max-increase-to-keep-city-skyline/,Medium,,,,No
+1424,Diagonal Traverse II,https://leetcode.com/problems/diagonal-traverse-ii/,Medium,,,,No
+2043,Simple Bank System,https://leetcode.com/problems/simple-bank-system/,Medium,,,,No
+2291,Maximum Profit From Trading Stocks,https://leetcode.com/problems/maximum-profit-from-trading-stocks/,Medium,,,,Yes
+3071,Minimum Operations to Write the Letter Y on a Grid,https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid/,Medium,,,,No

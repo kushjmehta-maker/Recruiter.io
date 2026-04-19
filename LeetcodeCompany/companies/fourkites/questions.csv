@@ -1,0 +1,11 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+344,Reverse String,https://leetcode.com/problems/reverse-string/,Easy,,,,No
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,,,,No
+1905,Count Sub Islands,https://leetcode.com/problems/count-sub-islands/,Medium,,,,No
+2419,Longest Subarray With Maximum Bitwise AND,https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/,Medium,100.0%,6m+,65.4%,No
+2901,Longest Unequal Adjacent Groups Subsequence II,https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/,Medium,100.0%,6m+,51.4%,No
+2900,Longest Unequal Adjacent Groups Subsequence I,https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/,Easy,100.0%,6m+,66.9%,No
+3164,Find the Number of Good Pairs II,https://leetcode.com/problems/find-the-number-of-good-pairs-ii/,Medium,,,,No

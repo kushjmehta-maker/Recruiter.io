@@ -1,0 +1,13 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,,,,No
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,75.0%,,43.7%,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
+50,"Pow(x, n)",https://leetcode.com/problems/powx-n/,Medium,,,,No
+80,Remove Duplicates from Sorted Array II,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/,Medium,,,,No
+409,Longest Palindrome,https://leetcode.com/problems/longest-palindrome/,Easy,87.5%,6m+,55.8%,No
+678,Valid Parenthesis String,https://leetcode.com/problems/valid-parenthesis-string/,Medium,,,,No
+1934,Confirmation Rate,https://leetcode.com/problems/confirmation-rate/,Medium,,,,No
+2087,Minimum Cost Homecoming of a Robot in a Grid,https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/,Medium,87.5%,6m+,51.6%,No
+2379,Minimum Recolors to Get K Consecutive Black Blocks,https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/,Easy,100.0%,6m+,68.6%,No

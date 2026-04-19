@@ -1,0 +1,20 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,62.5%,6m+,56.4%,No
+122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,,,,No
+460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,,,,No
+698,Partition to K Equal Sum Subsets,https://leetcode.com/problems/partition-to-k-equal-sum-subsets/,Medium,,,,No
+706,Design HashMap,https://leetcode.com/problems/design-hashmap/,Easy,,,,No
+489,Robot Room Cleaner,https://leetcode.com/problems/robot-room-cleaner/,Hard,,,,Yes
+1027,Longest Arithmetic Subsequence,https://leetcode.com/problems/longest-arithmetic-subsequence/,Medium,,,,No
+1426,Counting Elements,https://leetcode.com/problems/counting-elements/,Easy,62.5%,6m+,60.7%,Yes
+1386,Cinema Seat Allocation,https://leetcode.com/problems/cinema-seat-allocation/,Medium,,,,No
+1494,Parallel Courses II,https://leetcode.com/problems/parallel-courses-ii/,Hard,,,,No
+1531,String Compression II,https://leetcode.com/problems/string-compression-ii/,Hard,,,,No
+1666,Change the Root of a Binary Tree,https://leetcode.com/problems/change-the-root-of-a-binary-tree/,Medium,,,,Yes
+2098,Subsequence of Size K With the Largest Even Sum,https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum/,Medium,62.5%,6m+,35.7%,Yes
+2458,Height of Binary Tree After Subtree Removal Queries,https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/,Hard,,,,No
+2888,Reshape Data: Concatenate,https://leetcode.com/problems/reshape-data-concatenate/,Easy,,,,No
+2850,Minimum Moves to Spread Stones Over Grid,https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/,Medium,,,,No
+3243,Shortest Distance After Road Addition Queries I,https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/,Medium,,,,No
+3496,Maximize Score After Pair Deletions,https://leetcode.com/problems/maximize-score-after-pair-deletions/,Medium,100.0%,6m+,53.2%,Yes

@@ -1,0 +1,10 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,100.0%,6m+,43.7%,No
+345,Reverse Vowels of a String,https://leetcode.com/problems/reverse-vowels-of-a-string/,Easy,,,,No
+653,Two Sum IV - Input is a BST,https://leetcode.com/problems/two-sum-iv-input-is-a-bst/,Easy,,,,No
+723,Candy Crush,https://leetcode.com/problems/candy-crush/,Medium,100.0%,,77.3%,Yes
+1021,Remove Outermost Parentheses,https://leetcode.com/problems/remove-outermost-parentheses/,Easy,,,,No
+1197,Minimum Knight Moves,https://leetcode.com/problems/minimum-knight-moves/,Medium,,,,Yes
+1614,Maximum Nesting Depth of the Parentheses,https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/,Easy,,,,No
+1838,Frequency of the Most Frequent Element,https://leetcode.com/problems/frequency-of-the-most-frequent-element/,Medium,,,,No

@@ -1,0 +1,23 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+16,3Sum Closest,https://leetcode.com/problems/3sum-closest/,Medium,,,,No
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,,,,No
+43,Multiply Strings,https://leetcode.com/problems/multiply-strings/,Medium,,,,No
+113,Path Sum II,https://leetcode.com/problems/path-sum-ii/,Medium,,,,No
+129,Sum Root to Leaf Numbers,https://leetcode.com/problems/sum-root-to-leaf-numbers/,Medium,,,,No
+139,Word Break,https://leetcode.com/problems/word-break/,Medium,87.5%,6m+,49.1%,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,,,,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,,,,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
+227,Basic Calculator II,https://leetcode.com/problems/basic-calculator-ii/,Medium,,,,No
+347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,,,,No
+403,Frog Jump,https://leetcode.com/problems/frog-jump/,Hard,75.0%,6m+,47.1%,No
+407,Trapping Rain Water II,https://leetcode.com/problems/trapping-rain-water-ii/,Hard,100.0%,6m+,64.0%,No
+543,Diameter of Binary Tree,https://leetcode.com/problems/diameter-of-binary-tree/,Easy,,,,No
+815,Bus Routes,https://leetcode.com/problems/bus-routes/,Hard,,,,No
+856,Score of Parentheses,https://leetcode.com/problems/score-of-parentheses/,Medium,,,,No
+907,Sum of Subarray Minimums,https://leetcode.com/problems/sum-of-subarray-minimums/,Medium,,,,No
+934,Shortest Bridge,https://leetcode.com/problems/shortest-bridge/,Medium,,,,No
+1010,Pairs of Songs With Total Durations Divisible by 60,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/,Medium,,,,No
+2625,Flatten Deeply Nested Array,https://leetcode.com/problems/flatten-deeply-nested-array/,Medium,75.0%,6m+,65.5%,No

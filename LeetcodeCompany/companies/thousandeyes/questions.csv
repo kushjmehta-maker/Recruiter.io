@@ -1,0 +1,17 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+16,3Sum Closest,https://leetcode.com/problems/3sum-closest/,Medium,,,,No
+37,Sudoku Solver,https://leetcode.com/problems/sudoku-solver/,Hard,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,2.5%,6m+,66.8%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,4.3%,6m+,46.8%,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,3.0%,6m+,68.6%,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
+324,Wiggle Sort II,https://leetcode.com/problems/wiggle-sort-ii/,Medium,,,,No
+359,Logger Rate Limiter,https://leetcode.com/problems/logger-rate-limiter/,Easy,,,,Yes
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,,,,No
+460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,,,,No
+588,Design In-Memory File System,https://leetcode.com/problems/design-in-memory-file-system/,Hard,,,,Yes
+636,Exclusive Time of Functions,https://leetcode.com/problems/exclusive-time-of-functions/,Medium,,,,No
+881,Boats to Save People,https://leetcode.com/problems/boats-to-save-people/,Medium,,,,No
+2034,Stock Price Fluctuation ,https://leetcode.com/problems/stock-price-fluctuation/,Medium,,,,No
+2622,Cache With Time Limit,https://leetcode.com/problems/cache-with-time-limit/,Medium,100.0%,6m+,76.0%,No

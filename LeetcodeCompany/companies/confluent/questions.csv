@@ -1,0 +1,40 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+10,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,Hard,62.5%,6m+,30.4%,No
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,5.7%,"6m,6m+",64.1%,No
+37,Sudoku Solver,https://leetcode.com/problems/sudoku-solver/,Hard,6.1%,"3m,6m,6m+",65.4%,No
+39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,2.3%,6m+,76.1%,No
+40,Combination Sum II,https://leetcode.com/problems/combination-sum-ii/,Medium,,,,No
+44,Wildcard Matching,https://leetcode.com/problems/wildcard-matching/,Hard,,,,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,,,,No
+94,Binary Tree Inorder Traversal,https://leetcode.com/problems/binary-tree-inorder-traversal/,Easy,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,7.1%,6m+,46.8%,No
+206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No
+297,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,Hard,,,,No
+322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No
+346,Moving Average from Data Stream,https://leetcode.com/problems/moving-average-from-data-stream/,Easy,,,,Yes
+465,Optimal Account Balancing,https://leetcode.com/problems/optimal-account-balancing/,Hard,,,,Yes
+518,Coin Change II,https://leetcode.com/problems/coin-change-ii/,Medium,,,,No
+726,Number of Atoms,https://leetcode.com/problems/number-of-atoms/,Hard,,,,No
+765,Couples Holding Hands,https://leetcode.com/problems/couples-holding-hands/,Hard,,,,No
+824,Goat Latin,https://leetcode.com/problems/goat-latin/,Easy,,,,No
+907,Sum of Subarray Minimums,https://leetcode.com/problems/sum-of-subarray-minimums/,Medium,,,,No
+981,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/,Medium,100.0%,6m+,49.7%,No
+1034,Coloring A Border,https://leetcode.com/problems/coloring-a-border/,Medium,,,,No
+1944,Number of Visible People in a Queue,https://leetcode.com/problems/number-of-visible-people-in-a-queue/,Hard,,,,No
+1208,Get Equal Substrings Within Budget,https://leetcode.com/problems/get-equal-substrings-within-budget/,Medium,,,,No
+1233,Remove Sub-Folders from the Filesystem,https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/,Medium,,,,No
+1472,Design Browser History,https://leetcode.com/problems/design-browser-history/,Medium,,,,No
+1797,Design Authentication Manager,https://leetcode.com/problems/design-authentication-manager/,Medium,100.0%,"3m,6m,6m+",58.4%,No
+1851,Minimum Interval to Include Each Query,https://leetcode.com/problems/minimum-interval-to-include-each-query/,Hard,,,,No
+2062,Count Vowel Substrings of a String,https://leetcode.com/problems/count-vowel-substrings-of-a-string/,Easy,,,,No
+2096,Step-By-Step Directions From a Binary Tree Node to Another,https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/,Medium,,,,No
+2353,Design a Food Rating System,https://leetcode.com/problems/design-a-food-rating-system/,Medium,,,,No
+2488,Count Subarrays With Median K,https://leetcode.com/problems/count-subarrays-with-median-k/,Hard,,,,No
+2604,Minimum Time to Eat All Grains,https://leetcode.com/problems/minimum-time-to-eat-all-grains/,Hard,62.5%,6m+,40.5%,Yes
+2623,Memoize,https://leetcode.com/problems/memoize/,Medium,,,,No
+2627,Debounce,https://leetcode.com/problems/debounce/,Medium,62.5%,6m+,91.8%,No
+2622,Cache With Time Limit,https://leetcode.com/problems/cache-with-time-limit/,Medium,62.5%,,76.0%,No
+2747,Count Zero Request Servers,https://leetcode.com/problems/count-zero-request-servers/,Medium,,,,No
+3356,Zero Array Transformation II,https://leetcode.com/problems/zero-array-transformation-ii/,Medium,,,,No
+3480,Maximize Subarrays After Removing One Conflicting Pair,https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/,Hard,,,,No

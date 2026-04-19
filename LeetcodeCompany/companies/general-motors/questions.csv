@@ -1,0 +1,31 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,,,,No
+25,Reverse Nodes in k-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,Hard,,,,No
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,,,,No
+41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/,Hard,3.3%,6m+,42.4%,No
+64,Minimum Path Sum,https://leetcode.com/problems/minimum-path-sum/,Medium,3.3%,6m+,67.8%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,4.3%,,46.8%,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,,,,No
+208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,4.3%,6m+,69.2%,No
+218,The Skyline Problem,https://leetcode.com/problems/the-skyline-problem/,Hard,,,,No
+297,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,Hard,3.9%,,60.3%,No
+323,Number of Connected Components in an Undirected Graph,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/,Medium,9.8%,"6m,6m+",64.8%,Yes
+394,Decode String,https://leetcode.com/problems/decode-string/,Medium,,,,No
+689,Maximum Sum of 3 Non-Overlapping Subarrays,https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/,Hard,6.7%,6m,59.7%,No
+784,Letter Case Permutation,https://leetcode.com/problems/letter-case-permutation/,Medium,,,,No
+706,Design HashMap,https://leetcode.com/problems/design-hashmap/,Easy,,,,No
+843,Guess the Word,https://leetcode.com/problems/guess-the-word/,Hard,,,,No
+509,Fibonacci Number,https://leetcode.com/problems/fibonacci-number/,Easy,,,,No
+1404,Number of Steps to Reduce a Number in Binary Representation to One,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/,Medium,100.0%,"30d,3m,6m",61.3%,No
+1570,Dot Product of Two Sparse Vectors,https://leetcode.com/problems/dot-product-of-two-sparse-vectors/,Medium,50.0%,6m+,89.9%,Yes
+1637,Widest Vertical Area Between Two Points Containing No Points,https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/,Easy,50.0%,6m+,87.1%,No
+1647,Minimum Deletions to Make Character Frequencies Unique,https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/,Medium,,,,No
+1804,Implement Trie II (Prefix Tree),https://leetcode.com/problems/implement-trie-ii-prefix-tree/,Medium,,,,Yes
+2316,Count Unreachable Pairs of Nodes in an Undirected Graph,https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/,Medium,,,,No
+2685,Count the Number of Complete Components,https://leetcode.com/problems/count-the-number-of-complete-components/,Medium,,,,No
+2899,Last Visited Integers,https://leetcode.com/problems/last-visited-integers/,Easy,,,,No
+3121,Count the Number of Special Characters II,https://leetcode.com/problems/count-the-number-of-special-characters-ii/,Medium,,,,No
+3720,Lexicographically Smallest Permutation Greater Than Target,https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/,Medium,,,,No

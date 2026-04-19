@@ -1,0 +1,7 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+176,Second Highest Salary,https://leetcode.com/problems/second-highest-salary/,Medium,,,,No
+387,First Unique Character in a String,https://leetcode.com/problems/first-unique-character-in-a-string/,Easy,,,,No
+3376,Minimum Time to Break Locks I,https://leetcode.com/problems/minimum-time-to-break-locks-i/,Medium,100.0%,6m+,32.1%,No
+3385,Minimum Time to Break Locks II,https://leetcode.com/problems/minimum-time-to-break-locks-ii/,Hard,100.0%,6m+,45.0%,Yes

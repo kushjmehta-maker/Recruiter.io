@@ -1,0 +1,84 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,6m+,47.9%,No
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,4.7%,6m+,45.9%,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,6m+,37.3%,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,1.4%,6m+,59.5%,No
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,6.7%,6m+,70.4%,No
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,3.6%,6m+,66.2%,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,6m+,38.6%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,50.0%,6m+,43.7%,No
+21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,,6m+,67.9%,No
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,,,,No
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,,,,No
+38,Count and Say,https://leetcode.com/problems/count-and-say/,Medium,50.0%,6m+,62.3%,No
+39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,6m+,66.8%,No
+50,"Pow(x, n)",https://leetcode.com/problems/powx-n/,Medium,,6m+,38.2%,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,6m+,53.0%,No
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,3.0%,6m+,51.1%,No
+78,Subsets,https://leetcode.com/problems/subsets/,Medium,4.8%,6m+,82.0%,No
+79,Word Search,https://leetcode.com/problems/word-search/,Medium,62.5%,6m+,46.8%,No
+85,Maximal Rectangle,https://leetcode.com/problems/maximal-rectangle/,Hard,,,,No
+98,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/,Medium,,6m+,35.3%,No
+118,Pascal's Triangle,https://leetcode.com/problems/pascals-triangle/,Easy,,,,No
+119,Pascal's Triangle II,https://leetcode.com/problems/pascals-triangle-ii/,Easy,,,,No
+124,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Hard,,6m+,42.0%,No
+133,Clone Graph,https://leetcode.com/problems/clone-graph/,Medium,,6m+,64.7%,No
+138,Copy List with Random Pointer,https://leetcode.com/problems/copy-list-with-random-pointer/,Medium,,6m+,62.4%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+162,Find Peak Element,https://leetcode.com/problems/find-peak-element/,Medium,2.2%,6m+,46.8%,No
+181,Employees Earning More Than Their Managers,https://leetcode.com/problems/employees-earning-more-than-their-managers/,Easy,,6m+,72.8%,No
+199,Binary Tree Right Side View,https://leetcode.com/problems/binary-tree-right-side-view/,Medium,,6m+,69.5%,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,4.1%,6m+,63.8%,No
+212,Word Search II,https://leetcode.com/problems/word-search-ii/,Hard,5.2%,6m+,38.1%,No
+224,Basic Calculator,https://leetcode.com/problems/basic-calculator/,Hard,,,,No
+227,Basic Calculator II,https://leetcode.com/problems/basic-calculator-ii/,Medium,,,,No
+236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Medium,,6m+,68.7%,No
+243,Shortest Word Distance,https://leetcode.com/problems/shortest-word-distance/,Easy,,6m+,66.2%,Yes
+249,Group Shifted Strings,https://leetcode.com/problems/group-shifted-strings/,Medium,,6m+,67.7%,Yes
+269,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,Hard,,6m+,37.1%,Yes
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,6m+,63.5%,No
+297,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,Hard,,,,No
+317,Shortest Distance from All Buildings,https://leetcode.com/problems/shortest-distance-from-all-buildings/,Hard,6.2%,6m+,44.8%,Yes
+336,Palindrome Pairs,https://leetcode.com/problems/palindrome-pairs/,Hard,,6m+,36.9%,No
+342,Power of Four,https://leetcode.com/problems/power-of-four/,Easy,,6m+,51.7%,No
+349,Intersection of Two Arrays,https://leetcode.com/problems/intersection-of-two-arrays/,Easy,,6m+,77.5%,No
+392,Is Subsequence,https://leetcode.com/problems/is-subsequence/,Easy,,6m+,48.8%,No
+394,Decode String,https://leetcode.com/problems/decode-string/,Medium,5.7%,6m+,62.2%,No
+420,Strong Password Checker,https://leetcode.com/problems/strong-password-checker/,Hard,8.2%,6m+,15.4%,No
+423,Reconstruct Original Digits from English,https://leetcode.com/problems/reconstruct-original-digits-from-english/,Medium,7.4%,6m+,52.7%,No
+543,Diameter of Binary Tree,https://leetcode.com/problems/diameter-of-binary-tree/,Easy,,6m+,65.0%,No
+736,Parse Lisp Expression,https://leetcode.com/problems/parse-lisp-expression/,Hard,,,,No
+772,Basic Calculator III,https://leetcode.com/problems/basic-calculator-iii/,Hard,,,,Yes
+783,Minimum Distance Between BST Nodes,https://leetcode.com/problems/minimum-distance-between-bst-nodes/,Easy,50.0%,6m+,61.1%,No
+789,Escape The Ghosts,https://leetcode.com/problems/escape-the-ghosts/,Medium,62.5%,6m+,63.4%,No
+705,Design HashSet,https://leetcode.com/problems/design-hashset/,Easy,50.0%,6m+,67.7%,No
+804,Unique Morse Code Words,https://leetcode.com/problems/unique-morse-code-words/,Easy,50.0%,6m+,83.5%,No
+811,Subdomain Visit Count,https://leetcode.com/problems/subdomain-visit-count/,Medium,50.0%,6m+,77.2%,No
+852,Peak Index in a Mountain Array,https://leetcode.com/problems/peak-index-in-a-mountain-array/,Medium,,,,No
+863,All Nodes Distance K in Binary Tree,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/,Medium,50.0%,6m+,67.4%,No
+876,Middle of the Linked List,https://leetcode.com/problems/middle-of-the-linked-list/,Easy,,,,No
+929,Unique Email Addresses,https://leetcode.com/problems/unique-email-addresses/,Easy,50.0%,6m+,67.8%,No
+953,Verifying an Alien Dictionary,https://leetcode.com/problems/verifying-an-alien-dictionary/,Easy,50.0%,6m+,55.9%,No
+509,Fibonacci Number,https://leetcode.com/problems/fibonacci-number/,Easy,50.0%,,73.9%,No
+973,K Closest Points to Origin,https://leetcode.com/problems/k-closest-points-to-origin/,Medium,50.0%,6m+,68.7%,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,87.5%,6m+,58.1%,No
+1162,As Far from Land as Possible,https://leetcode.com/problems/as-far-from-land-as-possible/,Medium,62.5%,6m+,52.2%,No
+1041,Robot Bounded In Circle,https://leetcode.com/problems/robot-bounded-in-circle/,Medium,,,,No
+1048,Longest String Chain,https://leetcode.com/problems/longest-string-chain/,Medium,50.0%,6m+,62.8%,No
+1169,Invalid Transactions,https://leetcode.com/problems/invalid-transactions/,Medium,50.0%,6m+,32.1%,No
+1212,Team Scores in Football Tournament,https://leetcode.com/problems/team-scores-in-football-tournament/,Medium,,,,Yes
+1268,Search Suggestions System,https://leetcode.com/problems/search-suggestions-system/,Medium,50.0%,6m+,65.2%,No
+1650,Lowest Common Ancestor of a Binary Tree III,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/,Medium,50.0%,6m+,82.9%,Yes
+1732,Find the Highest Altitude,https://leetcode.com/problems/find-the-highest-altitude/,Easy,,,,No
+2210,Count Hills and Valleys in an Array,https://leetcode.com/problems/count-hills-and-valleys-in-an-array/,Easy,,,,No
+2540,Minimum Common Value,https://leetcode.com/problems/minimum-common-value/,Easy,,,,No
+2623,Memoize,https://leetcode.com/problems/memoize/,Medium,,,,No
+2632,Curry,https://leetcode.com/problems/curry/,Medium,,,,Yes
+2635,Apply Transform Over Each Element in Array,https://leetcode.com/problems/apply-transform-over-each-element-in-array/,Easy,,,,No
+2665,Counter II,https://leetcode.com/problems/counter-ii/,Easy,,,,No
+2814,Minimum Time Takes to Reach Destination Without Drowning,https://leetcode.com/problems/minimum-time-takes-to-reach-destination-without-drowning/,Hard,50.0%,6m+,54.5%,Yes
+2951,Find the Peaks,https://leetcode.com/problems/find-the-peaks/,Easy,,,,No
+3098,Find the Sum of Subsequence Powers,https://leetcode.com/problems/find-the-sum-of-subsequence-powers/,Hard,,,,No

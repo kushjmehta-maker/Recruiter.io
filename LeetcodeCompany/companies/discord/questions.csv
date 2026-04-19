@@ -1,0 +1,6 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+243,Shortest Word Distance,https://leetcode.com/problems/shortest-word-distance/,Easy,,,,Yes
+278,First Bad Version,https://leetcode.com/problems/first-bad-version/,Easy,,,,No
+631,Design Excel Sum Formula,https://leetcode.com/problems/design-excel-sum-formula/,Hard,,,,Yes
+658,Find K Closest Elements,https://leetcode.com/problems/find-k-closest-elements/,Medium,,,,No
+2301,Match Substring After Replacement,https://leetcode.com/problems/match-substring-after-replacement/,Hard,100.0%,6m+,43.1%,No

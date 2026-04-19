@@ -1,0 +1,26 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+51,N-Queens,https://leetcode.com/problems/n-queens/,Hard,,,,No
+74,Search a 2D Matrix,https://leetcode.com/problems/search-a-2d-matrix/,Medium,,,,No
+124,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Hard,,,,No
+138,Copy List with Random Pointer,https://leetcode.com/problems/copy-list-with-random-pointer/,Medium,100.0%,,62.4%,No
+155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,,,,No
+169,Majority Element,https://leetcode.com/problems/majority-element/,Easy,100.0%,6m+,66.1%,No
+171,Excel Sheet Column Number,https://leetcode.com/problems/excel-sheet-column-number/,Easy,,,,No
+176,Second Highest Salary,https://leetcode.com/problems/second-highest-salary/,Medium,,,,No
+179,Largest Number,https://leetcode.com/problems/largest-number/,Medium,100.0%,,42.6%,No
+211,Design Add and Search Words Data Structure,https://leetcode.com/problems/design-add-and-search-words-data-structure/,Medium,,,,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
+268,Missing Number,https://leetcode.com/problems/missing-number/,Easy,,,,No
+312,Burst Balloons,https://leetcode.com/problems/burst-balloons/,Hard,,,,No
+546,Remove Boxes,https://leetcode.com/problems/remove-boxes/,Hard,,,,No
+853,Car Fleet,https://leetcode.com/problems/car-fleet/,Medium,,,,No
+962,Maximum Width Ramp,https://leetcode.com/problems/maximum-width-ramp/,Medium,,,,No
+1283,Find the Smallest Divisor Given a Threshold,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/,Medium,,,,No
+2625,Flatten Deeply Nested Array,https://leetcode.com/problems/flatten-deeply-nested-array/,Medium,,,,No

@@ -1,0 +1,72 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,6.8%,"3m,6m,6m+",45.9%,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,3.2%,6m,67.9%,No
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,5.1%,"3m,6m",58.8%,No
+31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,,,,No
+32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,62.5%,6m+,51.1%,No
+58,Length of Last Word,https://leetcode.com/problems/length-of-last-word/,Easy,,,,No
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,,,,No
+78,Subsets,https://leetcode.com/problems/subsets/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.2%,6m,46.8%,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
+228,Summary Ranges,https://leetcode.com/problems/summary-ranges/,Easy,,,,No
+236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Medium,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
+269,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,Hard,,,,Yes
+295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,,,,No
+332,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,Hard,,,,No
+337,House Robber III,https://leetcode.com/problems/house-robber-iii/,Medium,,,,No
+347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,2.6%,6m,65.8%,No
+355,Design Twitter,https://leetcode.com/problems/design-twitter/,Medium,,,,No
+362,Design Hit Counter,https://leetcode.com/problems/design-hit-counter/,Medium,,,,Yes
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,3.2%,6m+,55.3%,No
+399,Evaluate Division,https://leetcode.com/problems/evaluate-division/,Medium,6.3%,6m+,64.0%,No
+434,Number of Segments in a String,https://leetcode.com/problems/number-of-segments-in-a-string/,Easy,,,,No
+460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,3.8%,6m+,48.6%,No
+465,Optimal Account Balancing,https://leetcode.com/problems/optimal-account-balancing/,Hard,6.8%,6m+,50.3%,Yes
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
+631,Design Excel Sum Formula,https://leetcode.com/problems/design-excel-sum-formula/,Hard,10.9%,6m+,39.8%,Yes
+690,Employee Importance,https://leetcode.com/problems/employee-importance/,Medium,,,,No
+692,Top K Frequent Words,https://leetcode.com/problems/top-k-frequent-words/,Medium,50.0%,,60.0%,No
+721,Accounts Merge,https://leetcode.com/problems/accounts-merge/,Medium,62.5%,6m+,60.9%,No
+737,Sentence Similarity II,https://leetcode.com/problems/sentence-similarity-ii/,Medium,62.5%,6m,51.1%,Yes
+704,Binary Search,https://leetcode.com/problems/binary-search/,Easy,,,,No
+706,Design HashMap,https://leetcode.com/problems/design-hashmap/,Easy,,,,No
+819,Most Common Word,https://leetcode.com/problems/most-common-word/,Easy,,,,No
+839,Similar String Groups,https://leetcode.com/problems/similar-string-groups/,Hard,,,,No
+852,Peak Index in a Mountain Array,https://leetcode.com/problems/peak-index-in-a-mountain-array/,Medium,,,,No
+920,Number of Music Playlists,https://leetcode.com/problems/number-of-music-playlists/,Hard,,,,No
+981,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/,Medium,,,,No
+987,Vertical Order Traversal of a Binary Tree,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/,Hard,,,,No
+1120,Maximum Average Subtree,https://leetcode.com/problems/maximum-average-subtree/,Medium,,,,Yes
+1136,Parallel Courses,https://leetcode.com/problems/parallel-courses/,Medium,,,,Yes
+1046,Last Stone Weight,https://leetcode.com/problems/last-stone-weight/,Easy,62.5%,6m+,66.3%,No
+1258,Synonymous Sentences,https://leetcode.com/problems/synonymous-sentences/,Medium,62.5%,6m,57.1%,Yes
+1291,Sequential Digits,https://leetcode.com/problems/sequential-digits/,Medium,,,,No
+1314,Matrix Block Sum,https://leetcode.com/problems/matrix-block-sum/,Medium,,,,No
+1146,Snapshot Array,https://leetcode.com/problems/snapshot-array/,Medium,,,,No
+1944,Number of Visible People in a Queue,https://leetcode.com/problems/number-of-visible-people-in-a-queue/,Hard,75.0%,6m+,72.3%,No
+1193,Monthly Transactions I,https://leetcode.com/problems/monthly-transactions-i/,Medium,,,,No
+1326,Minimum Number of Taps to Open to Water a Garden,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/,Hard,50.0%,,51.0%,No
+1376,Time Needed to Inform All Employees,https://leetcode.com/problems/time-needed-to-inform-all-employees/,Medium,,,,No
+1396,Design Underground System,https://leetcode.com/problems/design-underground-system/,Medium,50.0%,,74.4%,No
+1639,Number of Ways to Form a Target String Given a Dictionary,https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/,Hard,,,,No
+1723,Find Minimum Time to Finish All Jobs,https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/,Hard,,,,No
+1863,Sum of All Subset XOR Totals,https://leetcode.com/problems/sum-of-all-subset-xor-totals/,Easy,,,,No
+1992,Find All Groups of Farmland,https://leetcode.com/problems/find-all-groups-of-farmland/,Medium,,,,No
+2071,Maximum Number of Tasks You Can Assign,https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/,Hard,,,,No
+2296,Design a Text Editor,https://leetcode.com/problems/design-a-text-editor/,Hard,,,,No
+2779,Maximum Beauty of an Array After Applying Operation,https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/,Medium,,,,No
+2939,Maximum Xor Product,https://leetcode.com/problems/maximum-xor-product/,Medium,62.5%,6m+,29.5%,No
+2958,Length of Longest Subarray With at Most K Frequency,https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/,Medium,,,,No
+3116,Kth Smallest Amount With Single Denomination Combination,https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/,Hard,,,,No
+3387,Maximize Amount After Two Days of Conversions,https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions/,Medium,62.5%,6m+,61.1%,No
+3484,Design Spreadsheet,https://leetcode.com/problems/design-spreadsheet/,Medium,100.0%,6m+,74.3%,No

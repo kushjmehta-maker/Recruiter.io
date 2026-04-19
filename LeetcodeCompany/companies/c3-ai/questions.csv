@@ -1,0 +1,37 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,75.0%,6m+,59.5%,No
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,1.9%,6m+,43.7%,No
+22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,75.0%,6m+,78.2%,No
+31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,3.8%,6m+,66.8%,No
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,75.0%,6m+,56.1%,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,1.8%,,51.1%,No
+69,Sqrt(x),https://leetcode.com/problems/sqrtx/,Easy,,,,No
+134,Gas Station,https://leetcode.com/problems/gas-station/,Medium,,,,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,,,,No
+216,Combination Sum III,https://leetcode.com/problems/combination-sum-iii/,Medium,,,,No
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,,,,No
+257,Binary Tree Paths,https://leetcode.com/problems/binary-tree-paths/,Easy,,,,No
+269,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,Hard,,,,Yes
+279,Perfect Squares,https://leetcode.com/problems/perfect-squares/,Medium,,,,No
+281,Zigzag Iterator,https://leetcode.com/problems/zigzag-iterator/,Medium,100.0%,6m+,66.5%,Yes
+295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,,,,No
+301,Remove Invalid Parentheses,https://leetcode.com/problems/remove-invalid-parentheses/,Hard,,,,No
+322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,2.0%,,,No
+394,Decode String,https://leetcode.com/problems/decode-string/,Medium,,,,No
+395,Longest Substring with At Least K Repeating Characters,https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/,Medium,,,,No
+402,Remove K Digits,https://leetcode.com/problems/remove-k-digits/,Medium,,,,No
+433,Minimum Genetic Mutation,https://leetcode.com/problems/minimum-genetic-mutation/,Medium,,,,No
+605,Can Place Flowers,https://leetcode.com/problems/can-place-flowers/,Easy,,,,No
+780,Reaching Points,https://leetcode.com/problems/reaching-points/,Hard,,,,No
+976,Largest Perimeter Triangle,https://leetcode.com/problems/largest-perimeter-triangle/,Easy,75.0%,6m+,62.0%,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,87.5%,6m+,58.1%,No
+1235,Maximum Profit in Job Scheduling,https://leetcode.com/problems/maximum-profit-in-job-scheduling/,Hard,,,,No
+1319,Number of Operations to Make Network Connected,https://leetcode.com/problems/number-of-operations-to-make-network-connected/,Medium,,,,No
+1419,Minimum Number of Frogs Croaking,https://leetcode.com/problems/minimum-number-of-frogs-croaking/,Medium,,,,No
+1547,Minimum Cost to Cut a Stick,https://leetcode.com/problems/minimum-cost-to-cut-a-stick/,Hard,,,,No
+2798,Number of Employees Who Met the Target,https://leetcode.com/problems/number-of-employees-who-met-the-target/,Easy,,,,No
+3649,Number of Perfect Pairs,https://leetcode.com/problems/number-of-perfect-pairs/,Medium,,,,No

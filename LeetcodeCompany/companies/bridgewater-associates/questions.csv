@@ -1,0 +1,8 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+235,Lowest Common Ancestor of a Binary Search Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,Medium,,,,No
+494,Target Sum,https://leetcode.com/problems/target-sum/,Medium,,,,No
+935,Knight Dialer,https://leetcode.com/problems/knight-dialer/,Medium,100.0%,"6m,6m+",61.7%,No
+1043,Partition Array for Maximum Sum,https://leetcode.com/problems/partition-array-for-maximum-sum/,Medium,,,,No
+2393,Count Strictly Increasing Subarrays,https://leetcode.com/problems/count-strictly-increasing-subarrays/,Medium,87.5%,6m+,71.3%,Yes
+3133,Minimum Array End,https://leetcode.com/problems/minimum-array-end/,Medium,,,,No

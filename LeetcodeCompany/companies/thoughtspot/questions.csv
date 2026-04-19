@@ -1,0 +1,48 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
+41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/,Hard,,,,No
+72,Edit Distance,https://leetcode.com/problems/edit-distance/,Medium,,,,No
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,3.5%,6m+,46.9%,No
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,2.2%,,49.3%,No
+97,Interleaving String,https://leetcode.com/problems/interleaving-string/,Medium,75.0%,6m+,43.5%,No
+103,Binary Tree Zigzag Level Order Traversal,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/,Medium,,,,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No
+167,Two Sum II - Input Array Is Sorted,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,Medium,,,,No
+213,House Robber II,https://leetcode.com/problems/house-robber-ii/,Medium,75.0%,6m+,44.6%,No
+217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,,,,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
+269,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,Hard,,,,Yes
+329,Longest Increasing Path in a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,Hard,,,,No
+370,Range Addition,https://leetcode.com/problems/range-addition/,Medium,,,,Yes
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,,,,No
+410,Split Array Largest Sum,https://leetcode.com/problems/split-array-largest-sum/,Hard,,,,No
+420,Strong Password Checker,https://leetcode.com/problems/strong-password-checker/,Hard,,,,No
+435,Non-overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/,Medium,,,,No
+583,Delete Operation for Two Strings,https://leetcode.com/problems/delete-operation-for-two-strings/,Medium,,,,No
+630,Course Schedule III,https://leetcode.com/problems/course-schedule-iii/,Hard,,,,No
+705,Design HashSet,https://leetcode.com/problems/design-hashset/,Easy,,,,No
+920,Number of Music Playlists,https://leetcode.com/problems/number-of-music-playlists/,Hard,,,,No
+977,Squares of a Sorted Array,https://leetcode.com/problems/squares-of-a-sorted-array/,Easy,,,,No
+995,Minimum Number of K Consecutive Bit Flips,https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/,Hard,75.0%,6m+,62.2%,No
+1011,Capacity To Ship Packages Within D Days,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/,Medium,,,,No
+1027,Longest Arithmetic Subsequence,https://leetcode.com/problems/longest-arithmetic-subsequence/,Medium,,,,No
+1049,Last Stone Weight II,https://leetcode.com/problems/last-stone-weight-ii/,Medium,,,,No
+1168,Optimize Water Distribution in a Village,https://leetcode.com/problems/optimize-water-distribution-in-a-village/,Hard,,,,Yes
+1106,Parsing A Boolean Expression,https://leetcode.com/problems/parsing-a-boolean-expression/,Hard,,,,No
+1176,Diet Plan Performance,https://leetcode.com/problems/diet-plan-performance/,Easy,,,,Yes
+1248,Count Number of Nice Subarrays,https://leetcode.com/problems/count-number-of-nice-subarrays/,Medium,,,,No
+1423,Maximum Points You Can Obtain from Cards,https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/,Medium,,,,No
+1654,Minimum Jumps to Reach Home,https://leetcode.com/problems/minimum-jumps-to-reach-home/,Medium,,,,No
+2050,Parallel Courses III,https://leetcode.com/problems/parallel-courses-iii/,Hard,,,,No
+2122,Recover the Original Array,https://leetcode.com/problems/recover-the-original-array/,Hard,,,,No
+2197,Replace Non-Coprime Numbers in Array,https://leetcode.com/problems/replace-non-coprime-numbers-in-array/,Hard,,,,No
+2220,Minimum Bit Flips to Convert Number,https://leetcode.com/problems/minimum-bit-flips-to-convert-number/,Easy,,,,No
+2296,Design a Text Editor,https://leetcode.com/problems/design-a-text-editor/,Hard,,,,No
+2316,Count Unreachable Pairs of Nodes in an Undirected Graph,https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/,Medium,,,,No
+2488,Count Subarrays With Median K,https://leetcode.com/problems/count-subarrays-with-median-k/,Hard,75.0%,6m+,47.6%,No
+2556,Disconnect Path in a Binary Matrix by at Most One Flip,https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/,Medium,,,,No
+2746,Decremental String Concatenation,https://leetcode.com/problems/decremental-string-concatenation/,Medium,,,,No
+2791,Count Paths That Can Form a Palindrome in a Tree,https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/,Hard,100.0%,6m+,48.3%,No
+3067,Count Pairs of Connectable Servers in a Weighted Tree Network,https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/,Medium,75.0%,6m+,55.5%,No
+3552,Grid Teleportation Traversal,https://leetcode.com/problems/grid-teleportation-traversal/,Medium,,,,No

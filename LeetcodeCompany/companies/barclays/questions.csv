@@ -1,0 +1,72 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+7,Reverse Integer,https://leetcode.com/problems/reverse-integer/,Medium,,,,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,,,,No
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,,,,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,2.1%,6m,47.1%,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,2.5%,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,62.5%,6m+,43.7%,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+57,Insert Interval,https://leetcode.com/problems/insert-interval/,Medium,,,,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,62.5%,6m+,53.9%,No
+78,Subsets,https://leetcode.com/problems/subsets/,Medium,,,,No
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,,,,No
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No
+103,Binary Tree Zigzag Level Order Traversal,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/,Medium,,,,No
+110,Balanced Binary Tree,https://leetcode.com/problems/balanced-binary-tree/,Easy,,,,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No
+135,Candy,https://leetcode.com/problems/candy/,Hard,,,,No
+139,Word Break,https://leetcode.com/problems/word-break/,Medium,,,,No
+151,Reverse Words in a String,https://leetcode.com/problems/reverse-words-in-a-string/,Medium,62.5%,,55.5%,No
+162,Find Peak Element,https://leetcode.com/problems/find-peak-element/,Medium,,,,No
+169,Majority Element,https://leetcode.com/problems/majority-element/,Easy,,,,No
+176,Second Highest Salary,https://leetcode.com/problems/second-highest-salary/,Medium,62.5%,6m+,46.3%,No
+185,Department Top Three Salaries,https://leetcode.com/problems/department-top-three-salaries/,Hard,,,,No
+189,Rotate Array,https://leetcode.com/problems/rotate-array/,Medium,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,3.0%,6m+,63.8%,No
+234,Palindrome Linked List,https://leetcode.com/problems/palindrome-linked-list/,Easy,,,,No
+236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Medium,,,,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
+344,Reverse String,https://leetcode.com/problems/reverse-string/,Easy,,,,No
+345,Reverse Vowels of a String,https://leetcode.com/problems/reverse-vowels-of-a-string/,Easy,,,,No
+386,Lexicographical Numbers,https://leetcode.com/problems/lexicographical-numbers/,Medium,4.7%,6m+,76.2%,No
+451,Sort Characters By Frequency,https://leetcode.com/problems/sort-characters-by-frequency/,Medium,,,,No
+452,Minimum Number of Arrows to Burst Balloons,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/,Medium,,,,No
+453,Minimum Moves to Equal Array Elements,https://leetcode.com/problems/minimum-moves-to-equal-array-elements/,Medium,,,,No
+496,Next Greater Element I,https://leetcode.com/problems/next-greater-element-i/,Easy,62.5%,,75.7%,No
+621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,,,,No
+763,Partition Labels,https://leetcode.com/problems/partition-labels/,Medium,,,,No
+853,Car Fleet,https://leetcode.com/problems/car-fleet/,Medium,,,,No
+876,Middle of the Linked List,https://leetcode.com/problems/middle-of-the-linked-list/,Easy,,,,No
+933,Number of Recent Calls,https://leetcode.com/problems/number-of-recent-calls/,Easy,,,,No
+509,Fibonacci Number,https://leetcode.com/problems/fibonacci-number/,Easy,,,,No
+1004,Max Consecutive Ones III,https://leetcode.com/problems/max-consecutive-ones-iii/,Medium,,,,No
+1021,Remove Outermost Parentheses,https://leetcode.com/problems/remove-outermost-parentheses/,Easy,,,,No
+1116,Print Zero Even Odd,https://leetcode.com/problems/print-zero-even-odd/,Medium,,,,No
+1143,Longest Common Subsequence,https://leetcode.com/problems/longest-common-subsequence/,Medium,,,,No
+1441,Build an Array With Stack Operations,https://leetcode.com/problems/build-an-array-with-stack-operations/,Medium,,,,No
+1482,Minimum Number of Days to Make m Bouquets,https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/,Medium,62.5%,,56.2%,No
+1512,Number of Good Pairs,https://leetcode.com/problems/number-of-good-pairs/,Easy,,,,No
+1684,Count the Number of Consistent Strings,https://leetcode.com/problems/count-the-number-of-consistent-strings/,Easy,,,,No
+1903,Largest Odd Number in String,https://leetcode.com/problems/largest-odd-number-in-string/,Easy,,,,No
+2106,Maximum Fruits Harvested After at Most K Steps,https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/,Hard,,,,No
+2127,Maximum Employees to Be Invited to a Meeting,https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/,Hard,,,,No
+2241,Design an ATM Machine,https://leetcode.com/problems/design-an-atm-machine/,Medium,,,,No
+2311,Longest Binary Subsequence Less Than or Equal to K,https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/,Medium,,,,No
+2405,Optimal Partition of String,https://leetcode.com/problems/optimal-partition-of-string/,Medium,,,,No
+2429,Minimize XOR,https://leetcode.com/problems/minimize-xor/,Medium,,,,No
+2619,Array Prototype Last,https://leetcode.com/problems/array-prototype-last/,Easy,,,,No
+2833,Furthest Point From Origin,https://leetcode.com/problems/furthest-point-from-origin/,Easy,75.0%,6m+,65.3%,No
+2961,Double Modular Exponentiation,https://leetcode.com/problems/double-modular-exponentiation/,Medium,75.0%,6m+,47.9%,No
+3080,Mark Elements on Array by Performing Queries,https://leetcode.com/problems/mark-elements-on-array-by-performing-queries/,Medium,62.5%,6m+,49.1%,No
+3043,Find the Length of the Longest Common Prefix,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/,Medium,,,,No
+3100,Water Bottles II,https://leetcode.com/problems/water-bottles-ii/,Medium,,,,No
+3070,Count Submatrices with Top-Left Element and Sum Less Than k,https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/,Medium,62.5%,6m+,58.3%,No
+3138,Minimum Length of Anagram Concatenation,https://leetcode.com/problems/minimum-length-of-anagram-concatenation/,Medium,,,,No
+3318,Find X-Sum of All K-Long Subarrays I,https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/,Easy,,,,No
+3474,Lexicographically Smallest Generated String,https://leetcode.com/problems/lexicographically-smallest-generated-string/,Hard,100.0%,6m+,31.5%,No
+3814,Maximum Capacity Within Budget,https://leetcode.com/problems/maximum-capacity-within-budget/,Medium,,,,No

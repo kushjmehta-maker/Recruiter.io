@@ -1,0 +1,25 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
+46,Permutations,https://leetcode.com/problems/permutations/,Medium,,,,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,1.9%,6m+,40.5%,No
+71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,,,,No
+72,Edit Distance,https://leetcode.com/problems/edit-distance/,Medium,,,,No
+122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+148,Sort List,https://leetcode.com/problems/sort-list/,Medium,,,,No
+155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,3.5%,6m+,57.7%,No
+173,Binary Search Tree Iterator,https://leetcode.com/problems/binary-search-tree-iterator/,Medium,,,,No
+179,Largest Number,https://leetcode.com/problems/largest-number/,Medium,,,,No
+187,Repeated DNA Sequences,https://leetcode.com/problems/repeated-dna-sequences/,Medium,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
+206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
+410,Split Array Largest Sum,https://leetcode.com/problems/split-array-largest-sum/,Hard,,,,No
+605,Can Place Flowers,https://leetcode.com/problems/can-place-flowers/,Easy,,,,No
+772,Basic Calculator III,https://leetcode.com/problems/basic-calculator-iii/,Hard,,,,Yes
+922,Sort Array By Parity II,https://leetcode.com/problems/sort-array-by-parity-ii/,Easy,,,,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,100.0%,6m+,58.1%,No
+2176,Count Equal and Divisible Pairs in an Array,https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/,Easy,,,,No
+2492,Minimum Score of a Path Between Two Cities,https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/,Medium,,,,No

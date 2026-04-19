@@ -1,0 +1,19 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,,,,No
+26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
+78,Subsets,https://leetcode.com/problems/subsets/,Medium,,,,No
+85,Maximal Rectangle,https://leetcode.com/problems/maximal-rectangle/,Hard,,,,No
+174,Dungeon Game,https://leetcode.com/problems/dungeon-game/,Hard,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
+290,Word Pattern,https://leetcode.com/problems/word-pattern/,Easy,,,,No
+438,Find All Anagrams in a String,https://leetcode.com/problems/find-all-anagrams-in-a-string/,Medium,,,,No
+688,Knight Probability in Chessboard,https://leetcode.com/problems/knight-probability-in-chessboard/,Medium,,,,No
+714,Best Time to Buy and Sell Stock with Transaction Fee,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/,Medium,,,,No
+880,Decoded String at Index,https://leetcode.com/problems/decoded-string-at-index/,Medium,100.0%,6m+,37.2%,No
+1311,Get Watched Videos by Your Friends,https://leetcode.com/problems/get-watched-videos-by-your-friends/,Medium,,,,No
+1866,Number of Ways to Rearrange Sticks With K Sticks Visible,https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/,Hard,,,,No
+3193,Count the Number of Inversions,https://leetcode.com/problems/count-the-number-of-inversions/,Hard,,,,No
+3316,Find Maximum Removals From Source String,https://leetcode.com/problems/find-maximum-removals-from-source-string/,Medium,,,,No

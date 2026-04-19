@@ -1,0 +1,10 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+7,Reverse Integer,https://leetcode.com/problems/reverse-integer/,Medium,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,4.8%,6m+,46.8%,No
+224,Basic Calculator,https://leetcode.com/problems/basic-calculator/,Hard,,,,No
+978,Longest Turbulent Subarray,https://leetcode.com/problems/longest-turbulent-subarray/,Medium,,,,No
+1615,Maximal Network Rank,https://leetcode.com/problems/maximal-network-rank/,Medium,,,,No
+1647,Minimum Deletions to Make Character Frequencies Unique,https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/,Medium,87.5%,6m+,61.4%,No
+2384,Largest Palindromic Number,https://leetcode.com/problems/largest-palindromic-number/,Medium,,,,No

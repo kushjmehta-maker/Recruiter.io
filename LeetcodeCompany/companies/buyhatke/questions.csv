@@ -1,0 +1,11 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+25,Reverse Nodes in k-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,Hard,100.0%,6m+,65.3%,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,100.0%,6m+,66.8%,No
+139,Word Break,https://leetcode.com/problems/word-break/,Medium,3.3%,6m+,49.1%,No
+264,Ugly Number II,https://leetcode.com/problems/ugly-number-ii/,Medium,,,,No
+295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,,,,No
+854,K-Similar Strings,https://leetcode.com/problems/k-similar-strings/,Hard,,,,No
+911,Online Election,https://leetcode.com/problems/online-election/,Medium,,,,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,,,,No
+1292,Maximum Side Length of a Square with Sum Less than or Equal to Threshold,https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/,Medium,,,,No
+2685,Count the Number of Complete Components,https://leetcode.com/problems/count-the-number-of-complete-components/,Medium,,,,No

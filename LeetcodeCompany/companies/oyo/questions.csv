@@ -1,0 +1,41 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,87.5%,6m+,47.1%,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,87.5%,6m+,38.6%,No
+18,4Sum,https://leetcode.com/problems/4sum/,Medium,87.5%,6m+,40.0%,No
+22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,,,,No
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,87.5%,6m+,58.8%,No
+50,"Pow(x, n)",https://leetcode.com/problems/powx-n/,Medium,,,,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,,,,No
+98,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/,Medium,,,,No
+138,Copy List with Random Pointer,https://leetcode.com/problems/copy-list-with-random-pointer/,Medium,87.5%,6m+,62.4%,No
+139,Word Break,https://leetcode.com/problems/word-break/,Medium,,,,No
+145,Binary Tree Postorder Traversal,https://leetcode.com/problems/binary-tree-postorder-traversal/,Easy,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+151,Reverse Words in a String,https://leetcode.com/problems/reverse-words-in-a-string/,Medium,,,,No
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
+213,House Robber II,https://leetcode.com/problems/house-robber-ii/,Medium,,,,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
+230,Kth Smallest Element in a BST,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,Medium,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
+337,House Robber III,https://leetcode.com/problems/house-robber-iii/,Medium,87.5%,6m+,55.6%,No
+407,Trapping Rain Water II,https://leetcode.com/problems/trapping-rain-water-ii/,Hard,,,,No
+409,Longest Palindrome,https://leetcode.com/problems/longest-palindrome/,Easy,,,,No
+455,Assign Cookies,https://leetcode.com/problems/assign-cookies/,Easy,,,,No
+647,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,Medium,,,,No
+739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,,,,No
+875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,100.0%,6m+,49.7%,No
+876,Middle of the Linked List,https://leetcode.com/problems/middle-of-the-linked-list/,Easy,,,,No
+968,Binary Tree Cameras,https://leetcode.com/problems/binary-tree-cameras/,Hard,,,,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,,,,No
+1004,Max Consecutive Ones III,https://leetcode.com/problems/max-consecutive-ones-iii/,Medium,,,,No
+1642,Furthest Building You Can Reach,https://leetcode.com/problems/furthest-building-you-can-reach/,Medium,100.0%,6m+,50.7%,No
+1815,Maximum Number of Groups Getting Fresh Donuts,https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/,Hard,,,,No
+1838,Frequency of the Most Frequent Element,https://leetcode.com/problems/frequency-of-the-most-frequent-element/,Medium,,,,No
+1942,The Number of the Smallest Unoccupied Chair,https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/,Medium,,,,No
+2385,Amount of Time for Binary Tree to Be Infected,https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/,Medium,,,,No
+2570,Merge Two 2D Arrays by Summing Values,https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/,Easy,,,,No
+2623,Memoize,https://leetcode.com/problems/memoize/,Medium,,,,No
+3434,Maximum Frequency After Subarray Operation,https://leetcode.com/problems/maximum-frequency-after-subarray-operation/,Medium,,,,No

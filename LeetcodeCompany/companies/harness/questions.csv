@@ -1,0 +1,25 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+16,3Sum Closest,https://leetcode.com/problems/3sum-closest/,Medium,100.0%,6m,48.0%,No
+30,Substring with Concatenation of All Words,https://leetcode.com/problems/substring-with-concatenation-of-all-words/,Hard,,,,No
+41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/,Hard,87.5%,,42.4%,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,100.0%,6m+,46.9%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+321,Create Maximum Number,https://leetcode.com/problems/create-maximum-number/,Hard,,,,No
+337,House Robber III,https://leetcode.com/problems/house-robber-iii/,Medium,,,,No
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,,,,No
+395,Longest Substring with At Least K Repeating Characters,https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/,Medium,,,,No
+435,Non-overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/,Medium,,,,No
+486,Predict the Winner,https://leetcode.com/problems/predict-the-winner/,Medium,,,,No
+523,Continuous Subarray Sum,https://leetcode.com/problems/continuous-subarray-sum/,Medium,,,,No
+588,Design In-Memory File System,https://leetcode.com/problems/design-in-memory-file-system/,Hard,,,,Yes
+621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,,,,No
+834,Sum of Distances in Tree,https://leetcode.com/problems/sum-of-distances-in-tree/,Hard,,,,No
+986,Interval List Intersections,https://leetcode.com/problems/interval-list-intersections/,Medium,,,,No
+2375,Construct Smallest Number From DI String,https://leetcode.com/problems/construct-smallest-number-from-di-string/,Medium,,,,No
+2385,Amount of Time for Binary Tree to Be Infected,https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/,Medium,,,,No
+3320,Count The Number of Winning Sequences,https://leetcode.com/problems/count-the-number-of-winning-sequences/,Hard,,,,No
+3878,Count Good Subarrays,https://leetcode.com/problems/count-good-subarrays/,Hard,,,,No

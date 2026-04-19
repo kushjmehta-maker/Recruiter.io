@@ -1,0 +1,47 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,,,,No
+62,Unique Paths,https://leetcode.com/problems/unique-paths/,Medium,,,,No
+101,Symmetric Tree,https://leetcode.com/problems/symmetric-tree/,Easy,,,,No
+112,Path Sum,https://leetcode.com/problems/path-sum/,Easy,50.0%,6m+,54.4%,No
+124,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Hard,4.9%,6m+,42.0%,No
+127,Word Ladder,https://leetcode.com/problems/word-ladder/,Hard,,,,No
+143,Reorder List,https://leetcode.com/problems/reorder-list/,Medium,,,,No
+169,Majority Element,https://leetcode.com/problems/majority-element/,Easy,,,,No
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,62.5%,6m+,52.9%,No
+208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,,,,No
+211,Design Add and Search Words Data Structure,https://leetcode.com/problems/design-add-and-search-words-data-structure/,Medium,7.5%,"6m,6m+",48.1%,No
+213,House Robber II,https://leetcode.com/problems/house-robber-ii/,Medium,62.5%,6m+,44.6%,No
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,9.2%,"6m,6m+",47.9%,No
+346,Moving Average from Data Stream,https://leetcode.com/problems/moving-average-from-data-stream/,Easy,,,,Yes
+388,Longest Absolute File Path,https://leetcode.com/problems/longest-absolute-file-path/,Medium,,,,No
+408,Valid Word Abbreviation,https://leetcode.com/problems/valid-word-abbreviation/,Easy,10.1%,6m+,37.0%,Yes
+480,Sliding Window Median,https://leetcode.com/problems/sliding-window-median/,Hard,6.9%,6m+,38.9%,No
+568,Maximum Vacation Days,https://leetcode.com/problems/maximum-vacation-days/,Hard,12.0%,6m+,46.7%,Yes
+588,Design In-Memory File System,https://leetcode.com/problems/design-in-memory-file-system/,Hard,,,,Yes
+605,Can Place Flowers,https://leetcode.com/problems/can-place-flowers/,Easy,,,,No
+696,Count Binary Substrings,https://leetcode.com/problems/count-binary-substrings/,Easy,,,,No
+429,N-ary Tree Level Order Traversal,https://leetcode.com/problems/n-ary-tree-level-order-traversal/,Medium,,,,No
+559,Maximum Depth of N-ary Tree,https://leetcode.com/problems/maximum-depth-of-n-ary-tree/,Easy,87.5%,6m+,73.4%,No
+819,Most Common Word,https://leetcode.com/problems/most-common-word/,Easy,100.0%,"6m,6m+",45.0%,No
+622,Design Circular Queue,https://leetcode.com/problems/design-circular-queue/,Medium,87.5%,6m+,54.0%,No
+973,K Closest Points to Origin,https://leetcode.com/problems/k-closest-points-to-origin/,Medium,,,,No
+986,Interval List Intersections,https://leetcode.com/problems/interval-list-intersections/,Medium,,,,No
+1160,Find Words That Can Be Formed by Characters,https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/,Easy,,,,No
+1038,Binary Search Tree to Greater Sum Tree,https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/,Medium,50.0%,6m+,88.4%,No
+1163,Last Substring in Lexicographical Order,https://leetcode.com/problems/last-substring-in-lexicographical-order/,Hard,,,,No
+1071,Greatest Common Divisor of Strings,https://leetcode.com/problems/greatest-common-divisor-of-strings/,Easy,,,,No
+1229,Meeting Scheduler,https://leetcode.com/problems/meeting-scheduler/,Medium,87.5%,"6m,6m+",55.2%,Yes
+1207,Unique Number of Occurrences,https://leetcode.com/problems/unique-number-of-occurrences/,Easy,,,,No
+1232,Check If It Is a Straight Line,https://leetcode.com/problems/check-if-it-is-a-straight-line/,Easy,62.5%,6m+,40.0%,No
+1343,Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold,https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/,Medium,,,,No
+1335,Minimum Difficulty of a Job Schedule,https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/,Hard,,,,No
+1452,People Whose List of Favorite Companies Is Not a Subset of Another List,https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/,Medium,75.0%,6m+,60.5%,No
+1768,Merge Strings Alternately,https://leetcode.com/problems/merge-strings-alternately/,Easy,,,,No
+1838,Frequency of the Most Frequent Element,https://leetcode.com/problems/frequency-of-the-most-frequent-element/,Medium,,,,No
+2406,Divide Intervals Into Minimum Number of Groups,https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/,Medium,,,,No
+2451,Odd String Difference,https://leetcode.com/problems/odd-string-difference/,Easy,,,,No
+2616,Minimize the Maximum Difference of Pairs,https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/,Medium,,,,No
+3652,Best Time to Buy and Sell Stock using Strategy,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/,Medium,,,,No

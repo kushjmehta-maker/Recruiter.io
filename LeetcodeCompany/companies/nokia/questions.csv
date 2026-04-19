@@ -1,0 +1,48 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,,,,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,87.5%,6m+,47.1%,No
+19,Remove Nth Node From End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,87.5%,6m+,43.7%,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+45,Jump Game II,https://leetcode.com/problems/jump-game-ii/,Medium,,,,No
+61,Rotate List,https://leetcode.com/problems/rotate-list/,Medium,,,,No
+75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,,,,No
+102,Binary Tree Level Order Traversal,https://leetcode.com/problems/binary-tree-level-order-traversal/,Medium,,,,No
+104,Maximum Depth of Binary Tree,https://leetcode.com/problems/maximum-depth-of-binary-tree/,Easy,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+141,Linked List Cycle,https://leetcode.com/problems/linked-list-cycle/,Easy,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,3.5%,6m+,46.8%,No
+148,Sort List,https://leetcode.com/problems/sort-list/,Medium,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
+203,Remove Linked List Elements,https://leetcode.com/problems/remove-linked-list-elements/,Easy,,,,No
+204,Count Primes,https://leetcode.com/problems/count-primes/,Medium,2.9%,6m+,35.7%,No
+206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No
+217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,,,,No
+236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Medium,,,,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,2.7%,"6m,6m+",67.8%,No
+322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No
+347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,,,,No
+412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
+413,Arithmetic Slices,https://leetcode.com/problems/arithmetic-slices/,Medium,,,,No
+451,Sort Characters By Frequency,https://leetcode.com/problems/sort-characters-by-frequency/,Medium,,,,No
+460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,,,,No
+500,Keyboard Row,https://leetcode.com/problems/keyboard-row/,Easy,,,,No
+523,Continuous Subarray Sum,https://leetcode.com/problems/continuous-subarray-sum/,Medium,,,,No
+684,Redundant Connection,https://leetcode.com/problems/redundant-connection/,Medium,,,,No
+719,Find K-th Smallest Pair Distance,https://leetcode.com/problems/find-k-th-smallest-pair-distance/,Hard,,,,No
+840,Magic Squares In Grid,https://leetcode.com/problems/magic-squares-in-grid/,Medium,,,,No
+875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,,,,No
+896,Monotonic Array,https://leetcode.com/problems/monotonic-array/,Easy,,,,No
+943,Find the Shortest Superstring,https://leetcode.com/problems/find-the-shortest-superstring/,Hard,,,,No
+509,Fibonacci Number,https://leetcode.com/problems/fibonacci-number/,Easy,87.5%,6m+,73.9%,No
+1004,Max Consecutive Ones III,https://leetcode.com/problems/max-consecutive-ones-iii/,Medium,,,,No
+1250,Check If It Is a Good Array,https://leetcode.com/problems/check-if-it-is-a-good-array/,Hard,87.5%,6m+,63.3%,No
+1344,Angle Between Hands of a Clock,https://leetcode.com/problems/angle-between-hands-of-a-clock/,Medium,,,,No
+2144,Minimum Cost of Buying Candies With Discount,https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/,Easy,100.0%,6m+,62.7%,No
+2751,Robot Collisions,https://leetcode.com/problems/robot-collisions/,Hard,,,,No
+3352,Count K-Reducible Numbers Less Than N,https://leetcode.com/problems/count-k-reducible-numbers-less-than-n/,Hard,,,,No

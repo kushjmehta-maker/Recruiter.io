@@ -1,0 +1,18 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,,,,No
+31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,,,,No
+44,Wildcard Matching,https://leetcode.com/problems/wildcard-matching/,Hard,,,,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
+91,Decode Ways,https://leetcode.com/problems/decode-ways/,Medium,,,,No
+169,Majority Element,https://leetcode.com/problems/majority-element/,Easy,,,,No
+188,Best Time to Buy and Sell Stock IV,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/,Hard,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
+465,Optimal Account Balancing,https://leetcode.com/problems/optimal-account-balancing/,Hard,,,,Yes
+546,Remove Boxes,https://leetcode.com/problems/remove-boxes/,Hard,,,,No
+567,Permutation in String,https://leetcode.com/problems/permutation-in-string/,Medium,,,,No
+665,Non-decreasing Array,https://leetcode.com/problems/non-decreasing-array/,Medium,,,,No
+686,Repeated String Match,https://leetcode.com/problems/repeated-string-match/,Medium,,,,No
+845,Longest Mountain in Array,https://leetcode.com/problems/longest-mountain-in-array/,Medium,,,,No
+2385,Amount of Time for Binary Tree to Be Infected,https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/,Medium,100.0%,6m+,65.1%,No
+2529,Maximum Count of Positive Integer and Negative Integer,https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/,Easy,100.0%,6m+,74.3%,No

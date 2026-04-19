@@ -1,0 +1,36 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,62.5%,6m+,59.5%,No
+30,Substring with Concatenation of All Words,https://leetcode.com/problems/substring-with-concatenation-of-all-words/,Hard,,,,No
+43,Multiply Strings,https://leetcode.com/problems/multiply-strings/,Medium,,,,No
+48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,62.5%,6m+,51.1%,No
+97,Interleaving String,https://leetcode.com/problems/interleaving-string/,Medium,62.5%,6m+,43.5%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+269,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,Hard,87.5%,6m,37.1%,Yes
+282,Expression Add Operators,https://leetcode.com/problems/expression-add-operators/,Hard,,,,No
+286,Walls and Gates,https://leetcode.com/problems/walls-and-gates/,Medium,,,,Yes
+311,Sparse Matrix Multiplication,https://leetcode.com/problems/sparse-matrix-multiplication/,Medium,62.5%,6m+,69.2%,Yes
+339,Nested List Weight Sum,https://leetcode.com/problems/nested-list-weight-sum/,Medium,,,,Yes
+346,Moving Average from Data Stream,https://leetcode.com/problems/moving-average-from-data-stream/,Easy,62.5%,6m+,80.2%,Yes
+356,Line Reflection,https://leetcode.com/problems/line-reflection/,Medium,62.5%,6m+,36.3%,Yes
+381,Insert Delete GetRandom O(1) - Duplicates allowed,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/,Hard,,,,No
+399,Evaluate Division,https://leetcode.com/problems/evaluate-division/,Medium,2.2%,6m+,64.0%,No
+451,Sort Characters By Frequency,https://leetcode.com/problems/sort-characters-by-frequency/,Medium,,,,No
+494,Target Sum,https://leetcode.com/problems/target-sum/,Medium,62.5%,6m+,51.8%,No
+721,Accounts Merge,https://leetcode.com/problems/accounts-merge/,Medium,,,,No
+735,Asteroid Collision,https://leetcode.com/problems/asteroid-collision/,Medium,62.5%,6m+,47.1%,No
+528,Random Pick with Weight,https://leetcode.com/problems/random-pick-with-weight/,Medium,100.0%,"3m,6m",48.9%,No
+986,Interval List Intersections,https://leetcode.com/problems/interval-list-intersections/,Medium,62.5%,6m+,72.9%,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,,,,No
+1057,Campus Bikes,https://leetcode.com/problems/campus-bikes/,Medium,,,,Yes
+1066,Campus Bikes II,https://leetcode.com/problems/campus-bikes-ii/,Medium,,,,Yes
+1188,Design Bounded Blocking Queue,https://leetcode.com/problems/design-bounded-blocking-queue/,Medium,,,,Yes
+1233,Remove Sub-Folders from the Filesystem,https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/,Medium,100.0%,"3m,6m",78.6%,No
+1268,Search Suggestions System,https://leetcode.com/problems/search-suggestions-system/,Medium,62.5%,6m+,65.2%,No
+1293,Shortest Path in a Grid with Obstacles Elimination,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/,Hard,62.5%,6m+,46.1%,No
+1476,Subrectangle Queries,https://leetcode.com/problems/subrectangle-queries/,Medium,62.5%,6m+,86.3%,No
+1570,Dot Product of Two Sparse Vectors,https://leetcode.com/problems/dot-product-of-two-sparse-vectors/,Medium,,,,Yes
+1610,Maximum Number of Visible Points,https://leetcode.com/problems/maximum-number-of-visible-points/,Hard,87.5%,"6m,6m+",37.9%,No
+2050,Parallel Courses III,https://leetcode.com/problems/parallel-courses-iii/,Hard,,,,No

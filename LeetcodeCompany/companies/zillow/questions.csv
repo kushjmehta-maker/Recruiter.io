@@ -1,0 +1,13 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,100.0%,6m+,43.7%,No
+34,Find First and Last Position of Element in Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Medium,,,,No
+48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,100.0%,6m+,79.3%,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+66,Plus One,https://leetcode.com/problems/plus-one/,Easy,,,,No
+71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,,,,No
+112,Path Sum,https://leetcode.com/problems/path-sum/,Easy,,,,No
+129,Sum Root to Leaf Numbers,https://leetcode.com/problems/sum-root-to-leaf-numbers/,Medium,,,,No
+1396,Design Underground System,https://leetcode.com/problems/design-underground-system/,Medium,,,,No
+2270,Number of Ways to Split Array,https://leetcode.com/problems/number-of-ways-to-split-array/,Medium,,,,No

@@ -1,0 +1,24 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+141,Linked List Cycle,https://leetcode.com/problems/linked-list-cycle/,Easy,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.9%,,46.8%,No
+184,Department Highest Salary,https://leetcode.com/problems/department-highest-salary/,Medium,,,,No
+221,Maximal Square,https://leetcode.com/problems/maximal-square/,Medium,,,,No
+373,Find K Pairs with Smallest Sums,https://leetcode.com/problems/find-k-pairs-with-smallest-sums/,Medium,,,,No
+494,Target Sum,https://leetcode.com/problems/target-sum/,Medium,,,,No
+688,Knight Probability in Chessboard,https://leetcode.com/problems/knight-probability-in-chessboard/,Medium,6.3%,6m+,56.9%,No
+764,Largest Plus Sign,https://leetcode.com/problems/largest-plus-sign/,Medium,,,,No
+792,Number of Matching Subsequences,https://leetcode.com/problems/number-of-matching-subsequences/,Medium,87.5%,,50.6%,No
+829,Consecutive Numbers Sum,https://leetcode.com/problems/consecutive-numbers-sum/,Hard,,,,No
+981,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/,Medium,,,,No
+983,Minimum Cost For Tickets,https://leetcode.com/problems/minimum-cost-for-tickets/,Medium,,,,No
+1011,Capacity To Ship Packages Within D Days,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/,Medium,87.5%,6m+,73.5%,No
+1045,Customers Who Bought All Products,https://leetcode.com/problems/customers-who-bought-all-products/,Medium,,,,No
+1104,Path In Zigzag Labelled Binary Tree,https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/,Medium,,,,No
+1255,Maximum Score Words Formed by Letters,https://leetcode.com/problems/maximum-score-words-formed-by-letters/,Hard,,,,No
+1524,Number of Sub-arrays With Odd Sum,https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/,Medium,,,,No
+1552,Magnetic Force Between Two Balls,https://leetcode.com/problems/magnetic-force-between-two-balls/,Medium,,,,No
+1942,The Number of the Smallest Unoccupied Chair,https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/,Medium,87.5%,6m+,60.4%,No
+1943,Describe the Painting,https://leetcode.com/problems/describe-the-painting/,Medium,87.5%,6m+,51.9%,No
+1962,Remove Stones to Minimize the Total,https://leetcode.com/problems/remove-stones-to-minimize-the-total/,Medium,,,,No
+2285,Maximum Total Importance of Roads,https://leetcode.com/problems/maximum-total-importance-of-roads/,Medium,,,,No
+3296,Minimum Number of Seconds to Make Mountain Height Zero,https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/,Medium,,,,No

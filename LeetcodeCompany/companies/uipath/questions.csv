@@ -1,0 +1,62 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,100.0%,6m+,37.3%,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,100.0%,6m+,59.5%,No
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,3.1%,"3m,6m,6m+",70.4%,No
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,100.0%,6m+,66.2%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,,,,No
+46,Permutations,https://leetcode.com/problems/permutations/,Medium,,,,No
+51,N-Queens,https://leetcode.com/problems/n-queens/,Hard,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+57,Insert Interval,https://leetcode.com/problems/insert-interval/,Medium,,,,No
+71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,,,,No
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,,,,No
+90,Subsets II,https://leetcode.com/problems/subsets-ii/,Medium,,,,No
+114,Flatten Binary Tree to Linked List,https://leetcode.com/problems/flatten-binary-tree-to-linked-list/,Medium,,,,No
+139,Word Break,https://leetcode.com/problems/word-break/,Medium,,,,No
+143,Reorder List,https://leetcode.com/problems/reorder-list/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+179,Largest Number,https://leetcode.com/problems/largest-number/,Medium,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,2.0%,6m+,63.8%,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,,,,No
+235,Lowest Common Ancestor of a Binary Search Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,Medium,,,,No
+249,Group Shifted Strings,https://leetcode.com/problems/group-shifted-strings/,Medium,,,,Yes
+297,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,Hard,,,,No
+312,Burst Balloons,https://leetcode.com/problems/burst-balloons/,Hard,100.0%,6m+,62.9%,No
+317,Shortest Distance from All Buildings,https://leetcode.com/problems/shortest-distance-from-all-buildings/,Hard,,,,Yes
+354,Russian Doll Envelopes,https://leetcode.com/problems/russian-doll-envelopes/,Hard,,,,No
+424,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Medium,1.1%,6m+,59.0%,No
+502,IPO,https://leetcode.com/problems/ipo/,Hard,,,,No
+518,Coin Change II,https://leetcode.com/problems/coin-change-ii/,Medium,,,,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
+697,Degree of an Array,https://leetcode.com/problems/degree-of-an-array/,Easy,,,,No
+735,Asteroid Collision,https://leetcode.com/problems/asteroid-collision/,Medium,,,,No
+428,Serialize and Deserialize N-ary Tree,https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/,Hard,,,,Yes
+805,Split Array With Same Average,https://leetcode.com/problems/split-array-with-same-average/,Hard,,,,No
+815,Bus Routes,https://leetcode.com/problems/bus-routes/,Hard,,,,No
+827,Making A Large Island,https://leetcode.com/problems/making-a-large-island/,Hard,100.0%,6m+,56.3%,No
+528,Random Pick with Weight,https://leetcode.com/problems/random-pick-with-weight/,Medium,,,,No
+881,Boats to Save People,https://leetcode.com/problems/boats-to-save-people/,Medium,100.0%,6m+,61.4%,No
+968,Binary Tree Cameras,https://leetcode.com/problems/binary-tree-cameras/,Hard,,,,No
+990,Satisfiability of Equality Equations,https://leetcode.com/problems/satisfiability-of-equality-equations/,Medium,100.0%,6m+,51.5%,No
+1036,Escape a Large Maze,https://leetcode.com/problems/escape-a-large-maze/,Hard,100.0%,6m+,36.3%,No
+1162,As Far from Land as Possible,https://leetcode.com/problems/as-far-from-land-as-possible/,Medium,100.0%,6m+,52.2%,No
+1044,Longest Duplicate Substring,https://leetcode.com/problems/longest-duplicate-substring/,Hard,,,,No
+1048,Longest String Chain,https://leetcode.com/problems/longest-string-chain/,Medium,,,,No
+1051,Height Checker,https://leetcode.com/problems/height-checker/,Easy,,,,No
+1331,Rank Transform of an Array,https://leetcode.com/problems/rank-transform-of-an-array/,Easy,,,,No
+1944,Number of Visible People in a Queue,https://leetcode.com/problems/number-of-visible-people-in-a-queue/,Hard,,,,No
+1290,Convert Binary Number in a Linked List to Integer,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/,Easy,,,,No
+1383,Maximum Performance of a Team,https://leetcode.com/problems/maximum-performance-of-a-team/,Hard,,,,No
+1488,Avoid Flood in The City,https://leetcode.com/problems/avoid-flood-in-the-city/,Medium,,,,No
+1937,Maximum Number of Points with Cost,https://leetcode.com/problems/maximum-number-of-points-with-cost/,Medium,,,,No
+2493,Divide Nodes Into the Maximum Number of Groups,https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/,Hard,,,,No
+2555,Maximize Win From Two Segments,https://leetcode.com/problems/maximize-win-from-two-segments/,Medium,,,,No
+2603,Collect Coins in a Tree,https://leetcode.com/problems/collect-coins-in-a-tree/,Hard,100.0%,6m+,39.6%,No
+2826,Sorting Three Groups,https://leetcode.com/problems/sorting-three-groups/,Medium,100.0%,6m+,42.9%,No
+2920,Maximum Points After Collecting Coins From All Nodes,https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/,Hard,,,,No
+2975,Maximum Square Area by Removing Fences From a Field,https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/,Medium,,,,No
+2981,Find Longest Special Substring That Occurs Thrice I,https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/,Medium,,,,No
+3123,Find Edges in Shortest Paths,https://leetcode.com/problems/find-edges-in-shortest-paths/,Hard,,,,No
+3219,Minimum Cost for Cutting Cake II,https://leetcode.com/problems/minimum-cost-for-cutting-cake-ii/,Hard,,,,No

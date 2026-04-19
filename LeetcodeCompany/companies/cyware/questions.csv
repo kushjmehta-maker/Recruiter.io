@@ -1,0 +1,8 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+25,Reverse Nodes in k-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,Hard,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+104,Maximum Depth of Binary Tree,https://leetcode.com/problems/maximum-depth-of-binary-tree/,Easy,,,,No
+205,Isomorphic Strings,https://leetcode.com/problems/isomorphic-strings/,Easy,,,,No
+485,Max Consecutive Ones,https://leetcode.com/problems/max-consecutive-ones/,Easy,,,,No
+1031,Maximum Sum of Two Non-Overlapping Subarrays,https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/,Medium,,,,No
+1547,Minimum Cost to Cut a Stick,https://leetcode.com/problems/minimum-cost-to-cut-a-stick/,Hard,100.0%,6m+,62.8%,No

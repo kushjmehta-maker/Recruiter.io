@@ -1,0 +1,30 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,1.9%,6m+,57.1%,No
+6,Zigzag Conversion,https://leetcode.com/problems/zigzag-conversion/,Medium,,,,No
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,5.7%,6m+,64.1%,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,50.0%,6m+,40.5%,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,9.7%,"6m,6m+",50.4%,No
+72,Edit Distance,https://leetcode.com/problems/edit-distance/,Medium,,,,No
+79,Word Search,https://leetcode.com/problems/word-search/,Medium,7.8%,6m+,46.8%,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,,,,No
+221,Maximal Square,https://leetcode.com/problems/maximal-square/,Medium,4.8%,6m+,50.0%,No
+383,Ransom Note,https://leetcode.com/problems/ransom-note/,Easy,4.0%,"6m,6m+",65.6%,No
+432,All O`one Data Structure,https://leetcode.com/problems/all-oone-data-structure/,Hard,,,,No
+605,Can Place Flowers,https://leetcode.com/problems/can-place-flowers/,Easy,,,,No
+646,Maximum Length of Pair Chain,https://leetcode.com/problems/maximum-length-of-pair-chain/,Medium,,,,No
+811,Subdomain Visit Count,https://leetcode.com/problems/subdomain-visit-count/,Medium,,,,No
+819,Most Common Word,https://leetcode.com/problems/most-common-word/,Easy,,,,No
+840,Magic Squares In Grid,https://leetcode.com/problems/magic-squares-in-grid/,Medium,,,,No
+874,Walking Robot Simulation,https://leetcode.com/problems/walking-robot-simulation/,Medium,,,,No
+1160,Find Words That Can Be Formed by Characters,https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/,Easy,87.5%,"6m,6m+",71.5%,No
+1048,Longest String Chain,https://leetcode.com/problems/longest-string-chain/,Medium,,,,No
+1094,Car Pooling,https://leetcode.com/problems/car-pooling/,Medium,,,,No
+1169,Invalid Transactions,https://leetcode.com/problems/invalid-transactions/,Medium,,,,No
+2225,Find Players With Zero or One Losses,https://leetcode.com/problems/find-players-with-zero-or-one-losses/,Medium,50.0%,,72.4%,No
+1470,Shuffle the Array,https://leetcode.com/problems/shuffle-the-array/,Easy,,,,No
+1604,Alert Using Same Key-Card Three or More Times in a One Hour Period,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/,Medium,87.5%,6m+,46.1%,No
+1592,Rearrange Spaces Between Words,https://leetcode.com/problems/rearrange-spaces-between-words/,Easy,,,,No
+2101,Detonate the Maximum Bombs,https://leetcode.com/problems/detonate-the-maximum-bombs/,Medium,,,,No
+2133,Check if Every Row and Column Contains All Numbers,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/,Easy,100.0%,"3m,6m,6m+",53.9%,No
+2299,Strong Password Checker II,https://leetcode.com/problems/strong-password-checker-ii/,Easy,,,,No
+2933,High-Access Employees,https://leetcode.com/problems/high-access-employees/,Medium,,,,No

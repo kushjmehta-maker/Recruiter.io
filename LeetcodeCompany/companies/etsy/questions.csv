@@ -1,0 +1,8 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,,,,No
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,,,,No
+77,Combinations,https://leetcode.com/problems/combinations/,Medium,,,,No
+217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,,,,No
+412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
+1320,Minimum Distance to Type a Word Using Two Fingers,https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/,Hard,,,,No
+1582,Special Positions in a Binary Matrix,https://leetcode.com/problems/special-positions-in-a-binary-matrix/,Easy,100.0%,6m+,68.8%,No

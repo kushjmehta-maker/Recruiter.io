@@ -1,0 +1,19 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,0.8%,6m+,38.6%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,1.6%,6m+,53.0%,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
+74,Search a 2D Matrix,https://leetcode.com/problems/search-a-2d-matrix/,Medium,,,,No
+75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,100.0%,6m+,46.8%,No
+155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,2.4%,6m+,57.7%,No
+219,Contains Duplicate II,https://leetcode.com/problems/contains-duplicate-ii/,Easy,,,,No
+240,Search a 2D Matrix II,https://leetcode.com/problems/search-a-2d-matrix-ii/,Medium,,,,No
+739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,,,,No
+917,Reverse Only Letters,https://leetcode.com/problems/reverse-only-letters/,Easy,,,,No
+997,Find the Town Judge,https://leetcode.com/problems/find-the-town-judge/,Easy,,,,No
+1042,Flower Planting With No Adjacent,https://leetcode.com/problems/flower-planting-with-no-adjacent/,Medium,100.0%,6m+,53.4%,No
+1803,Count Pairs With XOR in a Range,https://leetcode.com/problems/count-pairs-with-xor-in-a-range/,Hard,100.0%,6m+,46.3%,No
+2826,Sorting Three Groups,https://leetcode.com/problems/sorting-three-groups/,Medium,,,,No

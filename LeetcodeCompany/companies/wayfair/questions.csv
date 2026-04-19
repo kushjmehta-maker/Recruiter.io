@@ -1,0 +1,60 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,,,,No
+39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,2.5%,6m+,72.2%,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+93,Restore IP Addresses,https://leetcode.com/problems/restore-ip-addresses/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,62.5%,6m+,52.8%,No
+131,Palindrome Partitioning,https://leetcode.com/problems/palindrome-partitioning/,Medium,,,,No
+149,Max Points on a Line,https://leetcode.com/problems/max-points-on-a-line/,Hard,,,,No
+151,Reverse Words in a String,https://leetcode.com/problems/reverse-words-in-a-string/,Medium,,,,No
+152,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/,Medium,6.1%,6m+,36.0%,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,62.5%,6m+,48.4%,No
+252,Meeting Rooms,https://leetcode.com/problems/meeting-rooms/,Easy,,,,Yes
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
+266,Palindrome Permutation,https://leetcode.com/problems/palindrome-permutation/,Easy,,,,Yes
+398,Random Pick Index,https://leetcode.com/problems/random-pick-index/,Medium,,,,No
+415,Add Strings,https://leetcode.com/problems/add-strings/,Easy,100.0%,6m+,52.1%,No
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,,,,No
+505,The Maze II,https://leetcode.com/problems/the-maze-ii/,Medium,,,,Yes
+532,K-diff Pairs in an Array,https://leetcode.com/problems/k-diff-pairs-in-an-array/,Medium,,,,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
+610,Triangle Judgement,https://leetcode.com/problems/triangle-judgement/,Easy,,,,No
+621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,,,,No
+696,Count Binary Substrings,https://leetcode.com/problems/count-binary-substrings/,Easy,,,,No
+780,Reaching Points,https://leetcode.com/problems/reaching-points/,Hard,75.0%,6m+,34.2%,No
+787,Cheapest Flights Within K Stops,https://leetcode.com/problems/cheapest-flights-within-k-stops/,Medium,,,,No
+790,Domino and Tromino Tiling,https://leetcode.com/problems/domino-and-tromino-tiling/,Medium,,,,No
+811,Subdomain Visit Count,https://leetcode.com/problems/subdomain-visit-count/,Medium,,,,No
+840,Magic Squares In Grid,https://leetcode.com/problems/magic-squares-in-grid/,Medium,,,,No
+844,Backspace String Compare,https://leetcode.com/problems/backspace-string-compare/,Easy,62.5%,6m+,49.8%,No
+881,Boats to Save People,https://leetcode.com/problems/boats-to-save-people/,Medium,,,,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,,,,No
+1014,Best Sightseeing Pair,https://leetcode.com/problems/best-sightseeing-pair/,Medium,62.5%,6m+,62.7%,No
+1046,Last Stone Weight,https://leetcode.com/problems/last-stone-weight/,Easy,,,,No
+1244,Design A Leaderboard,https://leetcode.com/problems/design-a-leaderboard/,Medium,62.5%,6m+,68.1%,Yes
+1483,Kth Ancestor of a Tree Node,https://leetcode.com/problems/kth-ancestor-of-a-tree-node/,Hard,,,,No
+1189,Maximum Number of Balloons,https://leetcode.com/problems/maximum-number-of-balloons/,Easy,62.5%,6m+,60.0%,No
+1957,Delete Characters to Make Fancy String,https://leetcode.com/problems/delete-characters-to-make-fancy-string/,Easy,62.5%,6m+,74.1%,No
+2139,Minimum Moves to Reach Target Score,https://leetcode.com/problems/minimum-moves-to-reach-target-score/,Medium,75.0%,6m+,52.0%,No
+1405,Longest Happy String,https://leetcode.com/problems/longest-happy-string/,Medium,62.5%,6m+,65.5%,No
+1895,Largest Magic Square,https://leetcode.com/problems/largest-magic-square/,Medium,75.0%,6m+,75.3%,No
+1194,Tournament Winners,https://leetcode.com/problems/tournament-winners/,Hard,62.5%,6m+,50.0%,Yes
+10007,Design Whatsapp,https://leetcode.com/problems/design-whatsapp/,Medium,,,,No
+1204,Last Person to Fit in the Bus,https://leetcode.com/problems/last-person-to-fit-in-the-bus/,Medium,62.5%,6m+,68.9%,No
+1212,Team Scores in Football Tournament,https://leetcode.com/problems/team-scores-in-football-tournament/,Medium,62.5%,6m+,55.8%,Yes
+1341,Movie Rating,https://leetcode.com/problems/movie-rating/,Medium,,,,No
+1481,Least Number of Unique Integers after K Removals,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/,Medium,,,,No
+1604,Alert Using Same Key-Card Three or More Times in a One Hour Period,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/,Medium,62.5%,6m+,46.1%,No
+1710,Maximum Units on a Truck,https://leetcode.com/problems/maximum-units-on-a-truck/,Easy,,,,No
+1698,Number of Distinct Substrings in a String,https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/,Medium,,,,Yes
+1962,Remove Stones to Minimize the Total,https://leetcode.com/problems/remove-stones-to-minimize-the-total/,Medium,,,,No
+2366,Minimum Replacements to Sort the Array,https://leetcode.com/problems/minimum-replacements-to-sort-the-array/,Hard,,,,No
+2380,Time Needed to Rearrange a Binary String,https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/,Medium,100.0%,6m,52.6%,No
+2908,Minimum Sum of Mountain Triplets I,https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/,Easy,,,,No
+2950,Number of Divisible Substrings,https://leetcode.com/problems/number-of-divisible-substrings/,Medium,100.0%,6m+,74.1%,Yes
+3826,Minimum Partition Score,https://leetcode.com/problems/minimum-partition-score/,Hard,,,,No

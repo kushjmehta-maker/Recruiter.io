@@ -1,0 +1,21 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,62.5%,,45.9%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,3.2%,6m+,43.7%,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+57,Insert Interval,https://leetcode.com/problems/insert-interval/,Medium,,,,No
+103,Binary Tree Zigzag Level Order Traversal,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/,Medium,,,,No
+129,Sum Root to Leaf Numbers,https://leetcode.com/problems/sum-root-to-leaf-numbers/,Medium,,,,No
+130,Surrounded Regions,https://leetcode.com/problems/surrounded-regions/,Medium,,,,No
+189,Rotate Array,https://leetcode.com/problems/rotate-array/,Medium,,,,No
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
+221,Maximal Square,https://leetcode.com/problems/maximal-square/,Medium,,,,No
+240,Search a 2D Matrix II,https://leetcode.com/problems/search-a-2d-matrix-ii/,Medium,,,,No
+399,Evaluate Division,https://leetcode.com/problems/evaluate-division/,Medium,6.4%,6m+,64.0%,No
+475,Heaters,https://leetcode.com/problems/heaters/,Medium,,,,No
+1286,Iterator for Combination,https://leetcode.com/problems/iterator-for-combination/,Medium,,,,No
+1944,Number of Visible People in a Queue,https://leetcode.com/problems/number-of-visible-people-in-a-queue/,Hard,,,,No
+1275,Find Winner on a Tic Tac Toe Game,https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/,Easy,,,,No
+1319,Number of Operations to Make Network Connected,https://leetcode.com/problems/number-of-operations-to-make-network-connected/,Medium,,,,No
+1929,Concatenation of Array,https://leetcode.com/problems/concatenation-of-array/,Easy,75.0%,6m+,90.5%,No
+3330,Find the Original Typed String I,https://leetcode.com/problems/find-the-original-typed-string-i/,Easy,,,,No

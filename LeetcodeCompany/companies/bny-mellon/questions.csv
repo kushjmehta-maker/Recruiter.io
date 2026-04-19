@@ -1,0 +1,81 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+6,Zigzag Conversion,https://leetcode.com/problems/zigzag-conversion/,Medium,,,,No
+7,Reverse Integer,https://leetcode.com/problems/reverse-integer/,Medium,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,1.3%,6m+,38.6%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+28,Find the Index of the First Occurrence in a String,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/,Easy,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,3.4%,6m+,72.2%,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+78,Subsets,https://leetcode.com/problems/subsets/,Medium,,,,No
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,75.0%,6m+,54.4%,No
+98,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,75.0%,6m+,56.4%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+151,Reverse Words in a String,https://leetcode.com/problems/reverse-words-in-a-string/,Medium,,,,No
+206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,75.0%,6m+,68.8%,No
+221,Maximal Square,https://leetcode.com/problems/maximal-square/,Medium,,,,No
+225,Implement Stack using Queues,https://leetcode.com/problems/implement-stack-using-queues/,Easy,,,,No
+229,Majority Element II,https://leetcode.com/problems/majority-element-ii/,Medium,,,,No
+236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Medium,,,,No
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
+315,Count of Smaller Numbers After Self,https://leetcode.com/problems/count-of-smaller-numbers-after-self/,Hard,,,,No
+416,Partition Equal Subset Sum,https://leetcode.com/problems/partition-equal-subset-sum/,Medium,,,,No
+460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,,,,No
+492,Construct the Rectangle,https://leetcode.com/problems/construct-the-rectangle/,Easy,,,,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
+570,Managers with at Least 5 Direct Reports,https://leetcode.com/problems/managers-with-at-least-5-direct-reports/,Medium,,,,No
+647,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,Medium,,,,No
+733,Flood Fill,https://leetcode.com/problems/flood-fill/,Easy,,,,No
+746,Min Cost Climbing Stairs,https://leetcode.com/problems/min-cost-climbing-stairs/,Easy,,,,No
+796,Rotate String,https://leetcode.com/problems/rotate-string/,Easy,,,,No
+805,Split Array With Same Average,https://leetcode.com/problems/split-array-with-same-average/,Hard,,,,No
+847,Shortest Path Visiting All Nodes,https://leetcode.com/problems/shortest-path-visiting-all-nodes/,Hard,,,,No
+853,Car Fleet,https://leetcode.com/problems/car-fleet/,Medium,87.5%,6m+,54.7%,No
+898,Bitwise ORs of Subarrays,https://leetcode.com/problems/bitwise-ors-of-subarrays/,Medium,87.5%,6m+,56.8%,No
+912,Sort an Array,https://leetcode.com/problems/sort-an-array/,Medium,,,,No
+924,Minimize Malware Spread,https://leetcode.com/problems/minimize-malware-spread/,Hard,100.0%,6m+,42.9%,No
+947,Most Stones Removed with Same Row or Column,https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/,Medium,,,,No
+1004,Max Consecutive Ones III,https://leetcode.com/problems/max-consecutive-ones-iii/,Medium,,,,No
+1048,Longest String Chain,https://leetcode.com/problems/longest-string-chain/,Medium,,,,No
+1326,Minimum Number of Taps to Open to Water a Garden,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/,Hard,,,,No
+1368,Minimum Cost to Make at Least One Valid Path in a Grid,https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/,Hard,,,,No
+1381,Design a Stack With Increment Operation,https://leetcode.com/problems/design-a-stack-with-increment-operation/,Medium,,,,No
+1465,Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/,Medium,75.0%,6m+,41.4%,No
+1540,Can Convert String in K Moves,https://leetcode.com/problems/can-convert-string-in-k-moves/,Medium,,,,No
+1601,Maximum Number of Achievable Transfer Requests,https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/,Hard,,,,No
+1639,Number of Ways to Form a Target String Given a Dictionary,https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/,Hard,,,,No
+1752,Check if Array Is Sorted and Rotated,https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/,Easy,,,,No
+1882,Process Tasks Using Servers,https://leetcode.com/problems/process-tasks-using-servers/,Medium,,,,No
+1930,Unique Length-3 Palindromic Subsequences,https://leetcode.com/problems/unique-length-3-palindromic-subsequences/,Medium,,,,No
+2044,Count Number of Maximum Bitwise-OR Subsets,https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/,Medium,75.0%,6m+,89.6%,No
+2062,Count Vowel Substrings of a String,https://leetcode.com/problems/count-vowel-substrings-of-a-string/,Easy,,,,No
+2381,Shifting Letters II,https://leetcode.com/problems/shifting-letters-ii/,Medium,,,,No
+2390,Removing Stars From a String,https://leetcode.com/problems/removing-stars-from-a-string/,Medium,,,,No
+2402,Meeting Rooms III,https://leetcode.com/problems/meeting-rooms-iii/,Hard,,,,No
+2435,Paths in Matrix Whose Sum Is Divisible by K,https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/,Hard,,,,No
+2461,Maximum Sum of Distinct Subarrays With Length K,https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/,Medium,,,,No
+2462,Total Cost to Hire K Workers,https://leetcode.com/problems/total-cost-to-hire-k-workers/,Medium,,,,No
+2472,Maximum Number of Non-overlapping Palindrome Substrings,https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/,Hard,,,,No
+2497,Maximum Star Sum of a Graph,https://leetcode.com/problems/maximum-star-sum-of-a-graph/,Medium,,,,No
+2593,Find Score of an Array After Marking All Elements,https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/,Medium,,,,No
+2615,Sum of Distances,https://leetcode.com/problems/sum-of-distances/,Medium,75.0%,6m+,32.4%,No
+2812,Find the Safest Path in a Grid,https://leetcode.com/problems/find-the-safest-path-in-a-grid/,Medium,,,,No
+2876,Count Visited Nodes in a Directed Graph,https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/,Hard,87.5%,6m+,30.2%,No
+2910,Minimum Number of Groups to Create a Valid Assignment,https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment/,Medium,,,,No
+2939,Maximum Xor Product,https://leetcode.com/problems/maximum-xor-product/,Medium,,,,No
+2938,Separate Black and White Balls,https://leetcode.com/problems/separate-black-and-white-balls/,Medium,,,,No
+3012,Minimize Length of Array Using Operations,https://leetcode.com/problems/minimize-length-of-array-using-operations/,Medium,75.0%,6m+,35.7%,No
+3169,Count Days Without Meetings,https://leetcode.com/problems/count-days-without-meetings/,Medium,,,,No
+3250,Find the Count of Monotonic Pairs I,https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/,Hard,,,,No
+3251,Find the Count of Monotonic Pairs II,https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii/,Hard,75.0%,6m+,24.5%,No
+3399,Smallest Substring With Identical Characters II,https://leetcode.com/problems/smallest-substring-with-identical-characters-ii/,Hard,,,,No
+3681,Maximum XOR of Subsequences,https://leetcode.com/problems/maximum-xor-of-subsequences/,Hard,,,,No
+3878,Count Good Subarrays,https://leetcode.com/problems/count-good-subarrays/,Hard,,,,No

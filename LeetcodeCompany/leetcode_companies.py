@@ -2,9 +2,11 @@
 """
 LeetCode Premium - Company-wise Questions Scraper
 Uses the companyTag GraphQL query to fetch accurate company-question mappings.
+Enriches data with frequency scores (API) and acceptance/recency (Java CSV merge).
 Outputs HTML, Markdown, and JSON reports.
 """
 
+import csv
 import json
 import urllib.request
 import urllib.error
@@ -15,23 +17,35 @@ import random
 from datetime import datetime
 
 # ── Config ──────────────────────────────────────────────────────────────────
-LEETCODE_SESSION = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfYXV0aF91c2VyX2lkIjoiMTkwMjU3NCIsIl9hdXRoX3VzZXJfYmFja2VuZCI6ImFsbGF1dGguYWNjb3VudC5hdXRoX2JhY2tlbmRzLkF1dGhlbnRpY2F0aW9uQmFja2VuZCIsIl9hdXRoX3VzZXJfaGFzaCI6ImY3YjQ4ZGZlZTgxYzFiOTk5ZjgyMDJjNzdhNjk4YTAyZTc2Y2Y4NjNlNjk3YjI4MTFmMTQ3MjRkMGZkYmMwNjUiLCJzZXNzaW9uX3V1aWQiOiJiMzdiZDhmNCIsImlkIjoxOTAyNTc0LCJlbWFpbCI6InNhdXJhYmhiaDIxQGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiYmhhZ3ZhdHVsYSIsInVzZXJfc2x1ZyI6ImJoYWd2YXR1bGEiLCJhdmF0YXIiOiJodHRwczovL2Fzc2V0cy5sZWV0Y29kZS5jb20vdXNlcnMvYmhhZ3ZhdHVsYS9hdmF0YXJfMTU5MDkxMzQ3Mi5wbmciLCJyZWZyZXNoZWRfYXQiOjE3NzY1MTA4MDMsImlwIjoiMjQwNToyMDE6YzAzYzo3OTo2NDE0OmI2ZTY6NDllZDpiMzlmIiwiaWRlbnRpdHkiOiI5NThkNWU1M2RiYTdlMGFmODEyZWEwZWUwZTRlODI5MyIsImRldmljZV93aXRoX2lwIjpbIjNiMTZiNmMxNGFhMzEwYTgwYjlmNTgzODU0ZmNkMGE3IiwiMjQwNToyMDE6YzAzYzo3OTo2NDE0OmI2ZTY6NDllZDpiMzlmIl0sIl9zZXNzaW9uX2V4cGlyeSI6MTIwOTYwMH0.6Zdq4DEVEVeCuDUW3sCo_Sbjf25RPnZHs2xIqAgDOlQ"
-CSRF_TOKEN = "kGiU3XyL1jjEg8NfK5Xiskmy7c0oeHZy"
+# Read from environment variables (for CI/CD), fall back to hardcoded (local dev)
+LEETCODE_SESSION = os.environ.get(
+    "LEETCODE_SESSION",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfYXV0aF91c2VyX2lkIjoiMTkwMjU3NCIsIl9hdXRoX3VzZXJfYmFja2VuZCI6ImFsbGF1dGguYWNjb3VudC5hdXRoX2JhY2tlbmRzLkF1dGhlbnRpY2F0aW9uQmFja2VuZCIsIl9hdXRoX3VzZXJfaGFzaCI6ImY3YjQ4ZGZlZTgxYzFiOTk5ZjgyMDJjNzdhNjk4YTAyZTc2Y2Y4NjNlNjk3YjI4MTFmMTQ3MjRkMGZkYmMwNjUiLCJzZXNzaW9uX3V1aWQiOiJiMzdiZDhmNCIsImlkIjoxOTAyNTc0LCJlbWFpbCI6InNhdXJhYmhiaDIxQGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiYmhhZ3ZhdHVsYSIsInVzZXJfc2x1ZyI6ImJoYWd2YXR1bGEiLCJhdmF0YXIiOiJodHRwczovL2Fzc2V0cy5sZWV0Y29kZS5jb20vdXNlcnMvYmhhZ3ZhdHVsYS9hdmF0YXJfMTU5MDkxMzQ3Mi5wbmciLCJyZWZyZXNoZWRfYXQiOjE3NzY1MTA4MDMsImlwIjoiMjQwNToyMDE6YzAzYzo3OTo2NDE0OmI2ZTY6NDllZDpiMzlmIiwiaWRlbnRpdHkiOiI5NThkNWU1M2RiYTdlMGFmODEyZWEwZWUwZTRlODI5MyIsImRldmljZV93aXRoX2lwIjpbIjNiMTZiNmMxNGFhMzEwYTgwYjlmNTgzODU0ZmNkMGE3IiwiMjQwNToyMDE6YzAzYzo3OTo2NDE0OmI2ZTY6NDllZDpiMzlmIl0sIl9zZXNzaW9uX2V4cGlyeSI6MTIwOTYwMH0.6Zdq4DEVEVeCuDUW3sCo_Sbjf25RPnZHs2xIqAgDOlQ"
+)
+CSRF_TOKEN = os.environ.get(
+    "LEETCODE_CSRF",
+    "kGiU3XyL1jjEg8NfK5Xiskmy7c0oeHZy"
+)
 
 GRAPHQL_URL = "https://leetcode.com/graphql"
 OUTPUT_DIR = os.path.dirname(os.path.abspath(__file__))
 CHECKPOINT_FILE = os.path.join(OUTPUT_DIR, ".leetcode_checkpoint.json")
 
+JAVA_CSV_DIR = os.environ.get(
+    "JAVA_CSV_DIR",
+    os.path.join(OUTPUT_DIR, "java_csv_data")
+)
+
 # ── Rate Limiting Config ────────────────────────────────────────────────────
-BASE_DELAY = 1.5          # Base delay between requests (seconds)
-JITTER_RANGE = 0.5        # Random jitter added to delay
-BATCH_SIZE = 25            # Companies before a long pause
-BATCH_PAUSE = 15           # Seconds to pause between batches
-MAX_RETRIES = 5            # Max retries per request
-BACKOFF_FACTOR = 2         # Exponential backoff multiplier
-BACKOFF_BASE = 5           # Base wait on first retry (seconds)
-REQUEST_TIMEOUT = 60       # Timeout per HTTP request (seconds)
-RATE_LIMIT_PAUSE = 60      # Pause when rate-limited (429) (seconds)
+BASE_DELAY = 1.5
+JITTER_RANGE = 0.5
+BATCH_SIZE = 25
+BATCH_PAUSE = 15
+MAX_RETRIES = 5
+BACKOFF_FACTOR = 2
+BACKOFF_BASE = 5
+REQUEST_TIMEOUT = 60
+RATE_LIMIT_PAUSE = 60
 
 # ── GraphQL Queries ─────────────────────────────────────────────────────────
 COMPANY_TAGS_QUERY = """
@@ -44,13 +58,13 @@ query {
 }
 """
 
-# This is the CORRECT query - fetches questions directly from the company tag
 COMPANY_TAG_QUESTIONS_QUERY = """
 query getCompanyTag($slug: String!) {
   companyTag(slug: $slug) {
     name
     slug
     questionCount
+    frequencies
     questions {
       title
       titleSlug
@@ -62,8 +76,10 @@ query getCompanyTag($slug: String!) {
 }
 """
 
+RECENCY_BUCKETS = ["thirty-days", "three-months", "six-months", "more-than-six-months"]
 
-# ── Helpers ─────────────────────────────────────────────────────────────────
+
+# ── Rate Limiter ────────────────────────────────────────────────────────────
 class RateLimiter:
     def __init__(self):
         self.request_count = 0
@@ -102,8 +118,8 @@ class RateLimiter:
 rate_limiter = RateLimiter()
 
 
+# ── HTTP / GraphQL ──────────────────────────────────────────────────────────
 def graphql_request(query, variables=None):
-    """Make an authenticated GraphQL request with retry + exponential backoff."""
     payload = json.dumps({"query": query, "variables": variables or {}}).encode("utf-8")
 
     for attempt in range(MAX_RETRIES + 1):
@@ -161,8 +177,8 @@ def graphql_request(query, variables=None):
     return None
 
 
+# ── Data Fetching ───────────────────────────────────────────────────────────
 def fetch_all_companies():
-    """Fetch the list of all company tags."""
     print("Fetching company list...")
     result = graphql_request(COMPANY_TAGS_QUERY)
     if not result or "data" not in result or not result["data"].get("companyTags"):
@@ -171,7 +187,6 @@ def fetch_all_companies():
         sys.exit(1)
 
     companies = result["data"]["companyTags"]
-    # Filter out companies with 0 questions
     companies = [c for c in companies if c.get("questionCount", 0) > 0]
     companies.sort(key=lambda c: c.get("questionCount", 0), reverse=True)
     print(f"Found {len(companies)} companies with questions.\n")
@@ -179,17 +194,128 @@ def fetch_all_companies():
 
 
 def fetch_company_questions(slug):
-    """Fetch questions for a company using the companyTag query (accurate, single request)."""
+    """Fetch questions + frequency data for a company."""
     result = graphql_request(COMPANY_TAG_QUESTIONS_QUERY, {"slug": slug})
     if not result or "data" not in result:
-        return None
+        return None, None
 
     tag = result["data"].get("companyTag")
     if not tag:
-        return None
+        return None, None
 
     questions = tag.get("questions", [])
-    return questions
+
+    # Parse frequencies JSON string
+    freq_map = {}
+    freq_raw = tag.get("frequencies", "")
+    if freq_raw:
+        try:
+            freq_data = json.loads(freq_raw) if isinstance(freq_raw, str) else freq_raw
+            for qid, values in freq_data.items():
+                if isinstance(values, list) and len(values) >= 8:
+                    freq_map[str(qid)] = {
+                        "count_30d": values[0],
+                        "count_3m": values[1],
+                        "count_6m": values[2],
+                        "count_all": values[3],
+                        "freq_score_30d": round(values[4], 2),
+                        "freq_score_3m": round(values[5], 2),
+                        "freq_score_6m": round(values[6], 2),
+                        "freq_score_all": round(values[7], 2),
+                    }
+        except (json.JSONDecodeError, TypeError):
+            pass
+
+    return questions, freq_map
+
+
+# ── Java CSV Merge ──────────────────────────────────────────────────────────
+def _read_csv(filepath):
+    rows = []
+    try:
+        with open(filepath, "r", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                rows.append(row)
+    except Exception:
+        pass
+    return rows
+
+
+def merge_java_csv_data(all_data):
+    """Merge acceptance %, recency buckets, and fallback frequency from Java CSVs."""
+    if not os.path.isdir(JAVA_CSV_DIR):
+        print(f"  Java CSV dir not found: {JAVA_CSV_DIR}")
+        print(f"  Skipping CSV merge. Set JAVA_CSV_DIR env var to override.")
+        return
+
+    merged_count = 0
+    miss_count = 0
+
+    for company_name, company_data in all_data.items():
+        slug = company_data.get("slug", "")
+        company_dir = os.path.join(JAVA_CSV_DIR, slug)
+
+        if not os.path.isdir(company_dir):
+            miss_count += 1
+            continue
+
+        # Build lookup: qid -> {acceptance_pct, recency_buckets, java_freq_pct}
+        csv_lookup = {}
+
+        # Read each recency bucket
+        for bucket in RECENCY_BUCKETS:
+            csv_path = os.path.join(company_dir, f"{bucket}.csv")
+            if not os.path.exists(csv_path):
+                continue
+            for row in _read_csv(csv_path):
+                qid = row.get("ID", "").strip()
+                if not qid:
+                    continue
+                if qid not in csv_lookup:
+                    csv_lookup[qid] = {
+                        "acceptance_pct": row.get("Acceptance %", ""),
+                        "java_freq_pct": row.get("Frequency %", ""),
+                        "recency_buckets": [],
+                    }
+                csv_lookup[qid]["recency_buckets"].append(bucket)
+
+        # Read all.csv for acceptance % (most complete source)
+        all_csv_path = os.path.join(company_dir, "all.csv")
+        if os.path.exists(all_csv_path):
+            for row in _read_csv(all_csv_path):
+                qid = row.get("ID", "").strip()
+                if not qid:
+                    continue
+                if qid in csv_lookup:
+                    csv_lookup[qid]["acceptance_pct"] = row.get("Acceptance %", csv_lookup[qid]["acceptance_pct"])
+                else:
+                    csv_lookup[qid] = {
+                        "acceptance_pct": row.get("Acceptance %", ""),
+                        "java_freq_pct": row.get("Frequency %", ""),
+                        "recency_buckets": [],
+                    }
+
+        # Merge into each question
+        freq_data = company_data.get("frequencies", {})
+        for q in company_data["questions"]:
+            qid = str(q.get("questionFrontendId", ""))
+
+            # API frequency scores (precise)
+            if qid in freq_data:
+                q["freq_scores"] = freq_data[qid]
+
+            # Java CSV data
+            if qid in csv_lookup:
+                csv_info = csv_lookup[qid]
+                q["acceptance_pct"] = csv_info["acceptance_pct"]
+                q["recency_buckets"] = csv_info["recency_buckets"]
+                if not q.get("freq_scores"):
+                    q["java_freq_pct"] = csv_info["java_freq_pct"]
+
+        merged_count += 1
+
+    print(f"  CSV merge: {merged_count} companies enriched, {miss_count} not found in Java data")
 
 
 # ── Checkpoint (resume support) ─────────────────────────────────────────────
@@ -198,7 +324,7 @@ def save_checkpoint(all_data, completed_slugs):
         "completed_slugs": list(completed_slugs),
         "data": all_data,
         "timestamp": datetime.now().isoformat(),
-        "version": 2  # Mark as v2 (companyTag-based)
+        "version": 3,
     }
     with open(CHECKPOINT_FILE, "w", encoding="utf-8") as f:
         json.dump(checkpoint, f)
@@ -210,9 +336,8 @@ def load_checkpoint():
     try:
         with open(CHECKPOINT_FILE, "r", encoding="utf-8") as f:
             checkpoint = json.load(f)
-        # Only resume v2 checkpoints (companyTag-based)
-        if checkpoint.get("version") != 2:
-            print("  Old checkpoint found (v1, incorrect data). Starting fresh.\n")
+        if checkpoint.get("version") != 3:
+            print("  Old checkpoint found. Starting fresh.\n")
             return {}, set()
         data = checkpoint.get("data", {})
         slugs = set(checkpoint.get("completed_slugs", []))
@@ -228,21 +353,32 @@ def clear_checkpoint():
         os.remove(CHECKPOINT_FILE)
 
 
-def difficulty_color(d):
-    return {"Easy": "#00b8a3", "Medium": "#ffc01e", "Hard": "#ff375f"}.get(d, "#888")
-
-
+# ── Helpers ─────────────────────────────────────────────────────────────────
 def difficulty_emoji(d):
     return {"Easy": "🟢", "Medium": "🟡", "Hard": "🔴"}.get(d, "⚪")
 
 
+def get_freq_display(q):
+    """Get frequency percentage for display. Returns (value 0-100, source)."""
+    fs = q.get("freq_scores")
+    if fs:
+        v = fs.get("freq_score_all", 0)
+        return (min(v, 100), "api")
+    jp = q.get("java_freq_pct", "")
+    if jp:
+        try:
+            return (float(jp.replace("%", "")), "java")
+        except ValueError:
+            pass
+    return (0, "none")
+
+
 # ── HTML Generator ──────────────────────────────────────────────────────────
 def generate_html(all_data):
-    total_q = sum(len(qs) for qs in all_data.values())
-    # Count unique questions
+    total_q = sum(len(cd["questions"]) for cd in all_data.values())
     unique_slugs = set()
-    for qs in all_data.values():
-        for q in qs:
+    for cd in all_data.values():
+        for q in cd["questions"]:
             unique_slugs.add(q.get("titleSlug", ""))
     timestamp = datetime.now().strftime("%B %d, %Y at %I:%M %p")
 
@@ -254,27 +390,19 @@ def generate_html(all_data):
 <title>LeetCode Company-Wise Questions</title>
 <style>
   :root {{
-    --bg: #1a1a2e;
-    --card: #16213e;
-    --accent: #0f3460;
-    --text: #e4e4e4;
-    --muted: #8892b0;
-    --easy: #00b8a3;
-    --medium: #ffc01e;
-    --hard: #ff375f;
+    --bg: #1a1a2e; --card: #16213e; --accent: #0f3460;
+    --text: #e4e4e4; --muted: #8892b0;
+    --easy: #00b8a3; --medium: #ffc01e; --hard: #ff375f;
     --border: #233554;
   }}
   * {{ margin:0; padding:0; box-sizing:border-box; }}
   body {{
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    line-height: 1.6;
+    background: var(--bg); color: var(--text); line-height: 1.6;
   }}
   .header {{
     background: linear-gradient(135deg, #0f3460 0%, #533483 100%);
-    padding: 40px 20px;
-    text-align: center;
+    padding: 40px 20px; text-align: center;
     position: sticky; top: 0; z-index: 100;
   }}
   .header h1 {{ font-size: 2em; margin-bottom: 8px; }}
@@ -287,8 +415,7 @@ def generate_html(all_data):
   .stat .num {{ font-size: 1.8em; font-weight: 700; color: #fff; }}
   .stat .label {{ font-size: 0.8em; color: #aaa; text-transform: uppercase; letter-spacing: 1px; }}
   .search-bar {{
-    max-width: 600px; margin: 20px auto 0;
-    display: flex; gap: 10px;
+    max-width: 600px; margin: 20px auto 0; display: flex; gap: 10px;
   }}
   .search-bar input {{
     flex: 1; padding: 12px 16px; border-radius: 8px;
@@ -296,16 +423,14 @@ def generate_html(all_data):
     color: var(--text); font-size: 1em; outline: none;
   }}
   .search-bar input:focus {{ border-color: #533483; }}
-  .container {{ max-width: 1200px; margin: 30px auto; padding: 0 20px; }}
+  .container {{ max-width: 1400px; margin: 30px auto; padding: 0 20px; }}
   .toc {{
     background: var(--card); border-radius: 12px; padding: 24px;
     margin-bottom: 30px; border: 1px solid var(--border);
   }}
   .toc h2 {{ margin-bottom: 16px; font-size: 1.3em; }}
   .toc-grid {{
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-    gap: 8px;
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 8px;
   }}
   .toc-item {{
     display: flex; justify-content: space-between; align-items: center;
@@ -320,21 +445,16 @@ def generate_html(all_data):
   }}
   .company-section {{
     background: var(--card); border-radius: 12px;
-    margin-bottom: 20px; border: 1px solid var(--border);
-    overflow: hidden;
+    margin-bottom: 20px; border: 1px solid var(--border); overflow: hidden;
   }}
   .company-header {{
-    padding: 20px 24px;
-    cursor: pointer; display: flex;
+    padding: 20px 24px; cursor: pointer; display: flex;
     justify-content: space-between; align-items: center;
-    background: var(--accent);
-    user-select: none;
+    background: var(--accent); user-select: none;
   }}
   .company-header:hover {{ background: #1a4080; }}
   .company-header h2 {{ font-size: 1.2em; }}
-  .company-header .badge {{
-    display: flex; gap: 10px; align-items: center;
-  }}
+  .company-header .badge {{ display: flex; gap: 10px; align-items: center; }}
   .company-header .badge span {{
     padding: 4px 10px; border-radius: 12px; font-size: 0.8em; font-weight: 600;
   }}
@@ -351,6 +471,8 @@ def generate_html(all_data):
     text-transform: uppercase; letter-spacing: 0.5px;
     position: sticky; top: 0;
   }}
+  th.sortable {{ cursor: pointer; }}
+  th.sortable:hover {{ color: #fff; }}
   td {{ padding: 10px 16px; border-top: 1px solid var(--border); font-size: 0.92em; }}
   tr:hover td {{ background: rgba(15,52,96,0.3); }}
   .q-link {{ color: #7eb8f7; text-decoration: none; }}
@@ -368,6 +490,31 @@ def generate_html(all_data):
   }}
   .arrow {{ transition: transform 0.3s; font-size: 1.2em; }}
   .arrow.open {{ transform: rotate(90deg); }}
+
+  /* Frequency bar */
+  .freq-bar {{ display: inline-flex; align-items: center; gap: 6px; }}
+  .freq-bar-track {{
+    width: 60px; height: 8px; background: rgba(255,255,255,0.1);
+    border-radius: 4px; overflow: hidden;
+  }}
+  .freq-bar-fill {{
+    height: 100%; border-radius: 4px;
+    background: linear-gradient(90deg, #ffa500, #ff6347);
+  }}
+  .freq-text {{ font-size: 0.78em; color: var(--muted); min-width: 35px; }}
+
+  /* Recency tags */
+  .recency-tags {{ display: flex; gap: 3px; flex-wrap: wrap; }}
+  .recency-tag {{
+    padding: 2px 6px; border-radius: 4px; font-size: 0.7em; font-weight: 600;
+  }}
+  .recency-30d {{ background: rgba(255,55,95,0.2); color: #ff375f; }}
+  .recency-3m {{ background: rgba(255,192,30,0.2); color: #ffc01e; }}
+  .recency-6m {{ background: rgba(0,184,163,0.2); color: #00b8a3; }}
+  .recency-older {{ background: rgba(136,146,176,0.2); color: #8892b0; }}
+
+  .acceptance {{ color: var(--muted); font-size: 0.85em; }}
+
   .footer {{
     text-align: center; padding: 40px; color: var(--muted); font-size: 0.85em;
   }}
@@ -376,6 +523,7 @@ def generate_html(all_data):
     .stats {{ gap: 15px; }}
     .toc-grid {{ grid-template-columns: 1fr; }}
     td, th {{ padding: 8px 10px; font-size: 0.85em; }}
+    .freq-bar-track {{ width: 40px; }}
   }}
 </style>
 </head>
@@ -400,15 +548,25 @@ def generate_html(all_data):
     <div class="toc-grid">
 """
 
-    for company, questions in all_data.items():
+    for company, cd in all_data.items():
         slug = company.lower().replace(" ", "-").replace("&", "and")
-        html += f'      <a class="toc-item" href="#company-{slug}" onclick="openSection(\'{slug}\')">{company}<span class="count">{len(questions)}</span></a>\n'
+        html += (f'      <a class="toc-item" href="#company-{slug}" '
+                 f'onclick="openSection(\'{slug}\')">{company}'
+                 f'<span class="count">{len(cd["questions"])}</span></a>\n')
 
     html += """    </div>
   </div>
 """
 
-    for company, questions in all_data.items():
+    bucket_labels = {
+        "thirty-days": ("30d", "recency-30d"),
+        "three-months": ("3m", "recency-3m"),
+        "six-months": ("6m", "recency-6m"),
+        "more-than-six-months": ("6m+", "recency-older"),
+    }
+
+    for company, cd in all_data.items():
+        questions = cd["questions"]
         slug = company.lower().replace(" ", "-").replace("&", "and")
         easy = sum(1 for q in questions if q.get("difficulty") == "Easy")
         med = sum(1 for q in questions if q.get("difficulty") == "Medium")
@@ -428,7 +586,11 @@ def generate_html(all_data):
     </div>
     <div class="company-body">
       <table>
-        <thead><tr><th>#</th><th>Title</th><th>Difficulty</th><th>ID</th></tr></thead>
+        <thead><tr>
+          <th>#</th><th>Title</th><th>Difficulty</th>
+          <th class="sortable" onclick="sortByFreq(this)">Frequency &#8597;</th>
+          <th>Recency</th><th>Acceptance</th>
+        </tr></thead>
         <tbody>
 """
         for i, q in enumerate(questions, 1):
@@ -439,11 +601,41 @@ def generate_html(all_data):
             premium = '<span class="premium-tag">Premium</span>' if q.get("isPaidOnly") else ""
             url = f"https://leetcode.com/problems/{t_slug}/"
 
-            html += f"""          <tr data-q="{title.lower()}">
+            # Frequency bar
+            freq_val, _ = get_freq_display(q)
+            if freq_val > 0:
+                clamped = min(freq_val, 100)
+                freq_bar_html = (
+                    f'<div class="freq-bar">'
+                    f'<div class="freq-bar-track">'
+                    f'<div class="freq-bar-fill" style="width:{clamped:.0f}%"></div></div>'
+                    f'<span class="freq-text">{freq_val:.1f}%</span></div>'
+                )
+            else:
+                freq_bar_html = '<span class="freq-text">-</span>'
+
+            # Recency tags
+            buckets = q.get("recency_buckets", [])
+            if buckets:
+                recency_html = '<div class="recency-tags">'
+                for b in buckets:
+                    label, cls = bucket_labels.get(b, (b, "recency-older"))
+                    recency_html += f'<span class="recency-tag {cls}">{label}</span>'
+                recency_html += '</div>'
+            else:
+                recency_html = '<span class="freq-text">-</span>'
+
+            # Acceptance
+            acc = q.get("acceptance_pct", "")
+            acc_html = f'<span class="acceptance">{acc}</span>' if acc else '-'
+
+            html += f"""          <tr data-q="{title.lower()}" data-freq="{freq_val:.2f}">
             <td>{i}</td>
             <td><a class="q-link" href="{url}" target="_blank">{qid}. {title}</a>{premium}</td>
             <td><span class="diff diff-{diff}">{diff}</span></td>
-            <td>{qid}</td>
+            <td>{freq_bar_html}</td>
+            <td>{recency_html}</td>
+            <td>{acc_html}</td>
           </tr>
 """
 
@@ -501,6 +693,18 @@ function filterAll(val) {
     a.style.display = a.textContent.toLowerCase().includes(v) ? '' : 'none';
   });
 }
+function sortByFreq(th) {
+  const tbody = th.closest('table').querySelector('tbody');
+  const rows = Array.from(tbody.querySelectorAll('tr'));
+  const asc = th.dataset.sortDir === 'asc';
+  th.dataset.sortDir = asc ? 'desc' : 'asc';
+  rows.sort((a, b) => {
+    const fa = parseFloat(a.dataset.freq) || 0;
+    const fb = parseFloat(b.dataset.freq) || 0;
+    return asc ? fa - fb : fb - fa;
+  });
+  rows.forEach(r => tbody.appendChild(r));
+}
 </script>
 </body>
 </html>"""
@@ -509,7 +713,7 @@ function filterAll(val) {
 
 # ── Markdown Generator ──────────────────────────────────────────────────────
 def generate_markdown(all_data):
-    total_q = sum(len(qs) for qs in all_data.values())
+    total_q = sum(len(cd["questions"]) for cd in all_data.values())
     timestamp = datetime.now().strftime("%B %d, %Y")
 
     md = f"""# LeetCode Company-Wise Questions
@@ -523,7 +727,8 @@ def generate_markdown(all_data):
 | # | Company | Easy | Medium | Hard | Total |
 |---|---------|------|--------|------|-------|
 """
-    for i, (company, questions) in enumerate(all_data.items(), 1):
+    for i, (company, cd) in enumerate(all_data.items(), 1):
+        questions = cd["questions"]
         easy = sum(1 for q in questions if q.get("difficulty") == "Easy")
         med = sum(1 for q in questions if q.get("difficulty") == "Medium")
         hard = sum(1 for q in questions if q.get("difficulty") == "Hard")
@@ -532,15 +737,23 @@ def generate_markdown(all_data):
 
     md += "\n---\n\n"
 
-    for company, questions in all_data.items():
+    bucket_short = {
+        "thirty-days": "30d", "three-months": "3m",
+        "six-months": "6m", "more-than-six-months": "6m+",
+    }
+
+    for company, cd in all_data.items():
+        questions = cd["questions"]
         easy = sum(1 for q in questions if q.get("difficulty") == "Easy")
         med = sum(1 for q in questions if q.get("difficulty") == "Medium")
         hard = sum(1 for q in questions if q.get("difficulty") == "Hard")
 
         md += f"## {company}\n\n"
-        md += f"> {difficulty_emoji('Easy')} Easy: {easy} | {difficulty_emoji('Medium')} Medium: {med} | {difficulty_emoji('Hard')} Hard: {hard} | Total: {len(questions)}\n\n"
-        md += "| # | Problem | Difficulty |\n"
-        md += "|---|---------|------------|\n"
+        md += (f"> {difficulty_emoji('Easy')} Easy: {easy} | "
+               f"{difficulty_emoji('Medium')} Medium: {med} | "
+               f"{difficulty_emoji('Hard')} Hard: {hard} | Total: {len(questions)}\n\n")
+        md += "| # | Problem | Difficulty | Freq | Recency | Acceptance |\n"
+        md += "|---|---------|------------|------|---------|------------|\n"
 
         for i, q in enumerate(questions, 1):
             title = q.get("title", "Unknown")
@@ -549,20 +762,80 @@ def generate_markdown(all_data):
             qid = q.get("questionFrontendId", "?")
             emoji = difficulty_emoji(diff)
             url = f"https://leetcode.com/problems/{t_slug}/"
-            md += f"| {i} | [{qid}. {title}]({url}) | {emoji} {diff} |\n"
+
+            freq_val, _ = get_freq_display(q)
+            freq_str = f"{freq_val:.1f}%" if freq_val > 0 else "-"
+
+            buckets = q.get("recency_buckets", [])
+            recency_str = ",".join(bucket_short.get(b, b) for b in buckets) if buckets else "-"
+
+            acc = q.get("acceptance_pct", "-")
+
+            md += f"| {i} | [{qid}. {title}]({url}) | {emoji} {diff} | {freq_str} | {recency_str} | {acc} |\n"
 
         md += "\n---\n\n"
 
     return md
 
 
+# ── Per-Company CSV Generator ───────────────────────────────────────────────
+def generate_company_csvs(all_data):
+    """Generate a CSV file per company in companies/<slug>/questions.csv."""
+    companies_dir = os.path.join(OUTPUT_DIR, "companies")
+    os.makedirs(companies_dir, exist_ok=True)
+
+    bucket_short = {
+        "thirty-days": "30d", "three-months": "3m",
+        "six-months": "6m", "more-than-six-months": "6m+",
+    }
+
+    for company_name, cd in all_data.items():
+        slug = cd.get("slug", company_name.lower().replace(" ", "-"))
+        company_dir = os.path.join(companies_dir, slug)
+        os.makedirs(company_dir, exist_ok=True)
+
+        questions = cd["questions"]
+        csv_path = os.path.join(company_dir, "questions.csv")
+
+        with open(csv_path, "w", encoding="utf-8", newline="") as f:
+            writer = csv.writer(f)
+            writer.writerow([
+                "ID", "Title", "URL", "Difficulty", "Frequency Score",
+                "Recency", "Acceptance %", "Premium"
+            ])
+            for q in questions:
+                qid = q.get("questionFrontendId", "")
+                title = q.get("title", "")
+                t_slug = q.get("titleSlug", "")
+                url = f"https://leetcode.com/problems/{t_slug}/"
+                diff = q.get("difficulty", "")
+
+                freq_val, _ = get_freq_display(q)
+                freq_str = f"{freq_val:.1f}%" if freq_val > 0 else ""
+
+                buckets = q.get("recency_buckets", [])
+                recency_str = ",".join(bucket_short.get(b, b) for b in buckets)
+
+                acc = q.get("acceptance_pct", "")
+                premium = "Yes" if q.get("isPaidOnly") else "No"
+
+                writer.writerow([qid, title, url, diff, freq_str, recency_str, acc, premium])
+
+    print(f"  Saved: {companies_dir}/ ({len(all_data)} company folders)")
+
+
 # ── Main ────────────────────────────────────────────────────────────────────
 def main():
     print("=" * 60)
-    print("  LeetCode Company-Wise Questions Scraper v2")
-    print("  (Using companyTag API for accurate results)")
+    print("  LeetCode Company-Wise Questions Scraper v3")
+    print("  (companyTag API + frequency enrichment + CSV merge)")
     print("=" * 60)
     print()
+
+    if not LEETCODE_SESSION or not CSRF_TOKEN:
+        print("ERROR: Set LEETCODE_SESSION and LEETCODE_CSRF environment variables.")
+        sys.exit(1)
+
     print(f"  Rate limiting: {BASE_DELAY}s base + {JITTER_RANGE}s jitter")
     print(f"  Batch pause: {BATCH_PAUSE}s every {BATCH_SIZE} companies")
     print(f"  Retries: {MAX_RETRIES}x with exponential backoff")
@@ -584,16 +857,14 @@ def main():
         slug = company["slug"]
         expected = company.get("questionCount", 0)
 
-        # Skip already-fetched companies (resume support)
         if slug in completed_slugs:
             skipped += 1
             continue
 
-        # Progress with ETA
         done = len(all_data)
         remaining = total - i
         elapsed = time.time() - start_time
-        actual_fetched = done - skipped if done > skipped else max(done - skipped, 1)
+        actual_fetched = max(done - skipped, 1)
         rate = actual_fetched / elapsed if elapsed > 0 and actual_fetched > 0 else 0
         eta = f" | ETA: {remaining / rate / 60:.0f}min" if rate > 0.01 else ""
 
@@ -603,26 +874,23 @@ def main():
         )
         sys.stdout.flush()
 
-        questions = fetch_company_questions(slug)
+        questions, freq_map = fetch_company_questions(slug)
         if questions is not None:
-            all_data[name] = questions
+            all_data[name] = {
+                "slug": slug,
+                "questions": questions,
+                "frequencies": freq_map or {},
+            }
             completed_slugs.add(slug)
-
-            # Sanity check: flag if returned count is wildly different from expected
-            actual = len(questions)
-            if expected > 0 and actual > expected * 3:
-                print(f"\n  [WARNING] {name}: expected ~{expected}, got {actual} — possible API issue")
         else:
             failed.append(name)
             print(f"\n  [FAILED] {name}")
 
         rate_limiter.company_done()
 
-        # Save checkpoint every BATCH_SIZE companies
         if len(all_data) % BATCH_SIZE == 0:
             save_checkpoint(all_data, completed_slugs)
 
-    # Final checkpoint save
     save_checkpoint(all_data, completed_slugs)
 
     elapsed_total = time.time() - start_time
@@ -634,17 +902,21 @@ def main():
         print(f"  Failed:  {len(failed)} companies: {', '.join(failed[:10])}")
     print(f"  Total API calls: {rate_limiter.request_count}")
 
-    # Data quality summary
-    total_q = sum(len(qs) for qs in all_data.values())
+    # Step 3: Merge Java CSV data
+    print("\nMerging Java scraper CSV data...")
+    merge_java_csv_data(all_data)
+
+    # Stats
+    total_q = sum(len(cd["questions"]) for cd in all_data.values())
     unique_slugs = set()
-    for qs in all_data.values():
-        for q in qs:
+    for cd in all_data.values():
+        for q in cd["questions"]:
             unique_slugs.add(q.get("titleSlug", ""))
     print(f"\n  Total question-company mappings: {total_q:,}")
-    print(f"  Unique questions across all companies: {len(unique_slugs):,}")
+    print(f"  Unique questions: {len(unique_slugs):,}")
     print()
 
-    # Step 3: Generate outputs
+    # Step 4: Generate outputs
     print("Generating HTML report...")
     html = generate_html(all_data)
     html_path = os.path.join(OUTPUT_DIR, "leetcode_company_questions.html")
@@ -659,17 +931,25 @@ def main():
         f.write(md)
     print(f"  Saved: {md_path}")
 
-    # Save raw JSON
+    # Save JSON (strip frequencies dict from top-level to keep it clean)
+    print("Saving JSON...")
+    json_out = {}
+    for name, cd in all_data.items():
+        json_out[name] = {
+            "slug": cd["slug"],
+            "questions": cd["questions"],
+        }
     json_path = os.path.join(OUTPUT_DIR, "leetcode_company_questions.json")
     with open(json_path, "w", encoding="utf-8") as f:
-        json.dump(all_data, f, indent=2)
+        json.dump(json_out, f, indent=2)
     print(f"  Saved: {json_path}")
+
+    print("Generating per-company CSVs...")
+    generate_company_csvs(all_data)
 
     clear_checkpoint()
 
     print(f"\nDone! Open the HTML file in your browser:")
-
-
     print(f"  open \"{html_path}\"")
 
 

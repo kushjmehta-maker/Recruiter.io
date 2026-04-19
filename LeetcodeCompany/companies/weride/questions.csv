@@ -1,0 +1,29 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,1.6%,6m+,50.4%,No
+127,Word Ladder,https://leetcode.com/problems/word-ladder/,Hard,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+148,Sort List,https://leetcode.com/problems/sort-list/,Medium,,,,No
+206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
+329,Longest Increasing Path in a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,Hard,3.4%,6m+,56.3%,No
+353,Design Snake Game,https://leetcode.com/problems/design-snake-game/,Medium,5.0%,6m,40.0%,Yes
+378,Kth Smallest Element in a Sorted Matrix,https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/,Medium,,,,No
+518,Coin Change II,https://leetcode.com/problems/coin-change-ii/,Medium,,,,No
+692,Top K Frequent Words,https://leetcode.com/problems/top-k-frequent-words/,Medium,,,,No
+696,Count Binary Substrings,https://leetcode.com/problems/count-binary-substrings/,Easy,2.6%,6m,70.2%,No
+778,Swim in Rising Water,https://leetcode.com/problems/swim-in-rising-water/,Hard,87.5%,6m+,67.6%,No
+1235,Maximum Profit in Job Scheduling,https://leetcode.com/problems/maximum-profit-in-job-scheduling/,Hard,100.0%,6m+,54.6%,No
+1319,Number of Operations to Make Network Connected,https://leetcode.com/problems/number-of-operations-to-make-network-connected/,Medium,,,,No
+1559,Detect Cycles in 2D Grid,https://leetcode.com/problems/detect-cycles-in-2d-grid/,Medium,87.5%,6m,52.4%,No
+1639,Number of Ways to Form a Target String Given a Dictionary,https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/,Hard,,,,No
+1740,Find Distance in a Binary Tree,https://leetcode.com/problems/find-distance-in-a-binary-tree/,Medium,62.5%,,74.3%,Yes
+1801,Number of Orders in the Backlog,https://leetcode.com/problems/number-of-orders-in-the-backlog/,Medium,,,,No
+1834,Single-Threaded CPU,https://leetcode.com/problems/single-threaded-cpu/,Medium,,,,No
+1851,Minimum Interval to Include Each Query,https://leetcode.com/problems/minimum-interval-to-include-each-query/,Hard,,,,No
+2008,Maximum Earnings From Taxi,https://leetcode.com/problems/maximum-earnings-from-taxi/,Medium,,,,No
+2121,Intervals Between Identical Elements,https://leetcode.com/problems/intervals-between-identical-elements/,Medium,,,,No
+2592,Maximize Greatness of an Array,https://leetcode.com/problems/maximize-greatness-of-an-array/,Medium,100.0%,6m+,61.2%,No
+2615,Sum of Distances,https://leetcode.com/problems/sum-of-distances/,Medium,,,,No
+2791,Count Paths That Can Form a Palindrome in a Tree,https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/,Hard,100.0%,6m,48.3%,No
+3123,Find Edges in Shortest Paths,https://leetcode.com/problems/find-edges-in-shortest-paths/,Hard,75.0%,6m+,46.4%,No

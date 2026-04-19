@@ -1,0 +1,8 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,75.0%,6m+,43.7%,No
+34,Find First and Last Position of Element in Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Medium,,,,No
+45,Jump Game II,https://leetcode.com/problems/jump-game-ii/,Medium,62.5%,,42.5%,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,100.0%,"6m,6m+",40.5%,No
+322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No
+1429,First Unique Number,https://leetcode.com/problems/first-unique-number/,Medium,87.5%,"6m,6m+",57.0%,Yes
+2131,Longest Palindrome by Concatenating Two Letter Words,https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/,Medium,,,,No

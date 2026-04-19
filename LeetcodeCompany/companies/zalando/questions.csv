@@ -1,0 +1,20 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,87.5%,6m+,51.1%,No
+85,Maximal Rectangle,https://leetcode.com/problems/maximal-rectangle/,Hard,,,,No
+94,Binary Tree Inorder Traversal,https://leetcode.com/problems/binary-tree-inorder-traversal/,Easy,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+179,Largest Number,https://leetcode.com/problems/largest-number/,Medium,3.4%,6m+,42.6%,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
+208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,,,,No
+344,Reverse String,https://leetcode.com/problems/reverse-string/,Easy,,,,No
+347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,,,,No
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,,,,No
+438,Find All Anagrams in a String,https://leetcode.com/problems/find-all-anagrams-in-a-string/,Medium,,,,No
+670,Maximum Swap,https://leetcode.com/problems/maximum-swap/,Medium,,,,No
+733,Flood Fill,https://leetcode.com/problems/flood-fill/,Easy,,,,No
+860,Lemonade Change,https://leetcode.com/problems/lemonade-change/,Easy,87.5%,6m+,58.9%,No
+984,String Without AAA or BBB,https://leetcode.com/problems/string-without-aaa-or-bbb/,Medium,100.0%,6m+,45.0%,No

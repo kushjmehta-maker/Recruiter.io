@@ -1,0 +1,8 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+168,Excel Sheet Column Title,https://leetcode.com/problems/excel-sheet-column-title/,Easy,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,100.0%,6m+,63.8%,No
+348,Design Tic-Tac-Toe,https://leetcode.com/problems/design-tic-tac-toe/,Medium,100.0%,6m+,58.7%,Yes
+529,Minesweeper,https://leetcode.com/problems/minesweeper/,Medium,,,,No
+733,Flood Fill,https://leetcode.com/problems/flood-fill/,Easy,,,,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,,,,No
+1091,Shortest Path in Binary Matrix,https://leetcode.com/problems/shortest-path-in-binary-matrix/,Medium,,,,No

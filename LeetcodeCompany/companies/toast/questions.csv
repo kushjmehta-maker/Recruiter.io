@@ -1,0 +1,13 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,75.0%,,57.1%,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,1.9%,,43.7%,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,5.0%,6m+,56.4%,No
+122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,4.3%,6m+,70.7%,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,5.5%,6m+,52.8%,No
+277,Find the Celebrity,https://leetcode.com/problems/find-the-celebrity/,Medium,7.9%,6m+,48.9%,Yes
+309,Best Time to Buy and Sell Stock with Cooldown,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/,Medium,,,,No
+339,Nested List Weight Sum,https://leetcode.com/problems/nested-list-weight-sum/,Medium,,,,Yes
+678,Valid Parenthesis String,https://leetcode.com/problems/valid-parenthesis-string/,Medium,,,,No
+735,Asteroid Collision,https://leetcode.com/problems/asteroid-collision/,Medium,,,,No
+1249,Minimum Remove to Make Valid Parentheses,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/,Medium,,,,No

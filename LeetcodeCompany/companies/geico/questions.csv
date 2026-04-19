@@ -1,0 +1,61 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
+8,String to Integer (atoi),https://leetcode.com/problems/string-to-integer-atoi/,Medium,,,,No
+10,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,Hard,,,,No
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,62.5%,6m+,70.4%,No
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,62.5%,6m+,66.2%,No
+31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,,,,No
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,75.0%,6m+,64.1%,No
+41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/,Hard,62.5%,6m+,42.4%,No
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,62.5%,,51.1%,No
+75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,,,,No
+120,Triangle,https://leetcode.com/problems/triangle/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,62.5%,6m+,70.7%,No
+123,Best Time to Buy and Sell Stock III,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/,Hard,,,,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No
+138,Copy List with Random Pointer,https://leetcode.com/problems/copy-list-with-random-pointer/,Medium,,,,No
+142,Linked List Cycle II,https://leetcode.com/problems/linked-list-cycle-ii/,Medium,,,,No
+150,Evaluate Reverse Polish Notation,https://leetcode.com/problems/evaluate-reverse-polish-notation/,Medium,,,,No
+155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,,,,No
+164,Maximum Gap,https://leetcode.com/problems/maximum-gap/,Medium,,,,No
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
+213,House Robber II,https://leetcode.com/problems/house-robber-ii/,Medium,,,,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
+309,Best Time to Buy and Sell Stock with Cooldown,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/,Medium,75.0%,6m+,61.7%,No
+322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,75.0%,6m+,47.9%,No
+394,Decode String,https://leetcode.com/problems/decode-string/,Medium,62.5%,6m+,62.2%,No
+446,Arithmetic Slices II - Subsequence,https://leetcode.com/problems/arithmetic-slices-ii-subsequence/,Hard,,,,No
+462,Minimum Moves to Equal Array Elements II,https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/,Medium,,,,No
+545,Boundary of Binary Tree,https://leetcode.com/problems/boundary-of-binary-tree/,Medium,62.5%,6m+,47.9%,Yes
+556,Next Greater Element III,https://leetcode.com/problems/next-greater-element-iii/,Medium,,,,No
+605,Can Place Flowers,https://leetcode.com/problems/can-place-flowers/,Easy,,,,No
+767,Reorganize String,https://leetcode.com/problems/reorganize-string/,Medium,,,,No
+489,Robot Room Cleaner,https://leetcode.com/problems/robot-room-cleaner/,Hard,,,,Yes
+881,Boats to Save People,https://leetcode.com/problems/boats-to-save-people/,Medium,,,,No
+1102,Path With Maximum Minimum Value,https://leetcode.com/problems/path-with-maximum-minimum-value/,Medium,62.5%,,54.6%,Yes
+1047,Remove All Adjacent Duplicates In String,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/,Easy,62.5%,6m+,72.8%,No
+1164,Product Price at a Given Date,https://leetcode.com/problems/product-price-at-a-given-date/,Medium,,,,No
+1405,Longest Happy String,https://leetcode.com/problems/longest-happy-string/,Medium,62.5%,6m+,65.5%,No
+1209,Remove All Adjacent Duplicates in String II,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/,Medium,,,,No
+1219,Path with Maximum Gold,https://leetcode.com/problems/path-with-maximum-gold/,Medium,62.5%,6m+,68.3%,No
+1342,Number of Steps to Reduce a Number to Zero,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/,Easy,,,,No
+1386,Cinema Seat Allocation,https://leetcode.com/problems/cinema-seat-allocation/,Medium,100.0%,"3m,6m,6m+",43.6%,No
+1392,Longest Happy Prefix,https://leetcode.com/problems/longest-happy-prefix/,Hard,,,,No
+1404,Number of Steps to Reduce a Number in Binary Representation to One,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/,Medium,87.5%,6m+,61.3%,No
+1438,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/,Medium,,,,No
+1466,Reorder Routes to Make All Paths Lead to the City Zero,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/,Medium,,,,No
+1625,Lexicographically Smallest String After Applying Operations,https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/,Medium,,,,No
+1827,Minimum Operations to Make the Array Increasing,https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/,Easy,,,,No
+1910,Remove All Occurrences of a Substring,https://leetcode.com/problems/remove-all-occurrences-of-a-substring/,Medium,,,,No
+1930,Unique Length-3 Palindromic Subsequences,https://leetcode.com/problems/unique-length-3-palindromic-subsequences/,Medium,,,,No
+2086,Minimum Number of Food Buckets to Feed the Hamsters,https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/,Medium,62.5%,6m+,47.9%,No
+2061,Number of Spaces Cleaning Robot Cleaned,https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned/,Medium,75.0%,6m+,62.6%,Yes
+2391,Minimum Amount of Time to Collect Garbage,https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/,Medium,,,,No
+2384,Largest Palindromic Number,https://leetcode.com/problems/largest-palindromic-number/,Medium,100.0%,6m+,37.0%,No
+2361,Minimum Costs Using the Train Line,https://leetcode.com/problems/minimum-costs-using-the-train-line/,Hard,,,,Yes
+2850,Minimum Moves to Spread Stones Over Grid,https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/,Medium,62.5%,6m+,45.3%,No
+3119,Maximum Number of Potholes That Can Be Fixed,https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed/,Medium,100.0%,6m+,53.2%,Yes
+3325,Count Substrings With K-Frequency Characters I,https://leetcode.com/problems/count-substrings-with-k-frequency-characters-i/,Medium,,,,No

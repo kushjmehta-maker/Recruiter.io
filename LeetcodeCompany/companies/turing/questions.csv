@@ -1,0 +1,112 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,87.5%,6m,57.1%,No
+2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,5.7%,6m+,38.5%,No
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,50.0%,6m+,45.9%,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,3.2%,6m+,37.3%,No
+9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,,,,No
+10,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,Hard,50.0%,6m+,30.4%,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,,,,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,3.4%,6m+,47.1%,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,1.3%,6m+,38.6%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,7.7%,6m+,43.7%,No
+21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,,,,No
+29,Divide Two Integers,https://leetcode.com/problems/divide-two-integers/,Medium,,,,No
+34,Find First and Last Position of Element in Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Medium,1.8%,6m+,48.3%,No
+38,Count and Say,https://leetcode.com/problems/count-and-say/,Medium,,,,No
+40,Combination Sum II,https://leetcode.com/problems/combination-sum-ii/,Medium,,,,No
+45,Jump Game II,https://leetcode.com/problems/jump-game-ii/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,50.0%,6m+,72.2%,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,3.4%,6m+,53.0%,No
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,,,,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,50.0%,6m+,40.5%,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,3.4%,6m+,51.1%,No
+59,Spiral Matrix II,https://leetcode.com/problems/spiral-matrix-ii/,Medium,,,,No
+60,Permutation Sequence,https://leetcode.com/problems/permutation-sequence/,Hard,,,,No
+63,Unique Paths II,https://leetcode.com/problems/unique-paths-ii/,Medium,,,,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
+72,Edit Distance,https://leetcode.com/problems/edit-distance/,Medium,,,,No
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No
+104,Maximum Depth of Binary Tree,https://leetcode.com/problems/maximum-depth-of-binary-tree/,Easy,,,,No
+118,Pascal's Triangle,https://leetcode.com/problems/pascals-triangle/,Easy,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,1.9%,6m+,56.4%,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,50.0%,6m+,52.8%,No
+139,Word Break,https://leetcode.com/problems/word-break/,Medium,,,,No
+152,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/,Medium,,,,No
+179,Largest Number,https://leetcode.com/problems/largest-number/,Medium,,,,No
+191,Number of 1 Bits,https://leetcode.com/problems/number-of-1-bits/,Easy,,,,No
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,50.0%,6m+,63.8%,No
+204,Count Primes,https://leetcode.com/problems/count-primes/,Medium,,,,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,2.8%,6m+,68.8%,No
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,3.4%,6m+,68.6%,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
+263,Ugly Number,https://leetcode.com/problems/ugly-number/,Easy,,,,No
+264,Ugly Number II,https://leetcode.com/problems/ugly-number-ii/,Medium,,,,No
+287,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,Medium,,,,No
+404,Sum of Left Leaves,https://leetcode.com/problems/sum-of-left-leaves/,Easy,,,,No
+412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
+424,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Medium,,,,No
+438,Find All Anagrams in a String,https://leetcode.com/problems/find-all-anagrams-in-a-string/,Medium,50.0%,6m+,53.3%,No
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,,,,No
+468,Validate IP Address,https://leetcode.com/problems/validate-ip-address/,Medium,9.1%,6m+,28.2%,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
+621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,,,,No
+629,K Inverse Pairs Array,https://leetcode.com/problems/k-inverse-pairs-array/,Hard,,,,No
+665,Non-decreasing Array,https://leetcode.com/problems/non-decreasing-array/,Medium,,,,No
+682,Baseball Game,https://leetcode.com/problems/baseball-game/,Easy,8.2%,6m+,80.0%,No
+697,Degree of an Array,https://leetcode.com/problems/degree-of-an-array/,Easy,6.0%,,58.2%,No
+729,My Calendar I,https://leetcode.com/problems/my-calendar-i/,Medium,,,,No
+740,Delete and Earn,https://leetcode.com/problems/delete-and-earn/,Medium,,,,No
+813,Largest Sum of Averages,https://leetcode.com/problems/largest-sum-of-averages/,Medium,,,,No
+818,Race Car,https://leetcode.com/problems/race-car/,Hard,50.0%,6m+,44.6%,No
+873,Length of Longest Fibonacci Subsequence,https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/,Medium,,,,No
+875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,75.0%,6m+,49.7%,No
+917,Reverse Only Letters,https://leetcode.com/problems/reverse-only-letters/,Easy,50.0%,6m+,68.1%,No
+931,Minimum Falling Path Sum,https://leetcode.com/problems/minimum-falling-path-sum/,Medium,,,,No
+509,Fibonacci Number,https://leetcode.com/problems/fibonacci-number/,Easy,,,,No
+983,Minimum Cost For Tickets,https://leetcode.com/problems/minimum-cost-for-tickets/,Medium,87.5%,6m+,67.4%,No
+997,Find the Town Judge,https://leetcode.com/problems/find-the-town-judge/,Easy,50.0%,6m+,50.5%,No
+1013,Partition Array Into Three Parts With Equal Sum,https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/,Easy,62.5%,6m+,42.5%,No
+1027,Longest Arithmetic Subsequence,https://leetcode.com/problems/longest-arithmetic-subsequence/,Medium,100.0%,"30d,3m,6m",49.9%,No
+1151,Minimum Swaps to Group All 1's Together,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/,Medium,,,,Yes
+1092,Shortest Common Supersequence ,https://leetcode.com/problems/shortest-common-supersequence/,Hard,,,,No
+1106,Parsing A Boolean Expression,https://leetcode.com/problems/parsing-a-boolean-expression/,Hard,,,,No
+1143,Longest Common Subsequence,https://leetcode.com/problems/longest-common-subsequence/,Medium,,,,No
+1218,Longest Arithmetic Subsequence of Given Difference,https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/,Medium,,,,No
+2226,Maximum Candies Allocated to K Children,https://leetcode.com/problems/maximum-candies-allocated-to-k-children/,Medium,,,,No
+2193,Minimum Number of Moves to Make Palindrome,https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/,Hard,,,,No
+1249,Minimum Remove to Make Valid Parentheses,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/,Medium,,,,No
+1498,Number of Subsequences That Satisfy the Given Sum Condition,https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/,Medium,,,,No
+1546,Maximum Number of Non-Overlapping Subarrays With Sum Equals Target,https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/,Medium,,,,No
+1574,Shortest Subarray to be Removed to Make Array Sorted,https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/,Medium,,,,No
+1668,Maximum Repeating Substring,https://leetcode.com/problems/maximum-repeating-substring/,Easy,50.0%,6m+,41.1%,No
+1703,Minimum Adjacent Swaps for K Consecutive Ones,https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/,Hard,100.0%,"30d,3m,6m",42.3%,No
+1749,Maximum Absolute Sum of Any Subarray,https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/,Medium,,,,No
+1925,Count Square Sum Triples,https://leetcode.com/problems/count-square-sum-triples/,Easy,50.0%,,77.1%,No
+1907,Count Salary Categories,https://leetcode.com/problems/count-salary-categories/,Medium,,,,No
+2197,Replace Non-Coprime Numbers in Array,https://leetcode.com/problems/replace-non-coprime-numbers-in-array/,Hard,,,,No
+2232,Minimize Result by Adding Parentheses to Expression,https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/,Medium,,,,No
+2261,K Divisible Elements Subarrays,https://leetcode.com/problems/k-divisible-elements-subarrays/,Medium,50.0%,,54.8%,No
+2418,Sort the People,https://leetcode.com/problems/sort-the-people/,Easy,,,,No
+2507,Smallest Value After Replacing With Sum of Prime Factors,https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/,Medium,,,,No
+2642,Design Graph With Shortest Path Calculator,https://leetcode.com/problems/design-graph-with-shortest-path-calculator/,Hard,,,,No
+2708,Maximum Strength of a Group,https://leetcode.com/problems/maximum-strength-of-a-group/,Medium,,,,No
+2741,Special Permutations,https://leetcode.com/problems/special-permutations/,Medium,,,,No
+2761,Prime Pairs With Target Sum,https://leetcode.com/problems/prime-pairs-with-target-sum/,Medium,,,,No
+3091,Apply Operations to Make Sum of Array Greater Than or Equal to k,https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/,Medium,62.5%,6m+,44.2%,No
+3108,Minimum Cost Walk in Weighted Graph,https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/,Hard,,,,No
+3093,Longest Common Suffix Queries,https://leetcode.com/problems/longest-common-suffix-queries/,Hard,,,,No
+3147,Taking Maximum Energy From the Mystic Dungeon,https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/,Medium,,,,No
+3137,Minimum Number of Operations to Make Word K-Periodic,https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic/,Medium,50.0%,6m+,60.6%,No
+3107,Minimum Operations to Make Median of Array Equal to K,https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k/,Medium,,,,No
+3133,Minimum Array End,https://leetcode.com/problems/minimum-array-end/,Medium,,,,No
+3138,Minimum Length of Anagram Concatenation,https://leetcode.com/problems/minimum-length-of-anagram-concatenation/,Medium,75.0%,6m+,39.8%,No
+3132,Find the Integer Added to Array II,https://leetcode.com/problems/find-the-integer-added-to-array-ii/,Medium,,,,No
+3139,Minimum Cost to Equalize Array,https://leetcode.com/problems/minimum-cost-to-equalize-array/,Hard,,,,No
+3122,Minimum Number of Operations to Satisfy Conditions,https://leetcode.com/problems/minimum-number-of-operations-to-satisfy-conditions/,Medium,50.0%,6m+,41.7%,No
+3153,Sum of Digit Differences of All Pairs,https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs/,Medium,50.0%,6m+,43.0%,No
+3185,Count Pairs That Form a Complete Day II,https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii/,Medium,,,,No
+3180,Maximum Total Reward Using Operations I,https://leetcode.com/problems/maximum-total-reward-using-operations-i/,Medium,,,,No
+3768,Minimum Inversion Count in Subarrays of Fixed Length,https://leetcode.com/problems/minimum-inversion-count-in-subarrays-of-fixed-length/,Hard,,,,No

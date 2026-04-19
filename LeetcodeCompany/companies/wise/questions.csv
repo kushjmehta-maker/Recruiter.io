@@ -1,0 +1,18 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,62.5%,6m+,66.2%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+221,Maximal Square,https://leetcode.com/problems/maximal-square/,Medium,100.0%,6m+,50.0%,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
+329,Longest Increasing Path in a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,Hard,,,,No
+348,Design Tic-Tac-Toe,https://leetcode.com/problems/design-tic-tac-toe/,Medium,75.0%,6m+,58.7%,Yes
+362,Design Hit Counter,https://leetcode.com/problems/design-hit-counter/,Medium,,,,Yes
+695,Max Area of Island,https://leetcode.com/problems/max-area-of-island/,Medium,,,,No
+713,Subarray Product Less Than K,https://leetcode.com/problems/subarray-product-less-than-k/,Medium,75.0%,6m+,53.9%,No
+974,Subarray Sums Divisible by K,https://leetcode.com/problems/subarray-sums-divisible-by-k/,Medium,,,,No
+992,Subarrays with K Different Integers,https://leetcode.com/problems/subarrays-with-k-different-integers/,Hard,,,,No
+1202,Smallest String With Swaps,https://leetcode.com/problems/smallest-string-with-swaps/,Medium,,,,No
+1275,Find Winner on a Tic Tac Toe Game,https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/,Easy,,,,No
+2006,Count Number of Pairs With Absolute Difference K,https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/,Easy,,,,No
+2451,Odd String Difference,https://leetcode.com/problems/odd-string-difference/,Easy,,,,No
+3649,Number of Perfect Pairs,https://leetcode.com/problems/number-of-perfect-pairs/,Medium,,,,No

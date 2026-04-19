@@ -1,0 +1,12 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
+316,Remove Duplicate Letters,https://leetcode.com/problems/remove-duplicate-letters/,Medium,4.8%,6m+,52.8%,No
+421,Maximum XOR of Two Numbers in an Array,https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/,Medium,,,,No
+680,Valid Palindrome II,https://leetcode.com/problems/valid-palindrome-ii/,Easy,,,,No
+752,Open the Lock,https://leetcode.com/problems/open-the-lock/,Medium,,,,No
+799,Champagne Tower,https://leetcode.com/problems/champagne-tower/,Medium,,,,No
+864,Shortest Path to Get All Keys,https://leetcode.com/problems/shortest-path-to-get-all-keys/,Hard,,,,No
+912,Sort an Array,https://leetcode.com/problems/sort-an-array/,Medium,,,,No
+1749,Maximum Absolute Sum of Any Subarray,https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/,Medium,,,,No
+1845,Seat Reservation Manager,https://leetcode.com/problems/seat-reservation-manager/,Medium,,,,No

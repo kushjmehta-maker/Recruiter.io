@@ -1,0 +1,8 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+341,Flatten Nested List Iterator,https://leetcode.com/problems/flatten-nested-list-iterator/,Medium,100.0%,6m+,65.6%,No
+415,Add Strings,https://leetcode.com/problems/add-strings/,Easy,,,,No
+609,Find Duplicate File in System,https://leetcode.com/problems/find-duplicate-file-in-system/,Medium,,,,No
+734,Sentence Similarity,https://leetcode.com/problems/sentence-similarity/,Easy,,,,Yes
+986,Interval List Intersections,https://leetcode.com/problems/interval-list-intersections/,Medium,100.0%,6m+,72.9%,No
+2034,Stock Price Fluctuation ,https://leetcode.com/problems/stock-price-fluctuation/,Medium,,,,No

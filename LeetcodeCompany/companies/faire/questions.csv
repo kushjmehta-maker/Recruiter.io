@@ -1,0 +1,15 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,,,,No
+79,Word Search,https://leetcode.com/problems/word-search/,Medium,6.5%,"6m,6m+",46.8%,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
+273,Integer to English Words,https://leetcode.com/problems/integer-to-english-words/,Hard,8.1%,"6m,6m+",34.8%,No
+591,Tag Validator,https://leetcode.com/problems/tag-validator/,Hard,7.3%,6m,40.2%,No
+845,Longest Mountain in Array,https://leetcode.com/problems/longest-mountain-in-array/,Medium,87.5%,6m+,41.8%,No
+1353,Maximum Number of Events That Can Be Attended,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/,Medium,,,,No
+1975,Maximum Matrix Sum,https://leetcode.com/problems/maximum-matrix-sum/,Medium,,,,No
+2210,Count Hills and Valleys in an Array,https://leetcode.com/problems/count-hills-and-valleys-in-an-array/,Easy,,,,No
+2468,Split Message Based on Limit,https://leetcode.com/problems/split-message-based-on-limit/,Hard,100.0%,6m,42.0%,No

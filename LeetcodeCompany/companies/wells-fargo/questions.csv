@@ -1,0 +1,80 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+10,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,Hard,,,,No
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,,,,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,75.0%,6m+,47.1%,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,1.4%,6m,43.7%,No
+29,Divide Two Integers,https://leetcode.com/problems/divide-two-integers/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,75.0%,6m+,53.0%,No
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,75.0%,6m+,56.1%,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+62,Unique Paths,https://leetcode.com/problems/unique-paths/,Medium,,,,No
+69,Sqrt(x),https://leetcode.com/problems/sqrtx/,Easy,,,,No
+75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,,,,No
+82,Remove Duplicates from Sorted List II,https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/,Medium,,,,No
+93,Restore IP Addresses,https://leetcode.com/problems/restore-ip-addresses/,Medium,2.5%,,55.3%,No
+97,Interleaving String,https://leetcode.com/problems/interleaving-string/,Medium,,,,No
+102,Binary Tree Level Order Traversal,https://leetcode.com/problems/binary-tree-level-order-traversal/,Medium,,,,No
+110,Balanced Binary Tree,https://leetcode.com/problems/balanced-binary-tree/,Easy,,,,No
+124,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Hard,,,,No
+131,Palindrome Partitioning,https://leetcode.com/problems/palindrome-partitioning/,Medium,,,,No
+134,Gas Station,https://leetcode.com/problems/gas-station/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.4%,,46.8%,No
+152,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/,Medium,,,,No
+153,Find Minimum in Rotated Sorted Array,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,Medium,,,,No
+160,Intersection of Two Linked Lists,https://leetcode.com/problems/intersection-of-two-linked-lists/,Easy,1.4%,,63.2%,No
+168,Excel Sheet Column Title,https://leetcode.com/problems/excel-sheet-column-title/,Easy,,,,No
+176,Second Highest Salary,https://leetcode.com/problems/second-highest-salary/,Medium,,,,No
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,1.9%,6m+,63.8%,No
+225,Implement Stack using Queues,https://leetcode.com/problems/implement-stack-using-queues/,Easy,,,,No
+233,Number of Digit One,https://leetcode.com/problems/number-of-digit-one/,Hard,,,,No
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,75.0%,6m+,68.6%,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,100.0%,6m,52.5%,Yes
+315,Count of Smaller Numbers After Self,https://leetcode.com/problems/count-of-smaller-numbers-after-self/,Hard,,,,No
+319,Bulb Switcher,https://leetcode.com/problems/bulb-switcher/,Medium,,,,No
+322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No
+365,Water and Jug Problem,https://leetcode.com/problems/water-and-jug-problem/,Medium,,,,No
+387,First Unique Character in a String,https://leetcode.com/problems/first-unique-character-in-a-string/,Easy,,,,No
+460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,2.7%,6m+,48.6%,No
+468,Validate IP Address,https://leetcode.com/problems/validate-ip-address/,Medium,,,,No
+485,Max Consecutive Ones,https://leetcode.com/problems/max-consecutive-ones/,Easy,,,,No
+535,Encode and Decode TinyURL,https://leetcode.com/problems/encode-and-decode-tinyurl/,Medium,,,,No
+543,Diameter of Binary Tree,https://leetcode.com/problems/diameter-of-binary-tree/,Easy,,,,No
+570,Managers with at Least 5 Direct Reports,https://leetcode.com/problems/managers-with-at-least-5-direct-reports/,Medium,75.0%,6m+,48.9%,No
+695,Max Area of Island,https://leetcode.com/problems/max-area-of-island/,Medium,,,,No
+696,Count Binary Substrings,https://leetcode.com/problems/count-binary-substrings/,Easy,4.0%,"30d,3m,6m",70.2%,No
+711,Number of Distinct Islands II,https://leetcode.com/problems/number-of-distinct-islands-ii/,Hard,,,,Yes
+741,Cherry Pickup,https://leetcode.com/problems/cherry-pickup/,Hard,,,,No
+703,Kth Largest Element in a Stream,https://leetcode.com/problems/kth-largest-element-in-a-stream/,Easy,75.0%,6m+,60.7%,No
+790,Domino and Tromino Tiling,https://leetcode.com/problems/domino-and-tromino-tiling/,Medium,,,,No
+796,Rotate String,https://leetcode.com/problems/rotate-string/,Easy,75.0%,6m+,65.1%,No
+809,Expressive Words,https://leetcode.com/problems/expressive-words/,Medium,,,,No
+844,Backspace String Compare,https://leetcode.com/problems/backspace-string-compare/,Easy,62.5%,,49.8%,No
+847,Shortest Path Visiting All Nodes,https://leetcode.com/problems/shortest-path-visiting-all-nodes/,Hard,,,,No
+875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,,,,No
+901,Online Stock Span,https://leetcode.com/problems/online-stock-span/,Medium,,,,No
+907,Sum of Subarray Minimums,https://leetcode.com/problems/sum-of-subarray-minimums/,Medium,,,,No
+924,Minimize Malware Spread,https://leetcode.com/problems/minimize-malware-spread/,Hard,,,,No
+957,Prison Cells After N Days,https://leetcode.com/problems/prison-cells-after-n-days/,Medium,,,,No
+968,Binary Tree Cameras,https://leetcode.com/problems/binary-tree-cameras/,Hard,,,,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,,,,No
+1079,Letter Tile Possibilities,https://leetcode.com/problems/letter-tile-possibilities/,Medium,,,,No
+1244,Design A Leaderboard,https://leetcode.com/problems/design-a-leaderboard/,Medium,,,,Yes
+1235,Maximum Profit in Job Scheduling,https://leetcode.com/problems/maximum-profit-in-job-scheduling/,Hard,,,,No
+1307,Verbal Arithmetic Puzzle,https://leetcode.com/problems/verbal-arithmetic-puzzle/,Hard,100.0%,6m+,34.9%,No
+1768,Merge Strings Alternately,https://leetcode.com/problems/merge-strings-alternately/,Easy,75.0%,6m+,82.1%,No
+1929,Concatenation of Array,https://leetcode.com/problems/concatenation-of-array/,Easy,,,,No
+1953,Maximum Number of Weeks for Which You Can Work,https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/,Medium,75.0%,6m+,42.3%,No
+2008,Maximum Earnings From Taxi,https://leetcode.com/problems/maximum-earnings-from-taxi/,Medium,62.5%,,46.2%,No
+2047,Number of Valid Words in a Sentence,https://leetcode.com/problems/number-of-valid-words-in-a-sentence/,Easy,,,,No
+2062,Count Vowel Substrings of a String,https://leetcode.com/problems/count-vowel-substrings-of-a-string/,Easy,75.0%,6m+,72.8%,No
+2220,Minimum Bit Flips to Convert Number,https://leetcode.com/problems/minimum-bit-flips-to-convert-number/,Easy,,,,No
+2537,Count the Number of Good Subarrays,https://leetcode.com/problems/count-the-number-of-good-subarrays/,Medium,,,,No
+2696,Minimum String Length After Removing Substrings,https://leetcode.com/problems/minimum-string-length-after-removing-substrings/,Easy,75.0%,6m+,77.1%,No
+2904,Shortest and Lexicographically Smallest Beautiful String,https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/,Medium,87.5%,6m+,40.8%,No
+2892,Minimizing Array After Replacing Pairs With Their Product,https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product/,Medium,87.5%,6m+,40.7%,Yes
+3138,Minimum Length of Anagram Concatenation,https://leetcode.com/problems/minimum-length-of-anagram-concatenation/,Medium,,,,No
+3136,Valid Word,https://leetcode.com/problems/valid-word/,Easy,,,,No
+3234,Count the Number of Substrings With Dominant Ones,https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/,Medium,,,,No

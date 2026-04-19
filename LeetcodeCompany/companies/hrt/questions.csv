@@ -1,0 +1,33 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,1.4%,,,No
+46,Permutations,https://leetcode.com/problems/permutations/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,,,,No
+71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,,,,No
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+130,Surrounded Regions,https://leetcode.com/problems/surrounded-regions/,Medium,,,,No
+243,Shortest Word Distance,https://leetcode.com/problems/shortest-word-distance/,Easy,,,,Yes
+245,Shortest Word Distance III,https://leetcode.com/problems/shortest-word-distance-iii/,Medium,,,,Yes
+722,Remove Comments,https://leetcode.com/problems/remove-comments/,Medium,,,,No
+726,Number of Atoms,https://leetcode.com/problems/number-of-atoms/,Hard,,,,No
+843,Guess the Word,https://leetcode.com/problems/guess-the-word/,Hard,,,,No
+912,Sort an Array,https://leetcode.com/problems/sort-an-array/,Medium,,,,No
+986,Interval List Intersections,https://leetcode.com/problems/interval-list-intersections/,Medium,,,,No
+1317,Convert Integer to the Sum of Two No-Zero Integers,https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/,Easy,100.0%,6m+,59.1%,No
+1342,Number of Steps to Reduce a Number to Zero,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/,Easy,100.0%,6m+,85.7%,No
+1323,Maximum 69 Number,https://leetcode.com/problems/maximum-69-number/,Easy,100.0%,6m+,84.5%,No
+1566,Detect Pattern of Length M Repeated K or More Times,https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/,Easy,100.0%,6m+,43.7%,No
+2034,Stock Price Fluctuation ,https://leetcode.com/problems/stock-price-fluctuation/,Medium,,,,No
+2246,Longest Path With Different Adjacent Characters,https://leetcode.com/problems/longest-path-with-different-adjacent-characters/,Hard,100.0%,6m+,53.9%,No
+2285,Maximum Total Importance of Roads,https://leetcode.com/problems/maximum-total-importance-of-roads/,Medium,100.0%,6m+,69.1%,No
+2502,Design Memory Allocator,https://leetcode.com/problems/design-memory-allocator/,Medium,,,,No
+2508,Add Edges to Make Degrees of All Nodes Even,https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/,Hard,100.0%,6m+,35.2%,No
+2768,Number of Black Blocks,https://leetcode.com/problems/number-of-black-blocks/,Medium,,,,No
+3043,Find the Length of the Longest Common Prefix,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/,Medium,,,,No
+3072,Distribute Elements Into Two Arrays II,https://leetcode.com/problems/distribute-elements-into-two-arrays-ii/,Hard,,,,No
+3225,Maximum Score From Grid Operations,https://leetcode.com/problems/maximum-score-from-grid-operations/,Hard,100.0%,6m+,27.1%,No
+3269,Constructing Two Increasing Arrays,https://leetcode.com/problems/constructing-two-increasing-arrays/,Hard,,,,Yes
+3433,Count Mentions Per User,https://leetcode.com/problems/count-mentions-per-user/,Medium,,,,No
+3459,Length of Longest V-Shaped Diagonal Segment,https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/,Hard,,,,No

@@ -1,0 +1,6 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
+956,Tallest Billboard,https://leetcode.com/problems/tallest-billboard/,Hard,,,,No
+1216,Valid Palindrome III,https://leetcode.com/problems/valid-palindrome-iii/,Hard,,,,Yes
+1488,Avoid Flood in The City,https://leetcode.com/problems/avoid-flood-in-the-city/,Medium,100.0%,"3m,6m",39.0%,No

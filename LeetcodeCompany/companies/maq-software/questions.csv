@@ -1,0 +1,38 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,100.0%,6m+,38.5%,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,3.2%,6m+,37.3%,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,62.5%,,38.0%,No
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,,,,No
+46,Permutations,https://leetcode.com/problems/permutations/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+51,N-Queens,https://leetcode.com/problems/n-queens/,Hard,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+66,Plus One,https://leetcode.com/problems/plus-one/,Easy,,,,No
+69,Sqrt(x),https://leetcode.com/problems/sqrtx/,Easy,,,,No
+75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,,,,No
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,87.5%,6m+,49.3%,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,62.5%,,56.4%,No
+131,Palindrome Partitioning,https://leetcode.com/problems/palindrome-partitioning/,Medium,,,,No
+132,Palindrome Partitioning II,https://leetcode.com/problems/palindrome-partitioning-ii/,Hard,,,,No
+176,Second Highest Salary,https://leetcode.com/problems/second-highest-salary/,Medium,87.5%,6m+,46.3%,No
+184,Department Highest Salary,https://leetcode.com/problems/department-highest-salary/,Medium,,,,No
+196,Delete Duplicate Emails,https://leetcode.com/problems/delete-duplicate-emails/,Easy,62.5%,,65.6%,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+287,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,Medium,,,,No
+371,Sum of Two Integers,https://leetcode.com/problems/sum-of-two-integers/,Medium,,,,No
+467,Unique Substrings in Wraparound String,https://leetcode.com/problems/unique-substrings-in-wraparound-string/,Medium,,6m+,42.6%,No
+516,Longest Palindromic Subsequence,https://leetcode.com/problems/longest-palindromic-subsequence/,Medium,87.5%,6m+,65.1%,No
+525,Contiguous Array,https://leetcode.com/problems/contiguous-array/,Medium,,,,No
+645,Set Mismatch,https://leetcode.com/problems/set-mismatch/,Easy,,,,No
+961,N-Repeated Element in Size 2N Array,https://leetcode.com/problems/n-repeated-element-in-size-2n-array/,Easy,,,,No
+962,Maximum Width Ramp,https://leetcode.com/problems/maximum-width-ramp/,Medium,,,,No
+977,Squares of a Sorted Array,https://leetcode.com/problems/squares-of-a-sorted-array/,Easy,,,,No
+1047,Remove All Adjacent Duplicates In String,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/,Easy,,,,No
+1356,Sort Integers by The Number of 1 Bits,https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/,Easy,,,,No
+1378,Replace Employee ID With The Unique Identifier,https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/,Easy,,,,No
+1581,Customer Who Visited but Did Not Make Any Transactions,https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/,Easy,,,,No
+1984,Minimum Difference Between Highest and Lowest of K Scores,https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/,Easy,,,,No
+2221,Find Triangular Sum of an Array,https://leetcode.com/problems/find-triangular-sum-of-an-array/,Medium,,,,No

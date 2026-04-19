@@ -1,0 +1,21 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,62.5%,,66.2%,No
+31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+72,Edit Distance,https://leetcode.com/problems/edit-distance/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+229,Majority Element II,https://leetcode.com/problems/majority-element-ii/,Medium,,,,No
+263,Ugly Number,https://leetcode.com/problems/ugly-number/,Easy,,,,No
+494,Target Sum,https://leetcode.com/problems/target-sum/,Medium,,,,No
+588,Design In-Memory File System,https://leetcode.com/problems/design-in-memory-file-system/,Hard,,,,Yes
+652,Find Duplicate Subtrees,https://leetcode.com/problems/find-duplicate-subtrees/,Medium,,,,No
+658,Find K Closest Elements,https://leetcode.com/problems/find-k-closest-elements/,Medium,100.0%,6m+,49.4%,No
+665,Non-decreasing Array,https://leetcode.com/problems/non-decreasing-array/,Medium,0.7%,6m+,25.4%,No
+875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,,,,No
+907,Sum of Subarray Minimums,https://leetcode.com/problems/sum-of-subarray-minimums/,Medium,,,,No
+1695,Maximum Erasure Value,https://leetcode.com/problems/maximum-erasure-value/,Medium,100.0%,6m+,64.1%,No
+1882,Process Tasks Using Servers,https://leetcode.com/problems/process-tasks-using-servers/,Medium,,,,No
+2272,Substring With Largest Variance,https://leetcode.com/problems/substring-with-largest-variance/,Hard,,,,No
+2291,Maximum Profit From Trading Stocks,https://leetcode.com/problems/maximum-profit-from-trading-stocks/,Medium,,,,Yes
+2560,House Robber IV,https://leetcode.com/problems/house-robber-iv/,Medium,100.0%,6m+,64.8%,No
+2858,Minimum Edge Reversals So Every Node Is Reachable,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/,Hard,100.0%,6m,57.2%,No

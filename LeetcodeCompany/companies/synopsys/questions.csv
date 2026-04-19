@@ -1,0 +1,25 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,1.9%,,57.1%,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+19,Remove Nth Node From End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Medium,,,,No
+45,Jump Game II,https://leetcode.com/problems/jump-game-ii/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,100.0%,6m+,51.1%,No
+81,Search in Rotated Sorted Array II,https://leetcode.com/problems/search-in-rotated-sorted-array-ii/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+133,Clone Graph,https://leetcode.com/problems/clone-graph/,Medium,,,,No
+141,Linked List Cycle,https://leetcode.com/problems/linked-list-cycle/,Easy,,,,No
+153,Find Minimum in Rotated Sorted Array,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,Medium,,,,No
+155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,,,,No
+167,Two Sum II - Input Array Is Sorted,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,Medium,,,,No
+225,Implement Stack using Queues,https://leetcode.com/problems/implement-stack-using-queues/,Easy,,,,No
+236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Medium,,,,No
+570,Managers with at Least 5 Direct Reports,https://leetcode.com/problems/managers-with-at-least-5-direct-reports/,Medium,,,,No
+658,Find K Closest Elements,https://leetcode.com/problems/find-k-closest-elements/,Medium,,,,No
+845,Longest Mountain in Array,https://leetcode.com/problems/longest-mountain-in-array/,Medium,,,,No
+1007,Minimum Domino Rotations For Equal Row,https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/,Medium,,,,No
+1028,Recover a Tree From Preorder Traversal,https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/,Hard,,,,No
+1146,Snapshot Array,https://leetcode.com/problems/snapshot-array/,Medium,,,,No
+1233,Remove Sub-Folders from the Filesystem,https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/,Medium,,,,No
+1615,Maximal Network Rank,https://leetcode.com/problems/maximal-network-rank/,Medium,,,,No
+1636,Sort Array by Increasing Frequency,https://leetcode.com/problems/sort-array-by-increasing-frequency/,Easy,,,,No
+2130,Maximum Twin Sum of a Linked List,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/,Medium,,,,No

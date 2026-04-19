@@ -1,0 +1,8 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+502,IPO,https://leetcode.com/problems/ipo/,Hard,,,,No
+630,Course Schedule III,https://leetcode.com/problems/course-schedule-iii/,Hard,,,,No
+678,Valid Parenthesis String,https://leetcode.com/problems/valid-parenthesis-string/,Medium,,,,No
+1011,Capacity To Ship Packages Within D Days,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/,Medium,100.0%,6m+,73.5%,No
+3170,Lexicographically Minimum String After Removing Stars,https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/,Medium,,,,No

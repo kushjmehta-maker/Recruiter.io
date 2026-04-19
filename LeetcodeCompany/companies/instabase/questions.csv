@@ -1,0 +1,13 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,,,,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,,,,No
+208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,3.0%,6m+,69.2%,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,100.0%,6m+,55.0%,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
+2192,All Ancestors of a Node in a Directed Acyclic Graph,https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/,Medium,,,,No
+2050,Parallel Courses III,https://leetcode.com/problems/parallel-courses-iii/,Hard,,,,No
+2176,Count Equal and Divisible Pairs in an Array,https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/,Easy,,,,No
+2334,Subarray With Elements Greater Than Varying Threshold,https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/,Hard,100.0%,6m+,45.2%,No
+3161,Block Placement Queries,https://leetcode.com/problems/block-placement-queries/,Hard,,,,No
+3484,Design Spreadsheet,https://leetcode.com/problems/design-spreadsheet/,Medium,,,,No

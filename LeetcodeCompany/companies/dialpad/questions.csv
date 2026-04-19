@@ -1,0 +1,10 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,100.0%,6m,38.5%,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,100.0%,6m+,67.8%,No
+383,Ransom Note,https://leetcode.com/problems/ransom-note/,Easy,,,,No
+1761,Minimum Degree of a Connected Trio in a Graph,https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/,Hard,,,,No
+2484,Count Palindromic Subsequences,https://leetcode.com/problems/count-palindromic-subsequences/,Hard,100.0%,6m+,41.0%,No

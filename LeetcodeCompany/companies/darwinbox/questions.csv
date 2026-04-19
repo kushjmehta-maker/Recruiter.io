@@ -1,0 +1,28 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,,,,No
+40,Combination Sum II,https://leetcode.com/problems/combination-sum-ii/,Medium,,,,No
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,62.5%,6m+,56.1%,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,75.0%,6m+,51.1%,No
+87,Scramble String,https://leetcode.com/problems/scramble-string/,Hard,100.0%,6m+,43.9%,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+139,Word Break,https://leetcode.com/problems/word-break/,Medium,,,,No
+174,Dungeon Game,https://leetcode.com/problems/dungeon-game/,Hard,,,,No
+176,Second Highest Salary,https://leetcode.com/problems/second-highest-salary/,Medium,,,,No
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
+209,Minimum Size Subarray Sum,https://leetcode.com/problems/minimum-size-subarray-sum/,Medium,,,,No
+229,Majority Element II,https://leetcode.com/problems/majority-element-ii/,Medium,62.5%,6m+,55.8%,No
+241,Different Ways to Add Parentheses,https://leetcode.com/problems/different-ways-to-add-parentheses/,Medium,,,,No
+282,Expression Add Operators,https://leetcode.com/problems/expression-add-operators/,Hard,,,,No
+399,Evaluate Division,https://leetcode.com/problems/evaluate-division/,Medium,,,,No
+416,Partition Equal Subset Sum,https://leetcode.com/problems/partition-equal-subset-sum/,Medium,,,,No
+494,Target Sum,https://leetcode.com/problems/target-sum/,Medium,,,,No
+696,Count Binary Substrings,https://leetcode.com/problems/count-binary-substrings/,Easy,,,,No
+969,Pancake Sorting,https://leetcode.com/problems/pancake-sorting/,Medium,100.0%,6m,71.7%,No
+1932,Merge BSTs to Create Single BST,https://leetcode.com/problems/merge-bsts-to-create-single-bst/,Hard,,,,No
+2257,Count Unguarded Cells in the Grid,https://leetcode.com/problems/count-unguarded-cells-in-the-grid/,Medium,,,,No
+2406,Divide Intervals Into Minimum Number of Groups,https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/,Medium,,,,No
+2518,Number of Great Partitions,https://leetcode.com/problems/number-of-great-partitions/,Hard,62.5%,6m+,33.3%,No

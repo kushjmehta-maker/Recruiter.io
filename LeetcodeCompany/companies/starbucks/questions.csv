@@ -1,0 +1,10 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+175,Combine Two Tables,https://leetcode.com/problems/combine-two-tables/,Easy,,,,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
+362,Design Hit Counter,https://leetcode.com/problems/design-hit-counter/,Medium,,,,Yes
+412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
+509,Fibonacci Number,https://leetcode.com/problems/fibonacci-number/,Easy,,,,No
+1174,Immediate Food Delivery II,https://leetcode.com/problems/immediate-food-delivery-ii/,Medium,100.0%,6m+,55.6%,No
+1352,Product of the Last K Numbers,https://leetcode.com/problems/product-of-the-last-k-numbers/,Medium,87.5%,6m+,62.9%,No

@@ -1,0 +1,25 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,87.5%,6m+,38.6%,No
+17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,87.5%,6m+,65.5%,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,,,,No
+162,Find Peak Element,https://leetcode.com/problems/find-peak-element/,Medium,,,,No
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,,,,No
+461,Hamming Distance,https://leetcode.com/problems/hamming-distance/,Easy,,,,No
+515,Find Largest Value in Each Tree Row,https://leetcode.com/problems/find-largest-value-in-each-tree-row/,Medium,,,,No
+554,Brick Wall,https://leetcode.com/problems/brick-wall/,Medium,87.5%,6m+,56.0%,No
+735,Asteroid Collision,https://leetcode.com/problems/asteroid-collision/,Medium,,,,No
+838,Push Dominoes,https://leetcode.com/problems/push-dominoes/,Medium,,,,No
+875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,87.5%,6m+,49.7%,No
+528,Random Pick with Weight,https://leetcode.com/problems/random-pick-with-weight/,Medium,,,,No
+931,Minimum Falling Path Sum,https://leetcode.com/problems/minimum-falling-path-sum/,Medium,,,,No
+1048,Longest String Chain,https://leetcode.com/problems/longest-string-chain/,Medium,,,,No
+1432,Max Difference You Can Get From Changing an Integer,https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/,Medium,100.0%,6m+,48.8%,No
+1488,Avoid Flood in The City,https://leetcode.com/problems/avoid-flood-in-the-city/,Medium,,,,No
+1838,Frequency of the Most Frequent Element,https://leetcode.com/problems/frequency-of-the-most-frequent-element/,Medium,,,,No
+1884,Egg Drop With 2 Eggs and N Floors,https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/,Medium,,,,No
+1930,Unique Length-3 Palindromic Subsequences,https://leetcode.com/problems/unique-length-3-palindromic-subsequences/,Medium,,,,No
+2498,Frog Jump II,https://leetcode.com/problems/frog-jump-ii/,Medium,,,,No
+3607,Power Grid Maintenance,https://leetcode.com/problems/power-grid-maintenance/,Medium,,,,No

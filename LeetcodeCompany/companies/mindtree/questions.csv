@@ -1,0 +1,20 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,87.5%,6m+,60.2%,No
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,,,,No
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+73,Set Matrix Zeroes,https://leetcode.com/problems/set-matrix-zeroes/,Medium,,,,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,,,,No
+169,Majority Element,https://leetcode.com/problems/majority-element/,Easy,,,,No
+176,Second Highest Salary,https://leetcode.com/problems/second-highest-salary/,Medium,,,,No
+196,Delete Duplicate Emails,https://leetcode.com/problems/delete-duplicate-emails/,Easy,,,,No
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
+205,Isomorphic Strings,https://leetcode.com/problems/isomorphic-strings/,Easy,,,,No
+209,Minimum Size Subarray Sum,https://leetcode.com/problems/minimum-size-subarray-sum/,Medium,,,,No
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,,,,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,87.5%,6m+,46.8%,No
+1661,Average Time of Process per Machine,https://leetcode.com/problems/average-time-of-process-per-machine/,Easy,100.0%,6m+,66.9%,No
+2180,Count Integers With Even Digit Sum,https://leetcode.com/problems/count-integers-with-even-digit-sum/,Easy,87.5%,6m+,69.7%,No
+3223,Minimum Length of String After Operations,https://leetcode.com/problems/minimum-length-of-string-after-operations/,Medium,,,,No

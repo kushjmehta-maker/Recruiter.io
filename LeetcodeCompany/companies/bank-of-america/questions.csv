@@ -1,0 +1,30 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,,,,No
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,,,,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
+19,Remove Nth Node From End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,2.9%,6m+,43.7%,No
+26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No
+91,Decode Ways,https://leetcode.com/problems/decode-ways/,Medium,,,,No
+118,Pascal's Triangle,https://leetcode.com/problems/pascals-triangle/,Easy,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,3.9%,6m+,56.4%,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,,,,No
+127,Word Ladder,https://leetcode.com/problems/word-ladder/,Hard,,,,No
+143,Reorder List,https://leetcode.com/problems/reorder-list/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+287,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,Medium,,,,No
+324,Wiggle Sort II,https://leetcode.com/problems/wiggle-sort-ii/,Medium,,,,No
+796,Rotate String,https://leetcode.com/problems/rotate-string/,Easy,,,,No
+875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,,,,No
+1280,Students and Examinations,https://leetcode.com/problems/students-and-examinations/,Easy,,,,No
+1679,Max Number of K-Sum Pairs,https://leetcode.com/problems/max-number-of-k-sum-pairs/,Medium,,,,No
+1838,Frequency of the Most Frequent Element,https://leetcode.com/problems/frequency-of-the-most-frequent-element/,Medium,,,,No
+1945,Sum of Digits of String After Convert,https://leetcode.com/problems/sum-of-digits-of-string-after-convert/,Easy,,,,No
+3013,Divide an Array Into Subarrays With Minimum Cost II,https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/,Hard,,,,No
+3272,Find the Count of Good Integers,https://leetcode.com/problems/find-the-count-of-good-integers/,Hard,,,,No
+3507,Minimum Pair Removal to Sort Array I,https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/,Easy,,,,No
+3504,Longest Palindrome After Substring Concatenation II,https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-ii/,Hard,,,,No

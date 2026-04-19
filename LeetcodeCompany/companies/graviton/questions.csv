@@ -1,0 +1,14 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+91,Decode Ways,https://leetcode.com/problems/decode-ways/,Medium,87.5%,6m+,37.6%,No
+179,Largest Number,https://leetcode.com/problems/largest-number/,Medium,87.5%,6m+,42.6%,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,87.5%,6m+,50.8%,No
+542,01 Matrix,https://leetcode.com/problems/01-matrix/,Medium,100.0%,6m+,53.3%,No
+790,Domino and Tromino Tiling,https://leetcode.com/problems/domino-and-tromino-tiling/,Medium,,,,No
+841,Keys and Rooms,https://leetcode.com/problems/keys-and-rooms/,Medium,87.5%,6m+,75.5%,No
+497,Random Point in Non-overlapping Rectangles,https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/,Medium,,,,No
+907,Sum of Subarray Minimums,https://leetcode.com/problems/sum-of-subarray-minimums/,Medium,,,,No
+968,Binary Tree Cameras,https://leetcode.com/problems/binary-tree-cameras/,Hard,87.5%,6m+,47.6%,No
+2246,Longest Path With Different Adjacent Characters,https://leetcode.com/problems/longest-path-with-different-adjacent-characters/,Hard,,,,No
+2603,Collect Coins in a Tree,https://leetcode.com/problems/collect-coins-in-a-tree/,Hard,87.5%,6m+,39.6%,No
+2867,Count Valid Paths in a Tree,https://leetcode.com/problems/count-valid-paths-in-a-tree/,Hard,,,,No
+3212,Count Submatrices With Equal Frequency of X and Y,https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/,Medium,,,,No

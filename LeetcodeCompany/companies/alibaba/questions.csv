@@ -1,0 +1,32 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,6.7%,6m+,38.5%,No
+22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,,,,No
+25,Reverse Nodes in k-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,Hard,,,,No
+58,Length of Last Word,https://leetcode.com/problems/length-of-last-word/,Easy,,,,No
+94,Binary Tree Inorder Traversal,https://leetcode.com/problems/binary-tree-inorder-traversal/,Easy,,,,No
+135,Candy,https://leetcode.com/problems/candy/,Hard,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+152,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/,Medium,,,,No
+179,Largest Number,https://leetcode.com/problems/largest-number/,Medium,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,62.5%,,68.8%,No
+220,Contains Duplicate III,https://leetcode.com/problems/contains-duplicate-iii/,Hard,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+279,Perfect Squares,https://leetcode.com/problems/perfect-squares/,Medium,,,,No
+393,UTF-8 Validation,https://leetcode.com/problems/utf-8-validation/,Medium,,,,No
+548,Split Array with Equal Sum,https://leetcode.com/problems/split-array-with-equal-sum/,Hard,,6m+,50.1%,Yes
+555,Split Concatenated Strings,https://leetcode.com/problems/split-concatenated-strings/,Medium,,6m+,43.6%,Yes
+616,Add Bold Tag in String,https://leetcode.com/problems/add-bold-tag-in-string/,Medium,,,,Yes
+666,Path Sum IV,https://leetcode.com/problems/path-sum-iv/,Medium,,6m+,62.8%,Yes
+678,Valid Parenthesis String,https://leetcode.com/problems/valid-parenthesis-string/,Medium,3.4%,6m+,39.8%,No
+739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,,,,No
+912,Sort an Array,https://leetcode.com/problems/sort-an-array/,Medium,,,,No
+1318,Minimum Flips to Make a OR b Equal to c,https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/,Medium,,,,No
+1768,Merge Strings Alternately,https://leetcode.com/problems/merge-strings-alternately/,Easy,,,,No
+2033,Minimum Operations to Make a Uni-Value Grid,https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/,Medium,,,,No
+2074,Reverse Nodes in Even Length Groups,https://leetcode.com/problems/reverse-nodes-in-even-length-groups/,Medium,,,,No
+2337,Move Pieces to Obtain a String,https://leetcode.com/problems/move-pieces-to-obtain-a-string/,Medium,,,,No
+2657,Find the Prefix Common Array of Two Arrays,https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/,Medium,,,,No
+2742,Painting the Walls,https://leetcode.com/problems/painting-the-walls/,Hard,,,,No
+3177,Find the Maximum Length of a Good Subsequence II,https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii/,Hard,,,,No

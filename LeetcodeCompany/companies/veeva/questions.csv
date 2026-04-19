@@ -1,0 +1,21 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,100.0%,6m+,38.5%,No
+17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,,,,No
+22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,,,,No
+26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,,,,No
+38,Count and Say,https://leetcode.com/problems/count-and-say/,Medium,3.0%,6m,62.3%,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,100.0%,6m+,72.2%,No
+118,Pascal's Triangle,https://leetcode.com/problems/pascals-triangle/,Easy,,,,No
+139,Word Break,https://leetcode.com/problems/word-break/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+150,Evaluate Reverse Polish Notation,https://leetcode.com/problems/evaluate-reverse-polish-notation/,Medium,,,,No
+155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,3.9%,,57.7%,No
+169,Majority Element,https://leetcode.com/problems/majority-element/,Easy,,,,No
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,,,,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
+344,Reverse String,https://leetcode.com/problems/reverse-string/,Easy,,,,No
+347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,,,,No
+536,Construct Binary Tree from String,https://leetcode.com/problems/construct-binary-tree-from-string/,Medium,,,,Yes
+977,Squares of a Sorted Array,https://leetcode.com/problems/squares-of-a-sorted-array/,Easy,,,,No

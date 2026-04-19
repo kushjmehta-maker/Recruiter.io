@@ -1,0 +1,64 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,3.6%,6m,57.1%,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,1.6%,,38.5%,No
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+16,3Sum Closest,https://leetcode.com/problems/3sum-closest/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,,,,No
+32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,,,,No
+34,Find First and Last Position of Element in Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Medium,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,2.1%,,56.1%,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
+62,Unique Paths,https://leetcode.com/problems/unique-paths/,Medium,2.9%,,66.5%,No
+64,Minimum Path Sum,https://leetcode.com/problems/minimum-path-sum/,Medium,,,,No
+78,Subsets,https://leetcode.com/problems/subsets/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,3.9%,6m+,56.4%,No
+130,Surrounded Regions,https://leetcode.com/problems/surrounded-regions/,Medium,,,,No
+133,Clone Graph,https://leetcode.com/problems/clone-graph/,Medium,,,,No
+152,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/,Medium,,,,No
+155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,,,,No
+162,Find Peak Element,https://leetcode.com/problems/find-peak-element/,Medium,,,,No
+169,Majority Element,https://leetcode.com/problems/majority-element/,Easy,,,,No
+176,Second Highest Salary,https://leetcode.com/problems/second-highest-salary/,Medium,,,,No
+204,Count Primes,https://leetcode.com/problems/count-primes/,Medium,,,,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,,,,No
+230,Kth Smallest Element in a BST,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,Medium,,,,No
+231,Power of Two,https://leetcode.com/problems/power-of-two/,Easy,,,,No
+322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No
+387,First Unique Character in a String,https://leetcode.com/problems/first-unique-character-in-a-string/,Easy,3.2%,6m+,65.0%,No
+409,Longest Palindrome,https://leetcode.com/problems/longest-palindrome/,Easy,,,,No
+410,Split Array Largest Sum,https://leetcode.com/problems/split-array-largest-sum/,Hard,,,,No
+448,Find All Numbers Disappeared in an Array,https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/,Easy,,,,No
+453,Minimum Moves to Equal Array Elements,https://leetcode.com/problems/minimum-moves-to-equal-array-elements/,Medium,,,,No
+494,Target Sum,https://leetcode.com/problems/target-sum/,Medium,,,,No
+525,Contiguous Array,https://leetcode.com/problems/contiguous-array/,Medium,4.6%,,,No
+564,Find the Closest Palindrome,https://leetcode.com/problems/find-the-closest-palindrome/,Hard,,,,No
+621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,,,,No
+631,Design Excel Sum Formula,https://leetcode.com/problems/design-excel-sum-formula/,Hard,,,,Yes
+647,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,Medium,3.1%,,,No
+680,Valid Palindrome II,https://leetcode.com/problems/valid-palindrome-ii/,Easy,,,,No
+739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,,,,No
+759,Employee Free Time,https://leetcode.com/problems/employee-free-time/,Hard,,,,Yes
+761,Special Binary String,https://leetcode.com/problems/special-binary-string/,Hard,,,,No
+703,Kth Largest Element in a Stream,https://leetcode.com/problems/kth-largest-element-in-a-stream/,Easy,,,,No
+853,Car Fleet,https://leetcode.com/problems/car-fleet/,Medium,,,,No
+930,Binary Subarrays With Sum,https://leetcode.com/problems/binary-subarrays-with-sum/,Medium,,,,No
+961,N-Repeated Element in Size 2N Array,https://leetcode.com/problems/n-repeated-element-in-size-2n-array/,Easy,87.5%,6m+,79.8%,No
+1004,Max Consecutive Ones III,https://leetcode.com/problems/max-consecutive-ones-iii/,Medium,,,,No
+1008,Construct Binary Search Tree from Preorder Traversal,https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/,Medium,,,,No
+1010,Pairs of Songs With Total Durations Divisible by 60,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/,Medium,,,,No
+1011,Capacity To Ship Packages Within D Days,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/,Medium,,,,No
+1047,Remove All Adjacent Duplicates In String,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/,Easy,,,,No
+1382,Balance a Binary Search Tree,https://leetcode.com/problems/balance-a-binary-search-tree/,Medium,,,,No
+1200,Minimum Absolute Difference,https://leetcode.com/problems/minimum-absolute-difference/,Easy,,,,No
+1297,Maximum Number of Occurrences of a Substring,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/,Medium,,,,No
+1389,Create Target Array in the Given Order,https://leetcode.com/problems/create-target-array-in-the-given-order/,Easy,,,,No
+1547,Minimum Cost to Cut a Stick,https://leetcode.com/problems/minimum-cost-to-cut-a-stick/,Hard,,,,No
+1652,Defuse the Bomb,https://leetcode.com/problems/defuse-the-bomb/,Easy,,,,No
+1669,Merge In Between Linked Lists,https://leetcode.com/problems/merge-in-between-linked-lists/,Medium,,,,No
+2235,Add Two Integers,https://leetcode.com/problems/add-two-integers/,Easy,100.0%,6m,87.9%,No
+3193,Count the Number of Inversions,https://leetcode.com/problems/count-the-number-of-inversions/,Hard,,,,No
+3296,Minimum Number of Seconds to Make Mountain Height Zero,https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/,Medium,,,,No

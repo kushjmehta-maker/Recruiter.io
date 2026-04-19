@@ -1,0 +1,13 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,,,,No
+31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
+300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,,,,No
+451,Sort Characters By Frequency,https://leetcode.com/problems/sort-characters-by-frequency/,Medium,,,,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,,,,No
+1005,Maximize Sum Of Array After K Negations,https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/,Easy,100.0%,6m+,53.5%,No
+1090,Largest Values From Labels,https://leetcode.com/problems/largest-values-from-labels/,Medium,,,,No
+1884,Egg Drop With 2 Eggs and N Floors,https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/,Medium,,,,No
+2625,Flatten Deeply Nested Array,https://leetcode.com/problems/flatten-deeply-nested-array/,Medium,,,,No

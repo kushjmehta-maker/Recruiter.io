@@ -1,0 +1,16 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+19,Remove Nth Node From End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+64,Minimum Path Sum,https://leetcode.com/problems/minimum-path-sum/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,100.0%,6m+,46.8%,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
+235,Lowest Common Ancestor of a Binary Search Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,Medium,,,,No
+852,Peak Index in a Mountain Array,https://leetcode.com/problems/peak-index-in-a-mountain-array/,Medium,,,,No
+905,Sort Array By Parity,https://leetcode.com/problems/sort-array-by-parity/,Easy,,,,No
+1010,Pairs of Songs With Total Durations Divisible by 60,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/,Medium,100.0%,6m+,53.4%,No
+10004,Design a Rate Limiting System,https://leetcode.com/problems/design-a-rate-limiting-system/,Medium,,,,No
+1383,Maximum Performance of a Team,https://leetcode.com/problems/maximum-performance-of-a-team/,Hard,100.0%,6m+,47.7%,No
+1992,Find All Groups of Farmland,https://leetcode.com/problems/find-all-groups-of-farmland/,Medium,100.0%,6m+,75.5%,No
+2840,Check if Strings Can be Made Equal With Operations II,https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/,Medium,100.0%,6m+,56.1%,No
+2839,Check if Strings Can be Made Equal With Operations I,https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/,Easy,100.0%,6m+,47.7%,No

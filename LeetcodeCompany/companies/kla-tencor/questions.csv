@@ -1,0 +1,15 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+93,Restore IP Addresses,https://leetcode.com/problems/restore-ip-addresses/,Medium,,,,No
+134,Gas Station,https://leetcode.com/problems/gas-station/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+227,Basic Calculator II,https://leetcode.com/problems/basic-calculator-ii/,Medium,,,,No
+334,Increasing Triplet Subsequence,https://leetcode.com/problems/increasing-triplet-subsequence/,Medium,,,,No
+460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,87.5%,6m+,48.6%,No
+703,Kth Largest Element in a Stream,https://leetcode.com/problems/kth-largest-element-in-a-stream/,Easy,,,,No
+780,Reaching Points,https://leetcode.com/problems/reaching-points/,Hard,100.0%,6m+,34.2%,No
+887,Super Egg Drop,https://leetcode.com/problems/super-egg-drop/,Hard,,,,No
+912,Sort an Array,https://leetcode.com/problems/sort-an-array/,Medium,,,,No
+1192,Critical Connections in a Network,https://leetcode.com/problems/critical-connections-in-a-network/,Hard,75.0%,6m+,59.3%,No
+2079,Watering Plants,https://leetcode.com/problems/watering-plants/,Medium,100.0%,6m+,79.9%,No
+2106,Maximum Fruits Harvested After at Most K Steps,https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/,Hard,,,,No
+2311,Longest Binary Subsequence Less Than or Equal to K,https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/,Medium,,,,No

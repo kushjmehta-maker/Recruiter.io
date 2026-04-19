@@ -1,0 +1,23 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,1.6%,,38.5%,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+10,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,Hard,,,,No
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,2.2%,,58.8%,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
+41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/,Hard,100.0%,,42.4%,No
+62,Unique Paths,https://leetcode.com/problems/unique-paths/,Medium,,,,No
+98,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,100.0%,6m+,46.8%,No
+151,Reverse Words in a String,https://leetcode.com/problems/reverse-words-in-a-string/,Medium,,,,No
+153,Find Minimum in Rotated Sorted Array,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,Medium,,,,No
+460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,4.5%,6m+,48.6%,No
+588,Design In-Memory File System,https://leetcode.com/problems/design-in-memory-file-system/,Hard,100.0%,,48.4%,Yes
+647,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,Medium,3.1%,6m+,72.5%,No
+739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,,,,No
+977,Squares of a Sorted Array,https://leetcode.com/problems/squares-of-a-sorted-array/,Easy,,,,No
+1244,Design A Leaderboard,https://leetcode.com/problems/design-a-leaderboard/,Medium,,,,Yes
+1268,Search Suggestions System,https://leetcode.com/problems/search-suggestions-system/,Medium,,,,No
+2502,Design Memory Allocator,https://leetcode.com/problems/design-memory-allocator/,Medium,,,,No

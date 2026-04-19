@@ -1,0 +1,28 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,87.5%,6m+,38.5%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,3.2%,6m+,43.7%,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+120,Triangle,https://leetcode.com/problems/triangle/,Medium,,,,No
+134,Gas Station,https://leetcode.com/problems/gas-station/,Medium,,,,No
+155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,87.5%,6m+,57.7%,No
+189,Rotate Array,https://leetcode.com/problems/rotate-array/,Medium,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,100.0%,6m+,63.8%,No
+206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,,,,No
+236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Medium,87.5%,6m+,68.7%,No
+300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,,,,No
+490,The Maze,https://leetcode.com/problems/the-maze/,Medium,,,,Yes
+505,The Maze II,https://leetcode.com/problems/the-maze-ii/,Medium,,,,Yes
+723,Candy Crush,https://leetcode.com/problems/candy-crush/,Medium,,,,Yes
+912,Sort an Array,https://leetcode.com/problems/sort-an-array/,Medium,,,,No
+1207,Unique Number of Occurrences,https://leetcode.com/problems/unique-number-of-occurrences/,Easy,,,,No
+1226,The Dining Philosophers,https://leetcode.com/problems/the-dining-philosophers/,Medium,,,,No
+1742,Maximum Number of Balls in a Box,https://leetcode.com/problems/maximum-number-of-balls-in-a-box/,Easy,87.5%,6m+,74.7%,No
+1768,Merge Strings Alternately,https://leetcode.com/problems/merge-strings-alternately/,Easy,,,,No
+1814,Count Nice Pairs in an Array,https://leetcode.com/problems/count-nice-pairs-in-an-array/,Medium,,,,No
+2603,Collect Coins in a Tree,https://leetcode.com/problems/collect-coins-in-a-tree/,Hard,87.5%,6m+,39.6%,No
+2812,Find the Safest Path in a Grid,https://leetcode.com/problems/find-the-safest-path-in-a-grid/,Medium,,,,No
+3034,Number of Subarrays That Match a Pattern I,https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i/,Medium,,,,No

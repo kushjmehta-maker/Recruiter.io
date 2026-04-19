@@ -1,0 +1,24 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,5.5%,"6m,6m+",38.6%,No
+18,4Sum,https://leetcode.com/problems/4sum/,Medium,6.4%,6m+,40.0%,No
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,3.9%,"3m,6m",58.8%,No
+78,Subsets,https://leetcode.com/problems/subsets/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,5.8%,6m+,46.8%,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,4.4%,6m+,63.8%,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,2.7%,"30d,3m,6m",50.8%,No
+289,Game of Life,https://leetcode.com/problems/game-of-life/,Medium,,,,No
+359,Logger Rate Limiter,https://leetcode.com/problems/logger-rate-limiter/,Easy,6.9%,6m+,76.8%,Yes
+362,Design Hit Counter,https://leetcode.com/problems/design-hit-counter/,Medium,7.5%,6m+,69.6%,Yes
+394,Decode String,https://leetcode.com/problems/decode-string/,Medium,,,,No
+412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
+437,Path Sum III,https://leetcode.com/problems/path-sum-iii/,Medium,,,,No
+460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,,,,No
+596,Classes With at Least 5 Students,https://leetcode.com/problems/classes-with-at-least-5-students/,Easy,,,,No
+780,Reaching Points,https://leetcode.com/problems/reaching-points/,Hard,75.0%,"6m,6m+",34.2%,No
+622,Design Circular Queue,https://leetcode.com/problems/design-circular-queue/,Medium,100.0%,"3m,6m,6m+",54.0%,No
+1011,Capacity To Ship Packages Within D Days,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/,Medium,,,,No
+1353,Maximum Number of Events That Can Be Attended,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/,Medium,,,,No
+1381,Design a Stack With Increment Operation,https://leetcode.com/problems/design-a-stack-with-increment-operation/,Medium,87.5%,"3m,6m,6m+",79.9%,No
+1986,Minimum Number of Work Sessions to Finish the Tasks,https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/,Medium,,,,No
+2462,Total Cost to Hire K Workers,https://leetcode.com/problems/total-cost-to-hire-k-workers/,Medium,,,,No
+2622,Cache With Time Limit,https://leetcode.com/problems/cache-with-time-limit/,Medium,,,,No

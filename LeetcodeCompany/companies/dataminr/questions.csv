@@ -1,0 +1,10 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+57,Insert Interval,https://leetcode.com/problems/insert-interval/,Medium,,,,No
+169,Majority Element,https://leetcode.com/problems/majority-element/,Easy,,,,No
+865,Smallest Subtree with all the Deepest Nodes,https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/,Medium,,,,No
+885,Spiral Matrix III,https://leetcode.com/problems/spiral-matrix-iii/,Medium,100.0%,6m+,84.5%,No
+1192,Critical Connections in a Network,https://leetcode.com/problems/critical-connections-in-a-network/,Hard,,,,No
+1429,First Unique Number,https://leetcode.com/problems/first-unique-number/,Medium,,,,Yes
+1822,Sign of the Product of an Array,https://leetcode.com/problems/sign-of-the-product-of-an-array/,Easy,,,,No
+1840,Maximum Building Height,https://leetcode.com/problems/maximum-building-height/,Hard,100.0%,6m+,38.3%,No

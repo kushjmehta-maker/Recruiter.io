@@ -1,0 +1,4 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+643,Maximum Average Subarray I,https://leetcode.com/problems/maximum-average-subarray-i/,Easy,,,,No
+768,Max Chunks To Make Sorted II,https://leetcode.com/problems/max-chunks-to-make-sorted-ii/,Hard,,,,No
+706,Design HashMap,https://leetcode.com/problems/design-hashmap/,Easy,100.0%,"3m,6m",66.4%,No

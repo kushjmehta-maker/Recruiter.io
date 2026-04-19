@@ -1,0 +1,38 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,,,,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+74,Search a 2D Matrix,https://leetcode.com/problems/search-a-2d-matrix/,Medium,,,,No
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No
+93,Restore IP Addresses,https://leetcode.com/problems/restore-ip-addresses/,Medium,,,,No
+122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,,,,No
+123,Best Time to Buy and Sell Stock III,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/,Hard,,,,No
+130,Surrounded Regions,https://leetcode.com/problems/surrounded-regions/,Medium,,,,No
+167,Two Sum II - Input Array Is Sorted,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,Medium,,,,No
+212,Word Search II,https://leetcode.com/problems/word-search-ii/,Hard,,,,No
+227,Basic Calculator II,https://leetcode.com/problems/basic-calculator-ii/,Medium,,,,No
+240,Search a 2D Matrix II,https://leetcode.com/problems/search-a-2d-matrix-ii/,Medium,,,,No
+267,Palindrome Permutation II,https://leetcode.com/problems/palindrome-permutation-ii/,Medium,,,,Yes
+376,Wiggle Subsequence,https://leetcode.com/problems/wiggle-subsequence/,Medium,,,,No
+396,Rotate Function,https://leetcode.com/problems/rotate-function/,Medium,,,,No
+409,Longest Palindrome,https://leetcode.com/problems/longest-palindrome/,Easy,,,,No
+450,Delete Node in a BST,https://leetcode.com/problems/delete-node-in-a-bst/,Medium,,,,No
+525,Contiguous Array,https://leetcode.com/problems/contiguous-array/,Medium,,,,No
+566,Reshape the Matrix,https://leetcode.com/problems/reshape-the-matrix/,Easy,,,,No
+628,Maximum Product of Three Numbers,https://leetcode.com/problems/maximum-product-of-three-numbers/,Easy,,,,No
+678,Valid Parenthesis String,https://leetcode.com/problems/valid-parenthesis-string/,Medium,,,,No
+772,Basic Calculator III,https://leetcode.com/problems/basic-calculator-iii/,Hard,,,,Yes
+1004,Max Consecutive Ones III,https://leetcode.com/problems/max-consecutive-ones-iii/,Medium,,,,No
+1497,Check If Array Pairs Are Divisible by k,https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/,Medium,,,,No
+1710,Maximum Units on a Truck,https://leetcode.com/problems/maximum-units-on-a-truck/,Easy,,,,No
+2134,Minimum Swaps to Group All 1's Together II,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/,Medium,,,,No
+2352,Equal Row and Column Pairs,https://leetcode.com/problems/equal-row-and-column-pairs/,Medium,,,,No
+2364,Count Number of Bad Pairs,https://leetcode.com/problems/count-number-of-bad-pairs/,Medium,,,,No
+2594,Minimum Time to Repair Cars,https://leetcode.com/problems/minimum-time-to-repair-cars/,Medium,,,,No

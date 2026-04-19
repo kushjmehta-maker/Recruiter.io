@@ -1,0 +1,51 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+16,3Sum Closest,https://leetcode.com/problems/3sum-closest/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,75.0%,6m+,43.7%,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,75.0%,6m+,66.8%,No
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,75.0%,6m+,56.1%,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,3.0%,6m+,51.1%,No
+133,Clone Graph,https://leetcode.com/problems/clone-graph/,Medium,2.5%,6m,64.7%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+150,Evaluate Reverse Polish Notation,https://leetcode.com/problems/evaluate-reverse-polish-notation/,Medium,,,,No
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,5.6%,"3m,6m,6m+",63.8%,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,75.0%,6m+,50.8%,No
+208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,,,,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,,,,No
+213,House Robber II,https://leetcode.com/problems/house-robber-ii/,Medium,,,,No
+224,Basic Calculator,https://leetcode.com/problems/basic-calculator/,Hard,,,,No
+234,Palindrome Linked List,https://leetcode.com/problems/palindrome-linked-list/,Easy,,,,No
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+240,Search a 2D Matrix II,https://leetcode.com/problems/search-a-2d-matrix-ii/,Medium,,,,No
+261,Graph Valid Tree,https://leetcode.com/problems/graph-valid-tree/,Medium,,,,Yes
+271,Encode and Decode Strings,https://leetcode.com/problems/encode-and-decode-strings/,Medium,6.8%,"6m,6m+",51.2%,Yes
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,75.0%,6m+,63.5%,No
+295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,,,,No
+299,Bulls and Cows,https://leetcode.com/problems/bulls-and-cows/,Medium,,,,No
+347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,,,,No
+349,Intersection of Two Arrays,https://leetcode.com/problems/intersection-of-two-arrays/,Easy,,,,No
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,,,,No
+388,Longest Absolute File Path,https://leetcode.com/problems/longest-absolute-file-path/,Medium,,,,No
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,6.6%,6m+,59.5%,No
+588,Design In-Memory File System,https://leetcode.com/problems/design-in-memory-file-system/,Hard,,,,Yes
+695,Max Area of Island,https://leetcode.com/problems/max-area-of-island/,Medium,,,,No
+735,Asteroid Collision,https://leetcode.com/problems/asteroid-collision/,Medium,,,,No
+739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,,,,No
+743,Network Delay Time,https://leetcode.com/problems/network-delay-time/,Medium,,,,No
+761,Special Binary String,https://leetcode.com/problems/special-binary-string/,Hard,,,,No
+827,Making A Large Island,https://leetcode.com/problems/making-a-large-island/,Hard,,,,No
+622,Design Circular Queue,https://leetcode.com/problems/design-circular-queue/,Medium,,,,No
+977,Squares of a Sorted Array,https://leetcode.com/problems/squares-of-a-sorted-array/,Easy,75.0%,6m+,73.6%,No
+981,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/,Medium,75.0%,6m+,49.7%,No
+1587,Bank Account Summary II,https://leetcode.com/problems/bank-account-summary-ii/,Easy,,,,No
+1669,Merge In Between Linked Lists,https://leetcode.com/problems/merge-in-between-linked-lists/,Medium,,,,No
+1971,Find if Path Exists in Graph,https://leetcode.com/problems/find-if-path-exists-in-graph/,Easy,,,,No
+2161,Partition Array According to Given Pivot,https://leetcode.com/problems/partition-array-according-to-given-pivot/,Medium,,,,No
+2537,Count the Number of Good Subarrays,https://leetcode.com/problems/count-the-number-of-good-subarrays/,Medium,,,,No
+2751,Robot Collisions,https://leetcode.com/problems/robot-collisions/,Hard,,,,No
+3163,String Compression III,https://leetcode.com/problems/string-compression-iii/,Medium,,,,No
+3275,K-th Nearest Obstacle Queries,https://leetcode.com/problems/k-th-nearest-obstacle-queries/,Medium,,,,No
+3815,Design Auction System,https://leetcode.com/problems/design-auction-system/,Medium,,,,No

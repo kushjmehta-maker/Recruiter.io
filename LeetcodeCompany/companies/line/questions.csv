@@ -1,0 +1,9 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,87.5%,6m+,46.8%,No
+167,Two Sum II - Input Array Is Sorted,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,Medium,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,4.3%,6m+,48.4%,No
+403,Frog Jump,https://leetcode.com/problems/frog-jump/,Hard,,,,No
+1547,Minimum Cost to Cut a Stick,https://leetcode.com/problems/minimum-cost-to-cut-a-stick/,Hard,87.5%,6m+,62.8%,No
+2008,Maximum Earnings From Taxi,https://leetcode.com/problems/maximum-earnings-from-taxi/,Medium,,,,No

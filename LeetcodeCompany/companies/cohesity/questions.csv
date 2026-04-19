@@ -1,0 +1,45 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
+21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,,,,No
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,5.1%,,,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,87.5%,6m+,44.1%,No
+34,Find First and Last Position of Element in Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Medium,,,,No
+74,Search a 2D Matrix,https://leetcode.com/problems/search-a-2d-matrix/,Medium,,,,No
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,,,,No
+79,Word Search,https://leetcode.com/problems/word-search/,Medium,,,,No
+92,Reverse Linked List II,https://leetcode.com/problems/reverse-linked-list-ii/,Medium,,,,No
+103,Binary Tree Zigzag Level Order Traversal,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+130,Surrounded Regions,https://leetcode.com/problems/surrounded-regions/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,,,,No
+234,Palindrome Linked List,https://leetcode.com/problems/palindrome-linked-list/,Easy,,,,No
+236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Medium,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+240,Search a 2D Matrix II,https://leetcode.com/problems/search-a-2d-matrix-ii/,Medium,,,,No
+249,Group Shifted Strings,https://leetcode.com/problems/group-shifted-strings/,Medium,,,,Yes
+252,Meeting Rooms,https://leetcode.com/problems/meeting-rooms/,Easy,,,,Yes
+295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,5.3%,6m+,54.2%,No
+297,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,Hard,,,,No
+333,Largest BST Subtree,https://leetcode.com/problems/largest-bst-subtree/,Medium,,,,Yes
+387,First Unique Character in a String,https://leetcode.com/problems/first-unique-character-in-a-string/,Easy,,,,No
+399,Evaluate Division,https://leetcode.com/problems/evaluate-division/,Medium,,,,No
+438,Find All Anagrams in a String,https://leetcode.com/problems/find-all-anagrams-in-a-string/,Medium,,,,No
+518,Coin Change II,https://leetcode.com/problems/coin-change-ii/,Medium,,,,No
+547,Number of Provinces,https://leetcode.com/problems/number-of-provinces/,Medium,,,,No
+696,Count Binary Substrings,https://leetcode.com/problems/count-binary-substrings/,Easy,,,,No
+764,Largest Plus Sign,https://leetcode.com/problems/largest-plus-sign/,Medium,,,,No
+853,Car Fleet,https://leetcode.com/problems/car-fleet/,Medium,,,,No
+528,Random Pick with Weight,https://leetcode.com/problems/random-pick-with-weight/,Medium,,,,No
+1168,Optimize Water Distribution in a Village,https://leetcode.com/problems/optimize-water-distribution-in-a-village/,Hard,,,,Yes
+1248,Count Number of Nice Subarrays,https://leetcode.com/problems/count-number-of-nice-subarrays/,Medium,,,,No
+1586,Binary Search Tree Iterator II,https://leetcode.com/problems/binary-search-tree-iterator-ii/,Medium,,,,Yes
+1762,Buildings With an Ocean View,https://leetcode.com/problems/buildings-with-an-ocean-view/,Medium,,,,Yes
+2251,Number of Flowers in Full Bloom,https://leetcode.com/problems/number-of-flowers-in-full-bloom/,Hard,87.5%,6m+,57.7%,No
+2398,Maximum Number of Robots Within Budget,https://leetcode.com/problems/maximum-number-of-robots-within-budget/,Hard,,,,No
+2402,Meeting Rooms III,https://leetcode.com/problems/meeting-rooms-iii/,Hard,,,,No
+2508,Add Edges to Make Degrees of All Nodes Even,https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/,Hard,,,,No
+2743,Count Substrings Without Repeating Character,https://leetcode.com/problems/count-substrings-without-repeating-character/,Medium,,,,Yes
+3234,Count the Number of Substrings With Dominant Ones,https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/,Medium,,,,No

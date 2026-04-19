@@ -1,0 +1,9 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+51,N-Queens,https://leetcode.com/problems/n-queens/,Hard,,,,No
+118,Pascal's Triangle,https://leetcode.com/problems/pascals-triangle/,Easy,87.5%,"3m,6m",78.7%,No
+169,Majority Element,https://leetcode.com/problems/majority-element/,Easy,,,,No
+605,Can Place Flowers,https://leetcode.com/problems/can-place-flowers/,Easy,100.0%,"3m,6m",29.0%,No
+787,Cheapest Flights Within K Stops,https://leetcode.com/problems/cheapest-flights-within-k-stops/,Medium,87.5%,"3m,6m",41.4%,No
+509,Fibonacci Number,https://leetcode.com/problems/fibonacci-number/,Easy,100.0%,"3m,6m",73.9%,No
+1512,Number of Good Pairs,https://leetcode.com/problems/number-of-good-pairs/,Easy,87.5%,"3m,6m",89.8%,No

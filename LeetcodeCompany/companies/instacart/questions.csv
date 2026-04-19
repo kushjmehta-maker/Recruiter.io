@@ -1,0 +1,43 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+8,String to Integer (atoi),https://leetcode.com/problems/string-to-integer-atoi/,Medium,,,,No
+10,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,Hard,,,,No
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,,,,No
+34,Find First and Last Position of Element in Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Medium,6.4%,6m+,48.3%,No
+35,Search Insert Position,https://leetcode.com/problems/search-insert-position/,Easy,,,,No
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,62.5%,6m+,64.1%,No
+44,Wildcard Matching,https://leetcode.com/problems/wildcard-matching/,Hard,5.0%,6m+,31.3%,No
+48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,5.1%,6m,72.2%,No
+50,"Pow(x, n)",https://leetcode.com/problems/powx-n/,Medium,,,,No
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+65,Valid Number,https://leetcode.com/problems/valid-number/,Hard,,,,No
+72,Edit Distance,https://leetcode.com/problems/edit-distance/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+167,Two Sum II - Input Array Is Sorted,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,Medium,,,,No
+212,Word Search II,https://leetcode.com/problems/word-search-ii/,Hard,,,,No
+227,Basic Calculator II,https://leetcode.com/problems/basic-calculator-ii/,Medium,,,,No
+290,Word Pattern,https://leetcode.com/problems/word-pattern/,Easy,,,,No
+309,Best Time to Buy and Sell Stock with Cooldown,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/,Medium,,,,No
+312,Burst Balloons,https://leetcode.com/problems/burst-balloons/,Hard,,,,No
+399,Evaluate Division,https://leetcode.com/problems/evaluate-division/,Medium,,,,No
+435,Non-overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/,Medium,,,,No
+452,Minimum Number of Arrows to Burst Balloons,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/,Medium,,,,No
+723,Candy Crush,https://leetcode.com/problems/candy-crush/,Medium,,,,Yes
+859,Buddy Strings,https://leetcode.com/problems/buddy-strings/,Easy,,,,No
+977,Squares of a Sorted Array,https://leetcode.com/problems/squares-of-a-sorted-array/,Easy,87.5%,6m+,73.6%,No
+981,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/,Medium,100.0%,6m+,49.7%,No
+1353,Maximum Number of Events That Can Be Attended,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/,Medium,62.5%,6m+,38.9%,No
+1438,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/,Medium,,,,No
+1570,Dot Product of Two Sparse Vectors,https://leetcode.com/problems/dot-product-of-two-sparse-vectors/,Medium,,,,Yes
+1701,Average Waiting Time,https://leetcode.com/problems/average-waiting-time/,Medium,100.0%,"6m,6m+",73.1%,No
+1688,Count of Matches in Tournament,https://leetcode.com/problems/count-of-matches-in-tournament/,Easy,,,,No
+1834,Single-Threaded CPU,https://leetcode.com/problems/single-threaded-cpu/,Medium,,,,No
+2006,Count Number of Pairs With Absolute Difference K,https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/,Easy,,,,No
+2043,Simple Bank System,https://leetcode.com/problems/simple-bank-system/,Medium,62.5%,,69.8%,No
+2133,Check if Every Row and Column Contains All Numbers,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/,Easy,75.0%,6m+,53.9%,No
+2622,Cache With Time Limit,https://leetcode.com/problems/cache-with-time-limit/,Medium,,,,No
+3043,Find the Length of the Longest Common Prefix,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/,Medium,62.5%,6m+,57.0%,No

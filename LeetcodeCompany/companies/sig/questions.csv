@@ -1,0 +1,35 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,,,,No
+48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,3.5%,"3m,6m,6m+",79.3%,No
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,2.1%,6m+,56.1%,No
+67,Add Binary,https://leetcode.com/problems/add-binary/,Easy,,,,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,6.1%,"6m,6m+",50.4%,No
+98,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/,Medium,,,,No
+211,Design Add and Search Words Data Structure,https://leetcode.com/problems/design-add-and-search-words-data-structure/,Medium,,,,No
+258,Add Digits,https://leetcode.com/problems/add-digits/,Easy,,,,No
+295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,,,,No
+332,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,Hard,,,,No
+444,Sequence Reconstruction,https://leetcode.com/problems/sequence-reconstruction/,Medium,,,,Yes
+452,Minimum Number of Arrows to Burst Balloons,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/,Medium,,,,No
+588,Design In-Memory File System,https://leetcode.com/problems/design-in-memory-file-system/,Hard,,,,Yes
+643,Maximum Average Subarray I,https://leetcode.com/problems/maximum-average-subarray-i/,Easy,,,,No
+954,Array of Doubled Pairs,https://leetcode.com/problems/array-of-doubled-pairs/,Medium,,,,No
+992,Subarrays with K Different Integers,https://leetcode.com/problems/subarrays-with-k-different-integers/,Hard,,,,No
+1399,Count Largest Group,https://leetcode.com/problems/count-largest-group/,Easy,,,,No
+1606,Find Servers That Handled Most Number of Requests,https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/,Hard,,,,No
+1673,Find the Most Competitive Subsequence,https://leetcode.com/problems/find-the-most-competitive-subsequence/,Medium,,,,No
+1743,Restore the Array From Adjacent Pairs,https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/,Medium,100.0%,6m,75.0%,No
+1861,Rotating the Box,https://leetcode.com/problems/rotating-the-box/,Medium,75.0%,6m+,79.2%,No
+2023,Number of Pairs of Strings With Concatenation Equal to Target,https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/,Medium,,,,No
+2251,Number of Flowers in Full Bloom,https://leetcode.com/problems/number-of-flowers-in-full-bloom/,Hard,,,,No
+2446,Determine if Two Events Have Conflict,https://leetcode.com/problems/determine-if-two-events-have-conflict/,Easy,,,,No
+2502,Design Memory Allocator,https://leetcode.com/problems/design-memory-allocator/,Medium,75.0%,,49.7%,No
+2537,Count the Number of Good Subarrays,https://leetcode.com/problems/count-the-number-of-good-subarrays/,Medium,,,,No
+2672,Number of Adjacent Elements With the Same Color,https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/,Medium,,,,No
+2768,Number of Black Blocks,https://leetcode.com/problems/number-of-black-blocks/,Medium,87.5%,6m+,41.5%,No
+2817,Minimum Absolute Difference Between Elements With Constraint,https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/,Medium,100.0%,"3m,6m",37.1%,No
+2951,Find the Peaks,https://leetcode.com/problems/find-the-peaks/,Easy,,,,No
+3043,Find the Length of the Longest Common Prefix,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/,Medium,75.0%,,57.0%,No
+3161,Block Placement Queries,https://leetcode.com/problems/block-placement-queries/,Hard,75.0%,6m+,18.4%,No
+3208,Alternating Groups II,https://leetcode.com/problems/alternating-groups-ii/,Medium,,,,No

@@ -1,0 +1,13 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,87.5%,6m+,38.5%,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+69,Sqrt(x),https://leetcode.com/problems/sqrtx/,Easy,,,,No
+183,Customers Who Never Order,https://leetcode.com/problems/customers-who-never-order/,Easy,,,,No
+189,Rotate Array,https://leetcode.com/problems/rotate-array/,Medium,,,,No
+322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No
+813,Largest Sum of Averages,https://leetcode.com/problems/largest-sum-of-averages/,Medium,,,,No
+856,Score of Parentheses,https://leetcode.com/problems/score-of-parentheses/,Medium,,,,No
+924,Minimize Malware Spread,https://leetcode.com/problems/minimize-malware-spread/,Hard,100.0%,6m,42.9%,No
+1344,Angle Between Hands of a Clock,https://leetcode.com/problems/angle-between-hands-of-a-clock/,Medium,,,,No
+1797,Design Authentication Manager,https://leetcode.com/problems/design-authentication-manager/,Medium,100.0%,6m,58.4%,No
+2327,Number of People Aware of a Secret,https://leetcode.com/problems/number-of-people-aware-of-a-secret/,Medium,100.0%,6m+,60.9%,No

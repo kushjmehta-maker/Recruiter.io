@@ -1,0 +1,26 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+7,Reverse Integer,https://leetcode.com/problems/reverse-integer/,Medium,,,,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
+69,Sqrt(x),https://leetcode.com/problems/sqrtx/,Easy,,,,No
+105,Construct Binary Tree from Preorder and Inorder Traversal,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/,Medium,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+309,Best Time to Buy and Sell Stock with Cooldown,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/,Medium,,,,No
+334,Increasing Triplet Subsequence,https://leetcode.com/problems/increasing-triplet-subsequence/,Medium,,,,No
+346,Moving Average from Data Stream,https://leetcode.com/problems/moving-average-from-data-stream/,Easy,,,,Yes
+480,Sliding Window Median,https://leetcode.com/problems/sliding-window-median/,Hard,,,,No
+679,24 Game,https://leetcode.com/problems/24-game/,Hard,,,,No
+870,Advantage Shuffle,https://leetcode.com/problems/advantage-shuffle/,Medium,,,,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,,,,No
+1200,Minimum Absolute Difference,https://leetcode.com/problems/minimum-absolute-difference/,Easy,,,,No
+1294,Weather Type in Each Country,https://leetcode.com/problems/weather-type-in-each-country/,Easy,100.0%,6m+,67.0%,Yes
+1321,Restaurant Growth,https://leetcode.com/problems/restaurant-growth/,Medium,100.0%,6m+,58.2%,No
+1333,"Filter Restaurants by Vegan-Friendly, Price and Distance",https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/,Medium,,,,No
+1378,Replace Employee ID With The Unique Identifier,https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/,Easy,100.0%,6m+,83.5%,No
+1407,Top Travellers,https://leetcode.com/problems/top-travellers/,Easy,100.0%,6m+,57.1%,No
+1440,Evaluate Boolean Expression,https://leetcode.com/problems/evaluate-boolean-expression/,Medium,100.0%,6m+,71.8%,Yes
+2680,Maximum OR,https://leetcode.com/problems/maximum-or/,Medium,,,,No
+2851,String Transformation,https://leetcode.com/problems/string-transformation/,Hard,,,,No
+2964,Number of Divisible Triplet Sums,https://leetcode.com/problems/number-of-divisible-triplet-sums/,Medium,,,,Yes

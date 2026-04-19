@@ -1,0 +1,76 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,62.5%,,38.5%,No
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,62.5%,,45.9%,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+7,Reverse Integer,https://leetcode.com/problems/reverse-integer/,Medium,,,,No
+17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,,,,No
+31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,62.5%,6m+,44.7%,No
+37,Sudoku Solver,https://leetcode.com/problems/sudoku-solver/,Hard,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,62.5%,6m+,66.8%,No
+45,Jump Game II,https://leetcode.com/problems/jump-game-ii/,Medium,,,,No
+50,"Pow(x, n)",https://leetcode.com/problems/powx-n/,Medium,,,,No
+62,Unique Paths,https://leetcode.com/problems/unique-paths/,Medium,,,,No
+72,Edit Distance,https://leetcode.com/problems/edit-distance/,Medium,2.6%,6m+,60.1%,No
+75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,,,,No
+85,Maximal Rectangle,https://leetcode.com/problems/maximal-rectangle/,Hard,62.5%,6m+,58.1%,No
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No
+89,Gray Code,https://leetcode.com/problems/gray-code/,Medium,,,,No
+115,Distinct Subsequences,https://leetcode.com/problems/distinct-subsequences/,Hard,,,,No
+124,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Hard,,,,No
+127,Word Ladder,https://leetcode.com/problems/word-ladder/,Hard,62.5%,,44.9%,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No
+130,Surrounded Regions,https://leetcode.com/problems/surrounded-regions/,Medium,,,,No
+138,Copy List with Random Pointer,https://leetcode.com/problems/copy-list-with-random-pointer/,Medium,,,,No
+141,Linked List Cycle,https://leetcode.com/problems/linked-list-cycle/,Easy,,,,No
+152,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/,Medium,,,,No
+155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,,,,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,,,,No
+227,Basic Calculator II,https://leetcode.com/problems/basic-calculator-ii/,Medium,,,,No
+274,H-Index,https://leetcode.com/problems/h-index/,Medium,,,,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
+295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,,,,No
+328,Odd Even Linked List,https://leetcode.com/problems/odd-even-linked-list/,Medium,,,,No
+354,Russian Doll Envelopes,https://leetcode.com/problems/russian-doll-envelopes/,Hard,,,,No
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,,,,No
+463,Island Perimeter,https://leetcode.com/problems/island-perimeter/,Easy,,,,No
+485,Max Consecutive Ones,https://leetcode.com/problems/max-consecutive-ones/,Easy,,,,No
+498,Diagonal Traverse,https://leetcode.com/problems/diagonal-traverse/,Medium,,,,No
+503,Next Greater Element II,https://leetcode.com/problems/next-greater-element-ii/,Medium,,,,No
+543,Diameter of Binary Tree,https://leetcode.com/problems/diameter-of-binary-tree/,Easy,,,,No
+567,Permutation in String,https://leetcode.com/problems/permutation-in-string/,Medium,,,,No
+581,Shortest Unsorted Continuous Subarray,https://leetcode.com/problems/shortest-unsorted-continuous-subarray/,Medium,,,,No
+652,Find Duplicate Subtrees,https://leetcode.com/problems/find-duplicate-subtrees/,Medium,,,,No
+694,Number of Distinct Islands,https://leetcode.com/problems/number-of-distinct-islands/,Medium,,,,Yes
+746,Min Cost Climbing Stairs,https://leetcode.com/problems/min-cost-climbing-stairs/,Easy,,,,No
+767,Reorganize String,https://leetcode.com/problems/reorganize-string/,Medium,,,,No
+904,Fruit Into Baskets,https://leetcode.com/problems/fruit-into-baskets/,Medium,,,,No
+947,Most Stones Removed with Same Row or Column,https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/,Medium,,,,No
+1029,Two City Scheduling,https://leetcode.com/problems/two-city-scheduling/,Medium,,,,No
+1035,Uncrossed Lines,https://leetcode.com/problems/uncrossed-lines/,Medium,,,,No
+1292,Maximum Side Length of a Square with Sum Less than or Equal to Threshold,https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/,Medium,,,,No
+1326,Minimum Number of Taps to Open to Water a Garden,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/,Hard,,,,No
+1353,Maximum Number of Events That Can Be Attended,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/,Medium,,,,No
+1518,Water Bottles,https://leetcode.com/problems/water-bottles/,Easy,,,,No
+1567,Maximum Length of Subarray With Positive Product,https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/,Medium,62.5%,6m+,44.6%,No
+1639,Number of Ways to Form a Target String Given a Dictionary,https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/,Hard,,,,No
+1733,Minimum Number of People to Teach,https://leetcode.com/problems/minimum-number-of-people-to-teach/,Medium,,,,No
+1752,Check if Array Is Sorted and Rotated,https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/,Easy,,,,No
+1926,Nearest Exit from Entrance in Maze,https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/,Medium,,,,No
+1976,Number of Ways to Arrive at Destination,https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/,Medium,,,,No
+2024,Maximize the Confusion of an Exam,https://leetcode.com/problems/maximize-the-confusion-of-an-exam/,Medium,62.5%,6m+,69.7%,No
+2035,Partition Array Into Two Arrays to Minimize Sum Difference,https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/,Hard,100.0%,6m+,23.0%,No
+2130,Maximum Twin Sum of a Linked List,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/,Medium,,,,No
+2134,Minimum Swaps to Group All 1's Together II,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/,Medium,,6m+,65.6%,No
+2211,Count Collisions on a Road,https://leetcode.com/problems/count-collisions-on-a-road/,Medium,62.5%,6m+,58.1%,No
+2327,Number of People Aware of a Secret,https://leetcode.com/problems/number-of-people-aware-of-a-secret/,Medium,62.5%,6m+,60.9%,No
+2509,Cycle Length Queries in a Tree,https://leetcode.com/problems/cycle-length-queries-in-a-tree/,Hard,62.5%,6m+,60.1%,No
+2560,House Robber IV,https://leetcode.com/problems/house-robber-iv/,Medium,87.5%,6m+,64.8%,No
+2696,Minimum String Length After Removing Substrings,https://leetcode.com/problems/minimum-string-length-after-removing-substrings/,Easy,,,,No
+3026,Maximum Good Subarray Sum,https://leetcode.com/problems/maximum-good-subarray-sum/,Medium,,,,No
+3112,Minimum Time to Visit Disappearing Nodes,https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/,Medium,,,,No
+3163,String Compression III,https://leetcode.com/problems/string-compression-iii/,Medium,,,,No
+3250,Find the Count of Monotonic Pairs I,https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/,Hard,75.0%,6m+,47.5%,No
+3251,Find the Count of Monotonic Pairs II,https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii/,Hard,,,,No
+3410,Maximize Subarray Sum After Removing All Occurrences of One Element,https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/,Hard,,,,No

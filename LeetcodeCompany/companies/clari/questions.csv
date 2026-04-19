@@ -1,0 +1,13 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+96,Unique Binary Search Trees,https://leetcode.com/problems/unique-binary-search-trees/,Medium,6.2%,6m+,63.3%,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,,,,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
+516,Longest Palindromic Subsequence,https://leetcode.com/problems/longest-palindromic-subsequence/,Medium,,,,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
+658,Find K Closest Elements,https://leetcode.com/problems/find-k-closest-elements/,Medium,,,,No
+695,Max Area of Island,https://leetcode.com/problems/max-area-of-island/,Medium,,,,No
+696,Count Binary Substrings,https://leetcode.com/problems/count-binary-substrings/,Easy,,,,No
+1277,Count Square Submatrices with All Ones,https://leetcode.com/problems/count-square-submatrices-with-all-ones/,Medium,,,,No
+1875,Group Employees of the Same Salary,https://leetcode.com/problems/group-employees-of-the-same-salary/,Medium,75.0%,6m+,65.4%,Yes
+2158,Amount of New Area Painted Each Day,https://leetcode.com/problems/amount-of-new-area-painted-each-day/,Hard,,,,Yes
+2196,Create Binary Tree From Descriptions,https://leetcode.com/problems/create-binary-tree-from-descriptions/,Medium,75.0%,6m+,81.7%,No

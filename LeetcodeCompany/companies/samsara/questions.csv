@@ -1,0 +1,13 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,0.4%,"6m,6m+",64.1%,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,0.2%,6m+,50.4%,No
+136,Single Number,https://leetcode.com/problems/single-number/,Easy,,,,No
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,,,,No
+735,Asteroid Collision,https://leetcode.com/problems/asteroid-collision/,Medium,,,,No
+797,All Paths From Source to Target,https://leetcode.com/problems/all-paths-from-source-to-target/,Medium,,,,No
+1004,Max Consecutive Ones III,https://leetcode.com/problems/max-consecutive-ones-iii/,Medium,,,,No
+2251,Number of Flowers in Full Bloom,https://leetcode.com/problems/number-of-flowers-in-full-bloom/,Hard,,,,No
+2633,Convert Object to JSON String,https://leetcode.com/problems/convert-object-to-json-string/,Medium,,,,Yes
+3006,Find Beautiful Indices in the Given Array I,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/,Medium,100.0%,6m+,40.5%,No
+3206,Alternating Groups I,https://leetcode.com/problems/alternating-groups-i/,Easy,75.0%,6m+,68.8%,No
+3208,Alternating Groups II,https://leetcode.com/problems/alternating-groups-ii/,Medium,75.0%,6m+,59.9%,No

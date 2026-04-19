@@ -1,0 +1,14 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
+50,"Pow(x, n)",https://leetcode.com/problems/powx-n/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+73,Set Matrix Zeroes,https://leetcode.com/problems/set-matrix-zeroes/,Medium,,,,No
+214,Shortest Palindrome,https://leetcode.com/problems/shortest-palindrome/,Hard,,,,No
+224,Basic Calculator,https://leetcode.com/problems/basic-calculator/,Hard,,,,No
+322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No
+509,Fibonacci Number,https://leetcode.com/problems/fibonacci-number/,Easy,,,,No
+1071,Greatest Common Divisor of Strings,https://leetcode.com/problems/greatest-common-divisor-of-strings/,Easy,,,,No
+1382,Balance a Binary Search Tree,https://leetcode.com/problems/balance-a-binary-search-tree/,Medium,,,,No
+1537,Get the Maximum Score,https://leetcode.com/problems/get-the-maximum-score/,Hard,,,,No
+1629,Slowest Key,https://leetcode.com/problems/slowest-key/,Easy,,,,No
+3468,Find the Number of Copy Arrays,https://leetcode.com/problems/find-the-number-of-copy-arrays/,Medium,100.0%,6m+,46.8%,No

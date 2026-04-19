@@ -1,0 +1,19 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
+124,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Hard,,,,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
+312,Burst Balloons,https://leetcode.com/problems/burst-balloons/,Hard,100.0%,6m+,62.9%,No
+983,Minimum Cost For Tickets,https://leetcode.com/problems/minimum-cost-for-tickets/,Medium,,,,No
+1524,Number of Sub-arrays With Odd Sum,https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/,Medium,100.0%,6m+,55.8%,No
+1535,Find the Winner of an Array Game,https://leetcode.com/problems/find-the-winner-of-an-array-game/,Medium,100.0%,6m+,56.8%,No
+1542,Find Longest Awesome Substring,https://leetcode.com/problems/find-longest-awesome-substring/,Hard,100.0%,6m+,46.5%,No
+1584,Min Cost to Connect All Points,https://leetcode.com/problems/min-cost-to-connect-all-points/,Medium,100.0%,6m+,70.3%,No
+1581,Customer Who Visited but Did Not Make Any Transactions,https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/,Easy,,,,No
+1727,Largest Submatrix With Rearrangements,https://leetcode.com/problems/largest-submatrix-with-rearrangements/,Medium,100.0%,6m+,75.2%,No
+1929,Concatenation of Array,https://leetcode.com/problems/concatenation-of-array/,Easy,,,,No
+2473,Minimum Cost to Buy Apples,https://leetcode.com/problems/minimum-cost-to-buy-apples/,Medium,100.0%,6m+,67.2%,Yes
+2479,Maximum XOR of Two Non-Overlapping Subtrees,https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees/,Hard,100.0%,6m+,52.0%,Yes
+2538,Difference Between Maximum and Minimum Price Sum,https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/,Hard,100.0%,6m+,33.3%,No
+2685,Count the Number of Complete Components,https://leetcode.com/problems/count-the-number-of-complete-components/,Medium,,,,No
+3147,Taking Maximum Energy From the Mystic Dungeon,https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/,Medium,,,,No
+3567,Minimum Absolute Difference in Sliding Submatrix,https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/,Medium,,,,No

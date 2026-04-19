@@ -1,0 +1,17 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+61,Rotate List,https://leetcode.com/problems/rotate-list/,Medium,,,,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
+329,Longest Increasing Path in a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,Hard,3.5%,6m,56.3%,No
+345,Reverse Vowels of a String,https://leetcode.com/problems/reverse-vowels-of-a-string/,Easy,,,,No
+855,Exam Room,https://leetcode.com/problems/exam-room/,Medium,,,,No
+946,Validate Stack Sequences,https://leetcode.com/problems/validate-stack-sequences/,Medium,,,,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,,,,No
+1066,Campus Bikes II,https://leetcode.com/problems/campus-bikes-ii/,Medium,,,,Yes
+1152,Analyze User Website Visit Pattern,https://leetcode.com/problems/analyze-user-website-visit-pattern/,Medium,,,,Yes
+2227,Encrypt and Decrypt Strings,https://leetcode.com/problems/encrypt-and-decrypt-strings/,Hard,87.5%,"6m,6m+",38.0%,No
+1733,Minimum Number of People to Teach,https://leetcode.com/problems/minimum-number-of-people-to-teach/,Medium,62.5%,6m+,67.7%,No
+2090,K Radius Subarray Averages,https://leetcode.com/problems/k-radius-subarray-averages/,Medium,62.5%,6m+,46.0%,No
+2327,Number of People Aware of a Secret,https://leetcode.com/problems/number-of-people-aware-of-a-secret/,Medium,,,,No
+2365,Task Scheduler II,https://leetcode.com/problems/task-scheduler-ii/,Medium,87.5%,"6m,6m+",54.7%,No
+3071,Minimum Operations to Write the Letter Y on a Grid,https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid/,Medium,,,,No
+3552,Grid Teleportation Traversal,https://leetcode.com/problems/grid-teleportation-traversal/,Medium,,,,No

@@ -1,0 +1,38 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,87.5%,6m+,57.1%,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,100.0%,6m+,37.3%,No
+10,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,Hard,,,,No
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,87.5%,6m+,38.0%,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
+43,Multiply Strings,https://leetcode.com/problems/multiply-strings/,Medium,100.0%,"3m,6m",43.5%,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,87.5%,6m+,72.2%,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,75.0%,,40.5%,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,87.5%,6m+,51.1%,No
+64,Minimum Path Sum,https://leetcode.com/problems/minimum-path-sum/,Medium,,,,No
+72,Edit Distance,https://leetcode.com/problems/edit-distance/,Medium,87.5%,6m+,60.1%,No
+73,Set Matrix Zeroes,https://leetcode.com/problems/set-matrix-zeroes/,Medium,,,,No
+122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,,,,No
+123,Best Time to Buy and Sell Stock III,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/,Hard,,,,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No
+135,Candy,https://leetcode.com/problems/candy/,Hard,,,,No
+142,Linked List Cycle II,https://leetcode.com/problems/linked-list-cycle-ii/,Medium,,,,No
+188,Best Time to Buy and Sell Stock IV,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/,Hard,87.5%,6m+,49.5%,No
+204,Count Primes,https://leetcode.com/problems/count-primes/,Medium,,,,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,,,,No
+402,Remove K Digits,https://leetcode.com/problems/remove-k-digits/,Medium,,,,No
+415,Add Strings,https://leetcode.com/problems/add-strings/,Easy,,,,No
+557,Reverse Words in a String III,https://leetcode.com/problems/reverse-words-in-a-string-iii/,Easy,,,,No
+621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,,,,No
+739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,,,,No
+740,Delete and Earn,https://leetcode.com/problems/delete-and-earn/,Medium,,,,No
+960,Delete Columns to Make Sorted III,https://leetcode.com/problems/delete-columns-to-make-sorted-iii/,Hard,,,,No
+1047,Remove All Adjacent Duplicates In String,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/,Easy,,,,No
+1254,Number of Closed Islands,https://leetcode.com/problems/number-of-closed-islands/,Medium,,,,No
+1457,Pseudo-Palindromic Paths in a Binary Tree,https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/,Medium,,,,No
+1664,Ways to Make a Fair Array,https://leetcode.com/problems/ways-to-make-a-fair-array/,Medium,,,,No
+1854,Maximum Population Year,https://leetcode.com/problems/maximum-population-year/,Easy,,,,No
+2210,Count Hills and Valleys in an Array,https://leetcode.com/problems/count-hills-and-valleys-in-an-array/,Easy,,,,No
+2671,Frequency Tracker,https://leetcode.com/problems/frequency-tracker/,Medium,,,,No

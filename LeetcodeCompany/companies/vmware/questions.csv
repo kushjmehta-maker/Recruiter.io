@@ -1,0 +1,40 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,,,,No
+101,Symmetric Tree,https://leetcode.com/problems/symmetric-tree/,Easy,,,,No
+102,Binary Tree Level Order Traversal,https://leetcode.com/problems/binary-tree-level-order-traversal/,Medium,,,,No
+138,Copy List with Random Pointer,https://leetcode.com/problems/copy-list-with-random-pointer/,Medium,,,,No
+142,Linked List Cycle II,https://leetcode.com/problems/linked-list-cycle-ii/,Medium,4.9%,6m+,57.2%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,100.0%,6m+,46.8%,No
+160,Intersection of Two Linked Lists,https://leetcode.com/problems/intersection-of-two-linked-lists/,Easy,,,,No
+189,Rotate Array,https://leetcode.com/problems/rotate-array/,Medium,,,,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,,,,No
+209,Minimum Size Subarray Sum,https://leetcode.com/problems/minimum-size-subarray-sum/,Medium,,,,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,,,,No
+231,Power of Two,https://leetcode.com/problems/power-of-two/,Easy,,,,No
+237,Delete Node in a Linked List,https://leetcode.com/problems/delete-node-in-a-linked-list/,Medium,,,,No
+269,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,Hard,,,,Yes
+277,Find the Celebrity,https://leetcode.com/problems/find-the-celebrity/,Medium,,,,Yes
+297,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,Hard,,,,No
+621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,,,,No
+662,Maximum Width of Binary Tree,https://leetcode.com/problems/maximum-width-of-binary-tree/,Medium,,,,No
+739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,,,,No
+875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,100.0%,6m+,49.7%,No
+981,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/,Medium,,,,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,100.0%,6m+,58.1%,No
+1004,Max Consecutive Ones III,https://leetcode.com/problems/max-consecutive-ones-iii/,Medium,,,,No
+1328,Break a Palindrome,https://leetcode.com/problems/break-a-palindrome/,Medium,100.0%,6m+,51.6%,No
+1235,Maximum Profit in Job Scheduling,https://leetcode.com/problems/maximum-profit-in-job-scheduling/,Hard,,,,No
+2217,Find Palindrome With Fixed Length,https://leetcode.com/problems/find-palindrome-with-fixed-length/,Medium,100.0%,6m+,37.9%,No
+2263,Make Array Non-decreasing or Non-increasing,https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing/,Hard,100.0%,6m+,65.6%,Yes
+1310,XOR Queries of a Subarray,https://leetcode.com/problems/xor-queries-of-a-subarray/,Medium,,,,No
+2130,Maximum Twin Sum of a Linked List,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/,Medium,,,,No
+2131,Longest Palindrome by Concatenating Two Letter Words,https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/,Medium,,,,No
+2423,Remove Letter To Equalize Frequency,https://leetcode.com/problems/remove-letter-to-equalize-frequency/,Easy,,,,No

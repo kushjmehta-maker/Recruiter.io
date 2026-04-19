@@ -1,0 +1,28 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+6,Zigzag Conversion,https://leetcode.com/problems/zigzag-conversion/,Medium,,,,No
+8,String to Integer (atoi),https://leetcode.com/problems/string-to-integer-atoi/,Medium,,,,No
+19,Remove Nth Node From End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Medium,,,,No
+22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,,,,No
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,,,,No
+32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,4.0%,6m,38.0%,No
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,,,,No
+38,Count and Say,https://leetcode.com/problems/count-and-say/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+73,Set Matrix Zeroes,https://leetcode.com/problems/set-matrix-zeroes/,Medium,2.2%,,,No
+80,Remove Duplicates from Sorted Array II,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/,Medium,2.4%,6m+,64.3%,No
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,,,,No
+151,Reverse Words in a String,https://leetcode.com/problems/reverse-words-in-a-string/,Medium,,,,No
+179,Largest Number,https://leetcode.com/problems/largest-number/,Medium,4.7%,6m+,42.6%,No
+226,Invert Binary Tree,https://leetcode.com/problems/invert-binary-tree/,Easy,,,,No
+337,House Robber III,https://leetcode.com/problems/house-robber-iii/,Medium,,,,No
+494,Target Sum,https://leetcode.com/problems/target-sum/,Medium,,,,No
+498,Diagonal Traverse,https://leetcode.com/problems/diagonal-traverse/,Medium,,,,No
+581,Shortest Unsorted Continuous Subarray,https://leetcode.com/problems/shortest-unsorted-continuous-subarray/,Medium,,,,No
+695,Max Area of Island,https://leetcode.com/problems/max-area-of-island/,Medium,,,,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,,,,No
+1431,Kids With the Greatest Number of Candies,https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/,Easy,,,,No
+1438,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/,Medium,,,,No
+2101,Detonate the Maximum Bombs,https://leetcode.com/problems/detonate-the-maximum-bombs/,Medium,,,,No
+2375,Construct Smallest Number From DI String,https://leetcode.com/problems/construct-smallest-number-from-di-string/,Medium,,,,No
+2439,Minimize Maximum of Array,https://leetcode.com/problems/minimize-maximum-of-array/,Medium,,,,No
+2938,Separate Black and White Balls,https://leetcode.com/problems/separate-black-and-white-balls/,Medium,,,,No

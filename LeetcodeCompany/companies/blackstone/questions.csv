@@ -1,0 +1,18 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+47,Permutations II,https://leetcode.com/problems/permutations-ii/,Medium,,,,No
+69,Sqrt(x),https://leetcode.com/problems/sqrtx/,Easy,,,,No
+98,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/,Medium,,,,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,,,,No
+131,Palindrome Partitioning,https://leetcode.com/problems/palindrome-partitioning/,Medium,,,,No
+141,Linked List Cycle,https://leetcode.com/problems/linked-list-cycle/,Easy,,,,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,,,,No
+387,First Unique Character in a String,https://leetcode.com/problems/first-unique-character-in-a-string/,Easy,,,,No
+465,Optimal Account Balancing,https://leetcode.com/problems/optimal-account-balancing/,Hard,,,,Yes
+546,Remove Boxes,https://leetcode.com/problems/remove-boxes/,Hard,,,,No
+547,Number of Provinces,https://leetcode.com/problems/number-of-provinces/,Medium,,,,No
+780,Reaching Points,https://leetcode.com/problems/reaching-points/,Hard,100.0%,6m,34.2%,No
+1200,Minimum Absolute Difference,https://leetcode.com/problems/minimum-absolute-difference/,Easy,,,,No
+1544,Make The String Great,https://leetcode.com/problems/make-the-string-great/,Easy,100.0%,6m+,68.4%,No
+1964,Find the Longest Valid Obstacle Course at Each Position,https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/,Hard,,,,No

@@ -1,0 +1,45 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,3.4%,,38.5%,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,100.0%,6m+,38.6%,No
+19,Remove Nth Node From End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Medium,,,,No
+30,Substring with Concatenation of All Words,https://leetcode.com/problems/substring-with-concatenation-of-all-words/,Hard,,,,No
+39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,,,,No
+40,Combination Sum II,https://leetcode.com/problems/combination-sum-ii/,Medium,3.2%,6m,59.0%,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,2.9%,6m+,79.3%,No
+50,"Pow(x, n)",https://leetcode.com/problems/powx-n/,Medium,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+64,Minimum Path Sum,https://leetcode.com/problems/minimum-path-sum/,Medium,,,,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,2.8%,6m,53.9%,No
+75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,,,,No
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No
+98,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/,Medium,,,,No
+118,Pascal's Triangle,https://leetcode.com/problems/pascals-triangle/,Easy,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,,,,No
+123,Best Time to Buy and Sell Stock III,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/,Hard,,,,No
+143,Reorder List,https://leetcode.com/problems/reorder-list/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,100.0%,6m+,46.8%,No
+164,Maximum Gap,https://leetcode.com/problems/maximum-gap/,Medium,,,,No
+179,Largest Number,https://leetcode.com/problems/largest-number/,Medium,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+273,Integer to English Words,https://leetcode.com/problems/integer-to-english-words/,Hard,,,,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
+353,Design Snake Game,https://leetcode.com/problems/design-snake-game/,Medium,,,,Yes
+410,Split Array Largest Sum,https://leetcode.com/problems/split-array-largest-sum/,Hard,,,,No
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,2.9%,6m+,59.5%,No
+567,Permutation in String,https://leetcode.com/problems/permutation-in-string/,Medium,,,,No
+796,Rotate String,https://leetcode.com/problems/rotate-string/,Easy,,,,No
+641,Design Circular Deque,https://leetcode.com/problems/design-circular-deque/,Medium,,,,No
+875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,,,,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,100.0%,6m+,58.1%,No
+1047,Remove All Adjacent Duplicates In String,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/,Easy,,,,No
+1405,Longest Happy String,https://leetcode.com/problems/longest-happy-string/,Medium,100.0%,6m+,65.5%,No
+1895,Largest Magic Square,https://leetcode.com/problems/largest-magic-square/,Medium,,,,No
+1268,Search Suggestions System,https://leetcode.com/problems/search-suggestions-system/,Medium,,,,No
+1768,Merge Strings Alternately,https://leetcode.com/problems/merge-strings-alternately/,Easy,,,,No
+3350,Adjacent Increasing Subarrays Detection II,https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/,Medium,,,,No

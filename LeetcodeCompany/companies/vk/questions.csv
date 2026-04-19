@@ -1,0 +1,32 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,100.0%,"6m,6m+",57.1%,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,75.0%,6m+,38.5%,No
+9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,87.5%,6m+,43.7%,No
+21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,75.0%,6m+,67.9%,No
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,62.5%,,51.1%,No
+71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,,,,No
+78,Subsets,https://leetcode.com/problems/subsets/,Medium,,,,No
+98,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/,Medium,,,,No
+101,Symmetric Tree,https://leetcode.com/problems/symmetric-tree/,Easy,62.5%,,60.7%,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,62.5%,,56.4%,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,75.0%,6m+,52.8%,No
+136,Single Number,https://leetcode.com/problems/single-number/,Easy,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+165,Compare Version Numbers,https://leetcode.com/problems/compare-version-numbers/,Medium,75.0%,6m+,46.1%,No
+206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No
+226,Invert Binary Tree,https://leetcode.com/problems/invert-binary-tree/,Easy,,,,No
+228,Summary Ranges,https://leetcode.com/problems/summary-ranges/,Easy,75.0%,6m+,53.9%,No
+236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Medium,,,,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,87.5%,6m+,63.5%,No
+412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
+424,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Medium,,,,No
+567,Permutation in String,https://leetcode.com/problems/permutation-in-string/,Medium,,,,No
+733,Flood Fill,https://leetcode.com/problems/flood-fill/,Easy,,,,No
+849,Maximize Distance to Closest Person,https://leetcode.com/problems/maximize-distance-to-closest-person/,Medium,100.0%,"6m,6m+",49.6%,No
+865,Smallest Subtree with all the Deepest Nodes,https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/,Medium,,,,No
+528,Random Pick with Weight,https://leetcode.com/problems/random-pick-with-weight/,Medium,,,,No
+1091,Shortest Path in Binary Matrix,https://leetcode.com/problems/shortest-path-in-binary-matrix/,Medium,,,,No
+1446,Consecutive Characters,https://leetcode.com/problems/consecutive-characters/,Easy,,,,No
+1493,Longest Subarray of 1's After Deleting One Element,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/,Medium,75.0%,6m+,71.0%,No

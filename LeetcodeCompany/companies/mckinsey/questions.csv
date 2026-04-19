@@ -1,0 +1,24 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+63,Unique Paths II,https://leetcode.com/problems/unique-paths-ii/,Medium,,,,No
+81,Search in Rotated Sorted Array II,https://leetcode.com/problems/search-in-rotated-sorted-array-ii/,Medium,,,,No
+96,Unique Binary Search Trees,https://leetcode.com/problems/unique-binary-search-trees/,Medium,,,,No
+177,Nth Highest Salary,https://leetcode.com/problems/nth-highest-salary/,Medium,,,,No
+196,Delete Duplicate Emails,https://leetcode.com/problems/delete-duplicate-emails/,Easy,,,,No
+208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,,,,No
+214,Shortest Palindrome,https://leetcode.com/problems/shortest-palindrome/,Hard,,,,No
+584,Find Customer Referee,https://leetcode.com/problems/find-customer-referee/,Easy,,,,No
+626,Exchange Seats,https://leetcode.com/problems/exchange-seats/,Medium,,,,No
+647,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,Medium,,,,No
+829,Consecutive Numbers Sum,https://leetcode.com/problems/consecutive-numbers-sum/,Hard,,,,No
+918,Maximum Sum Circular Subarray,https://leetcode.com/problems/maximum-sum-circular-subarray/,Medium,,,,No
+934,Shortest Bridge,https://leetcode.com/problems/shortest-bridge/,Medium,100.0%,6m+,59.3%,No
+1046,Last Stone Weight,https://leetcode.com/problems/last-stone-weight/,Easy,,,,No
+1071,Greatest Common Divisor of Strings,https://leetcode.com/problems/greatest-common-divisor-of-strings/,Easy,,,,No
+1200,Minimum Absolute Difference,https://leetcode.com/problems/minimum-absolute-difference/,Easy,,,,No
+1208,Get Equal Substrings Within Budget,https://leetcode.com/problems/get-equal-substrings-within-budget/,Medium,,,,No
+1319,Number of Operations to Make Network Connected,https://leetcode.com/problems/number-of-operations-to-make-network-connected/,Medium,,,,No
+1748,Sum of Unique Elements,https://leetcode.com/problems/sum-of-unique-elements/,Easy,,,,No
+2530,Maximal Score After Applying K Operations,https://leetcode.com/problems/maximal-score-after-applying-k-operations/,Medium,100.0%,6m+,64.0%,No
+2625,Flatten Deeply Nested Array,https://leetcode.com/problems/flatten-deeply-nested-array/,Medium,,,,No

@@ -1,0 +1,8 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,87.5%,6m+,46.9%,No
+150,Evaluate Reverse Polish Notation,https://leetcode.com/problems/evaluate-reverse-polish-notation/,Medium,100.0%,6m+,57.0%,No
+258,Add Digits,https://leetcode.com/problems/add-digits/,Easy,,,,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,87.5%,6m+,46.8%,No
+875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,,,,No
+946,Validate Stack Sequences,https://leetcode.com/problems/validate-stack-sequences/,Medium,,,,No
+1011,Capacity To Ship Packages Within D Days,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/,Medium,87.5%,6m+,73.5%,No

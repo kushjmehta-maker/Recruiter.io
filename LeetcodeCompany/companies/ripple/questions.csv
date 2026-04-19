@@ -1,0 +1,33 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+6,Zigzag Conversion,https://leetcode.com/problems/zigzag-conversion/,Medium,,,,No
+26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,,,,No
+39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,,,,No
+40,Combination Sum II,https://leetcode.com/problems/combination-sum-ii/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,87.5%,6m+,72.2%,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,87.5%,6m+,53.0%,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,3.0%,6m+,51.1%,No
+120,Triangle,https://leetcode.com/problems/triangle/,Medium,,,,No
+135,Candy,https://leetcode.com/problems/candy/,Hard,,,,No
+142,Linked List Cycle II,https://leetcode.com/problems/linked-list-cycle-ii/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,87.5%,6m+,46.8%,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,,,,No
+224,Basic Calculator,https://leetcode.com/problems/basic-calculator/,Hard,3.5%,6m+,46.5%,No
+230,Kth Smallest Element in a BST,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,Medium,,,,No
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,87.5%,6m+,68.6%,No
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,3.7%,6m+,59.5%,No
+480,Sliding Window Median,https://leetcode.com/problems/sliding-window-median/,Hard,,,,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,1.8%,6m+,46.8%,No
+592,Fraction Addition and Subtraction,https://leetcode.com/problems/fraction-addition-and-subtraction/,Medium,,,,No
+713,Subarray Product Less Than K,https://leetcode.com/problems/subarray-product-less-than-k/,Medium,,,,No
+739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,,,,No
+772,Basic Calculator III,https://leetcode.com/problems/basic-calculator-iii/,Hard,,,,Yes
+853,Car Fleet,https://leetcode.com/problems/car-fleet/,Medium,100.0%,6m,54.7%,No
+875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,87.5%,6m+,49.7%,No
+881,Boats to Save People,https://leetcode.com/problems/boats-to-save-people/,Medium,,,,No
+1008,Construct Binary Search Tree from Preorder Traversal,https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/,Medium,,,,No
+1047,Remove All Adjacent Duplicates In String,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/,Easy,87.5%,6m+,72.8%,No
+1068,Product Sales Analysis I,https://leetcode.com/problems/product-sales-analysis-i/,Easy,87.5%,6m+,85.6%,No
+1209,Remove All Adjacent Duplicates in String II,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/,Medium,,,,No
+2034,Stock Price Fluctuation ,https://leetcode.com/problems/stock-price-fluctuation/,Medium,87.5%,6m+,48.9%,No
+2096,Step-By-Step Directions From a Binary Tree Node to Another,https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/,Medium,,,,No

@@ -1,0 +1,8 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+8,String to Integer (atoi),https://leetcode.com/problems/string-to-integer-atoi/,Medium,100.0%,6m+,20.6%,No
+91,Decode Ways,https://leetcode.com/problems/decode-ways/,Medium,,,,No
+217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,,,,No
+387,First Unique Character in a String,https://leetcode.com/problems/first-unique-character-in-a-string/,Easy,,,,No
+649,Dota2 Senate,https://leetcode.com/problems/dota2-senate/,Medium,5.5%,6m+,49.6%,No
+1603,Design Parking System,https://leetcode.com/problems/design-parking-system/,Easy,75.0%,6m+,87.1%,No
+2755,Deep Merge of Two Objects,https://leetcode.com/problems/deep-merge-of-two-objects/,Medium,75.0%,6m+,64.5%,Yes

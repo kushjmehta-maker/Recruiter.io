@@ -1,0 +1,22 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
+60,Permutation Sequence,https://leetcode.com/problems/permutation-sequence/,Hard,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,,,,No
+202,Happy Number,https://leetcode.com/problems/happy-number/,Easy,,,,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,,,,No
+417,Pacific Atlantic Water Flow,https://leetcode.com/problems/pacific-atlantic-water-flow/,Medium,,,,No
+475,Heaters,https://leetcode.com/problems/heaters/,Medium,,,,No
+721,Accounts Merge,https://leetcode.com/problems/accounts-merge/,Medium,,,,No
+778,Swim in Rising Water,https://leetcode.com/problems/swim-in-rising-water/,Hard,,,,No
+916,Word Subsets,https://leetcode.com/problems/word-subsets/,Medium,,,,No
+1000,Minimum Cost to Merge Stones,https://leetcode.com/problems/minimum-cost-to-merge-stones/,Hard,,,,No
+1004,Max Consecutive Ones III,https://leetcode.com/problems/max-consecutive-ones-iii/,Medium,,,,No
+1726,Tuple with Same Product,https://leetcode.com/problems/tuple-with-same-product/,Medium,,,,No
+1359,Count All Valid Pickup and Delivery Options,https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/,Hard,100.0%,6m+,64.9%,No
+1512,Number of Good Pairs,https://leetcode.com/problems/number-of-good-pairs/,Easy,,,,No
+1590,Make Sum Divisible by P,https://leetcode.com/problems/make-sum-divisible-by-p/,Medium,,,,No
+1683,Invalid Tweets,https://leetcode.com/problems/invalid-tweets/,Easy,87.5%,6m+,85.2%,No
+2050,Parallel Courses III,https://leetcode.com/problems/parallel-courses-iii/,Hard,87.5%,6m+,66.8%,No
+2887,Fill Missing Data,https://leetcode.com/problems/fill-missing-data/,Easy,100.0%,6m+,72.4%,No

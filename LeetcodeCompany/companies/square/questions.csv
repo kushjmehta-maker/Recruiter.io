@@ -1,0 +1,27 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+100,Same Tree,https://leetcode.com/problems/same-tree/,Easy,,,,No
+139,Word Break,https://leetcode.com/problems/word-break/,Medium,2.1%,6m+,49.1%,No
+159,Longest Substring with At Most Two Distinct Characters,https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/,Medium,,,,Yes
+208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,,,,No
+212,Word Search II,https://leetcode.com/problems/word-search-ii/,Hard,,,,No
+271,Encode and Decode Strings,https://leetcode.com/problems/encode-and-decode-strings/,Medium,62.5%,,51.2%,Yes
+300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,3.8%,6m,59.0%,No
+353,Design Snake Game,https://leetcode.com/problems/design-snake-game/,Medium,,,,Yes
+464,Can I Win,https://leetcode.com/problems/can-i-win/,Medium,,,,No
+490,The Maze,https://leetcode.com/problems/the-maze/,Medium,9.1%,6m+,60.3%,Yes
+573,Squirrel Simulation,https://leetcode.com/problems/squirrel-simulation/,Medium,7.4%,6m+,57.3%,Yes
+611,Valid Triangle Number,https://leetcode.com/problems/valid-triangle-number/,Medium,,,,No
+699,Falling Squares,https://leetcode.com/problems/falling-squares/,Hard,,6m+,47.3%,No
+797,All Paths From Source to Target,https://leetcode.com/problems/all-paths-from-source-to-target/,Medium,,,,No
+528,Random Pick with Weight,https://leetcode.com/problems/random-pick-with-weight/,Medium,,,,No
+969,Pancake Sorting,https://leetcode.com/problems/pancake-sorting/,Medium,87.5%,6m+,71.7%,No
+999,Available Captures for Rook,https://leetcode.com/problems/available-captures-for-rook/,Easy,87.5%,6m+,71.5%,No
+1094,Car Pooling,https://leetcode.com/problems/car-pooling/,Medium,,,,No
+1747,Leetflex Banned Accounts,https://leetcode.com/problems/leetflex-banned-accounts/,Medium,,,,Yes
+1814,Count Nice Pairs in an Array,https://leetcode.com/problems/count-nice-pairs-in-an-array/,Medium,87.5%,6m+,48.4%,No
+1861,Rotating the Box,https://leetcode.com/problems/rotating-the-box/,Medium,100.0%,6m+,79.2%,No
+2069,Walking Robot Simulation II,https://leetcode.com/problems/walking-robot-simulation-ii/,Medium,87.5%,6m+,25.6%,No
+2296,Design a Text Editor,https://leetcode.com/problems/design-a-text-editor/,Hard,,,,No
+2768,Number of Black Blocks,https://leetcode.com/problems/number-of-black-blocks/,Medium,87.5%,6m+,41.5%,No

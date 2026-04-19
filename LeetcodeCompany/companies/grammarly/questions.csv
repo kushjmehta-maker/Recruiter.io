@@ -1,0 +1,58 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,,,,No
+22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,5.6%,6m+,78.2%,No
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,,,,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,5.7%,"6m,6m+",44.1%,No
+35,Search Insert Position,https://leetcode.com/problems/search-insert-position/,Easy,2.9%,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,1.8%,6m+,66.8%,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,7.6%,"3m,6m,6m+",51.1%,No
+62,Unique Paths,https://leetcode.com/problems/unique-paths/,Medium,50.0%,6m+,66.5%,No
+63,Unique Paths II,https://leetcode.com/problems/unique-paths-ii/,Medium,,,,No
+69,Sqrt(x),https://leetcode.com/problems/sqrtx/,Easy,4.8%,6m+,41.4%,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,5.6%,"6m,6m+",53.9%,No
+75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,,,,No
+79,Word Search,https://leetcode.com/problems/word-search/,Medium,4.1%,6m+,46.8%,No
+105,Construct Binary Tree from Preorder and Inorder Traversal,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/,Medium,,,,No
+133,Clone Graph,https://leetcode.com/problems/clone-graph/,Medium,2.5%,6m+,64.7%,No
+139,Word Break,https://leetcode.com/problems/word-break/,Medium,6.4%,6m+,49.1%,No
+140,Word Break II,https://leetcode.com/problems/word-break-ii/,Hard,6.7%,6m+,55.1%,No
+150,Evaluate Reverse Polish Notation,https://leetcode.com/problems/evaluate-reverse-polish-notation/,Medium,4.1%,"6m,6m+",57.0%,No
+168,Excel Sheet Column Title,https://leetcode.com/problems/excel-sheet-column-title/,Easy,,,,No
+187,Repeated DNA Sequences,https://leetcode.com/problems/repeated-dna-sequences/,Medium,7.9%,"6m,6m+",52.9%,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,3.5%,6m+,63.8%,No
+206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No
+208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,3.8%,6m+,69.2%,No
+213,House Robber II,https://leetcode.com/problems/house-robber-ii/,Medium,,,,No
+226,Invert Binary Tree,https://leetcode.com/problems/invert-binary-tree/,Easy,,,,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
+297,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,Hard,,,,No
+316,Remove Duplicate Letters,https://leetcode.com/problems/remove-duplicate-letters/,Medium,,,,No
+359,Logger Rate Limiter,https://leetcode.com/problems/logger-rate-limiter/,Easy,7.8%,"3m,6m,6m+",76.8%,Yes
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,7.8%,"3m,6m,6m+",55.3%,No
+381,Insert Delete GetRandom O(1) - Duplicates allowed,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/,Hard,,,,No
+404,Sum of Left Leaves,https://leetcode.com/problems/sum-of-left-leaves/,Easy,6.2%,"6m,6m+",62.4%,No
+435,Non-overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/,Medium,2.8%,,,No
+507,Perfect Number,https://leetcode.com/problems/perfect-number/,Easy,6.2%,6m+,47.9%,No
+645,Set Mismatch,https://leetcode.com/problems/set-mismatch/,Easy,,,,No
+691,Stickers to Spell Word,https://leetcode.com/problems/stickers-to-spell-word/,Hard,,,,No
+735,Asteroid Collision,https://leetcode.com/problems/asteroid-collision/,Medium,,,,No
+761,Special Binary String,https://leetcode.com/problems/special-binary-string/,Hard,50.0%,6m+,76.5%,No
+844,Backspace String Compare,https://leetcode.com/problems/backspace-string-compare/,Easy,,,,No
+921,Minimum Add to Make Parentheses Valid,https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/,Medium,,,,No
+966,Vowel Spellchecker,https://leetcode.com/problems/vowel-spellchecker/,Medium,87.5%,"6m,6m+",61.4%,No
+987,Vertical Order Traversal of a Binary Tree,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/,Hard,,,,No
+992,Subarrays with K Different Integers,https://leetcode.com/problems/subarrays-with-k-different-integers/,Hard,,,,No
+1047,Remove All Adjacent Duplicates In String,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/,Easy,87.5%,"6m,6m+",72.8%,No
+1081,Smallest Subsequence of Distinct Characters,https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/,Medium,,,,No
+1209,Remove All Adjacent Duplicates in String II,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/,Medium,75.0%,"6m,6m+",60.9%,No
+1353,Maximum Number of Events That Can Be Attended,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/,Medium,,,,No
+1461,Check If a String Contains All Binary Codes of Size K,https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/,Medium,75.0%,6m,56.9%,No
+1673,Find the Most Competitive Subsequence,https://leetcode.com/problems/find-the-most-competitive-subsequence/,Medium,,,,No
+1876,Substrings of Size Three with Distinct Characters,https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/,Easy,,,,No
+2054,Two Best Non-Overlapping Events,https://leetcode.com/problems/two-best-non-overlapping-events/,Medium,,,,No
+2075,Decode the Slanted Ciphertext,https://leetcode.com/problems/decode-the-slanted-ciphertext/,Medium,50.0%,6m+,50.3%,No
+2067,Number of Equal Count Substrings,https://leetcode.com/problems/number-of-equal-count-substrings/,Medium,,,,Yes
+2506,Count Pairs Of Similar Strings,https://leetcode.com/problems/count-pairs-of-similar-strings/,Easy,,,,No
+3035,Maximum Palindromes After Operations,https://leetcode.com/problems/maximum-palindromes-after-operations/,Medium,50.0%,6m+,45.6%,No
+3090,Maximum Length Substring With Two Occurrences,https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/,Easy,,,,No

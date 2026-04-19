@@ -1,0 +1,45 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,75.0%,6m+,57.1%,No
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+61,Rotate List,https://leetcode.com/problems/rotate-list/,Medium,,,,No
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,,,,No
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,62.5%,6m+,52.8%,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,62.5%,,46.8%,No
+164,Maximum Gap,https://leetcode.com/problems/maximum-gap/,Medium,,,,No
+176,Second Highest Salary,https://leetcode.com/problems/second-highest-salary/,Medium,,,,No
+205,Isomorphic Strings,https://leetcode.com/problems/isomorphic-strings/,Easy,,,,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
+344,Reverse String,https://leetcode.com/problems/reverse-string/,Easy,,,,No
+392,Is Subsequence,https://leetcode.com/problems/is-subsequence/,Easy,,,,No
+628,Maximum Product of Three Numbers,https://leetcode.com/problems/maximum-product-of-three-numbers/,Easy,,,,No
+761,Special Binary String,https://leetcode.com/problems/special-binary-string/,Hard,100.0%,6m+,78.9%,No
+785,Is Graph Bipartite?,https://leetcode.com/problems/is-graph-bipartite/,Medium,,,,No
+790,Domino and Tromino Tiling,https://leetcode.com/problems/domino-and-tromino-tiling/,Medium,,,,No
+876,Middle of the Linked List,https://leetcode.com/problems/middle-of-the-linked-list/,Easy,,,,No
+909,Snakes and Ladders,https://leetcode.com/problems/snakes-and-ladders/,Medium,,,,No
+912,Sort an Array,https://leetcode.com/problems/sort-an-array/,Medium,,,,No
+924,Minimize Malware Spread,https://leetcode.com/problems/minimize-malware-spread/,Hard,,,,No
+940,Distinct Subsequences II,https://leetcode.com/problems/distinct-subsequences-ii/,Hard,,,,No
+1310,XOR Queries of a Subarray,https://leetcode.com/problems/xor-queries-of-a-subarray/,Medium,,,,No
+1344,Angle Between Hands of a Clock,https://leetcode.com/problems/angle-between-hands-of-a-clock/,Medium,,,,No
+1695,Maximum Erasure Value,https://leetcode.com/problems/maximum-erasure-value/,Medium,,,,No
+1863,Sum of All Subset XOR Totals,https://leetcode.com/problems/sum-of-all-subset-xor-totals/,Easy,,,,No
+1980,Find Unique Binary String,https://leetcode.com/problems/find-unique-binary-string/,Medium,,,,No
+1987,Number of Unique Good Subsequences,https://leetcode.com/problems/number-of-unique-good-subsequences/,Hard,,,,No
+2231,Largest Number After Digit Swaps by Parity,https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/,Easy,,,,No
+2530,Maximal Score After Applying K Operations,https://leetcode.com/problems/maximal-score-after-applying-k-operations/,Medium,,,,No
+2592,Maximize Greatness of an Array,https://leetcode.com/problems/maximize-greatness-of-an-array/,Medium,75.0%,6m+,61.2%,No
+2539,Count the Number of Good Subsequences,https://leetcode.com/problems/count-the-number-of-good-subsequences/,Medium,75.0%,6m+,48.3%,Yes
+2965,Find Missing and Repeated Values,https://leetcode.com/problems/find-missing-and-repeated-values/,Easy,,,,No
+2964,Number of Divisible Triplet Sums,https://leetcode.com/problems/number-of-divisible-triplet-sums/,Medium,,,,Yes
+3138,Minimum Length of Anagram Concatenation,https://leetcode.com/problems/minimum-length-of-anagram-concatenation/,Medium,75.0%,6m+,39.8%,No
+3136,Valid Word,https://leetcode.com/problems/valid-word/,Easy,75.0%,6m+,50.9%,No
+3380,Maximum Area Rectangle With Point Constraints I,https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i/,Medium,100.0%,6m+,51.3%,No
+3382,Maximum Area Rectangle With Point Constraints II,https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii/,Hard,100.0%,6m+,23.7%,No
+3528,Unit Conversion I,https://leetcode.com/problems/unit-conversion-i/,Medium,,,,No
+3511,Make a Positive Array,https://leetcode.com/problems/make-a-positive-array/,Medium,62.5%,6m+,35.2%,Yes

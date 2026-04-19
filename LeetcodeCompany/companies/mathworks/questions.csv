@@ -1,0 +1,89 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+19,Remove Nth Node From End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,,,,No
+25,Reverse Nodes in k-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,Hard,6.5%,6m+,65.3%,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
+73,Set Matrix Zeroes,https://leetcode.com/problems/set-matrix-zeroes/,Medium,,,,No
+85,Maximal Rectangle,https://leetcode.com/problems/maximal-rectangle/,Hard,,,,No
+91,Decode Ways,https://leetcode.com/problems/decode-ways/,Medium,,,,No
+92,Reverse Linked List II,https://leetcode.com/problems/reverse-linked-list-ii/,Medium,,,,No
+102,Binary Tree Level Order Traversal,https://leetcode.com/problems/binary-tree-level-order-traversal/,Medium,,,,No
+108,Convert Sorted Array to Binary Search Tree,https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/,Easy,,,,No
+112,Path Sum,https://leetcode.com/problems/path-sum/,Easy,,,,No
+115,Distinct Subsequences,https://leetcode.com/problems/distinct-subsequences/,Hard,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+131,Palindrome Partitioning,https://leetcode.com/problems/palindrome-partitioning/,Medium,,,,No
+143,Reorder List,https://leetcode.com/problems/reorder-list/,Medium,,,,No
+191,Number of 1 Bits,https://leetcode.com/problems/number-of-1-bits/,Easy,,,,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,,,,No
+259,3Sum Smaller,https://leetcode.com/problems/3sum-smaller/,Medium,,,,Yes
+267,Palindrome Permutation II,https://leetcode.com/problems/palindrome-permutation-ii/,Medium,,,,Yes
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
+316,Remove Duplicate Letters,https://leetcode.com/problems/remove-duplicate-letters/,Medium,,,,No
+337,House Robber III,https://leetcode.com/problems/house-robber-iii/,Medium,,,,No
+388,Longest Absolute File Path,https://leetcode.com/problems/longest-absolute-file-path/,Medium,,,,No
+392,Is Subsequence,https://leetcode.com/problems/is-subsequence/,Easy,,,,No
+394,Decode String,https://leetcode.com/problems/decode-string/,Medium,,,,No
+407,Trapping Rain Water II,https://leetcode.com/problems/trapping-rain-water-ii/,Hard,,,,No
+410,Split Array Largest Sum,https://leetcode.com/problems/split-array-largest-sum/,Hard,2.7%,6m+,59.8%,No
+424,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Medium,,,,No
+496,Next Greater Element I,https://leetcode.com/problems/next-greater-element-i/,Easy,,,,No
+500,Keyboard Row,https://leetcode.com/problems/keyboard-row/,Easy,6.5%,6m+,73.5%,No
+523,Continuous Subarray Sum,https://leetcode.com/problems/continuous-subarray-sum/,Medium,,,,No
+566,Reshape the Matrix,https://leetcode.com/problems/reshape-the-matrix/,Easy,3.2%,6m+,64.7%,No
+621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,3.0%,"6m,6m+",62.6%,No
+638,Shopping Offers,https://leetcode.com/problems/shopping-offers/,Medium,100.0%,6m+,52.2%,No
+713,Subarray Product Less Than K,https://leetcode.com/problems/subarray-product-less-than-k/,Medium,,,,No
+735,Asteroid Collision,https://leetcode.com/problems/asteroid-collision/,Medium,,,,No
+862,Shortest Subarray with Sum at Least K,https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/,Hard,,,,No
+864,Shortest Path to Get All Keys,https://leetcode.com/problems/shortest-path-to-get-all-keys/,Hard,,,,No
+968,Binary Tree Cameras,https://leetcode.com/problems/binary-tree-cameras/,Hard,100.0%,6m+,47.6%,No
+1004,Max Consecutive Ones III,https://leetcode.com/problems/max-consecutive-ones-iii/,Medium,,,,No
+1029,Two City Scheduling,https://leetcode.com/problems/two-city-scheduling/,Medium,,,,No
+1033,Moving Stones Until Consecutive,https://leetcode.com/problems/moving-stones-until-consecutive/,Medium,,,,No
+1167,Minimum Cost to Connect Sticks,https://leetcode.com/problems/minimum-cost-to-connect-sticks/,Medium,50.0%,,71.8%,Yes
+1163,Last Substring in Lexicographical Order,https://leetcode.com/problems/last-substring-in-lexicographical-order/,Hard,62.5%,6m+,35.0%,No
+1130,Minimum Cost Tree From Leaf Values,https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/,Medium,62.5%,6m+,67.8%,No
+1315,Sum of Nodes with Even-Valued Grandparent,https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/,Medium,,,,No
+1328,Break a Palindrome,https://leetcode.com/problems/break-a-palindrome/,Medium,62.5%,6m+,51.6%,No
+1220,Count Vowels Permutation,https://leetcode.com/problems/count-vowels-permutation/,Hard,100.0%,"3m,6m",61.4%,No
+1290,Convert Binary Number in a Linked List to Integer,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/,Easy,62.5%,6m+,82.3%,No
+1292,Maximum Side Length of a Square with Sum Less than or Equal to Threshold,https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/,Medium,,,,No
+1318,Minimum Flips to Make a OR b Equal to c,https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/,Medium,,,,No
+1335,Minimum Difficulty of a Job Schedule,https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/,Hard,62.5%,6m+,59.7%,No
+1648,Sell Diminishing-Valued Colored Balls,https://leetcode.com/problems/sell-diminishing-valued-colored-balls/,Medium,100.0%,6m+,30.1%,No
+1679,Max Number of K-Sum Pairs,https://leetcode.com/problems/max-number-of-k-sum-pairs/,Medium,,,,No
+1758,Minimum Changes To Make Alternating Binary String,https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/,Easy,,,,No
+2008,Maximum Earnings From Taxi,https://leetcode.com/problems/maximum-earnings-from-taxi/,Medium,,,,No
+2016,Maximum Difference Between Increasing Elements,https://leetcode.com/problems/maximum-difference-between-increasing-elements/,Easy,62.5%,6m+,66.4%,No
+2038,Remove Colored Pieces if Both Neighbors are the Same Color,https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/,Medium,62.5%,6m+,63.0%,No
+2064,Minimized Maximum of Products Distributed to Any Store,https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/,Medium,,,,No
+2141,Maximum Running Time of N Computers,https://leetcode.com/problems/maximum-running-time-of-n-computers/,Hard,,,,No
+2444,Count Subarrays With Fixed Bounds,https://leetcode.com/problems/count-subarrays-with-fixed-bounds/,Hard,87.5%,6m+,69.3%,No
+2451,Odd String Difference,https://leetcode.com/problems/odd-string-difference/,Easy,,,,No
+2462,Total Cost to Hire K Workers,https://leetcode.com/problems/total-cost-to-hire-k-workers/,Medium,87.5%,"6m,6m+",43.5%,No
+2491,Divide Players Into Teams of Equal Skill,https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/,Medium,,,,No
+2514,Count Anagrams,https://leetcode.com/problems/count-anagrams/,Hard,62.5%,6m+,37.0%,No
+2582,Pass the Pillow,https://leetcode.com/problems/pass-the-pillow/,Easy,87.5%,6m+,56.6%,No
+2559,Count Vowel Strings in Ranges,https://leetcode.com/problems/count-vowel-strings-in-ranges/,Medium,50.0%,,67.8%,No
+2702,Minimum Operations to Make Numbers Non-positive,https://leetcode.com/problems/minimum-operations-to-make-numbers-non-positive/,Hard,,,,Yes
+2697,Lexicographically Smallest Palindrome,https://leetcode.com/problems/lexicographically-smallest-palindrome/,Easy,50.0%,,80.8%,No
+2831,Find the Longest Equal Subarray,https://leetcode.com/problems/find-the-longest-equal-subarray/,Medium,50.0%,,37.6%,No
+2851,String Transformation,https://leetcode.com/problems/string-transformation/,Hard,75.0%,6m+,26.6%,No
+2861,Maximum Number of Alloys,https://leetcode.com/problems/maximum-number-of-alloys/,Medium,75.0%,6m+,40.2%,No
+2858,Minimum Edge Reversals So Every Node Is Reachable,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/,Hard,75.0%,6m+,57.2%,No
+2918,Minimum Equal Sum of Two Arrays After Replacing Zeros,https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/,Medium,100.0%,"3m,6m",50.2%,No
+2955,Number of Same-End Substrings,https://leetcode.com/problems/number-of-same-end-substrings/,Medium,,,,Yes
+2964,Number of Divisible Triplet Sums,https://leetcode.com/problems/number-of-divisible-triplet-sums/,Medium,75.0%,6m+,67.6%,Yes
+3049,Earliest Second to Mark Indices II,https://leetcode.com/problems/earliest-second-to-mark-indices-ii/,Hard,62.5%,6m+,22.0%,No
+3048,Earliest Second to Mark Indices I,https://leetcode.com/problems/earliest-second-to-mark-indices-i/,Medium,62.5%,6m+,36.4%,No
+3035,Maximum Palindromes After Operations,https://leetcode.com/problems/maximum-palindromes-after-operations/,Medium,75.0%,6m+,45.6%,No
+3397,Maximum Number of Distinct Elements After Operations,https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/,Medium,,,,No
+3335,Total Characters in String After Transformations I,https://leetcode.com/problems/total-characters-in-string-after-transformations-i/,Medium,,,,No

@@ -1,0 +1,3 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+79,Word Search,https://leetcode.com/problems/word-search/,Medium,,,,No
+712,Minimum ASCII Delete Sum for Two Strings,https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/,Medium,9.5%,6m+,70.9%,No

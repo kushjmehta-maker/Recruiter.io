@@ -1,0 +1,41 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,100.0%,6m+,38.5%,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,2.2%,6m,37.3%,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,87.5%,,43.7%,No
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,,,,No
+38,Count and Say,https://leetcode.com/problems/count-and-say/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+81,Search in Rotated Sorted Array II,https://leetcode.com/problems/search-in-rotated-sorted-array-ii/,Medium,,,,No
+133,Clone Graph,https://leetcode.com/problems/clone-graph/,Medium,,,,No
+176,Second Highest Salary,https://leetcode.com/problems/second-highest-salary/,Medium,3.0%,6m,46.3%,No
+177,Nth Highest Salary,https://leetcode.com/problems/nth-highest-salary/,Medium,3.7%,6m+,38.8%,No
+185,Department Top Three Salaries,https://leetcode.com/problems/department-top-three-salaries/,Hard,,,,No
+196,Delete Duplicate Emails,https://leetcode.com/problems/delete-duplicate-emails/,Easy,,,,No
+206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No
+213,House Robber II,https://leetcode.com/problems/house-robber-ii/,Medium,,,,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,1.7%,6m+,68.6%,No
+441,Arranging Coins,https://leetcode.com/problems/arranging-coins/,Easy,,,,No
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,,,,No
+570,Managers with at Least 5 Direct Reports,https://leetcode.com/problems/managers-with-at-least-5-direct-reports/,Medium,87.5%,,48.9%,No
+594,Longest Harmonious Subsequence,https://leetcode.com/problems/longest-harmonious-subsequence/,Easy,100.0%,6m+,64.4%,No
+619,Biggest Single Number,https://leetcode.com/problems/biggest-single-number/,Easy,,,,No
+623,Add One Row to Tree,https://leetcode.com/problems/add-one-row-to-tree/,Medium,,,,No
+627,Swap Sex of Employees,https://leetcode.com/problems/swap-sex-of-employees/,Easy,,,,No
+907,Sum of Subarray Minimums,https://leetcode.com/problems/sum-of-subarray-minimums/,Medium,,,,No
+943,Find the Shortest Superstring,https://leetcode.com/problems/find-the-shortest-superstring/,Hard,,,,No
+509,Fibonacci Number,https://leetcode.com/problems/fibonacci-number/,Easy,,,,No
+1007,Minimum Domino Rotations For Equal Row,https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/,Medium,,,,No
+1011,Capacity To Ship Packages Within D Days,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/,Medium,,,,No
+1070,Product Sales Analysis III,https://leetcode.com/problems/product-sales-analysis-iii/,Medium,,,,No
+1139,Largest 1-Bordered Square,https://leetcode.com/problems/largest-1-bordered-square/,Medium,100.0%,6m+,52.0%,No
+1204,Last Person to Fit in the Bus,https://leetcode.com/problems/last-person-to-fit-in-the-bus/,Medium,,,,No
+1598,Crawler Log Folder,https://leetcode.com/problems/crawler-log-folder/,Easy,,,,No
+1581,Customer Who Visited but Did Not Make Any Transactions,https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/,Easy,,,,No
+1731,The Number of Employees Which Report to Each Employee,https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/,Easy,100.0%,6m+,53.0%,No
+2762,Continuous Subarrays,https://leetcode.com/problems/continuous-subarrays/,Medium,,,,No
+2900,Longest Unequal Adjacent Groups Subsequence I,https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/,Easy,100.0%,6m+,66.9%,No
+2929,Distribute Candies Among Children II,https://leetcode.com/problems/distribute-candies-among-children-ii/,Medium,100.0%,6m+,55.7%,No

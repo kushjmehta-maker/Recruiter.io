@@ -1,0 +1,10 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,100.0%,"3m,6m",38.5%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,100.0%,,43.7%,No
+152,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/,Medium,,,,No
+516,Longest Palindromic Subsequence,https://leetcode.com/problems/longest-palindromic-subsequence/,Medium,,,,No
+621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,100.0%,"30d,3m,6m",62.6%,No
+1143,Longest Common Subsequence,https://leetcode.com/problems/longest-common-subsequence/,Medium,100.0%,"30d,3m,6m",58.9%,No
+1169,Invalid Transactions,https://leetcode.com/problems/invalid-transactions/,Medium,,,,No
+1732,Find the Highest Altitude,https://leetcode.com/problems/find-the-highest-altitude/,Easy,,,,No
+1923,Longest Common Subpath,https://leetcode.com/problems/longest-common-subpath/,Hard,,,,No

@@ -1,0 +1,5 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+18,4Sum,https://leetcode.com/problems/4sum/,Medium,,,,No
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,,,,No
+412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
+1744,Can You Eat Your Favorite Candy on Your Favorite Day?,https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/,Medium,100.0%,6m+,35.7%,No

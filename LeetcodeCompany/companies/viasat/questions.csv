@@ -1,0 +1,7 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+67,Add Binary,https://leetcode.com/problems/add-binary/,Easy,,,,No
+110,Balanced Binary Tree,https://leetcode.com/problems/balanced-binary-tree/,Easy,100.0%,6m+,57.8%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,87.5%,6m+,46.8%,No
+196,Delete Duplicate Emails,https://leetcode.com/problems/delete-duplicate-emails/,Easy,,,,No
+209,Minimum Size Subarray Sum,https://leetcode.com/problems/minimum-size-subarray-sum/,Medium,,,,No
+643,Maximum Average Subarray I,https://leetcode.com/problems/maximum-average-subarray-i/,Easy,,,,No

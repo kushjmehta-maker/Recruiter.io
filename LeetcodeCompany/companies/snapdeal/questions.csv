@@ -1,0 +1,13 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+67,Add Binary,https://leetcode.com/problems/add-binary/,Easy,,,,No
+162,Find Peak Element,https://leetcode.com/problems/find-peak-element/,Medium,,,,No
+176,Second Highest Salary,https://leetcode.com/problems/second-highest-salary/,Medium,,,,No
+234,Palindrome Linked List,https://leetcode.com/problems/palindrome-linked-list/,Easy,,,,No
+236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Medium,,,,No
+437,Path Sum III,https://leetcode.com/problems/path-sum-iii/,Medium,,,,No
+543,Diameter of Binary Tree,https://leetcode.com/problems/diameter-of-binary-tree/,Easy,100.0%,6m+,65.0%,No
+692,Top K Frequent Words,https://leetcode.com/problems/top-k-frequent-words/,Medium,,,,No
+1027,Longest Arithmetic Subsequence,https://leetcode.com/problems/longest-arithmetic-subsequence/,Medium,100.0%,6m+,49.9%,No
+1186,Maximum Subarray Sum with One Deletion,https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/,Medium,,,,No
+1527,Patients With a Condition,https://leetcode.com/problems/patients-with-a-condition/,Easy,,,,No

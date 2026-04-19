@@ -1,0 +1,26 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,100.0%,,57.1%,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,1.4%,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+73,Set Matrix Zeroes,https://leetcode.com/problems/set-matrix-zeroes/,Medium,,,,No
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,,,,No
+122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,3.0%,"3m,6m",70.7%,No
+160,Intersection of Two Linked Lists,https://leetcode.com/problems/intersection-of-two-linked-lists/,Easy,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
+355,Design Twitter,https://leetcode.com/problems/design-twitter/,Medium,,,,No
+362,Design Hit Counter,https://leetcode.com/problems/design-hit-counter/,Medium,100.0%,6m+,69.6%,Yes
+423,Reconstruct Original Digits from English,https://leetcode.com/problems/reconstruct-original-digits-from-english/,Medium,,,,No
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,,,,No
+451,Sort Characters By Frequency,https://leetcode.com/problems/sort-characters-by-frequency/,Medium,,,,No
+485,Max Consecutive Ones,https://leetcode.com/problems/max-consecutive-ones/,Easy,2.0%,6m+,64.6%,No
+567,Permutation in String,https://leetcode.com/problems/permutation-in-string/,Medium,,,,No
+791,Custom Sort String,https://leetcode.com/problems/custom-sort-string/,Medium,,,,No
+844,Backspace String Compare,https://leetcode.com/problems/backspace-string-compare/,Easy,,,,No
+1094,Car Pooling,https://leetcode.com/problems/car-pooling/,Medium,100.0%,6m+,56.2%,No
+1600,Throne Inheritance,https://leetcode.com/problems/throne-inheritance/,Medium,,,,No
+1650,Lowest Common Ancestor of a Binary Tree III,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/,Medium,,,,Yes
+2116,Check if a Parentheses String Can Be Valid,https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/,Medium,,,,No
+2514,Count Anagrams,https://leetcode.com/problems/count-anagrams/,Hard,,,,No
+2704,To Be Or Not To Be,https://leetcode.com/problems/to-be-or-not-to-be/,Easy,,,,No

@@ -1,0 +1,46 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
+7,Reverse Integer,https://leetcode.com/problems/reverse-integer/,Medium,,,,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,75.0%,6m+,59.5%,No
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+51,N-Queens,https://leetcode.com/problems/n-queens/,Hard,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,4.1%,6m+,51.1%,No
+62,Unique Paths,https://leetcode.com/problems/unique-paths/,Medium,62.5%,,66.5%,No
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,,,,No
+98,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,75.0%,6m+,56.4%,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No
+135,Candy,https://leetcode.com/problems/candy/,Hard,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,4.8%,"6m,6m+",46.8%,No
+154,Find Minimum in Rotated Sorted Array II,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/,Hard,,,,No
+167,Two Sum II - Input Array Is Sorted,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,Medium,,,,No
+168,Excel Sheet Column Title,https://leetcode.com/problems/excel-sheet-column-title/,Easy,,,,No
+171,Excel Sheet Column Number,https://leetcode.com/problems/excel-sheet-column-number/,Easy,3.4%,6m+,67.2%,No
+189,Rotate Array,https://leetcode.com/problems/rotate-array/,Medium,75.0%,6m+,44.4%,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
+322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No
+355,Design Twitter,https://leetcode.com/problems/design-twitter/,Medium,,,,No
+387,First Unique Character in a String,https://leetcode.com/problems/first-unique-character-in-a-string/,Easy,2.4%,6m+,65.0%,No
+394,Decode String,https://leetcode.com/problems/decode-string/,Medium,4.8%,"6m,6m+",62.2%,No
+454,4Sum II,https://leetcode.com/problems/4sum-ii/,Medium,,,,No
+483,Smallest Good Base,https://leetcode.com/problems/smallest-good-base/,Hard,,,,No
+564,Find the Closest Palindrome,https://leetcode.com/problems/find-the-closest-palindrome/,Hard,,,,No
+659,Split Array into Consecutive Subsequences,https://leetcode.com/problems/split-array-into-consecutive-subsequences/,Medium,,,,No
+665,Non-decreasing Array,https://leetcode.com/problems/non-decreasing-array/,Medium,,,,No
+729,My Calendar I,https://leetcode.com/problems/my-calendar-i/,Medium,,,,No
+767,Reorganize String,https://leetcode.com/problems/reorganize-string/,Medium,,,,No
+881,Boats to Save People,https://leetcode.com/problems/boats-to-save-people/,Medium,,,,No
+1251,Average Selling Price,https://leetcode.com/problems/average-selling-price/,Easy,,,,No
+1526,Minimum Number of Increments on Subarrays to Form a Target Array,https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/,Hard,,,,No
+1574,Shortest Subarray to be Removed to Make Array Sorted,https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/,Medium,100.0%,"6m,6m+",51.3%,No
+1910,Remove All Occurrences of a Substring,https://leetcode.com/problems/remove-all-occurrences-of-a-substring/,Medium,,,,No
+1922,Count Good Numbers,https://leetcode.com/problems/count-good-numbers/,Medium,,,,No
+2054,Two Best Non-Overlapping Events,https://leetcode.com/problems/two-best-non-overlapping-events/,Medium,75.0%,6m+,64.0%,No
+2070,Most Beautiful Item for Each Query,https://leetcode.com/problems/most-beautiful-item-for-each-query/,Medium,75.0%,6m+,62.1%,No
+2376,Count Special Integers,https://leetcode.com/problems/count-special-integers/,Hard,,,,No
+2499,Minimum Total Cost to Make Arrays Unequal,https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal/,Hard,87.5%,6m+,41.2%,No
+3484,Design Spreadsheet,https://leetcode.com/problems/design-spreadsheet/,Medium,,,,No

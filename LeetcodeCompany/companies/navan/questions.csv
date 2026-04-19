@@ -1,0 +1,16 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
+18,4Sum,https://leetcode.com/problems/4sum/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+127,Word Ladder,https://leetcode.com/problems/word-ladder/,Hard,100.0%,6m+,44.9%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,100.0%,6m+,46.8%,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,,,,No
+256,Paint House,https://leetcode.com/problems/paint-house/,Medium,100.0%,"6m,6m+",64.3%,Yes
+265,Paint House II,https://leetcode.com/problems/paint-house-ii/,Hard,,,,Yes
+678,Valid Parenthesis String,https://leetcode.com/problems/valid-parenthesis-string/,Medium,,,,No
+743,Network Delay Time,https://leetcode.com/problems/network-delay-time/,Medium,,,,No
+706,Design HashMap,https://leetcode.com/problems/design-hashmap/,Easy,,,,No
+981,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/,Medium,,,,No
+2034,Stock Price Fluctuation ,https://leetcode.com/problems/stock-price-fluctuation/,Medium,,,,No
+2957,Remove Adjacent Almost-Equal Characters,https://leetcode.com/problems/remove-adjacent-almost-equal-characters/,Medium,,,,No

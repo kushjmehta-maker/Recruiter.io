@@ -1,0 +1,21 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+25,Reverse Nodes in k-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,Hard,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+73,Set Matrix Zeroes,https://leetcode.com/problems/set-matrix-zeroes/,Medium,,,,No
+110,Balanced Binary Tree,https://leetcode.com/problems/balanced-binary-tree/,Easy,,,,No
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,2.3%,6m+,63.5%,No
+402,Remove K Digits,https://leetcode.com/problems/remove-k-digits/,Medium,,,,No
+406,Queue Reconstruction by Height,https://leetcode.com/problems/queue-reconstruction-by-height/,Medium,,,,No
+435,Non-overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/,Medium,,,,No
+496,Next Greater Element I,https://leetcode.com/problems/next-greater-element-i/,Easy,,,,No
+513,Find Bottom Left Tree Value,https://leetcode.com/problems/find-bottom-left-tree-value/,Medium,,,,No
+430,Flatten a Multilevel Doubly Linked List,https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/,Medium,,,,No
+951,Flip Equivalent Binary Trees,https://leetcode.com/problems/flip-equivalent-binary-trees/,Medium,,,,No
+1019,Next Greater Node In Linked List,https://leetcode.com/problems/next-greater-node-in-linked-list/,Medium,,,,No
+1325,Delete Leaves With a Given Value,https://leetcode.com/problems/delete-leaves-with-a-given-value/,Medium,,,,No
+2074,Reverse Nodes in Even Length Groups,https://leetcode.com/problems/reverse-nodes-in-even-length-groups/,Medium,,,,No
+2181,Merge Nodes in Between Zeros,https://leetcode.com/problems/merge-nodes-in-between-zeros/,Medium,,,,No
+2415,Reverse Odd Levels of Binary Tree,https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/,Medium,,,,No

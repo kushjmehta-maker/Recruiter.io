@@ -1,0 +1,8 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,,,,No
+71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,,,,No
+232,Implement Queue using Stacks,https://leetcode.com/problems/implement-queue-using-stacks/,Easy,,,,No
+1210,Minimum Moves to Reach Target with Rotations,https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/,Hard,100.0%,6m+,51.8%,No
+2212,Maximum Points in an Archery Competition,https://leetcode.com/problems/maximum-points-in-an-archery-competition/,Medium,100.0%,6m+,51.4%,No
+2378,Choose Edges to Maximize Score in a Tree,https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree/,Medium,,,,Yes

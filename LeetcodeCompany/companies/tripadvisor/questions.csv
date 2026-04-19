@@ -1,0 +1,18 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,,,,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,5.5%,"3m,6m,6m+",43.7%,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,7.0%,6m+,46.8%,No
+155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,,,,No
+203,Remove Linked List Elements,https://leetcode.com/problems/remove-linked-list-elements/,Easy,,,,No
+217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,,,,No
+240,Search a 2D Matrix II,https://leetcode.com/problems/search-a-2d-matrix-ii/,Medium,3.0%,,56.8%,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
+322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No
+383,Ransom Note,https://leetcode.com/problems/ransom-note/,Easy,3.4%,6m+,65.6%,No
+716,Max Stack,https://leetcode.com/problems/max-stack/,Hard,,,,Yes
+1002,Find Common Characters,https://leetcode.com/problems/find-common-characters/,Easy,75.0%,6m+,74.6%,No
+1341,Movie Rating,https://leetcode.com/problems/movie-rating/,Medium,,,,No
+1731,The Number of Employees Which Report to Each Employee,https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/,Easy,,,,No

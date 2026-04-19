@@ -1,0 +1,9 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No
+595,Big Countries,https://leetcode.com/problems/big-countries/,Easy,,,,No
+977,Squares of a Sorted Array,https://leetcode.com/problems/squares-of-a-sorted-array/,Easy,,,,No
+1019,Next Greater Node In Linked List,https://leetcode.com/problems/next-greater-node-in-linked-list/,Medium,,,,No
+1182,Shortest Distance to Target Color,https://leetcode.com/problems/shortest-distance-to-target-color/,Medium,,,,Yes
+1777,Product's Price for Each Store,https://leetcode.com/problems/products-price-for-each-store/,Easy,100.0%,6m+,82.1%,Yes
+2960,Count Tested Devices After Test Operations,https://leetcode.com/problems/count-tested-devices-after-test-operations/,Easy,,,,No

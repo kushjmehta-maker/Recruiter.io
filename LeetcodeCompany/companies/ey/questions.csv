@@ -1,0 +1,26 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,100.0%,"6m,6m+",57.1%,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+10,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,Hard,,,,No
+26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,,,,No
+80,Remove Duplicates from Sorted Array II,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/,Medium,,,,No
+177,Nth Highest Salary,https://leetcode.com/problems/nth-highest-salary/,Medium,,,,No
+180,Consecutive Numbers,https://leetcode.com/problems/consecutive-numbers/,Medium,,,,No
+185,Department Top Three Salaries,https://leetcode.com/problems/department-top-three-salaries/,Hard,,,,No
+206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No
+209,Minimum Size Subarray Sum,https://leetcode.com/problems/minimum-size-subarray-sum/,Medium,,,,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
+262,Trips and Users,https://leetcode.com/problems/trips-and-users/,Hard,,,,No
+463,Island Perimeter,https://leetcode.com/problems/island-perimeter/,Easy,,,,No
+539,Minimum Time Difference,https://leetcode.com/problems/minimum-time-difference/,Medium,,,,No
+570,Managers with at Least 5 Direct Reports,https://leetcode.com/problems/managers-with-at-least-5-direct-reports/,Medium,,,,No
+608,Tree Node,https://leetcode.com/problems/tree-node/,Medium,,,,No
+509,Fibonacci Number,https://leetcode.com/problems/fibonacci-number/,Easy,,,,No
+1148,Article Views I,https://leetcode.com/problems/article-views-i/,Easy,,,,No
+1405,Longest Happy String,https://leetcode.com/problems/longest-happy-string/,Medium,,,,No
+1394,Find Lucky Integer in an Array,https://leetcode.com/problems/find-lucky-integer-in-an-array/,Easy,,,,No
+1484,Group Sold Products By The Date,https://leetcode.com/problems/group-sold-products-by-the-date/,Easy,,,,No
+1661,Average Time of Process per Machine,https://leetcode.com/problems/average-time-of-process-per-machine/,Easy,,,,No
+1993,Operations on Tree,https://leetcode.com/problems/operations-on-tree/,Medium,,,,No
+2623,Memoize,https://leetcode.com/problems/memoize/,Medium,,,,No
+2888,Reshape Data: Concatenate,https://leetcode.com/problems/reshape-data-concatenate/,Easy,,,,No

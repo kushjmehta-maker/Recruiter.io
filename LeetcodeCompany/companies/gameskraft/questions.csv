@@ -1,0 +1,39 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+6,Zigzag Conversion,https://leetcode.com/problems/zigzag-conversion/,Medium,,,,No
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,,,,No
+41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/,Hard,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,,,,No
+62,Unique Paths,https://leetcode.com/problems/unique-paths/,Medium,,,,No
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,,,,No
+79,Word Search,https://leetcode.com/problems/word-search/,Medium,,,,No
+86,Partition List,https://leetcode.com/problems/partition-list/,Medium,,,,No
+96,Unique Binary Search Trees,https://leetcode.com/problems/unique-binary-search-trees/,Medium,,,,No
+114,Flatten Binary Tree to Linked List,https://leetcode.com/problems/flatten-binary-tree-to-linked-list/,Medium,,,,No
+189,Rotate Array,https://leetcode.com/problems/rotate-array/,Medium,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,2.2%,6m+,48.4%,No
+322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No
+334,Increasing Triplet Subsequence,https://leetcode.com/problems/increasing-triplet-subsequence/,Medium,,,,No
+399,Evaluate Division,https://leetcode.com/problems/evaluate-division/,Medium,,,,No
+460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,62.5%,6m+,48.6%,No
+476,Number Complement,https://leetcode.com/problems/number-complement/,Easy,,,,No
+502,IPO,https://leetcode.com/problems/ipo/,Hard,4.5%,6m+,53.3%,No
+546,Remove Boxes,https://leetcode.com/problems/remove-boxes/,Hard,,,,No
+630,Course Schedule III,https://leetcode.com/problems/course-schedule-iii/,Hard,,,,No
+662,Maximum Width of Binary Tree,https://leetcode.com/problems/maximum-width-of-binary-tree/,Medium,,,,No
+686,Repeated String Match,https://leetcode.com/problems/repeated-string-match/,Medium,,,,No
+828,Count Unique Characters of All Substrings of a Given String,https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/,Hard,,,,No
+550,Game Play Analysis IV,https://leetcode.com/problems/game-play-analysis-iv/,Medium,,,,No
+1466,Reorder Routes to Make All Paths Lead to the City Zero,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/,Medium,,,,No
+1574,Shortest Subarray to be Removed to Make Array Sorted,https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/,Medium,,,,No
+1921,Eliminate Maximum Number of Monsters,https://leetcode.com/problems/eliminate-maximum-number-of-monsters/,Medium,,,,No
+2050,Parallel Courses III,https://leetcode.com/problems/parallel-courses-iii/,Hard,,,,No
+2422,Merge Operations to Turn Array Into a Palindrome,https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome/,Medium,,,,Yes
+2699,Modify Graph Edge Weights,https://leetcode.com/problems/modify-graph-edge-weights/,Hard,,,,No
+2858,Minimum Edge Reversals So Every Node Is Reachable,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/,Hard,,,,No
+2867,Count Valid Paths in a Tree,https://leetcode.com/problems/count-valid-paths-in-a-tree/,Hard,62.5%,6m+,35.9%,No
+2910,Minimum Number of Groups to Create a Valid Assignment,https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment/,Medium,,,,No
+3356,Zero Array Transformation II,https://leetcode.com/problems/zero-array-transformation-ii/,Medium,,,,No
+3367,Maximize Sum of Weights after Edge Removals,https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/,Hard,100.0%,6m+,30.4%,No
+3378,Count Connected Components in LCM Graph,https://leetcode.com/problems/count-connected-components-in-lcm-graph/,Hard,,,,No
+3710,Maximum Partition Factor,https://leetcode.com/problems/maximum-partition-factor/,Hard,87.5%,,31.0%,No

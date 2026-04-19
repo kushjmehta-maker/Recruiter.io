@@ -1,0 +1,17 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+44,Wildcard Matching,https://leetcode.com/problems/wildcard-matching/,Hard,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+58,Length of Last Word,https://leetcode.com/problems/length-of-last-word/,Easy,,,,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,10.1%,6m+,50.4%,No
+453,Minimum Moves to Equal Array Elements,https://leetcode.com/problems/minimum-moves-to-equal-array-elements/,Medium,9.6%,6m+,58.5%,No
+454,4Sum II,https://leetcode.com/problems/4sum-ii/,Medium,,,,No
+761,Special Binary String,https://leetcode.com/problems/special-binary-string/,Hard,62.5%,6m+,77.2%,No
+780,Reaching Points,https://leetcode.com/problems/reaching-points/,Hard,62.5%,6m+,34.2%,No
+920,Number of Music Playlists,https://leetcode.com/problems/number-of-music-playlists/,Hard,62.5%,6m+,60.0%,No
+945,Minimum Increment to Make Array Unique,https://leetcode.com/problems/minimum-increment-to-make-array-unique/,Medium,62.5%,6m+,60.6%,No
+1112,Highest Grade For Each Student,https://leetcode.com/problems/highest-grade-for-each-student/,Medium,62.5%,6m+,71.1%,Yes
+1137,N-th Tribonacci Number,https://leetcode.com/problems/n-th-tribonacci-number/,Easy,75.0%,6m+,63.3%,No
+1366,Rank Teams by Votes,https://leetcode.com/problems/rank-teams-by-votes/,Medium,100.0%,"6m,6m+",60.0%,No
+2089,Find Target Indices After Sorting Array,https://leetcode.com/problems/find-target-indices-after-sorting-array/,Easy,,,,No
+3152,Special Array II,https://leetcode.com/problems/special-array-ii/,Medium,,,,No

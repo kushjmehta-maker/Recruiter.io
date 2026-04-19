@@ -1,0 +1,51 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,100.0%,6m+,57.1%,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,3.4%,6m+,38.5%,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,,,,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,75.0%,,59.5%,No
+17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,3.5%,6m+,43.7%,No
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,,,,No
+26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,,,,No
+30,Substring with Concatenation of All Words,https://leetcode.com/problems/substring-with-concatenation-of-all-words/,Hard,,,,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
+41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/,Hard,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,75.0%,,72.2%,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,87.5%,6m+,53.0%,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,,,,No
+79,Word Search,https://leetcode.com/problems/word-search/,Medium,2.3%,6m+,46.8%,No
+80,Remove Duplicates from Sorted Array II,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/,Medium,2.4%,"30d,3m,6m",64.3%,No
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No
+92,Reverse Linked List II,https://leetcode.com/problems/reverse-linked-list-ii/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.2%,6m+,46.8%,No
+153,Find Minimum in Rotated Sorted Array,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,Medium,,,,No
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,1.7%,,,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,5.1%,,52.5%,Yes
+287,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,Medium,,,,No
+322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No
+332,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,Hard,,,,No
+394,Decode String,https://leetcode.com/problems/decode-string/,Medium,,,,No
+406,Queue Reconstruction by Height,https://leetcode.com/problems/queue-reconstruction-by-height/,Medium,,,,No
+451,Sort Characters By Frequency,https://leetcode.com/problems/sort-characters-by-frequency/,Medium,,,,No
+473,Matchsticks to Square,https://leetcode.com/problems/matchsticks-to-square/,Medium,,,,No
+494,Target Sum,https://leetcode.com/problems/target-sum/,Medium,,,,No
+556,Next Greater Element III,https://leetcode.com/problems/next-greater-element-iii/,Medium,,,,No
+628,Maximum Product of Three Numbers,https://leetcode.com/problems/maximum-product-of-three-numbers/,Easy,,,,No
+739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,,,,No
+852,Peak Index in a Mountain Array,https://leetcode.com/problems/peak-index-in-a-mountain-array/,Medium,,,,No
+890,Find and Replace Pattern,https://leetcode.com/problems/find-and-replace-pattern/,Medium,,,,No
+977,Squares of a Sorted Array,https://leetcode.com/problems/squares-of-a-sorted-array/,Easy,,,,No
+1291,Sequential Digits,https://leetcode.com/problems/sequential-digits/,Medium,,,,No
+1122,Relative Sort Array,https://leetcode.com/problems/relative-sort-array/,Easy,,,,No
+2226,Maximum Candies Allocated to K Children,https://leetcode.com/problems/maximum-candies-allocated-to-k-children/,Medium,,,,No
+1464,Maximum Product of Two Elements in an Array,https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/,Easy,,,,No
+2046,Sort Linked List Already Sorted Using Absolute Values,https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values/,Medium,,,,Yes
+1842,Next Palindrome Using Same Digits,https://leetcode.com/problems/next-palindrome-using-same-digits/,Hard,,,,Yes
+1886,Determine Whether Matrix Can Be Obtained By Rotation,https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/,Easy,,,,No
+2001,Number of Pairs of Interchangeable Rectangles,https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/,Medium,,,,No
+2696,Minimum String Length After Removing Substrings,https://leetcode.com/problems/minimum-string-length-after-removing-substrings/,Easy,,,,No

@@ -1,0 +1,12 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
+227,Basic Calculator II,https://leetcode.com/problems/basic-calculator-ii/,Medium,,,,No
+337,House Robber III,https://leetcode.com/problems/house-robber-iii/,Medium,87.5%,6m,55.6%,No
+394,Decode String,https://leetcode.com/problems/decode-string/,Medium,,,,No
+1730,Shortest Path to Get Food,https://leetcode.com/problems/shortest-path-to-get-food/,Medium,,,,Yes
+752,Open the Lock,https://leetcode.com/problems/open-the-lock/,Medium,100.0%,"6m,6m+",61.1%,No
+913,Cat and Mouse,https://leetcode.com/problems/cat-and-mouse/,Hard,,,,No
+1106,Parsing A Boolean Expression,https://leetcode.com/problems/parsing-a-boolean-expression/,Hard,,,,No
+1642,Furthest Building You Can Reach,https://leetcode.com/problems/furthest-building-you-can-reach/,Medium,100.0%,6m+,50.7%,No
+2127,Maximum Employees to Be Invited to a Meeting,https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/,Hard,,,,No
+2662,Minimum Cost of a Path With Special Roads,https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/,Medium,,,,No

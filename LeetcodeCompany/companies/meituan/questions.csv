@@ -1,0 +1,6 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+143,Reorder List,https://leetcode.com/problems/reorder-list/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+169,Majority Element,https://leetcode.com/problems/majority-element/,Easy,,,,No
+2980,Check if Bitwise OR Has Trailing Zeros,https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/,Easy,100.0%,6m+,71.1%,No

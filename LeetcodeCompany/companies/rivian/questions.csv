@@ -1,0 +1,38 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,,,,No
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,87.5%,6m+,58.8%,No
+27,Remove Element,https://leetcode.com/problems/remove-element/,Easy,,,,No
+48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+141,Linked List Cycle,https://leetcode.com/problems/linked-list-cycle/,Easy,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,4.6%,6m+,46.8%,No
+173,Binary Search Tree Iterator,https://leetcode.com/problems/binary-search-tree-iterator/,Medium,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,4.4%,6m+,63.8%,No
+208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,,,,No
+209,Minimum Size Subarray Sum,https://leetcode.com/problems/minimum-size-subarray-sum/,Medium,,,,No
+227,Basic Calculator II,https://leetcode.com/problems/basic-calculator-ii/,Medium,7.6%,"3m,6m",46.6%,No
+236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Medium,,,,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
+347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,,,,No
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,87.5%,6m+,59.5%,No
+642,Design Search Autocomplete System,https://leetcode.com/problems/design-search-autocomplete-system/,Hard,,,,Yes
+697,Degree of an Array,https://leetcode.com/problems/degree-of-an-array/,Easy,7.5%,6m+,58.2%,No
+735,Asteroid Collision,https://leetcode.com/problems/asteroid-collision/,Medium,,,,No
+796,Rotate String,https://leetcode.com/problems/rotate-string/,Easy,87.5%,6m+,65.1%,No
+807,Max Increase to Keep City Skyline,https://leetcode.com/problems/max-increase-to-keep-city-skyline/,Medium,87.5%,6m+,86.4%,No
+622,Design Circular Queue,https://leetcode.com/problems/design-circular-queue/,Medium,,,,No
+509,Fibonacci Number,https://leetcode.com/problems/fibonacci-number/,Easy,,,,No
+1010,Pairs of Songs With Total Durations Divisible by 60,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/,Medium,,,,No
+1041,Robot Bounded In Circle,https://leetcode.com/problems/robot-bounded-in-circle/,Medium,,,,No
+1117,Building H2O,https://leetcode.com/problems/building-h2o/,Medium,,,,No
+1209,Remove All Adjacent Duplicates in String II,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/,Medium,,,,No
+1242,Web Crawler Multithreaded,https://leetcode.com/problems/web-crawler-multithreaded/,Medium,,,,Yes
+1268,Search Suggestions System,https://leetcode.com/problems/search-suggestions-system/,Medium,,,,No
+1771,Maximize Palindrome Length From Subsequences,https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/,Hard,,,,No
+1832,Check if the Sentence Is Pangram,https://leetcode.com/problems/check-if-the-sentence-is-pangram/,Easy,,,,No
+2472,Maximum Number of Non-overlapping Palindrome Substrings,https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/,Hard,,,,No
+2627,Debounce,https://leetcode.com/problems/debounce/,Medium,,,,No
+2625,Flatten Deeply Nested Array,https://leetcode.com/problems/flatten-deeply-nested-array/,Medium,87.5%,6m+,65.5%,No
+2665,Counter II,https://leetcode.com/problems/counter-ii/,Easy,,,,No

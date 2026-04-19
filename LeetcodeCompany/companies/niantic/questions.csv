@@ -1,0 +1,23 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+8,String to Integer (atoi),https://leetcode.com/problems/string-to-integer-atoi/,Medium,2.8%,6m+,20.6%,No
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,,,,No
+17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,,,,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+67,Add Binary,https://leetcode.com/problems/add-binary/,Easy,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,87.5%,6m+,46.8%,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
+286,Walls and Gates,https://leetcode.com/problems/walls-and-gates/,Medium,,,,Yes
+287,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,Medium,87.5%,6m+,64.0%,No
+392,Is Subsequence,https://leetcode.com/problems/is-subsequence/,Easy,,,,No
+451,Sort Characters By Frequency,https://leetcode.com/problems/sort-characters-by-frequency/,Medium,,,,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
+593,Valid Square,https://leetcode.com/problems/valid-square/,Medium,,,,No
+739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,,,,No
+528,Random Pick with Weight,https://leetcode.com/problems/random-pick-with-weight/,Medium,,,,No
+1087,Brace Expansion,https://leetcode.com/problems/brace-expansion/,Medium,100.0%,6m+,66.8%,Yes
+1101,The Earliest Moment When Everyone Become Friends,https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/,Medium,,,,Yes
+2115,Find All Possible Recipes from Given Supplies,https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/,Medium,,,,No

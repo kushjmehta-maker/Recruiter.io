@@ -1,0 +1,20 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,,,,No
+29,Divide Two Integers,https://leetcode.com/problems/divide-two-integers/,Medium,,,,No
+31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,62.5%,6m+,66.8%,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,4.3%,6m+,51.1%,No
+114,Flatten Binary Tree to Linked List,https://leetcode.com/problems/flatten-binary-tree-to-linked-list/,Medium,,,,No
+165,Compare Version Numbers,https://leetcode.com/problems/compare-version-numbers/,Medium,7.8%,"6m,6m+",46.1%,No
+221,Maximal Square,https://leetcode.com/problems/maximal-square/,Medium,,,,No
+339,Nested List Weight Sum,https://leetcode.com/problems/nested-list-weight-sum/,Medium,,,,Yes
+341,Flatten Nested List Iterator,https://leetcode.com/problems/flatten-nested-list-iterator/,Medium,,,,No
+359,Logger Rate Limiter,https://leetcode.com/problems/logger-rate-limiter/,Easy,,,,Yes
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,,,,No
+387,First Unique Character in a String,https://leetcode.com/problems/first-unique-character-in-a-string/,Easy,,,,No
+432,All O`one Data Structure,https://leetcode.com/problems/all-oone-data-structure/,Hard,100.0%,6m+,44.1%,No
+695,Max Area of Island,https://leetcode.com/problems/max-area-of-island/,Medium,,,,No
+981,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/,Medium,,,,No
+2111,Minimum Operations to Make the Array K-Increasing,https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/,Hard,,,,No
+2196,Create Binary Tree From Descriptions,https://leetcode.com/problems/create-binary-tree-from-descriptions/,Medium,,,,No

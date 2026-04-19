@@ -1,0 +1,14 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,,,,No
+112,Path Sum,https://leetcode.com/problems/path-sum/,Easy,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,100.0%,6m+,56.4%,No
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
+402,Remove K Digits,https://leetcode.com/problems/remove-k-digits/,Medium,,,,No
+802,Find Eventual Safe States,https://leetcode.com/problems/find-eventual-safe-states/,Medium,,,,No
+1094,Car Pooling,https://leetcode.com/problems/car-pooling/,Medium,,,,No
+1462,Course Schedule IV,https://leetcode.com/problems/course-schedule-iv/,Medium,,,,No
+2176,Count Equal and Divisible Pairs in an Array,https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/,Easy,100.0%,6m+,84.0%,No
+3206,Alternating Groups I,https://leetcode.com/problems/alternating-groups-i/,Easy,,,,No
+3258,Count Substrings That Satisfy K-Constraint I,https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/,Easy,,,,No

@@ -1,0 +1,13 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+149,Max Points on a Line,https://leetcode.com/problems/max-points-on-a-line/,Hard,,,,No
+185,Department Top Three Salaries,https://leetcode.com/problems/department-top-three-salaries/,Hard,,,,No
+274,H-Index,https://leetcode.com/problems/h-index/,Medium,,,,No
+440,K-th Smallest in Lexicographical Order,https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/,Hard,,,,No
+786,K-th Smallest Prime Fraction,https://leetcode.com/problems/k-th-smallest-prime-fraction/,Medium,100.0%,6m+,69.0%,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,,,,No
+1096,Brace Expansion II,https://leetcode.com/problems/brace-expansion-ii/,Hard,,,,No
+1235,Maximum Profit in Job Scheduling,https://leetcode.com/problems/maximum-profit-in-job-scheduling/,Hard,100.0%,6m+,54.6%,No
+1824,Minimum Sideway Jumps,https://leetcode.com/problems/minimum-sideway-jumps/,Medium,100.0%,6m+,51.5%,No
+1838,Frequency of the Most Frequent Element,https://leetcode.com/problems/frequency-of-the-most-frequent-element/,Medium,100.0%,6m+,44.6%,No
+3380,Maximum Area Rectangle With Point Constraints I,https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i/,Medium,,,,No

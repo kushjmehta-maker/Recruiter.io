@@ -1,0 +1,36 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,2.7%,6m+,57.1%,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+24,Swap Nodes in Pairs,https://leetcode.com/problems/swap-nodes-in-pairs/,Medium,62.5%,,68.9%,No
+26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,,,,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
+41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/,Hard,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No
+160,Intersection of Two Linked Lists,https://leetcode.com/problems/intersection-of-two-linked-lists/,Easy,,,,No
+189,Rotate Array,https://leetcode.com/problems/rotate-array/,Medium,62.5%,,44.4%,No
+197,Rising Temperature,https://leetcode.com/problems/rising-temperature/,Easy,,,,No
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
+213,House Robber II,https://leetcode.com/problems/house-robber-ii/,Medium,,,,No
+226,Invert Binary Tree,https://leetcode.com/problems/invert-binary-tree/,Easy,,,,No
+229,Majority Element II,https://leetcode.com/problems/majority-element-ii/,Medium,,,,No
+326,Power of Three,https://leetcode.com/problems/power-of-three/,Easy,,,,No
+344,Reverse String,https://leetcode.com/problems/reverse-string/,Easy,,,,No
+448,Find All Numbers Disappeared in an Array,https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/,Easy,,,,No
+570,Managers with at Least 5 Direct Reports,https://leetcode.com/problems/managers-with-at-least-5-direct-reports/,Medium,,,,No
+619,Biggest Single Number,https://leetcode.com/problems/biggest-single-number/,Easy,,,,No
+622,Design Circular Queue,https://leetcode.com/problems/design-circular-queue/,Medium,,,,No
+887,Super Egg Drop,https://leetcode.com/problems/super-egg-drop/,Hard,,,,No
+916,Word Subsets,https://leetcode.com/problems/word-subsets/,Medium,,,,No
+1382,Balance a Binary Search Tree,https://leetcode.com/problems/balance-a-binary-search-tree/,Medium,,,,No
+1195,Fizz Buzz Multithreaded,https://leetcode.com/problems/fizz-buzz-multithreaded/,Medium,,,,No
+1193,Monthly Transactions I,https://leetcode.com/problems/monthly-transactions-i/,Medium,,,,No
+2185,Counting Words With a Given Prefix,https://leetcode.com/problems/counting-words-with-a-given-prefix/,Easy,,,,No
+2296,Design a Text Editor,https://leetcode.com/problems/design-a-text-editor/,Hard,,,,No
+2341,Maximum Number of Pairs in Array,https://leetcode.com/problems/maximum-number-of-pairs-in-array/,Easy,100.0%,6m+,76.0%,No
+2353,Design a Food Rating System,https://leetcode.com/problems/design-a-food-rating-system/,Medium,,,,No
+3191,Minimum Operations to Make Binary Array Elements Equal to One I,https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/,Medium,,,,No
+3309,Maximum Possible Number by Binary Concatenation,https://leetcode.com/problems/maximum-possible-number-by-binary-concatenation/,Medium,,,,No

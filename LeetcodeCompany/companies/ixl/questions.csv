@@ -1,0 +1,24 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,5.2%,6m+,58.8%,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,4.0%,,44.1%,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,5.2%,"6m,6m+",51.1%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+151,Reverse Words in a String,https://leetcode.com/problems/reverse-words-in-a-string/,Medium,,,,No
+162,Find Peak Element,https://leetcode.com/problems/find-peak-element/,Medium,4.9%,"6m,6m+",46.8%,No
+166,Fraction to Recurring Decimal,https://leetcode.com/problems/fraction-to-recurring-decimal/,Medium,8.5%,6m+,30.5%,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,2.0%,6m+,50.8%,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,,,,No
+227,Basic Calculator II,https://leetcode.com/problems/basic-calculator-ii/,Medium,6.6%,"3m,6m,6m+",46.6%,No
+234,Palindrome Linked List,https://leetcode.com/problems/palindrome-linked-list/,Easy,5.5%,6m+,57.4%,No
+295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,7.6%,"6m,6m+",54.2%,No
+347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,,,,No
+353,Design Snake Game,https://leetcode.com/problems/design-snake-game/,Medium,10.2%,6m+,40.0%,Yes
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,5.3%,"6m,6m+",55.3%,No
+435,Non-overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/,Medium,,,,No
+592,Fraction Addition and Subtraction,https://leetcode.com/problems/fraction-addition-and-subtraction/,Medium,10.7%,6m+,66.4%,No
+598,Range Addition II,https://leetcode.com/problems/range-addition-ii/,Easy,10.1%,"6m,6m+",58.3%,No
+634,Find the Derangement of An Array,https://leetcode.com/problems/find-the-derangement-of-an-array/,Medium,8.7%,6m+,41.7%,Yes
+691,Stickers to Spell Word,https://leetcode.com/problems/stickers-to-spell-word/,Hard,8.2%,6m+,50.6%,No
+717,1-bit and 2-bit Characters,https://leetcode.com/problems/1-bit-and-2-bit-characters/,Easy,75.0%,6m+,49.5%,No
+1347,Minimum Number of Steps to Make Two Strings Anagram,https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/,Medium,87.5%,6m+,82.5%,No
+1465,Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/,Medium,87.5%,"6m,6m+",41.4%,No

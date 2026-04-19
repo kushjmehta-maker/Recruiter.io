@@ -1,0 +1,18 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+25,Reverse Nodes in k-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,Hard,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,100.0%,6m+,72.2%,No
+57,Insert Interval,https://leetcode.com/problems/insert-interval/,Medium,,,,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
+73,Set Matrix Zeroes,https://leetcode.com/problems/set-matrix-zeroes/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+124,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Hard,,,,No
+155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,,,,No
+394,Decode String,https://leetcode.com/problems/decode-string/,Medium,,,,No
+402,Remove K Digits,https://leetcode.com/problems/remove-k-digits/,Medium,,,,No
+493,Reverse Pairs,https://leetcode.com/problems/reverse-pairs/,Hard,,,,No
+875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,,,,No
+950,Reveal Cards In Increasing Order,https://leetcode.com/problems/reveal-cards-in-increasing-order/,Medium,,,,No
+1004,Max Consecutive Ones III,https://leetcode.com/problems/max-consecutive-ones-iii/,Medium,,,,No
+2073,Time Needed to Buy Tickets,https://leetcode.com/problems/time-needed-to-buy-tickets/,Easy,,,,No
+3355,Zero Array Transformation I,https://leetcode.com/problems/zero-array-transformation-i/,Medium,,,,No

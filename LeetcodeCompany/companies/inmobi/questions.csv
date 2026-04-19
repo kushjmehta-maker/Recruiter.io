@@ -1,0 +1,40 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,2.2%,6m+,38.0%,No
+38,Count and Say,https://leetcode.com/problems/count-and-say/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,2.6%,6m+,66.8%,No
+71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,,,,No
+152,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/,Medium,,,,No
+188,Best Time to Buy and Sell Stock IV,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/,Hard,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
+213,House Robber II,https://leetcode.com/problems/house-robber-ii/,Medium,,,,No
+312,Burst Balloons,https://leetcode.com/problems/burst-balloons/,Hard,,,,No
+346,Moving Average from Data Stream,https://leetcode.com/problems/moving-average-from-data-stream/,Easy,,,,Yes
+392,Is Subsequence,https://leetcode.com/problems/is-subsequence/,Easy,,,,No
+424,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Medium,,,,No
+488,Zuma Game,https://leetcode.com/problems/zuma-game/,Hard,6.5%,6m,30.2%,No
+502,IPO,https://leetcode.com/problems/ipo/,Hard,,,,No
+552,Student Attendance Record II,https://leetcode.com/problems/student-attendance-record-ii/,Hard,,,,No
+630,Course Schedule III,https://leetcode.com/problems/course-schedule-iii/,Hard,,,,No
+664,Strange Printer,https://leetcode.com/problems/strange-printer/,Hard,7.1%,6m,60.9%,No
+684,Redundant Connection,https://leetcode.com/problems/redundant-connection/,Medium,3.0%,6m+,67.2%,No
+754,Reach a Number,https://leetcode.com/problems/reach-a-number/,Medium,100.0%,6m+,44.6%,No
+763,Partition Labels,https://leetcode.com/problems/partition-labels/,Medium,100.0%,6m+,81.8%,No
+826,Most Profit Assigning Work,https://leetcode.com/problems/most-profit-assigning-work/,Medium,,,,No
+871,Minimum Number of Refueling Stops,https://leetcode.com/problems/minimum-number-of-refueling-stops/,Hard,,,,No
+875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,,,,No
+895,Maximum Frequency Stack,https://leetcode.com/problems/maximum-frequency-stack/,Hard,,,,No
+904,Fruit Into Baskets,https://leetcode.com/problems/fruit-into-baskets/,Medium,,,,No
+914,X of a Kind in a Deck of Cards,https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/,Easy,,,,No
+918,Maximum Sum Circular Subarray,https://leetcode.com/problems/maximum-sum-circular-subarray/,Medium,,,,No
+968,Binary Tree Cameras,https://leetcode.com/problems/binary-tree-cameras/,Hard,,,,No
+1011,Capacity To Ship Packages Within D Days,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/,Medium,,,,No
+1377,Frog Position After T Seconds,https://leetcode.com/problems/frog-position-after-t-seconds/,Hard,75.0%,"6m,6m+",37.8%,No
+1642,Furthest Building You Can Reach,https://leetcode.com/problems/furthest-building-you-can-reach/,Medium,,,,No
+1989,Maximum Number of People That Can Be Caught in Tag,https://leetcode.com/problems/maximum-number-of-people-that-can-be-caught-in-tag/,Medium,,,,Yes
+2398,Maximum Number of Robots Within Budget,https://leetcode.com/problems/maximum-number-of-robots-within-budget/,Hard,100.0%,6m+,38.0%,No
+2616,Minimize the Maximum Difference of Pairs,https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/,Medium,,,,No
+3474,Lexicographically Smallest Generated String,https://leetcode.com/problems/lexicographically-smallest-generated-string/,Hard,,,,No
+3594,Minimum Time to Transport All Individuals,https://leetcode.com/problems/minimum-time-to-transport-all-individuals/,Hard,,,,No
+3640,Trionic Array II,https://leetcode.com/problems/trionic-array-ii/,Hard,,,,No

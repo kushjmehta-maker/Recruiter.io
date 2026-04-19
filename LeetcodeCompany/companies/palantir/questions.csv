@@ -1,0 +1,82 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,,,,No
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,,,,No
+79,Word Search,https://leetcode.com/problems/word-search/,Medium,,,,No
+104,Maximum Depth of Binary Tree,https://leetcode.com/problems/maximum-depth-of-binary-tree/,Easy,,,,No
+115,Distinct Subsequences,https://leetcode.com/problems/distinct-subsequences/,Hard,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+123,Best Time to Buy and Sell Stock III,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/,Hard,,,,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,,,,No
+136,Single Number,https://leetcode.com/problems/single-number/,Easy,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+148,Sort List,https://leetcode.com/problems/sort-list/,Medium,,,,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,,,,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,,,,No
+217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,,,,No
+219,Contains Duplicate II,https://leetcode.com/problems/contains-duplicate-ii/,Easy,,,,No
+220,Contains Duplicate III,https://leetcode.com/problems/contains-duplicate-iii/,Hard,,,,No
+226,Invert Binary Tree,https://leetcode.com/problems/invert-binary-tree/,Easy,,,,No
+228,Summary Ranges,https://leetcode.com/problems/summary-ranges/,Easy,,,,No
+243,Shortest Word Distance,https://leetcode.com/problems/shortest-word-distance/,Easy,,,,Yes
+244,Shortest Word Distance II,https://leetcode.com/problems/shortest-word-distance-ii/,Medium,,,,Yes
+245,Shortest Word Distance III,https://leetcode.com/problems/shortest-word-distance-iii/,Medium,,,,Yes
+273,Integer to English Words,https://leetcode.com/problems/integer-to-english-words/,Hard,,,,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
+300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,,,,No
+303,Range Sum Query - Immutable,https://leetcode.com/problems/range-sum-query-immutable/,Easy,,,,No
+325,Maximum Size Subarray Sum Equals k,https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/,Medium,,,,Yes
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,,,,No
+393,UTF-8 Validation,https://leetcode.com/problems/utf-8-validation/,Medium,,,,No
+407,Trapping Rain Water II,https://leetcode.com/problems/trapping-rain-water-ii/,Hard,,,,No
+416,Partition Equal Subset Sum,https://leetcode.com/problems/partition-equal-subset-sum/,Medium,,,,No
+424,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Medium,,,,No
+432,All O`one Data Structure,https://leetcode.com/problems/all-oone-data-structure/,Hard,,,,No
+435,Non-overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/,Medium,,,,No
+442,Find All Duplicates in an Array,https://leetcode.com/problems/find-all-duplicates-in-an-array/,Medium,,,,No
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,,,,No
+460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,,,,No
+539,Minimum Time Difference,https://leetcode.com/problems/minimum-time-difference/,Medium,,,,No
+543,Diameter of Binary Tree,https://leetcode.com/problems/diameter-of-binary-tree/,Easy,,,,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
+692,Top K Frequent Words,https://leetcode.com/problems/top-k-frequent-words/,Medium,,,,No
+718,Maximum Length of Repeated Subarray,https://leetcode.com/problems/maximum-length-of-repeated-subarray/,Medium,,,,No
+721,Accounts Merge,https://leetcode.com/problems/accounts-merge/,Medium,,,,No
+739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,,,,No
+746,Min Cost Climbing Stairs,https://leetcode.com/problems/min-cost-climbing-stairs/,Easy,,,,No
+759,Employee Free Time,https://leetcode.com/problems/employee-free-time/,Hard,,,,Yes
+427,Construct Quad Tree,https://leetcode.com/problems/construct-quad-tree/,Medium,,,,No
+811,Subdomain Visit Count,https://leetcode.com/problems/subdomain-visit-count/,Medium,,,,No
+489,Robot Room Cleaner,https://leetcode.com/problems/robot-room-cleaner/,Hard,,,,Yes
+875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,,,,No
+940,Distinct Subsequences II,https://leetcode.com/problems/distinct-subsequences-ii/,Hard,,,,No
+981,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/,Medium,,,,No
+1109,Corporate Flight Bookings,https://leetcode.com/problems/corporate-flight-bookings/,Medium,,,,No
+1169,Invalid Transactions,https://leetcode.com/problems/invalid-transactions/,Medium,,,,No
+1202,Smallest String With Swaps,https://leetcode.com/problems/smallest-string-with-swaps/,Medium,,,,No
+1232,Check If It Is a Straight Line,https://leetcode.com/problems/check-if-it-is-a-straight-line/,Easy,,,,No
+2225,Find Players With Zero or One Losses,https://leetcode.com/problems/find-players-with-zero-or-one-losses/,Medium,,,,No
+2312,Selling Pieces of Wood,https://leetcode.com/problems/selling-pieces-of-wood/,Hard,,,,No
+2192,All Ancestors of a Node in a Directed Acyclic Graph,https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/,Medium,,,,No
+1419,Minimum Number of Frogs Croaking,https://leetcode.com/problems/minimum-number-of-frogs-croaking/,Medium,,,,No
+1531,String Compression II,https://leetcode.com/problems/string-compression-ii/,Hard,,,,No
+2231,Largest Number After Digit Swaps by Parity,https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/,Easy,,,,No
+2353,Design a Food Rating System,https://leetcode.com/problems/design-a-food-rating-system/,Medium,,,,No
+2539,Count the Number of Good Subsequences,https://leetcode.com/problems/count-the-number-of-good-subsequences/,Medium,,,,Yes
+2860,Happy Students,https://leetcode.com/problems/happy-students/,Medium,,,,No
+2957,Remove Adjacent Almost-Equal Characters,https://leetcode.com/problems/remove-adjacent-almost-equal-characters/,Medium,,,,No
+3006,Find Beautiful Indices in the Given Array I,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/,Medium,,,,No
+2964,Number of Divisible Triplet Sums,https://leetcode.com/problems/number-of-divisible-triplet-sums/,Medium,,,,Yes
+3008,Find Beautiful Indices in the Given Array II,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/,Hard,,,,No
+3035,Maximum Palindromes After Operations,https://leetcode.com/problems/maximum-palindromes-after-operations/,Medium,,,,No
+3093,Longest Common Suffix Queries,https://leetcode.com/problems/longest-common-suffix-queries/,Hard,,,,No
+3163,String Compression III,https://leetcode.com/problems/string-compression-iii/,Medium,,,,No
+3650,Minimum Cost Path with Edge Reversals,https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/,Medium,,,,No

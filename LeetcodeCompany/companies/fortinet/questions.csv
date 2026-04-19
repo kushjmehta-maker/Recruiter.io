@@ -1,0 +1,27 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+338,Counting Bits,https://leetcode.com/problems/counting-bits/,Easy,,,,No
+340,Longest Substring with At Most K Distinct Characters,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/,Medium,,,,Yes
+349,Intersection of Two Arrays,https://leetcode.com/problems/intersection-of-two-arrays/,Easy,,,,No
+460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,,,,No
+616,Add Bold Tag in String,https://leetcode.com/problems/add-bold-tag-in-string/,Medium,,,,Yes
+645,Set Mismatch,https://leetcode.com/problems/set-mismatch/,Easy,,,,No
+680,Valid Palindrome II,https://leetcode.com/problems/valid-palindrome-ii/,Easy,3.1%,6m+,44.0%,No
+735,Asteroid Collision,https://leetcode.com/problems/asteroid-collision/,Medium,,,,No
+739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,,,,No
+429,N-ary Tree Level Order Traversal,https://leetcode.com/problems/n-ary-tree-level-order-traversal/,Medium,,,,No
+908,Smallest Range I,https://leetcode.com/problems/smallest-range-i/,Easy,,,,No
+1036,Escape a Large Maze,https://leetcode.com/problems/escape-a-large-maze/,Hard,,,,No
+1314,Matrix Block Sum,https://leetcode.com/problems/matrix-block-sum/,Medium,,,,No
+1290,Convert Binary Number in a Linked List to Integer,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/,Easy,,,,No
+1411,Number of Ways to Paint N × 3 Grid,https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/,Hard,87.5%,6m+,80.5%,No
+1526,Minimum Number of Increments on Subarrays to Form a Target Array,https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/,Hard,,,,No
+1633,Percentage of Users Attended a Contest,https://leetcode.com/problems/percentage-of-users-attended-a-contest/,Easy,87.5%,6m+,59.9%,No
+1836,Remove Duplicates From an Unsorted Linked List,https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/,Medium,,,,Yes
+2182,Construct String With Repeat Limit,https://leetcode.com/problems/construct-string-with-repeat-limit/,Medium,100.0%,6m+,70.9%,No
+3108,Minimum Cost Walk in Weighted Graph,https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/,Hard,,,,No
+3655,XOR After Range Multiplication Queries II,https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/,Hard,,,,No

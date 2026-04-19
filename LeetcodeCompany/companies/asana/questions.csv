@@ -1,0 +1,12 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,,,,No
+50,"Pow(x, n)",https://leetcode.com/problems/powx-n/,Medium,,,,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,,,,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,0.1%,"3m,6m,6m+",68.6%,No
+724,Find Pivot Index,https://leetcode.com/problems/find-pivot-index/,Easy,,,,No
+973,K Closest Points to Origin,https://leetcode.com/problems/k-closest-points-to-origin/,Medium,100.0%,"30d,3m,6m,6m+",68.7%,No
+1046,Last Stone Weight,https://leetcode.com/problems/last-stone-weight/,Easy,,,,No
+1668,Maximum Repeating Substring,https://leetcode.com/problems/maximum-repeating-substring/,Easy,62.5%,6m+,41.1%,No
+2157,Groups of Strings,https://leetcode.com/problems/groups-of-strings/,Hard,,,,No
+3650,Minimum Cost Path with Edge Reversals,https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/,Medium,87.5%,,61.8%,No

@@ -1,0 +1,5 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+223,Rectangle Area,https://leetcode.com/problems/rectangle-area/,Medium,,,,No
+836,Rectangle Overlap,https://leetcode.com/problems/rectangle-overlap/,Easy,,,,No
+1570,Dot Product of Two Sparse Vectors,https://leetcode.com/problems/dot-product-of-two-sparse-vectors/,Medium,,,,Yes
+2121,Intervals Between Identical Elements,https://leetcode.com/problems/intervals-between-identical-elements/,Medium,100.0%,6m+,45.5%,No

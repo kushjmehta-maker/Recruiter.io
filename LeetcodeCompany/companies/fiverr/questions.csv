@@ -1,0 +1,8 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+78,Subsets,https://leetcode.com/problems/subsets/,Medium,87.5%,6m+,82.0%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,87.5%,6m+,46.8%,No
+189,Rotate Array,https://leetcode.com/problems/rotate-array/,Medium,100.0%,6m+,44.4%,No
+307,Range Sum Query - Mutable,https://leetcode.com/problems/range-sum-query-mutable/,Medium,,,,No
+670,Maximum Swap,https://leetcode.com/problems/maximum-swap/,Medium,,,,No

@@ -1,0 +1,20 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+104,Maximum Depth of Binary Tree,https://leetcode.com/problems/maximum-depth-of-binary-tree/,Easy,,,,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+516,Longest Palindromic Subsequence,https://leetcode.com/problems/longest-palindromic-subsequence/,Medium,,,,No
+886,Possible Bipartition,https://leetcode.com/problems/possible-bipartition/,Medium,,,,No
+922,Sort Array By Parity II,https://leetcode.com/problems/sort-array-by-parity-ii/,Easy,,,,No
+931,Minimum Falling Path Sum,https://leetcode.com/problems/minimum-falling-path-sum/,Medium,,,,No
+1370,Increasing Decreasing String,https://leetcode.com/problems/increasing-decreasing-string/,Easy,,,,No
+1464,Maximum Product of Two Elements in an Array,https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/,Easy,,,,No
+1498,Number of Subsequences That Satisfy the Given Sum Condition,https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/,Medium,,,,No
+1574,Shortest Subarray to be Removed to Make Array Sorted,https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/,Medium,,,,No
+1621,Number of Sets of K Non-Overlapping Line Segments,https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/,Medium,,,,No
+2625,Flatten Deeply Nested Array,https://leetcode.com/problems/flatten-deeply-nested-array/,Medium,,,,No
+3151,Special Array I,https://leetcode.com/problems/special-array-i/,Easy,,,,No
+3429,Paint House IV,https://leetcode.com/problems/paint-house-iv/,Medium,100.0%,6m+,45.0%,No

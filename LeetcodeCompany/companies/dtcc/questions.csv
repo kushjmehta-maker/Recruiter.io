@@ -1,0 +1,5 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+51,N-Queens,https://leetcode.com/problems/n-queens/,Hard,,,,No
+752,Open the Lock,https://leetcode.com/problems/open-the-lock/,Medium,,,,No
+2942,Find Words Containing Character,https://leetcode.com/problems/find-words-containing-character/,Easy,,,,No
+3012,Minimize Length of Array Using Operations,https://leetcode.com/problems/minimize-length-of-array-using-operations/,Medium,100.0%,6m+,35.7%,No

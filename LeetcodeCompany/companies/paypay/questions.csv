@@ -1,0 +1,43 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+6,Zigzag Conversion,https://leetcode.com/problems/zigzag-conversion/,Medium,2.3%,6m+,53.5%,No
+8,String to Integer (atoi),https://leetcode.com/problems/string-to-integer-atoi/,Medium,,,,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
+48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,87.5%,6m+,51.1%,No
+67,Add Binary,https://leetcode.com/problems/add-binary/,Easy,,,,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,,,,No
+78,Subsets,https://leetcode.com/problems/subsets/,Medium,,,,No
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No
+93,Restore IP Addresses,https://leetcode.com/problems/restore-ip-addresses/,Medium,,,,No
+96,Unique Binary Search Trees,https://leetcode.com/problems/unique-binary-search-trees/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+159,Longest Substring with At Most Two Distinct Characters,https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/,Medium,,,,Yes
+162,Find Peak Element,https://leetcode.com/problems/find-peak-element/,Medium,,,,No
+202,Happy Number,https://leetcode.com/problems/happy-number/,Easy,,,,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
+322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No
+395,Longest Substring with At Least K Repeating Characters,https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/,Medium,,,,No
+485,Max Consecutive Ones,https://leetcode.com/problems/max-consecutive-ones/,Easy,,,,No
+503,Next Greater Element II,https://leetcode.com/problems/next-greater-element-ii/,Medium,,,,No
+514,Freedom Trail,https://leetcode.com/problems/freedom-trail/,Hard,,,,No
+780,Reaching Points,https://leetcode.com/problems/reaching-points/,Hard,,,,No
+852,Peak Index in a Mountain Array,https://leetcode.com/problems/peak-index-in-a-mountain-array/,Medium,,,,No
+896,Monotonic Array,https://leetcode.com/problems/monotonic-array/,Easy,,,,No
+947,Most Stones Removed with Same Row or Column,https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/,Medium,,,,No
+974,Subarray Sums Divisible by K,https://leetcode.com/problems/subarray-sums-divisible-by-k/,Medium,,,,No
+981,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/,Medium,,,,No
+1143,Longest Common Subsequence,https://leetcode.com/problems/longest-common-subsequence/,Medium,,,,No
+1353,Maximum Number of Events That Can Be Attended,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/,Medium,,,,No
+1584,Min Cost to Connect All Points,https://leetcode.com/problems/min-cost-to-connect-all-points/,Medium,62.5%,,70.3%,No
+2264,Largest 3-Same-Digit Number in String,https://leetcode.com/problems/largest-3-same-digit-number-in-string/,Easy,87.5%,6m+,72.7%,No
+2300,Successful Pairs of Spells and Potions,https://leetcode.com/problems/successful-pairs-of-spells-and-potions/,Medium,62.5%,,49.4%,No
+2502,Design Memory Allocator,https://leetcode.com/problems/design-memory-allocator/,Medium,,,,No
+2508,Add Edges to Make Degrees of All Nodes Even,https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/,Hard,,,,No
+2615,Sum of Distances,https://leetcode.com/problems/sum-of-distances/,Medium,,,,No
+3043,Find the Length of the Longest Common Prefix,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/,Medium,,,,No
+3161,Block Placement Queries,https://leetcode.com/problems/block-placement-queries/,Hard,100.0%,6m+,18.4%,No
+3474,Lexicographically Smallest Generated String,https://leetcode.com/problems/lexicographically-smallest-generated-string/,Hard,,,,No

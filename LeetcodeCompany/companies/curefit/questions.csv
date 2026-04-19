@@ -1,0 +1,17 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+27,Remove Element,https://leetcode.com/problems/remove-element/,Easy,,,,No
+35,Search Insert Position,https://leetcode.com/problems/search-insert-position/,Easy,,,,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
+98,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/,Medium,,,,No
+103,Binary Tree Zigzag Level Order Traversal,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/,Medium,,,,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No
+217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,,,,No
+307,Range Sum Query - Mutable,https://leetcode.com/problems/range-sum-query-mutable/,Medium,,,,No
+378,Kth Smallest Element in a Sorted Matrix,https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/,Medium,,,,No
+410,Split Array Largest Sum,https://leetcode.com/problems/split-array-largest-sum/,Hard,,,,No
+849,Maximize Distance to Closest Person,https://leetcode.com/problems/maximize-distance-to-closest-person/,Medium,,,,No
+1326,Minimum Number of Taps to Open to Water a Garden,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/,Hard,,,,No
+1674,Minimum Moves to Make Array Complementary,https://leetcode.com/problems/minimum-moves-to-make-array-complementary/,Medium,100.0%,6m+,43.3%,No
+1921,Eliminate Maximum Number of Monsters,https://leetcode.com/problems/eliminate-maximum-number-of-monsters/,Medium,,,,No
+2196,Create Binary Tree From Descriptions,https://leetcode.com/problems/create-binary-tree-from-descriptions/,Medium,,,,No
+3229,Minimum Operations to Make Array Equal to Target,https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/,Hard,,,,No

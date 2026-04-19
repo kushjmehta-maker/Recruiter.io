@@ -1,0 +1,8 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,100.0%,,56.4%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
+2435,Paths in Matrix Whose Sum Is Divisible by K,https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/,Hard,,,,No
+3652,Best Time to Buy and Sell Stock using Strategy,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/,Medium,,,,No

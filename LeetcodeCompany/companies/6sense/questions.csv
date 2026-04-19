@@ -1,0 +1,22 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
+250,Count Univalue Subtrees,https://leetcode.com/problems/count-univalue-subtrees/,Medium,9.4%,6m+,57.5%,Yes
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
+300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,,,,No
+480,Sliding Window Median,https://leetcode.com/problems/sliding-window-median/,Hard,,,,No
+518,Coin Change II,https://leetcode.com/problems/coin-change-ii/,Medium,,,,No
+650,2 Keys Keyboard,https://leetcode.com/problems/2-keys-keyboard/,Medium,,,,No
+863,All Nodes Distance K in Binary Tree,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/,Medium,,,,No
+528,Random Pick with Weight,https://leetcode.com/problems/random-pick-with-weight/,Medium,87.5%,6m+,48.9%,No
+968,Binary Tree Cameras,https://leetcode.com/problems/binary-tree-cameras/,Hard,100.0%,6m,47.6%,No
+1035,Uncrossed Lines,https://leetcode.com/problems/uncrossed-lines/,Medium,,,,No
+1105,Filling Bookcase Shelves,https://leetcode.com/problems/filling-bookcase-shelves/,Medium,87.5%,6m+,68.6%,No
+1497,Check If Array Pairs Are Divisible by k,https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/,Medium,87.5%,6m+,46.2%,No
+1666,Change the Root of a Binary Tree,https://leetcode.com/problems/change-the-root-of-a-binary-tree/,Medium,,,,Yes
+1894,Find the Student that Will Replace the Chalk,https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/,Medium,87.5%,6m+,53.2%,No
+2200,Find All K-Distant Indices in an Array,https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/,Easy,,,,No
+2571,Minimum Operations to Reduce an Integer to 0,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/,Medium,100.0%,6m+,61.0%,No
+3405,Count the Number of Arrays with K Matching Adjacent Elements,https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/,Hard,,,,No

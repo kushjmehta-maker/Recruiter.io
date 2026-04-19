@@ -1,0 +1,62 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,62.5%,6m+,66.2%,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,3.5%,6m+,58.8%,No
+39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,,,,No
+46,Permutations,https://leetcode.com/problems/permutations/,Medium,,,,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,,,,No
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,4.6%,6m+,46.9%,No
+126,Word Ladder II,https://leetcode.com/problems/word-ladder-ii/,Hard,,,,No
+127,Word Ladder,https://leetcode.com/problems/word-ladder/,Hard,,,,No
+134,Gas Station,https://leetcode.com/problems/gas-station/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,4.3%,6m+,46.8%,No
+159,Longest Substring with At Most Two Distinct Characters,https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/,Medium,,,,Yes
+173,Binary Search Tree Iterator,https://leetcode.com/problems/binary-search-tree-iterator/,Medium,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,3.5%,6m+,63.8%,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,,,,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,62.5%,6m+,52.5%,Yes
+269,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,Hard,,,,Yes
+273,Integer to English Words,https://leetcode.com/problems/integer-to-english-words/,Hard,,,,No
+295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,,,,No
+332,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,Hard,,,,No
+347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,3.5%,6m+,65.8%,No
+355,Design Twitter,https://leetcode.com/problems/design-twitter/,Medium,,,,No
+359,Logger Rate Limiter,https://leetcode.com/problems/logger-rate-limiter/,Easy,,,,Yes
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,6.6%,6m+,55.3%,No
+381,Insert Delete GetRandom O(1) - Duplicates allowed,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/,Hard,,,,No
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,,,,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
+647,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,Medium,62.5%,6m+,72.5%,No
+678,Valid Parenthesis String,https://leetcode.com/problems/valid-parenthesis-string/,Medium,,,,No
+697,Degree of an Array,https://leetcode.com/problems/degree-of-an-array/,Easy,6.5%,6m+,58.2%,No
+735,Asteroid Collision,https://leetcode.com/problems/asteroid-collision/,Medium,87.5%,6m+,47.1%,No
+489,Robot Room Cleaner,https://leetcode.com/problems/robot-room-cleaner/,Hard,,,,Yes
+845,Longest Mountain in Array,https://leetcode.com/problems/longest-mountain-in-array/,Medium,87.5%,6m+,41.8%,No
+905,Sort Array By Parity,https://leetcode.com/problems/sort-array-by-parity/,Easy,,,,No
+981,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/,Medium,,,,No
+986,Interval List Intersections,https://leetcode.com/problems/interval-list-intersections/,Medium,,,,No
+992,Subarrays with K Different Integers,https://leetcode.com/problems/subarrays-with-k-different-integers/,Hard,,,,No
+1010,Pairs of Songs With Total Durations Divisible by 60,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/,Medium,,,,No
+1229,Meeting Scheduler,https://leetcode.com/problems/meeting-scheduler/,Medium,,,,Yes
+2303,Calculate Amount Paid in Taxes,https://leetcode.com/problems/calculate-amount-paid-in-taxes/,Easy,,,,No
+1347,Minimum Number of Steps to Make Two Strings Anagram,https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/,Medium,100.0%,6m+,82.5%,No
+1438,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/,Medium,,,,No
+1541,Minimum Insertions to Balance a Parentheses String,https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/,Medium,,,,No
+1603,Design Parking System,https://leetcode.com/problems/design-parking-system/,Easy,,,,No
+1570,Dot Product of Two Sparse Vectors,https://leetcode.com/problems/dot-product-of-two-sparse-vectors/,Medium,,,,Yes
+1823,Find the Winner of the Circular Game,https://leetcode.com/problems/find-the-winner-of-the-circular-game/,Medium,62.5%,6m+,82.2%,No
+1824,Minimum Sideway Jumps,https://leetcode.com/problems/minimum-sideway-jumps/,Medium,,,,No
+1839,Longest Substring Of All Vowels in Order,https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/,Medium,,,,No
+1962,Remove Stones to Minimize the Total,https://leetcode.com/problems/remove-stones-to-minimize-the-total/,Medium,,,,No
+2251,Number of Flowers in Full Bloom,https://leetcode.com/problems/number-of-flowers-in-full-bloom/,Hard,,,,No
+2290,Minimum Obstacle Removal to Reach Corner,https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/,Hard,,,,No
+2299,Strong Password Checker II,https://leetcode.com/problems/strong-password-checker-ii/,Easy,,,,No
+2472,Maximum Number of Non-overlapping Palindrome Substrings,https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/,Hard,75.0%,6m+,43.3%,No
+2743,Count Substrings Without Repeating Character,https://leetcode.com/problems/count-substrings-without-repeating-character/,Medium,,,,Yes
+2861,Maximum Number of Alloys,https://leetcode.com/problems/maximum-number-of-alloys/,Medium,,,,No
+2964,Number of Divisible Triplet Sums,https://leetcode.com/problems/number-of-divisible-triplet-sums/,Medium,,,,Yes
+3138,Minimum Length of Anagram Concatenation,https://leetcode.com/problems/minimum-length-of-anagram-concatenation/,Medium,,,,No

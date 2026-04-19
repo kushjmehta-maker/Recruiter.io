@@ -1,0 +1,37 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,,,,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,1.9%,6m+,43.7%,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,2.9%,6m+,72.2%,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+176,Second Highest Salary,https://leetcode.com/problems/second-highest-salary/,Medium,,,,No
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
+273,Integer to English Words,https://leetcode.com/problems/integer-to-english-words/,Hard,,,,No
+386,Lexicographical Numbers,https://leetcode.com/problems/lexicographical-numbers/,Medium,,,,No
+421,Maximum XOR of Two Numbers in an Array,https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/,Medium,,,,No
+493,Reverse Pairs,https://leetcode.com/problems/reverse-pairs/,Hard,,,,No
+502,IPO,https://leetcode.com/problems/ipo/,Hard,,,,No
+526,Beautiful Arrangement,https://leetcode.com/problems/beautiful-arrangement/,Medium,,,,No
+570,Managers with at Least 5 Direct Reports,https://leetcode.com/problems/managers-with-at-least-5-direct-reports/,Medium,,,,No
+696,Count Binary Substrings,https://leetcode.com/problems/count-binary-substrings/,Easy,,,,No
+697,Degree of an Array,https://leetcode.com/problems/degree-of-an-array/,Easy,,,,No
+1051,Height Checker,https://leetcode.com/problems/height-checker/,Easy,,,,No
+1268,Search Suggestions System,https://leetcode.com/problems/search-suggestions-system/,Medium,100.0%,"6m,6m+",65.2%,No
+1290,Convert Binary Number in a Linked List to Integer,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/,Easy,,,,No
+2099,Find Subsequence of Length K With the Largest Sum,https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/,Easy,,,,No
+2356,Number of Unique Subjects Taught by Each Teacher,https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/,Easy,,,,No
+2461,Maximum Sum of Distinct Subarrays With Length K,https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/,Medium,,,,No
+2580,Count Ways to Group Overlapping Ranges,https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/,Medium,,,,No
+2645,Minimum Additions to Make Valid String,https://leetcode.com/problems/minimum-additions-to-make-valid-string/,Medium,,,,No
+2918,Minimum Equal Sum of Two Arrays After Replacing Zeros,https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/,Medium,,,,No
+3067,Count Pairs of Connectable Servers in a Weighted Tree Network,https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/,Medium,62.5%,6m+,55.5%,No
+3136,Valid Word,https://leetcode.com/problems/valid-word/,Easy,,,,No
+3227,Vowels Game in a String,https://leetcode.com/problems/vowels-game-in-a-string/,Medium,,,,No

@@ -1,0 +1,13 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+85,Maximal Rectangle,https://leetcode.com/problems/maximal-rectangle/,Hard,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+221,Maximal Square,https://leetcode.com/problems/maximal-square/,Medium,,,,No
+342,Power of Four,https://leetcode.com/problems/power-of-four/,Easy,,,,No
+407,Trapping Rain Water II,https://leetcode.com/problems/trapping-rain-water-ii/,Hard,,,,No
+412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
+453,Minimum Moves to Equal Array Elements,https://leetcode.com/problems/minimum-moves-to-equal-array-elements/,Medium,,,,No
+696,Count Binary Substrings,https://leetcode.com/problems/count-binary-substrings/,Easy,,,,No
+761,Special Binary String,https://leetcode.com/problems/special-binary-string/,Hard,100.0%,6m+,79.1%,No
+1207,Unique Number of Occurrences,https://leetcode.com/problems/unique-number-of-occurrences/,Easy,,,,No
+2187,Minimum Time to Complete Trips,https://leetcode.com/problems/minimum-time-to-complete-trips/,Medium,,,,No

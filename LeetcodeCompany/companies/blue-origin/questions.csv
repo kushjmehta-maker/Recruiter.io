@@ -1,0 +1,8 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,,,,No
+46,Permutations,https://leetcode.com/problems/permutations/,Medium,,,,No
+346,Moving Average from Data Stream,https://leetcode.com/problems/moving-average-from-data-stream/,Easy,,,,Yes
+696,Count Binary Substrings,https://leetcode.com/problems/count-binary-substrings/,Easy,87.5%,,70.2%,No
+1041,Robot Bounded In Circle,https://leetcode.com/problems/robot-bounded-in-circle/,Medium,100.0%,6m+,56.4%,No
+1669,Merge In Between Linked Lists,https://leetcode.com/problems/merge-in-between-linked-lists/,Medium,,,,No
+2062,Count Vowel Substrings of a String,https://leetcode.com/problems/count-vowel-substrings-of-a-string/,Easy,,,,No

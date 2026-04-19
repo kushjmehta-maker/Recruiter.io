@@ -1,0 +1,7 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/,Hard,,,,No
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No
+150,Evaluate Reverse Polish Notation,https://leetcode.com/problems/evaluate-reverse-polish-notation/,Medium,,,,No
+661,Image Smoother,https://leetcode.com/problems/image-smoother/,Easy,,,,No
+1227,Airplane Seat Assignment Probability,https://leetcode.com/problems/airplane-seat-assignment-probability/,Medium,100.0%,6m+,67.2%,No
+1531,String Compression II,https://leetcode.com/problems/string-compression-ii/,Hard,100.0%,6m+,52.2%,No

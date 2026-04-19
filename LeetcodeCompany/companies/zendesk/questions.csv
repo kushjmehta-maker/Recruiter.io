@@ -1,0 +1,7 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,,,,No
+300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,,,,No
+2525,Categorize Box According to Criteria,https://leetcode.com/problems/categorize-box-according-to-criteria/,Easy,100.0%,6m+,38.7%,No
+2591,Distribute Money to Maximum Children,https://leetcode.com/problems/distribute-money-to-maximum-children/,Easy,100.0%,6m+,20.4%,No

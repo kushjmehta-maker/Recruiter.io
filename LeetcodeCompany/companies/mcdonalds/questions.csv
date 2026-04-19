@@ -1,0 +1,17 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
+83,Remove Duplicates from Sorted List,https://leetcode.com/problems/remove-duplicates-from-sorted-list/,Easy,2.2%,,,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,,,,No
+152,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/,Medium,,,,No
+217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,,,,No
+278,First Bad Version,https://leetcode.com/problems/first-bad-version/,Easy,,,,No
+315,Count of Smaller Numbers After Self,https://leetcode.com/problems/count-of-smaller-numbers-after-self/,Hard,,,,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
+632,Smallest Range Covering Elements from K Lists,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/,Hard,,,,No
+633,Sum of Square Numbers,https://leetcode.com/problems/sum-of-square-numbers/,Medium,,,,No
+929,Unique Email Addresses,https://leetcode.com/problems/unique-email-addresses/,Easy,,,,No
+1854,Maximum Population Year,https://leetcode.com/problems/maximum-population-year/,Easy,,,,No
+1893,Check if All the Integers in a Range Are Covered,https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/,Easy,,,,No
+2070,Most Beautiful Item for Each Query,https://leetcode.com/problems/most-beautiful-item-for-each-query/,Medium,,,,No
+2551,Put Marbles in Bags,https://leetcode.com/problems/put-marbles-in-bags/,Hard,,,,No
+2563,Count the Number of Fair Pairs,https://leetcode.com/problems/count-the-number-of-fair-pairs/,Medium,100.0%,6m,52.7%,No

@@ -1,0 +1,54 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
+7,Reverse Integer,https://leetcode.com/problems/reverse-integer/,Medium,,,,No
+9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,,,,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,62.5%,,47.1%,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,,,,No
+50,"Pow(x, n)",https://leetcode.com/problems/powx-n/,Medium,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+67,Add Binary,https://leetcode.com/problems/add-binary/,Easy,,,,No
+69,Sqrt(x),https://leetcode.com/problems/sqrtx/,Easy,,,,No
+110,Balanced Binary Tree,https://leetcode.com/problems/balanced-binary-tree/,Easy,,,,No
+118,Pascal's Triangle,https://leetcode.com/problems/pascals-triangle/,Easy,,,,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,0.9%,,52.8%,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No
+151,Reverse Words in a String,https://leetcode.com/problems/reverse-words-in-a-string/,Medium,,,,No
+189,Rotate Array,https://leetcode.com/problems/rotate-array/,Medium,,,,No
+209,Minimum Size Subarray Sum,https://leetcode.com/problems/minimum-size-subarray-sum/,Medium,,,,No
+214,Shortest Palindrome,https://leetcode.com/problems/shortest-palindrome/,Hard,,,,No
+231,Power of Two,https://leetcode.com/problems/power-of-two/,Easy,,,,No
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,,,,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
+268,Missing Number,https://leetcode.com/problems/missing-number/,Easy,,,,No
+295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,,,,No
+334,Increasing Triplet Subsequence,https://leetcode.com/problems/increasing-triplet-subsequence/,Medium,,,,No
+347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,,,,No
+387,First Unique Character in a String,https://leetcode.com/problems/first-unique-character-in-a-string/,Easy,1.8%,6m,65.0%,No
+399,Evaluate Division,https://leetcode.com/problems/evaluate-division/,Medium,,,,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
+652,Find Duplicate Subtrees,https://leetcode.com/problems/find-duplicate-subtrees/,Medium,,,,No
+670,Maximum Swap,https://leetcode.com/problems/maximum-swap/,Medium,,,,No
+680,Valid Palindrome II,https://leetcode.com/problems/valid-palindrome-ii/,Easy,,,,No
+724,Find Pivot Index,https://leetcode.com/problems/find-pivot-index/,Easy,,,,No
+739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,,,,No
+704,Binary Search,https://leetcode.com/problems/binary-search/,Easy,,,,No
+785,Is Graph Bipartite?,https://leetcode.com/problems/is-graph-bipartite/,Medium,,,,No
+791,Custom Sort String,https://leetcode.com/problems/custom-sort-string/,Medium,,,,No
+839,Similar String Groups,https://leetcode.com/problems/similar-string-groups/,Hard,,,,No
+860,Lemonade Change,https://leetcode.com/problems/lemonade-change/,Easy,,,,No
+876,Middle of the Linked List,https://leetcode.com/problems/middle-of-the-linked-list/,Easy,,,,No
+1010,Pairs of Songs With Total Durations Divisible by 60,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/,Medium,,,,No
+1189,Maximum Number of Balloons,https://leetcode.com/problems/maximum-number-of-balloons/,Easy,,,,No
+1240,Tiling a Rectangle with the Fewest Squares,https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/,Hard,,,,No
+1344,Angle Between Hands of a Clock,https://leetcode.com/problems/angle-between-hands-of-a-clock/,Medium,,,,No
+1567,Maximum Length of Subarray With Positive Product,https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/,Medium,,,,No
+1823,Find the Winner of the Circular Game,https://leetcode.com/problems/find-the-winner-of-the-circular-game/,Medium,,,,No
+2138,Divide a String Into Groups of Size k,https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/,Easy,,,,No
+2407,Longest Increasing Subsequence II,https://leetcode.com/problems/longest-increasing-subsequence-ii/,Hard,,,,No
+2707,Extra Characters in a String,https://leetcode.com/problems/extra-characters-in-a-string/,Medium,,,,No
+3005,Count Elements With Maximum Frequency,https://leetcode.com/problems/count-elements-with-maximum-frequency/,Easy,,,,No
+3033,Modify the Matrix,https://leetcode.com/problems/modify-the-matrix/,Easy,100.0%,6m+,69.0%,No
+3261,Count Substrings That Satisfy K-Constraint II,https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-ii/,Hard,,,,No
+3483,Unique 3-Digit Even Numbers,https://leetcode.com/problems/unique-3-digit-even-numbers/,Easy,,,,No

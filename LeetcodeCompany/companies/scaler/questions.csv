@@ -1,0 +1,14 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+67,Add Binary,https://leetcode.com/problems/add-binary/,Easy,,,,No
+131,Palindrome Partitioning,https://leetcode.com/problems/palindrome-partitioning/,Medium,,,,No
+132,Palindrome Partitioning II,https://leetcode.com/problems/palindrome-partitioning-ii/,Hard,100.0%,6m,36.6%,No
+134,Gas Station,https://leetcode.com/problems/gas-station/,Medium,,,,No
+230,Kth Smallest Element in a BST,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,Medium,,,,No
+300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,,,,No
+424,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Medium,,,,No
+620,Not Boring Movies,https://leetcode.com/problems/not-boring-movies/,Easy,,,,No
+1321,Restaurant Growth,https://leetcode.com/problems/restaurant-growth/,Medium,,,,No
+1541,Minimum Insertions to Balance a Parentheses String,https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/,Medium,,,,No
+1851,Minimum Interval to Include Each Query,https://leetcode.com/problems/minimum-interval-to-include-each-query/,Hard,,,,No

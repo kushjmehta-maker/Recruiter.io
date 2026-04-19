@@ -1,0 +1,44 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,87.5%,6m+,57.1%,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,87.5%,6m+,38.5%,No
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+6,Zigzag Conversion,https://leetcode.com/problems/zigzag-conversion/,Medium,,,,No
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,3.3%,6m,66.2%,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,1.4%,6m,47.1%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
+41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/,Hard,,,,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+62,Unique Paths,https://leetcode.com/problems/unique-paths/,Medium,,,,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,,,,No
+93,Restore IP Addresses,https://leetcode.com/problems/restore-ip-addresses/,Medium,,,,No
+118,Pascal's Triangle,https://leetcode.com/problems/pascals-triangle/,Easy,100.0%,6m+,78.7%,No
+122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,,,,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No
+130,Surrounded Regions,https://leetcode.com/problems/surrounded-regions/,Medium,,,,No
+150,Evaluate Reverse Polish Notation,https://leetcode.com/problems/evaluate-reverse-polish-notation/,Medium,,,,No
+167,Two Sum II - Input Array Is Sorted,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,Medium,,,,No
+176,Second Highest Salary,https://leetcode.com/problems/second-highest-salary/,Medium,,,,No
+181,Employees Earning More Than Their Managers,https://leetcode.com/problems/employees-earning-more-than-their-managers/,Easy,,,,No
+189,Rotate Array,https://leetcode.com/problems/rotate-array/,Medium,1.9%,,44.4%,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,,,,No
+217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,,,,No
+268,Missing Number,https://leetcode.com/problems/missing-number/,Easy,,,,No
+345,Reverse Vowels of a String,https://leetcode.com/problems/reverse-vowels-of-a-string/,Easy,,,,No
+386,Lexicographical Numbers,https://leetcode.com/problems/lexicographical-numbers/,Medium,,,,No
+395,Longest Substring with At Least K Repeating Characters,https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/,Medium,,,,No
+415,Add Strings,https://leetcode.com/problems/add-strings/,Easy,,,,No
+621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,,,,No
+645,Set Mismatch,https://leetcode.com/problems/set-mismatch/,Easy,,,,No
+746,Min Cost Climbing Stairs,https://leetcode.com/problems/min-cost-climbing-stairs/,Easy,,,,No
+868,Binary Gap,https://leetcode.com/problems/binary-gap/,Easy,,,,No
+1070,Product Sales Analysis III,https://leetcode.com/problems/product-sales-analysis-iii/,Medium,,,,No
+1280,Students and Examinations,https://leetcode.com/problems/students-and-examinations/,Easy,,,,No
+1805,Number of Different Integers in a String,https://leetcode.com/problems/number-of-different-integers-in-a-string/,Easy,,,,No
+1934,Confirmation Rate,https://leetcode.com/problems/confirmation-rate/,Medium,,,,No
+2540,Minimum Common Value,https://leetcode.com/problems/minimum-common-value/,Easy,,,,No
+3021,Alice and Bob Playing Flower Game,https://leetcode.com/problems/alice-and-bob-playing-flower-game/,Medium,,,,No
+3039,Apply Operations to Make String Empty,https://leetcode.com/problems/apply-operations-to-make-string-empty/,Medium,87.5%,6m+,57.3%,No
+3718,Smallest Missing Multiple of K,https://leetcode.com/problems/smallest-missing-multiple-of-k/,Easy,,,,No

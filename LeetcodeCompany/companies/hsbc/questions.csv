@@ -1,0 +1,36 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,2.8%,"6m,6m+",37.3%,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,,,,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,100.0%,6m+,47.1%,No
+17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,,,,No
+19,Remove Nth Node From End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Medium,,,,No
+21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,,,,No
+46,Permutations,https://leetcode.com/problems/permutations/,Medium,,,,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,100.0%,6m+,53.9%,No
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No
+97,Interleaving String,https://leetcode.com/problems/interleaving-string/,Medium,,,,No
+110,Balanced Binary Tree,https://leetcode.com/problems/balanced-binary-tree/,Easy,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,87.5%,,56.4%,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No
+136,Single Number,https://leetcode.com/problems/single-number/,Easy,,,,No
+167,Two Sum II - Input Array Is Sorted,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,Medium,,,,No
+176,Second Highest Salary,https://leetcode.com/problems/second-highest-salary/,Medium,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
+219,Contains Duplicate II,https://leetcode.com/problems/contains-duplicate-ii/,Easy,,,,No
+316,Remove Duplicate Letters,https://leetcode.com/problems/remove-duplicate-letters/,Medium,,,,No
+414,Third Maximum Number,https://leetcode.com/problems/third-maximum-number/,Easy,,,,No
+419,Battleships in a Board,https://leetcode.com/problems/battleships-in-a-board/,Medium,100.0%,6m,77.3%,No
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,,,,No
+817,Linked List Components,https://leetcode.com/problems/linked-list-components/,Medium,,,,No
+871,Minimum Number of Refueling Stops,https://leetcode.com/problems/minimum-number-of-refueling-stops/,Hard,,,,No
+901,Online Stock Span,https://leetcode.com/problems/online-stock-span/,Medium,,,,No
+1935,Maximum Number of Words You Can Type,https://leetcode.com/problems/maximum-number-of-words-you-can-type/,Easy,,,,No
+1164,Product Price at a Given Date,https://leetcode.com/problems/product-price-at-a-given-date/,Medium,,,,No
+1277,Count Square Submatrices with All Ones,https://leetcode.com/problems/count-square-submatrices-with-all-ones/,Medium,,,,No
+1323,Maximum 69 Number,https://leetcode.com/problems/maximum-69-number/,Easy,100.0%,6m+,84.5%,No
+1475,Final Prices With a Special Discount in a Shop,https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/,Easy,,,,No
+1625,Lexicographically Smallest String After Applying Operations,https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/,Medium,,,,No
+1768,Merge Strings Alternately,https://leetcode.com/problems/merge-strings-alternately/,Easy,,,,No
+2259,Remove Digit From Number to Maximize Result,https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/,Easy,,,,No
+2696,Minimum String Length After Removing Substrings,https://leetcode.com/problems/minimum-string-length-after-removing-substrings/,Easy,,,,No

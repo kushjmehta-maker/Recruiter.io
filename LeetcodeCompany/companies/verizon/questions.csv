@@ -1,0 +1,26 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+46,Permutations,https://leetcode.com/problems/permutations/,Medium,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+66,Plus One,https://leetcode.com/problems/plus-one/,Easy,,,,No
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,,,,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No
+131,Palindrome Partitioning,https://leetcode.com/problems/palindrome-partitioning/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,,,,No
+279,Perfect Squares,https://leetcode.com/problems/perfect-squares/,Medium,,,,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,62.5%,6m+,63.5%,No
+541,Reverse String II,https://leetcode.com/problems/reverse-string-ii/,Easy,,,,No
+570,Managers with at Least 5 Direct Reports,https://leetcode.com/problems/managers-with-at-least-5-direct-reports/,Medium,,,,No
+621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,,,,No
+739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,75.0%,6m+,68.3%,No
+917,Reverse Only Letters,https://leetcode.com/problems/reverse-only-letters/,Easy,,,,No
+1068,Product Sales Analysis I,https://leetcode.com/problems/product-sales-analysis-i/,Easy,,,,No
+1539,Kth Missing Positive Number,https://leetcode.com/problems/kth-missing-positive-number/,Easy,,,,No
+1646,Get Maximum in Generated Array,https://leetcode.com/problems/get-maximum-in-generated-array/,Easy,87.5%,6m+,51.4%,No
+1756,Design Most Recently Used Queue,https://leetcode.com/problems/design-most-recently-used-queue/,Medium,100.0%,6m+,77.7%,Yes
+2759,Convert JSON String to Object,https://leetcode.com/problems/convert-json-string-to-object/,Hard,100.0%,6m+,61.1%,Yes
+2787,Ways to Express an Integer as Sum of Powers,https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/,Medium,,,,No
+3446,Sort Matrix by Diagonals,https://leetcode.com/problems/sort-matrix-by-diagonals/,Medium,100.0%,6m+,84.7%,No

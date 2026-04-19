@@ -1,0 +1,72 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,3.3%,"3m,6m,6m+",57.1%,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,3.4%,6m+,38.5%,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,1.6%,,37.3%,No
+9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,,,,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,1.3%,6m+,38.6%,No
+18,4Sum,https://leetcode.com/problems/4sum/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,4.4%,6m+,43.7%,No
+27,Remove Element,https://leetcode.com/problems/remove-element/,Easy,,,,No
+30,Substring with Concatenation of All Words,https://leetcode.com/problems/substring-with-concatenation-of-all-words/,Hard,,,,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
+34,Find First and Last Position of Element in Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Medium,,,,No
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+46,Permutations,https://leetcode.com/problems/permutations/,Medium,,,,No
+48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,2.1%,,,No
+77,Combinations,https://leetcode.com/problems/combinations/,Medium,,,,No
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,2.7%,6m+,54.4%,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,2.7%,"3m,6m",52.8%,No
+127,Word Ladder,https://leetcode.com/problems/word-ladder/,Hard,,,,No
+151,Reverse Words in a String,https://leetcode.com/problems/reverse-words-in-a-string/,Medium,62.5%,,55.5%,No
+160,Intersection of Two Linked Lists,https://leetcode.com/problems/intersection-of-two-linked-lists/,Easy,,,,No
+169,Majority Element,https://leetcode.com/problems/majority-element/,Easy,,,,No
+175,Combine Two Tables,https://leetcode.com/problems/combine-two-tables/,Easy,,,,No
+176,Second Highest Salary,https://leetcode.com/problems/second-highest-salary/,Medium,62.5%,,46.3%,No
+185,Department Top Three Salaries,https://leetcode.com/problems/department-top-three-salaries/,Hard,75.0%,6m+,59.8%,No
+196,Delete Duplicate Emails,https://leetcode.com/problems/delete-duplicate-emails/,Easy,,,,No
+209,Minimum Size Subarray Sum,https://leetcode.com/problems/minimum-size-subarray-sum/,Medium,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+240,Search a 2D Matrix II,https://leetcode.com/problems/search-a-2d-matrix-ii/,Medium,,,,No
+258,Add Digits,https://leetcode.com/problems/add-digits/,Easy,,,,No
+268,Missing Number,https://leetcode.com/problems/missing-number/,Easy,,,,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
+300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,,,,No
+328,Odd Even Linked List,https://leetcode.com/problems/odd-even-linked-list/,Medium,,,,No
+344,Reverse String,https://leetcode.com/problems/reverse-string/,Easy,3.8%,6m+,80.5%,No
+350,Intersection of Two Arrays II,https://leetcode.com/problems/intersection-of-two-arrays-ii/,Easy,,,,No
+367,Valid Perfect Square,https://leetcode.com/problems/valid-perfect-square/,Easy,,,,No
+392,Is Subsequence,https://leetcode.com/problems/is-subsequence/,Easy,,,,No
+412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
+424,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Medium,,,,No
+440,K-th Smallest in Lexicographical Order,https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/,Hard,,,,No
+507,Perfect Number,https://leetcode.com/problems/perfect-number/,Easy,,,,No
+647,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,Medium,87.5%,6m,72.5%,No
+680,Valid Palindrome II,https://leetcode.com/problems/valid-palindrome-ii/,Easy,,,,No
+696,Count Binary Substrings,https://leetcode.com/problems/count-binary-substrings/,Easy,,,,No
+796,Rotate String,https://leetcode.com/problems/rotate-string/,Easy,,,,No
+1047,Remove All Adjacent Duplicates In String,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/,Easy,,,,No
+1207,Unique Number of Occurrences,https://leetcode.com/problems/unique-number-of-occurrences/,Easy,,,,No
+1250,Check If It Is a Good Array,https://leetcode.com/problems/check-if-it-is-a-good-array/,Hard,,,,No
+1319,Number of Operations to Make Network Connected,https://leetcode.com/problems/number-of-operations-to-make-network-connected/,Medium,,,,No
+1441,Build an Array With Stack Operations,https://leetcode.com/problems/build-an-array-with-stack-operations/,Medium,,,,No
+1498,Number of Subsequences That Satisfy the Given Sum Condition,https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/,Medium,,,,No
+1484,Group Sold Products By The Date,https://leetcode.com/problems/group-sold-products-by-the-date/,Easy,,,,No
+1590,Make Sum Divisible by P,https://leetcode.com/problems/make-sum-divisible-by-p/,Medium,,,,No
+1611,Minimum One Bit Operations to Make Integers Zero,https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/,Hard,,,,No
+2017,Grid Game,https://leetcode.com/problems/grid-game/,Medium,,,,No
+2149,Rearrange Array Elements by Sign,https://leetcode.com/problems/rearrange-array-elements-by-sign/,Medium,,,,No
+2390,Removing Stars From a String,https://leetcode.com/problems/removing-stars-from-a-string/,Medium,,,,No
+2588,Count the Number of Beautiful Subarrays,https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/,Medium,,,,No
+2625,Flatten Deeply Nested Array,https://leetcode.com/problems/flatten-deeply-nested-array/,Medium,,,,No
+2626,Array Reduce Transformation,https://leetcode.com/problems/array-reduce-transformation/,Easy,,,,No
+2667,Create Hello World Function,https://leetcode.com/problems/create-hello-world-function/,Easy,,,,No
+2864,Maximum Odd Binary Number,https://leetcode.com/problems/maximum-odd-binary-number/,Easy,,,,No
+3043,Find the Length of the Longest Common Prefix,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/,Medium,,,,No
+3318,Find X-Sum of All K-Long Subarrays I,https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/,Easy,,,,No
+3713,Longest Balanced Substring I,https://leetcode.com/problems/longest-balanced-substring-i/,Medium,,,,No

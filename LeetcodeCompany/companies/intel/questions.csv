@@ -1,0 +1,87 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,5.8%,"6m,6m+",57.1%,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,2.5%,6m+,38.5%,No
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
+6,Zigzag Conversion,https://leetcode.com/problems/zigzag-conversion/,Medium,,,,No
+7,Reverse Integer,https://leetcode.com/problems/reverse-integer/,Medium,4.7%,6m+,31.5%,No
+9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,75.0%,6m+,60.2%,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,62.5%,6m+,59.5%,No
+19,Remove Nth Node From End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,5.6%,6m+,43.7%,No
+21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,62.5%,6m+,67.9%,No
+26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,,,,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,7.2%,6m+,66.8%,No
+48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,62.5%,6m+,79.3%,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,4.8%,6m+,53.0%,No
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,,,,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+64,Minimum Path Sum,https://leetcode.com/problems/minimum-path-sum/,Medium,,,,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
+73,Set Matrix Zeroes,https://leetcode.com/problems/set-matrix-zeroes/,Medium,,,,No
+75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,,,,No
+80,Remove Duplicates from Sorted Array II,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/,Medium,,,,No
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,62.5%,6m+,54.4%,No
+102,Binary Tree Level Order Traversal,https://leetcode.com/problems/binary-tree-level-order-traversal/,Medium,,,,No
+110,Balanced Binary Tree,https://leetcode.com/problems/balanced-binary-tree/,Easy,,,,No
+111,Minimum Depth of Binary Tree,https://leetcode.com/problems/minimum-depth-of-binary-tree/,Easy,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,,,,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,62.5%,6m+,52.8%,No
+126,Word Ladder II,https://leetcode.com/problems/word-ladder-ii/,Hard,,,,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No
+134,Gas Station,https://leetcode.com/problems/gas-station/,Medium,,,,No
+138,Copy List with Random Pointer,https://leetcode.com/problems/copy-list-with-random-pointer/,Medium,5.6%,6m+,62.4%,No
+141,Linked List Cycle,https://leetcode.com/problems/linked-list-cycle/,Easy,,,,No
+142,Linked List Cycle II,https://leetcode.com/problems/linked-list-cycle-ii/,Medium,,,,No
+144,Binary Tree Preorder Traversal,https://leetcode.com/problems/binary-tree-preorder-traversal/,Easy,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,62.5%,6m+,46.8%,No
+150,Evaluate Reverse Polish Notation,https://leetcode.com/problems/evaluate-reverse-polish-notation/,Medium,,,,No
+151,Reverse Words in a String,https://leetcode.com/problems/reverse-words-in-a-string/,Medium,62.5%,6m+,55.5%,No
+155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,62.5%,6m+,57.7%,No
+160,Intersection of Two Linked Lists,https://leetcode.com/problems/intersection-of-two-linked-lists/,Easy,,,,No
+178,Rank Scores,https://leetcode.com/problems/rank-scores/,Medium,,,,No
+191,Number of 1 Bits,https://leetcode.com/problems/number-of-1-bits/,Easy,,,,No
+192,Word Frequency,https://leetcode.com/problems/word-frequency/,Medium,,,,No
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,100.0%,6m+,63.8%,No
+202,Happy Number,https://leetcode.com/problems/happy-number/,Easy,62.5%,,59.2%,No
+204,Count Primes,https://leetcode.com/problems/count-primes/,Medium,5.0%,6m+,35.7%,No
+206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No
+209,Minimum Size Subarray Sum,https://leetcode.com/problems/minimum-size-subarray-sum/,Medium,,,,No
+213,House Robber II,https://leetcode.com/problems/house-robber-ii/,Medium,,,,No
+229,Majority Element II,https://leetcode.com/problems/majority-element-ii/,Medium,62.5%,6m+,55.8%,No
+232,Implement Queue using Stacks,https://leetcode.com/problems/implement-queue-using-stacks/,Easy,,,,No
+234,Palindrome Linked List,https://leetcode.com/problems/palindrome-linked-list/,Easy,62.5%,6m+,57.4%,No
+236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Medium,1.5%,,,No
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,62.5%,6m+,68.6%,No
+268,Missing Number,https://leetcode.com/problems/missing-number/,Easy,,,,No
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
+287,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,Medium,,,,No
+332,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,Hard,,,,No
+408,Valid Word Abbreviation,https://leetcode.com/problems/valid-word-abbreviation/,Easy,,,,Yes
+461,Hamming Distance,https://leetcode.com/problems/hamming-distance/,Easy,,,,No
+540,Single Element in a Sorted Array,https://leetcode.com/problems/single-element-in-a-sorted-array/,Medium,,,,No
+692,Top K Frequent Words,https://leetcode.com/problems/top-k-frequent-words/,Medium,3.6%,6m+,60.0%,No
+695,Max Area of Island,https://leetcode.com/problems/max-area-of-island/,Medium,,,,No
+725,Split Linked List in Parts,https://leetcode.com/problems/split-linked-list-in-parts/,Medium,,,,No
+761,Special Binary String,https://leetcode.com/problems/special-binary-string/,Hard,,,,No
+704,Binary Search,https://leetcode.com/problems/binary-search/,Easy,,,,No
+705,Design HashSet,https://leetcode.com/problems/design-hashset/,Easy,,,,No
+706,Design HashMap,https://leetcode.com/problems/design-hashmap/,Easy,,,,No
+707,Design Linked List,https://leetcode.com/problems/design-linked-list/,Medium,,,,No
+868,Binary Gap,https://leetcode.com/problems/binary-gap/,Easy,,,,No
+876,Middle of the Linked List,https://leetcode.com/problems/middle-of-the-linked-list/,Easy,,,,No
+953,Verifying an Alien Dictionary,https://leetcode.com/problems/verifying-an-alien-dictionary/,Easy,,,,No
+509,Fibonacci Number,https://leetcode.com/problems/fibonacci-number/,Easy,62.5%,6m+,73.9%,No
+977,Squares of a Sorted Array,https://leetcode.com/problems/squares-of-a-sorted-array/,Easy,,,,No
+1004,Max Consecutive Ones III,https://leetcode.com/problems/max-consecutive-ones-iii/,Medium,,,,No
+1148,Article Views I,https://leetcode.com/problems/article-views-i/,Easy,,,,No
+1502,Can Make Arithmetic Progression From Sequence,https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/,Easy,,,,No
+1614,Maximum Nesting Depth of the Parentheses,https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/,Easy,62.5%,6m+,84.8%,No
+1733,Minimum Number of People to Teach,https://leetcode.com/problems/minimum-number-of-people-to-teach/,Medium,,,,No
+1854,Maximum Population Year,https://leetcode.com/problems/maximum-population-year/,Easy,,,,No
+2526,Find Consecutive Integers from a Data Stream,https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/,Medium,62.5%,6m+,50.8%,No
+3163,String Compression III,https://leetcode.com/problems/string-compression-iii/,Medium,,,,No

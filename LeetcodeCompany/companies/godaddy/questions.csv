@@ -1,0 +1,29 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,5.2%,6m+,43.7%,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
+51,N-Queens,https://leetcode.com/problems/n-queens/,Hard,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,4.8%,6m+,51.1%,No
+66,Plus One,https://leetcode.com/problems/plus-one/,Easy,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+137,Single Number II,https://leetcode.com/problems/single-number-ii/,Medium,,,,No
+155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,,,,No
+208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,,,,No
+224,Basic Calculator,https://leetcode.com/problems/basic-calculator/,Hard,,,,No
+322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No
+344,Reverse String,https://leetcode.com/problems/reverse-string/,Easy,,,,No
+409,Longest Palindrome,https://leetcode.com/problems/longest-palindrome/,Easy,,,,No
+412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
+441,Arranging Coins,https://leetcode.com/problems/arranging-coins/,Easy,8.0%,6m+,48.0%,No
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,2.9%,6m+,59.5%,No
+532,K-diff Pairs in an Array,https://leetcode.com/problems/k-diff-pairs-in-an-array/,Medium,,,,No
+761,Special Binary String,https://leetcode.com/problems/special-binary-string/,Hard,,,,No
+1200,Minimum Absolute Difference,https://leetcode.com/problems/minimum-absolute-difference/,Easy,,,,No
+1339,Maximum Product of Splitted Binary Tree,https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/,Medium,,,,No
+1372,Longest ZigZag Path in a Binary Tree,https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/,Medium,,,,No
+1413,Minimum Value to Get Positive Step by Step Sum,https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/,Easy,,,,No
+1700,Number of Students Unable to Eat Lunch,https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/,Easy,,,,No
+1716,Calculate Money in Leetcode Bank,https://leetcode.com/problems/calculate-money-in-leetcode-bank/,Easy,,,,No
+1761,Minimum Degree of a Connected Trio in a Graph,https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/,Hard,87.5%,6m+,44.2%,No
+1768,Merge Strings Alternately,https://leetcode.com/problems/merge-strings-alternately/,Easy,,,,No

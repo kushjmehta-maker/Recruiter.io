@@ -1,0 +1,21 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+6,Zigzag Conversion,https://leetcode.com/problems/zigzag-conversion/,Medium,,,,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
+63,Unique Paths II,https://leetcode.com/problems/unique-paths-ii/,Medium,,,,No
+103,Binary Tree Zigzag Level Order Traversal,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/,Medium,,,,No
+208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,,,,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,,,,No
+235,Lowest Common Ancestor of a Binary Search Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,Medium,,,,No
+362,Design Hit Counter,https://leetcode.com/problems/design-hit-counter/,Medium,,,,Yes
+394,Decode String,https://leetcode.com/problems/decode-string/,Medium,100.0%,6m+,62.2%,No
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,,,,No
+448,Find All Numbers Disappeared in an Array,https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/,Easy,,,,No
+556,Next Greater Element III,https://leetcode.com/problems/next-greater-element-iii/,Medium,,,,No
+990,Satisfiability of Equality Equations,https://leetcode.com/problems/satisfiability-of-equality-equations/,Medium,100.0%,6m+,51.5%,No
+1438,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/,Medium,,,,No
+1722,Minimize Hamming Distance After Swap Operations,https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/,Medium,100.0%,"3m,6m",49.1%,No
+2381,Shifting Letters II,https://leetcode.com/problems/shifting-letters-ii/,Medium,,,,No
+2858,Minimum Edge Reversals So Every Node Is Reachable,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/,Hard,,,,No
+2953,Count Complete Substrings,https://leetcode.com/problems/count-complete-substrings/,Hard,,,,No
+3229,Minimum Operations to Make Array Equal to Target,https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/,Hard,,,,No

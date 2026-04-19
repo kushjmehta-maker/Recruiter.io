@@ -1,0 +1,98 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+18,4Sum,https://leetcode.com/problems/4sum/,Medium,1.4%,6m+,40.0%,No
+22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,,,,No
+31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,4.1%,6m+,44.7%,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+50,"Pow(x, n)",https://leetcode.com/problems/powx-n/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+72,Edit Distance,https://leetcode.com/problems/edit-distance/,Medium,37.5%,6m+,60.1%,No
+73,Set Matrix Zeroes,https://leetcode.com/problems/set-matrix-zeroes/,Medium,,,,No
+87,Scramble String,https://leetcode.com/problems/scramble-string/,Hard,37.5%,6m+,43.9%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,3.8%,"6m,6m+",46.8%,No
+155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,,,,No
+158,Read N Characters Given read4 II - Call Multiple Times,https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/,Hard,,,,Yes
+169,Majority Element,https://leetcode.com/problems/majority-element/,Easy,,,,No
+179,Largest Number,https://leetcode.com/problems/largest-number/,Medium,,,,No
+211,Design Add and Search Words Data Structure,https://leetcode.com/problems/design-add-and-search-words-data-structure/,Medium,50.0%,6m+,48.1%,No
+218,The Skyline Problem,https://leetcode.com/problems/the-skyline-problem/,Hard,,,,No
+227,Basic Calculator II,https://leetcode.com/problems/basic-calculator-ii/,Medium,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
+269,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,Hard,,,,Yes
+276,Paint Fence,https://leetcode.com/problems/paint-fence/,Medium,3.8%,,,Yes
+301,Remove Invalid Parentheses,https://leetcode.com/problems/remove-invalid-parentheses/,Hard,3.7%,6m+,49.8%,No
+323,Number of Connected Components in an Undirected Graph,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/,Medium,,,,Yes
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,50.0%,6m+,55.3%,No
+389,Find the Difference,https://leetcode.com/problems/find-the-difference/,Easy,,,,No
+455,Assign Cookies,https://leetcode.com/problems/assign-cookies/,Easy,,,,No
+460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,,,,No
+465,Optimal Account Balancing,https://leetcode.com/problems/optimal-account-balancing/,Hard,,,,Yes
+493,Reverse Pairs,https://leetcode.com/problems/reverse-pairs/,Hard,,,,No
+543,Diameter of Binary Tree,https://leetcode.com/problems/diameter-of-binary-tree/,Easy,,,,No
+583,Delete Operation for Two Strings,https://leetcode.com/problems/delete-operation-for-two-strings/,Medium,,,,No
+588,Design In-Memory File System,https://leetcode.com/problems/design-in-memory-file-system/,Hard,,,,Yes
+609,Find Duplicate File in System,https://leetcode.com/problems/find-duplicate-file-in-system/,Medium,,,,No
+621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,4.6%,6m+,62.6%,No
+628,Maximum Product of Three Numbers,https://leetcode.com/problems/maximum-product-of-three-numbers/,Easy,,,,No
+678,Valid Parenthesis String,https://leetcode.com/problems/valid-parenthesis-string/,Medium,,,,No
+695,Max Area of Island,https://leetcode.com/problems/max-area-of-island/,Medium,,,,No
+715,Range Module,https://leetcode.com/problems/range-module/,Hard,,,,No
+723,Candy Crush,https://leetcode.com/problems/candy-crush/,Medium,3.0%,6m+,77.3%,Yes
+745,Prefix and Suffix Search,https://leetcode.com/problems/prefix-and-suffix-search/,Hard,37.5%,6m+,40.8%,No
+761,Special Binary String,https://leetcode.com/problems/special-binary-string/,Hard,37.5%,,76.2%,No
+700,Search in a Binary Search Tree,https://leetcode.com/problems/search-in-a-binary-search-tree/,Easy,,,,No
+827,Making A Large Island,https://leetcode.com/problems/making-a-large-island/,Hard,,,,No
+829,Consecutive Numbers Sum,https://leetcode.com/problems/consecutive-numbers-sum/,Hard,,,,No
+622,Design Circular Queue,https://leetcode.com/problems/design-circular-queue/,Medium,37.5%,6m+,54.0%,No
+839,Similar String Groups,https://leetcode.com/problems/similar-string-groups/,Hard,,,,No
+844,Backspace String Compare,https://leetcode.com/problems/backspace-string-compare/,Easy,,,,No
+528,Random Pick with Weight,https://leetcode.com/problems/random-pick-with-weight/,Medium,37.5%,6m+,48.9%,No
+909,Snakes and Ladders,https://leetcode.com/problems/snakes-and-ladders/,Medium,,,,No
+921,Minimum Add to Make Parentheses Valid,https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/,Medium,,,,No
+947,Most Stones Removed with Same Row or Column,https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/,Medium,,,,No
+1244,Design A Leaderboard,https://leetcode.com/problems/design-a-leaderboard/,Medium,,,,Yes
+1117,Building H2O,https://leetcode.com/problems/building-h2o/,Medium,,,,No
+1146,Snapshot Array,https://leetcode.com/problems/snapshot-array/,Medium,50.0%,6m+,36.7%,No
+1143,Longest Common Subsequence,https://leetcode.com/problems/longest-common-subsequence/,Medium,,,,No
+1236,Web Crawler,https://leetcode.com/problems/web-crawler/,Medium,37.5%,6m+,68.9%,Yes
+1202,Smallest String With Swaps,https://leetcode.com/problems/smallest-string-with-swaps/,Medium,,,,No
+1195,Fizz Buzz Multithreaded,https://leetcode.com/problems/fizz-buzz-multithreaded/,Medium,,,,No
+2226,Maximum Candies Allocated to K Children,https://leetcode.com/problems/maximum-candies-allocated-to-k-children/,Medium,,,,No
+1226,The Dining Philosophers,https://leetcode.com/problems/the-dining-philosophers/,Medium,,,,No
+2193,Minimum Number of Moves to Make Palindrome,https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/,Hard,37.5%,,52.6%,No
+1242,Web Crawler Multithreaded,https://leetcode.com/problems/web-crawler-multithreaded/,Medium,87.5%,"6m,6m+",51.0%,Yes
+1463,Cherry Pickup II,https://leetcode.com/problems/cherry-pickup-ii/,Hard,37.5%,6m+,72.3%,No
+1573,Number of Ways to Split a String,https://leetcode.com/problems/number-of-ways-to-split-a-string/,Medium,,,,No
+1611,Minimum One Bit Operations to Make Integers Zero,https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/,Hard,,,,No
+1665,Minimum Initial Energy to Finish Tasks,https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/,Hard,,,,No
+1797,Design Authentication Manager,https://leetcode.com/problems/design-authentication-manager/,Medium,,,,No
+1884,Egg Drop With 2 Eggs and N Floors,https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/,Medium,,,,No
+1977,Number of Ways to Separate Numbers,https://leetcode.com/problems/number-of-ways-to-separate-numbers/,Hard,,,,No
+2087,Minimum Cost Homecoming of a Robot in a Grid,https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/,Medium,,,,No
+2132,Stamping the Grid,https://leetcode.com/problems/stamping-the-grid/,Hard,50.0%,6m+,34.9%,No
+2203,Minimum Weighted Subgraph With the Required Paths,https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/,Hard,,,,No
+2249,Count Lattice Points Inside a Circle,https://leetcode.com/problems/count-lattice-points-inside-a-circle/,Medium,100.0%,"6m,6m+",56.5%,No
+2235,Add Two Integers,https://leetcode.com/problems/add-two-integers/,Easy,,,,No
+2296,Design a Text Editor,https://leetcode.com/problems/design-a-text-editor/,Hard,37.5%,6m+,49.9%,No
+2360,Longest Cycle in a Graph,https://leetcode.com/problems/longest-cycle-in-a-graph/,Hard,,,,No
+2365,Task Scheduler II,https://leetcode.com/problems/task-scheduler-ii/,Medium,37.5%,6m+,54.7%,No
+2502,Design Memory Allocator,https://leetcode.com/problems/design-memory-allocator/,Medium,37.5%,6m+,49.7%,No
+2747,Count Zero Request Servers,https://leetcode.com/problems/count-zero-request-servers/,Medium,,,,No
+2928,Distribute Candies Among Children I,https://leetcode.com/problems/distribute-candies-among-children-i/,Easy,37.5%,6m+,76.2%,No
+2929,Distribute Candies Among Children II,https://leetcode.com/problems/distribute-candies-among-children-ii/,Medium,37.5%,6m+,55.7%,No
+2927,Distribute Candies Among Children III,https://leetcode.com/problems/distribute-candies-among-children-iii/,Hard,37.5%,6m+,57.2%,Yes
+3207,Maximum Points After Enemy Battles,https://leetcode.com/problems/maximum-points-after-enemy-battles/,Medium,100.0%,6m+,33.2%,No
+2982,Find Longest Special Substring That Occurs Thrice II,https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii/,Medium,62.5%,6m+,39.1%,No
+3021,Alice and Bob Playing Flower Game,https://leetcode.com/problems/alice-and-bob-playing-flower-game/,Medium,37.5%,6m+,60.1%,No
+3098,Find the Sum of Subsequence Powers,https://leetcode.com/problems/find-the-sum-of-subsequence-powers/,Hard,37.5%,6m+,25.0%,No
+3083,Existence of a Substring in a String and Its Reverse,https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/,Easy,37.5%,6m+,66.4%,No
+3272,Find the Count of Good Integers,https://leetcode.com/problems/find-the-count-of-good-integers/,Hard,,,,No
+3307,Find the K-th Character in String Game II,https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/,Hard,,,,No
+3410,Maximize Subarray Sum After Removing All Occurrences of One Element,https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/,Hard,62.5%,6m+,22.9%,No
+3433,Count Mentions Per User,https://leetcode.com/problems/count-mentions-per-user/,Medium,,,,No
+3426,Manhattan Distances of All Arrangements of Pieces,https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces/,Hard,62.5%,6m+,35.1%,No
+3524,Find X Value of Array I,https://leetcode.com/problems/find-x-value-of-array-i/,Medium,62.5%,6m+,37.1%,No
+3525,Find X Value of Array II,https://leetcode.com/problems/find-x-value-of-array-ii/,Hard,62.5%,6m+,30.5%,No
+3777,Minimum Deletions to Make Alternating Substring,https://leetcode.com/problems/minimum-deletions-to-make-alternating-substring/,Hard,,,,No

@@ -1,0 +1,68 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
+9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,,,,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,62.5%,6m+,47.1%,No
+25,Reverse Nodes in k-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,Hard,,,,No
+32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,,,,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,1.6%,6m+,44.1%,No
+46,Permutations,https://leetcode.com/problems/permutations/,Medium,,,,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
+58,Length of Last Word,https://leetcode.com/problems/length-of-last-word/,Easy,,,,No
+73,Set Matrix Zeroes,https://leetcode.com/problems/set-matrix-zeroes/,Medium,2.2%,"3m,6m",62.4%,No
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,,,,No
+81,Search in Rotated Sorted Array II,https://leetcode.com/problems/search-in-rotated-sorted-array-ii/,Medium,,,,No
+102,Binary Tree Level Order Traversal,https://leetcode.com/problems/binary-tree-level-order-traversal/,Medium,,,,No
+127,Word Ladder,https://leetcode.com/problems/word-ladder/,Hard,62.5%,6m+,44.9%,No
+132,Palindrome Partitioning II,https://leetcode.com/problems/palindrome-partitioning-ii/,Hard,,,,No
+141,Linked List Cycle,https://leetcode.com/problems/linked-list-cycle/,Easy,,,,No
+142,Linked List Cycle II,https://leetcode.com/problems/linked-list-cycle-ii/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,4.3%,,46.8%,No
+151,Reverse Words in a String,https://leetcode.com/problems/reverse-words-in-a-string/,Medium,,,,No
+196,Delete Duplicate Emails,https://leetcode.com/problems/delete-duplicate-emails/,Easy,,,,No
+217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,62.5%,6m+,64.1%,No
+234,Palindrome Linked List,https://leetcode.com/problems/palindrome-linked-list/,Easy,,,,No
+236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Medium,,,,No
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,,,,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
+273,Integer to English Words,https://leetcode.com/problems/integer-to-english-words/,Hard,,,,No
+290,Word Pattern,https://leetcode.com/problems/word-pattern/,Easy,,,,No
+349,Intersection of Two Arrays,https://leetcode.com/problems/intersection-of-two-arrays/,Easy,,,,No
+394,Decode String,https://leetcode.com/problems/decode-string/,Medium,,,,No
+416,Partition Equal Subset Sum,https://leetcode.com/problems/partition-equal-subset-sum/,Medium,,,,No
+465,Optimal Account Balancing,https://leetcode.com/problems/optimal-account-balancing/,Hard,8.7%,6m+,50.3%,Yes
+518,Coin Change II,https://leetcode.com/problems/coin-change-ii/,Medium,,,,No
+733,Flood Fill,https://leetcode.com/problems/flood-fill/,Easy,,,,No
+783,Minimum Distance Between BST Nodes,https://leetcode.com/problems/minimum-distance-between-bst-nodes/,Easy,,,,No
+863,All Nodes Distance K in Binary Tree,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/,Medium,,,,No
+528,Random Pick with Weight,https://leetcode.com/problems/random-pick-with-weight/,Medium,,,,No
+909,Snakes and Ladders,https://leetcode.com/problems/snakes-and-ladders/,Medium,,,,No
+917,Reverse Only Letters,https://leetcode.com/problems/reverse-only-letters/,Easy,,,,No
+945,Minimum Increment to Make Array Unique,https://leetcode.com/problems/minimum-increment-to-make-array-unique/,Medium,62.5%,6m+,60.6%,No
+983,Minimum Cost For Tickets,https://leetcode.com/problems/minimum-cost-for-tickets/,Medium,,,,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,,,,No
+1041,Robot Bounded In Circle,https://leetcode.com/problems/robot-bounded-in-circle/,Medium,62.5%,6m+,56.4%,No
+1143,Longest Common Subsequence,https://leetcode.com/problems/longest-common-subsequence/,Medium,,,,No
+1154,Day of the Year,https://leetcode.com/problems/day-of-the-year/,Easy,62.5%,6m+,49.5%,No
+1235,Maximum Profit in Job Scheduling,https://leetcode.com/problems/maximum-profit-in-job-scheduling/,Hard,,,,No
+1283,Find the Smallest Divisor Given a Threshold,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/,Medium,62.5%,6m+,65.4%,No
+1326,Minimum Number of Taps to Open to Water a Garden,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/,Hard,,,,No
+1377,Frog Position After T Seconds,https://leetcode.com/problems/frog-position-after-t-seconds/,Hard,,,,No
+1679,Max Number of K-Sum Pairs,https://leetcode.com/problems/max-number-of-k-sum-pairs/,Medium,,,,No
+1838,Frequency of the Most Frequent Element,https://leetcode.com/problems/frequency-of-the-most-frequent-element/,Medium,,,,No
+1882,Process Tasks Using Servers,https://leetcode.com/problems/process-tasks-using-servers/,Medium,,,,No
+2231,Largest Number After Digit Swaps by Parity,https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/,Easy,62.5%,6m+,65.0%,No
+2366,Minimum Replacements to Sort the Array,https://leetcode.com/problems/minimum-replacements-to-sort-the-array/,Hard,87.5%,6m+,53.2%,No
+2401,Longest Nice Subarray,https://leetcode.com/problems/longest-nice-subarray/,Medium,,,,No
+2570,Merge Two 2D Arrays by Summing Values,https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/,Easy,,,,No
+2762,Continuous Subarrays,https://leetcode.com/problems/continuous-subarrays/,Medium,,,,No
+2932,Maximum Strong Pair XOR I,https://leetcode.com/problems/maximum-strong-pair-xor-i/,Easy,62.5%,6m+,75.9%,No
+2935,Maximum Strong Pair XOR II,https://leetcode.com/problems/maximum-strong-pair-xor-ii/,Hard,62.5%,6m+,32.2%,No
+2954,Count the Number of Infection Sequences,https://leetcode.com/problems/count-the-number-of-infection-sequences/,Hard,,,,No
+2964,Number of Divisible Triplet Sums,https://leetcode.com/problems/number-of-divisible-triplet-sums/,Medium,62.5%,6m+,67.6%,Yes
+3035,Maximum Palindromes After Operations,https://leetcode.com/problems/maximum-palindromes-after-operations/,Medium,,,,No
+3091,Apply Operations to Make Sum of Array Greater Than or Equal to k,https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/,Medium,75.0%,6m+,44.2%,No
+3177,Find the Maximum Length of a Good Subsequence II,https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii/,Hard,,,,No
+3346,Maximum Frequency of an Element After Performing Operations I,https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/,Medium,,,,No
+3733,Minimum Time to Complete All Deliveries,https://leetcode.com/problems/minimum-time-to-complete-all-deliveries/,Medium,,,,No
+3732,Maximum Product of Three Elements After One Replacement,https://leetcode.com/problems/maximum-product-of-three-elements-after-one-replacement/,Medium,,,,No

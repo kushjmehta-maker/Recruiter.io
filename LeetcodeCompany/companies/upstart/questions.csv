@@ -1,0 +1,24 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,62.5%,6m+,44.7%,No
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,3.2%,"3m,6m",64.1%,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,75.0%,"3m,6m",72.2%,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,6.3%,"30d,3m,6m,6m+",53.0%,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+69,Sqrt(x),https://leetcode.com/problems/sqrtx/,Easy,,,,No
+71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,8.8%,6m+,50.0%,No
+79,Word Search,https://leetcode.com/problems/word-search/,Medium,,,,No
+118,Pascal's Triangle,https://leetcode.com/problems/pascals-triangle/,Easy,,,,No
+120,Triangle,https://leetcode.com/problems/triangle/,Medium,62.5%,6m+,59.8%,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+123,Best Time to Buy and Sell Stock III,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/,Hard,,,,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,,,,No
+136,Single Number,https://leetcode.com/problems/single-number/,Easy,,,,No
+172,Factorial Trailing Zeroes,https://leetcode.com/problems/factorial-trailing-zeroes/,Medium,,,,No
+217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,,,,No
+304,Range Sum Query 2D - Immutable,https://leetcode.com/problems/range-sum-query-2d-immutable/,Medium,4.9%,6m+,57.8%,No
+308,Range Sum Query 2D - Mutable,https://leetcode.com/problems/range-sum-query-2d-mutable/,Medium,,,,Yes
+348,Design Tic-Tac-Toe,https://leetcode.com/problems/design-tic-tac-toe/,Medium,,,,Yes
+1935,Maximum Number of Words You Can Type,https://leetcode.com/problems/maximum-number-of-words-you-can-type/,Easy,,,,No
+1418,Display Table of Food Orders in a Restaurant,https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/,Medium,,,,No
+2325,Decode the Message,https://leetcode.com/problems/decode-the-message/,Easy,,,,No
+2951,Find the Peaks,https://leetcode.com/problems/find-the-peaks/,Easy,,,,No

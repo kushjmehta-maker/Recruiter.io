@@ -1,0 +1,82 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+10,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,Hard,4.6%,,30.4%,No
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,62.5%,6m+,64.1%,No
+44,Wildcard Matching,https://leetcode.com/problems/wildcard-matching/,Hard,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
+62,Unique Paths,https://leetcode.com/problems/unique-paths/,Medium,,,,No
+64,Minimum Path Sum,https://leetcode.com/problems/minimum-path-sum/,Medium,,,,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,4.1%,6m+,50.4%,No
+69,Sqrt(x),https://leetcode.com/problems/sqrtx/,Easy,,,,No
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,2.2%,6m+,49.3%,No
+85,Maximal Rectangle,https://leetcode.com/problems/maximal-rectangle/,Hard,,,,No
+139,Word Break,https://leetcode.com/problems/word-break/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+149,Max Points on a Line,https://leetcode.com/problems/max-points-on-a-line/,Hard,3.9%,6m+,30.2%,No
+162,Find Peak Element,https://leetcode.com/problems/find-peak-element/,Medium,2.9%,6m+,46.8%,No
+191,Number of 1 Bits,https://leetcode.com/problems/number-of-1-bits/,Easy,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,4.1%,6m+,63.8%,No
+208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,,,,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,,,,No
+213,House Robber II,https://leetcode.com/problems/house-robber-ii/,Medium,,,,No
+221,Maximal Square,https://leetcode.com/problems/maximal-square/,Medium,,,,No
+222,Count Complete Tree Nodes,https://leetcode.com/problems/count-complete-tree-nodes/,Easy,,,,No
+229,Majority Element II,https://leetcode.com/problems/majority-element-ii/,Medium,,,,No
+230,Kth Smallest Element in a BST,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,Medium,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,75.0%,6m+,52.5%,Yes
+269,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,Hard,4.5%,,,Yes
+271,Encode and Decode Strings,https://leetcode.com/problems/encode-and-decode-strings/,Medium,,,,Yes
+295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,,,,No
+304,Range Sum Query 2D - Immutable,https://leetcode.com/problems/range-sum-query-2d-immutable/,Medium,,,,No
+305,Number of Islands II,https://leetcode.com/problems/number-of-islands-ii/,Hard,,,,Yes
+317,Shortest Distance from All Buildings,https://leetcode.com/problems/shortest-distance-from-all-buildings/,Hard,75.0%,6m+,44.8%,Yes
+322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No
+323,Number of Connected Components in an Undirected Graph,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/,Medium,,,,Yes
+337,House Robber III,https://leetcode.com/problems/house-robber-iii/,Medium,,,,No
+348,Design Tic-Tac-Toe,https://leetcode.com/problems/design-tic-tac-toe/,Medium,62.5%,6m+,58.7%,Yes
+359,Logger Rate Limiter,https://leetcode.com/problems/logger-rate-limiter/,Easy,6.5%,,76.8%,Yes
+373,Find K Pairs with Smallest Sums,https://leetcode.com/problems/find-k-pairs-with-smallest-sums/,Medium,,,,No
+394,Decode String,https://leetcode.com/problems/decode-string/,Medium,,,,No
+410,Split Array Largest Sum,https://leetcode.com/problems/split-array-largest-sum/,Hard,,,,No
+419,Battleships in a Board,https://leetcode.com/problems/battleships-in-a-board/,Medium,,,,No
+433,Minimum Genetic Mutation,https://leetcode.com/problems/minimum-genetic-mutation/,Medium,,,,No
+499,The Maze III,https://leetcode.com/problems/the-maze-iii/,Hard,,,,Yes
+631,Design Excel Sum Formula,https://leetcode.com/problems/design-excel-sum-formula/,Hard,6.9%,6m+,39.8%,Yes
+715,Range Module,https://leetcode.com/problems/range-module/,Hard,,,,No
+778,Swim in Rising Water,https://leetcode.com/problems/swim-in-rising-water/,Hard,,,,No
+622,Design Circular Queue,https://leetcode.com/problems/design-circular-queue/,Medium,,,,No
+832,Flipping an Image,https://leetcode.com/problems/flipping-an-image/,Easy,,,,No
+489,Robot Room Cleaner,https://leetcode.com/problems/robot-room-cleaner/,Hard,,,,Yes
+853,Car Fleet,https://leetcode.com/problems/car-fleet/,Medium,,,,No
+871,Minimum Number of Refueling Stops,https://leetcode.com/problems/minimum-number-of-refueling-stops/,Hard,100.0%,"30d,3m,6m",41.1%,No
+528,Random Pick with Weight,https://leetcode.com/problems/random-pick-with-weight/,Medium,,,,No
+934,Shortest Bridge,https://leetcode.com/problems/shortest-bridge/,Medium,,,,No
+939,Minimum Area Rectangle,https://leetcode.com/problems/minimum-area-rectangle/,Medium,62.5%,6m+,55.3%,No
+963,Minimum Area Rectangle II,https://leetcode.com/problems/minimum-area-rectangle-ii/,Medium,,,,No
+1032,Stream of Characters,https://leetcode.com/problems/stream-of-characters/,Hard,,,,No
+1197,Minimum Knight Moves,https://leetcode.com/problems/minimum-knight-moves/,Medium,75.0%,6m+,41.7%,Yes
+1230,Toss Strange Coins,https://leetcode.com/problems/toss-strange-coins/,Medium,,,,Yes
+1091,Shortest Path in Binary Matrix,https://leetcode.com/problems/shortest-path-in-binary-matrix/,Medium,,,,No
+1094,Car Pooling,https://leetcode.com/problems/car-pooling/,Medium,,,,No
+1632,Rank Transform of a Matrix,https://leetcode.com/problems/rank-transform-of-a-matrix/,Hard,,,,No
+1944,Number of Visible People in a Queue,https://leetcode.com/problems/number-of-visible-people-in-a-queue/,Hard,100.0%,"30d,3m,6m",72.3%,No
+1268,Search Suggestions System,https://leetcode.com/problems/search-suggestions-system/,Medium,,,,No
+1296,Divide Array in Sets of K Consecutive Numbers,https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/,Medium,62.5%,6m+,59.1%,No
+1631,Path With Minimum Effort,https://leetcode.com/problems/path-with-minimum-effort/,Medium,62.5%,,62.8%,No
+1762,Buildings With an Ocean View,https://leetcode.com/problems/buildings-with-an-ocean-view/,Medium,,,,Yes
+1868,Product of Two Run-Length Encoded Arrays,https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/,Medium,,,,Yes
+2008,Maximum Earnings From Taxi,https://leetcode.com/problems/maximum-earnings-from-taxi/,Medium,,,,No
+2013,Detect Squares,https://leetcode.com/problems/detect-squares/,Medium,,,,No
+2076,Process Restricted Friend Requests,https://leetcode.com/problems/process-restricted-friend-requests/,Hard,,,,No
+2101,Detonate the Maximum Bombs,https://leetcode.com/problems/detonate-the-maximum-bombs/,Medium,,,,No
+2251,Number of Flowers in Full Bloom,https://leetcode.com/problems/number-of-flowers-in-full-bloom/,Hard,,,,No
+2381,Shifting Letters II,https://leetcode.com/problems/shifting-letters-ii/,Medium,,,,No
+2410,Maximum Matching of Players With Trainers,https://leetcode.com/problems/maximum-matching-of-players-with-trainers/,Medium,,,,No
+2560,House Robber IV,https://leetcode.com/problems/house-robber-iv/,Medium,,,,No
+3380,Maximum Area Rectangle With Point Constraints I,https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i/,Medium,,,,No
+3432,Count Partitions with Even Sum Difference,https://leetcode.com/problems/count-partitions-with-even-sum-difference/,Easy,,,,No
+3453,Separate Squares I,https://leetcode.com/problems/separate-squares-i/,Medium,,,,No
+3484,Design Spreadsheet,https://leetcode.com/problems/design-spreadsheet/,Medium,,,,No
+3534,Path Existence Queries in a Graph II,https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/,Hard,,,,No

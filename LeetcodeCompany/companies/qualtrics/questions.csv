@@ -1,0 +1,39 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,,,,No
+71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,,,,No
+72,Edit Distance,https://leetcode.com/problems/edit-distance/,Medium,,,,No
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,62.5%,6m+,46.9%,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+176,Second Highest Salary,https://leetcode.com/problems/second-highest-salary/,Medium,,,,No
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
+221,Maximal Square,https://leetcode.com/problems/maximal-square/,Medium,62.5%,,50.0%,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
+332,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,Hard,,,,No
+400,Nth Digit,https://leetcode.com/problems/nth-digit/,Medium,,,,No
+412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,2.9%,,59.5%,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
+733,Flood Fill,https://leetcode.com/problems/flood-fill/,Easy,,,,No
+735,Asteroid Collision,https://leetcode.com/problems/asteroid-collision/,Medium,5.9%,6m+,47.1%,No
+946,Validate Stack Sequences,https://leetcode.com/problems/validate-stack-sequences/,Medium,,,,No
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,,,,No
+1197,Minimum Knight Moves,https://leetcode.com/problems/minimum-knight-moves/,Medium,,,,Yes
+1144,Decrease Elements To Make Array Zigzag,https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/,Medium,,,,No
+1706,Where Will the Ball Fall,https://leetcode.com/problems/where-will-the-ball-fall/,Medium,,,,No
+2273,Find Resultant Array After Removing Anagrams,https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/,Easy,,,,No
+1353,Maximum Number of Events That Can Be Attended,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/,Medium,,,,No
+1481,Least Number of Unique Integers after K Removals,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/,Medium,,,,No
+1636,Sort Array by Increasing Frequency,https://leetcode.com/problems/sort-array-by-increasing-frequency/,Easy,,,,No
+1704,Determine if String Halves Are Alike,https://leetcode.com/problems/determine-if-string-halves-are-alike/,Easy,,,,No
+1925,Count Square Sum Triples,https://leetcode.com/problems/count-square-sum-triples/,Easy,62.5%,6m+,77.1%,No
+2016,Maximum Difference Between Increasing Elements,https://leetcode.com/problems/maximum-difference-between-increasing-elements/,Easy,,,,No
+2062,Count Vowel Substrings of a String,https://leetcode.com/problems/count-vowel-substrings-of-a-string/,Easy,,,,No
+2432,The Employee That Worked on the Longest Task,https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/,Easy,,,,No
+2487,Remove Nodes From Linked List,https://leetcode.com/problems/remove-nodes-from-linked-list/,Medium,,,,No
+2547,Minimum Cost to Split an Array,https://leetcode.com/problems/minimum-cost-to-split-an-array/,Hard,,,,No
+2866,Beautiful Towers II,https://leetcode.com/problems/beautiful-towers-ii/,Medium,,,,No
+3386,Button with Longest Push Time,https://leetcode.com/problems/button-with-longest-push-time/,Easy,,,,No

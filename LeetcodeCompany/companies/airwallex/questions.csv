@@ -1,0 +1,16 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+45,Jump Game II,https://leetcode.com/problems/jump-game-ii/,Medium,,,,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
+61,Rotate List,https://leetcode.com/problems/rotate-list/,Medium,,,,No
+120,Triangle,https://leetcode.com/problems/triangle/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
+176,Second Highest Salary,https://leetcode.com/problems/second-highest-salary/,Medium,,,,No
+212,Word Search II,https://leetcode.com/problems/word-search-ii/,Hard,,,,No
+221,Maximal Square,https://leetcode.com/problems/maximal-square/,Medium,,,,No
+236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Medium,,,,No
+487,Max Consecutive Ones II,https://leetcode.com/problems/max-consecutive-ones-ii/,Medium,,,,Yes
+739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,100.0%,6m+,68.3%,No
+1275,Find Winner on a Tic Tac Toe Game,https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/,Easy,,,,No
+2137,Pour Water Between Buckets to Make Water Levels Equal,https://leetcode.com/problems/pour-water-between-buckets-to-make-water-levels-equal/,Medium,,,,Yes
+3338,Second Highest Salary II,https://leetcode.com/problems/second-highest-salary-ii/,Medium,,,,Yes

@@ -1,0 +1,13 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,62.5%,,38.6%,No
+48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
+520,Detect Capital,https://leetcode.com/problems/detect-capital/,Easy,,,,No
+752,Open the Lock,https://leetcode.com/problems/open-the-lock/,Medium,,,,No
+810,Chalkboard XOR Game,https://leetcode.com/problems/chalkboard-xor-game/,Hard,100.0%,6m+,65.6%,No
+849,Maximize Distance to Closest Person,https://leetcode.com/problems/maximize-distance-to-closest-person/,Medium,,,,No
+1671,Minimum Number of Removals to Make Mountain Array,https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/,Hard,,,,No
+2460,Apply Operations to an Array,https://leetcode.com/problems/apply-operations-to-an-array/,Easy,,,,No
+2825,Make String a Subsequence Using Cyclic Increments,https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/,Medium,,,,No

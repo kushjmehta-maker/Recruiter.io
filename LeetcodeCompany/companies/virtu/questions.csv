@@ -1,0 +1,12 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,2.3%,,,No
+162,Find Peak Element,https://leetcode.com/problems/find-peak-element/,Medium,,,,No
+221,Maximal Square,https://leetcode.com/problems/maximal-square/,Medium,,,,No
+231,Power of Two,https://leetcode.com/problems/power-of-two/,Easy,,,,No
+392,Is Subsequence,https://leetcode.com/problems/is-subsequence/,Easy,,,,No
+1180,Count Substrings with Only One Distinct Letter,https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/,Easy,87.5%,"6m,6m+",80.9%,Yes
+1196,How Many Apples Can You Put into the Basket,https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/,Easy,100.0%,"6m,6m+",67.0%,Yes
+1243,Array Transformation,https://leetcode.com/problems/array-transformation/,Easy,87.5%,"6m,6m+",53.6%,Yes
+1271,Hexspeak,https://leetcode.com/problems/hexspeak/,Easy,100.0%,6m+,58.4%,Yes
+1759,Count Number of Homogenous Substrings,https://leetcode.com/problems/count-number-of-homogenous-substrings/,Medium,87.5%,6m+,57.4%,No
+2772,Apply Operations to Make All Array Elements Equal to Zero,https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/,Medium,,,,No

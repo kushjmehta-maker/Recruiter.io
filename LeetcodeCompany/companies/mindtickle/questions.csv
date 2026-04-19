@@ -1,0 +1,26 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+34,Find First and Last Position of Element in Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
+46,Permutations,https://leetcode.com/problems/permutations/,Medium,,,,No
+59,Spiral Matrix II,https://leetcode.com/problems/spiral-matrix-ii/,Medium,,,,No
+95,Unique Binary Search Trees II,https://leetcode.com/problems/unique-binary-search-trees-ii/,Medium,,,,No
+139,Word Break,https://leetcode.com/problems/word-break/,Medium,,,,No
+206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No
+360,Sort Transformed Array,https://leetcode.com/problems/sort-transformed-array/,Medium,,,,Yes
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,,,,No
+403,Frog Jump,https://leetcode.com/problems/frog-jump/,Hard,,,,No
+438,Find All Anagrams in a String,https://leetcode.com/problems/find-all-anagrams-in-a-string/,Medium,,,,No
+525,Contiguous Array,https://leetcode.com/problems/contiguous-array/,Medium,,,,No
+739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,,,,No
+875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,,,,No
+890,Find and Replace Pattern,https://leetcode.com/problems/find-and-replace-pattern/,Medium,,,,No
+1011,Capacity To Ship Packages Within D Days,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/,Medium,100.0%,6m+,73.5%,No
+1094,Car Pooling,https://leetcode.com/problems/car-pooling/,Medium,,,,No
+1385,Find the Distance Value Between Two Arrays,https://leetcode.com/problems/find-the-distance-value-between-two-arrays/,Easy,,,,No
+1434,Number of Ways to Wear Different Hats to Each Other,https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/,Hard,100.0%,6m+,45.7%,No
+1537,Get the Maximum Score,https://leetcode.com/problems/get-the-maximum-score/,Hard,100.0%,6m+,40.8%,No
+1679,Max Number of K-Sum Pairs,https://leetcode.com/problems/max-number-of-k-sum-pairs/,Medium,,,,No
+1905,Count Sub Islands,https://leetcode.com/problems/count-sub-islands/,Medium,,,,No
+1982,Find Array Given Subset Sums,https://leetcode.com/problems/find-array-given-subset-sums/,Hard,100.0%,6m+,49.4%,No
+1985,Find the Kth Largest Integer in the Array,https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/,Medium,,,,No
+2825,Make String a Subsequence Using Cyclic Increments,https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/,Medium,,,,No

@@ -1,0 +1,102 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,3.4%,"3m,6m,6m+",38.5%,No
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,3.5%,6m+,70.4%,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
+16,3Sum Closest,https://leetcode.com/problems/3sum-closest/,Medium,,,,No
+17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,,,,No
+21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,62.5%,,67.9%,No
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,75.0%,6m+,58.8%,No
+35,Search Insert Position,https://leetcode.com/problems/search-insert-position/,Easy,,,,No
+38,Count and Say,https://leetcode.com/problems/count-and-say/,Medium,,,,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,2.4%,,,No
+45,Jump Game II,https://leetcode.com/problems/jump-game-ii/,Medium,,,,No
+46,Permutations,https://leetcode.com/problems/permutations/,Medium,,,,No
+48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,5.2%,,72.2%,No
+50,"Pow(x, n)",https://leetcode.com/problems/powx-n/,Medium,,,,No
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,3.7%,6m+,51.1%,No
+62,Unique Paths,https://leetcode.com/problems/unique-paths/,Medium,,,,No
+75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,,,,No
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,,,,No
+79,Word Search,https://leetcode.com/problems/word-search/,Medium,,,,No
+100,Same Tree,https://leetcode.com/problems/same-tree/,Easy,,,,No
+102,Binary Tree Level Order Traversal,https://leetcode.com/problems/binary-tree-level-order-traversal/,Medium,2.7%,,,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
+127,Word Ladder,https://leetcode.com/problems/word-ladder/,Hard,2.1%,6m+,44.9%,No
+138,Copy List with Random Pointer,https://leetcode.com/problems/copy-list-with-random-pointer/,Medium,5.1%,6m+,62.4%,No
+139,Word Break,https://leetcode.com/problems/word-break/,Medium,,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,5.8%,6m+,46.8%,No
+155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,,,,No
+162,Find Peak Element,https://leetcode.com/problems/find-peak-element/,Medium,2.8%,,,No
+167,Two Sum II - Input Array Is Sorted,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,Medium,,,,No
+168,Excel Sheet Column Title,https://leetcode.com/problems/excel-sheet-column-title/,Easy,,,,No
+171,Excel Sheet Column Number,https://leetcode.com/problems/excel-sheet-column-number/,Easy,3.6%,6m+,67.2%,No
+173,Binary Search Tree Iterator,https://leetcode.com/problems/binary-search-tree-iterator/,Medium,,,,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,5.1%,6m+,63.8%,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,,,,No
+208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,6.2%,6m+,69.2%,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,,,,No
+211,Design Add and Search Words Data Structure,https://leetcode.com/problems/design-add-and-search-words-data-structure/,Medium,3.7%,6m+,48.1%,No
+213,House Robber II,https://leetcode.com/problems/house-robber-ii/,Medium,2.0%,6m+,44.6%,No
+228,Summary Ranges,https://leetcode.com/problems/summary-ranges/,Easy,,,,No
+230,Kth Smallest Element in a BST,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,Medium,,,,No
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,,,,No
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,75.0%,6m+,52.5%,Yes
+266,Palindrome Permutation,https://leetcode.com/problems/palindrome-permutation/,Easy,6.8%,,68.6%,Yes
+285,Inorder Successor in BST,https://leetcode.com/problems/inorder-successor-in-bst/,Medium,6.2%,6m+,51.1%,Yes
+295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,3.5%,6m+,54.2%,No
+297,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,Hard,,,,No
+328,Odd Even Linked List,https://leetcode.com/problems/odd-even-linked-list/,Medium,,,,No
+336,Palindrome Pairs,https://leetcode.com/problems/palindrome-pairs/,Hard,,,,No
+337,House Robber III,https://leetcode.com/problems/house-robber-iii/,Medium,75.0%,6m+,55.6%,No
+347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,2.9%,6m+,65.8%,No
+359,Logger Rate Limiter,https://leetcode.com/problems/logger-rate-limiter/,Easy,5.3%,6m+,76.8%,Yes
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,4.7%,6m+,55.3%,No
+408,Valid Word Abbreviation,https://leetcode.com/problems/valid-word-abbreviation/,Easy,,,,Yes
+424,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Medium,1.6%,6m+,59.0%,No
+432,All O`one Data Structure,https://leetcode.com/problems/all-oone-data-structure/,Hard,,,,No
+451,Sort Characters By Frequency,https://leetcode.com/problems/sort-characters-by-frequency/,Medium,,,,No
+474,Ones and Zeroes,https://leetcode.com/problems/ones-and-zeroes/,Medium,,,,No
+494,Target Sum,https://leetcode.com/problems/target-sum/,Medium,,,,No
+503,Next Greater Element II,https://leetcode.com/problems/next-greater-element-ii/,Medium,,,,No
+518,Coin Change II,https://leetcode.com/problems/coin-change-ii/,Medium,,,,No
+526,Beautiful Arrangement,https://leetcode.com/problems/beautiful-arrangement/,Medium,,,,No
+529,Minesweeper,https://leetcode.com/problems/minesweeper/,Medium,,,,No
+621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,2.4%,,62.6%,No
+642,Design Search Autocomplete System,https://leetcode.com/problems/design-search-autocomplete-system/,Hard,,,,Yes
+647,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,Medium,,,,No
+696,Count Binary Substrings,https://leetcode.com/problems/count-binary-substrings/,Easy,,,,No
+697,Degree of an Array,https://leetcode.com/problems/degree-of-an-array/,Easy,,,,No
+713,Subarray Product Less Than K,https://leetcode.com/problems/subarray-product-less-than-k/,Medium,,,,No
+721,Accounts Merge,https://leetcode.com/problems/accounts-merge/,Medium,3.0%,,,No
+726,Number of Atoms,https://leetcode.com/problems/number-of-atoms/,Hard,75.0%,6m+,65.1%,No
+787,Cheapest Flights Within K Stops,https://leetcode.com/problems/cheapest-flights-within-k-stops/,Medium,,,,No
+852,Peak Index in a Mountain Array,https://leetcode.com/problems/peak-index-in-a-mountain-array/,Medium,,,,No
+904,Fruit Into Baskets,https://leetcode.com/problems/fruit-into-baskets/,Medium,,,,No
+934,Shortest Bridge,https://leetcode.com/problems/shortest-bridge/,Medium,75.0%,6m+,59.3%,No
+983,Minimum Cost For Tickets,https://leetcode.com/problems/minimum-cost-for-tickets/,Medium,,,,No
+992,Subarrays with K Different Integers,https://leetcode.com/problems/subarrays-with-k-different-integers/,Hard,,,,No
+1010,Pairs of Songs With Total Durations Divisible by 60,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/,Medium,,,,No
+1156,Swap For Longest Repeated Character Substring,https://leetcode.com/problems/swap-for-longest-repeated-character-substring/,Medium,,,,No
+1155,Number of Dice Rolls With Target Sum,https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/,Medium,,,,No
+1200,Minimum Absolute Difference,https://leetcode.com/problems/minimum-absolute-difference/,Easy,,,,No
+1235,Maximum Profit in Job Scheduling,https://leetcode.com/problems/maximum-profit-in-job-scheduling/,Hard,,,,No
+1268,Search Suggestions System,https://leetcode.com/problems/search-suggestions-system/,Medium,87.5%,6m+,65.2%,No
+1326,Minimum Number of Taps to Open to Water a Garden,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/,Hard,,,,No
+1368,Minimum Cost to Make at Least One Valid Path in a Grid,https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/,Hard,75.0%,6m+,70.9%,No
+1448,Count Good Nodes in Binary Tree,https://leetcode.com/problems/count-good-nodes-in-binary-tree/,Medium,75.0%,6m+,73.8%,No
+1466,Reorder Routes to Make All Paths Lead to the City Zero,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/,Medium,,,,No
+1472,Design Browser History,https://leetcode.com/problems/design-browser-history/,Medium,,,,No
+1741,Find Total Time Spent by Each Employee,https://leetcode.com/problems/find-total-time-spent-by-each-employee/,Easy,,,,No
+1797,Design Authentication Manager,https://leetcode.com/problems/design-authentication-manager/,Medium,100.0%,"30d,3m,6m,6m+",58.4%,No
+1804,Implement Trie II (Prefix Tree),https://leetcode.com/problems/implement-trie-ii-prefix-tree/,Medium,,,,Yes
+1925,Count Square Sum Triples,https://leetcode.com/problems/count-square-sum-triples/,Easy,,,,No
+2115,Find All Possible Recipes from Given Supplies,https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/,Medium,62.5%,,56.8%,No
+2296,Design a Text Editor,https://leetcode.com/problems/design-a-text-editor/,Hard,,,,No
+2326,Spiral Matrix IV,https://leetcode.com/problems/spiral-matrix-iv/,Medium,62.5%,,82.3%,No
+2380,Time Needed to Rearrange a Binary String,https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/,Medium,,,,No
+2484,Count Palindromic Subsequences,https://leetcode.com/problems/count-palindromic-subsequences/,Hard,,,,No
+2815,Max Pair Sum in an Array,https://leetcode.com/problems/max-pair-sum-in-an-array/,Easy,,,,No
+3588,Find Maximum Area of a Triangle,https://leetcode.com/problems/find-maximum-area-of-a-triangle/,Medium,100.0%,6m+,29.0%,No
+3883,Count Non Decreasing Arrays With Given Digit Sums,https://leetcode.com/problems/count-non-decreasing-arrays-with-given-digit-sums/,Hard,,,,No

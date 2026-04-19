@@ -1,0 +1,6 @@
+ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,100.0%,6m+,37.3%,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,,,,No
+135,Candy,https://leetcode.com/problems/candy/,Hard,100.0%,6m+,47.9%,No
+898,Bitwise ORs of Subarrays,https://leetcode.com/problems/bitwise-ors-of-subarrays/,Medium,,,,No
+978,Longest Turbulent Subarray,https://leetcode.com/problems/longest-turbulent-subarray/,Medium,,,,No
