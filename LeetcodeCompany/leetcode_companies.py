@@ -668,6 +668,8 @@ def main():
     clear_checkpoint()
 
     print(f"\nDone! Open the HTML file in your browser:")
+
+
     print(f"  open \"{html_path}\"")
 
 
