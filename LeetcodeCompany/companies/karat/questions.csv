@@ -5,10 +5,10 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,50.0%,6m+,40.5%,No
 68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,9.7%,"6m,6m+",50.4%,No
 72,Edit Distance,https://leetcode.com/problems/edit-distance/,Medium,,,,No
-79,Word Search,https://leetcode.com/problems/word-search/,Medium,7.8%,6m+,46.8%,No
+79,Word Search,https://leetcode.com/problems/word-search/,Medium,7.9%,6m+,46.8%,No
 210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,,,,No
-221,Maximal Square,https://leetcode.com/problems/maximal-square/,Medium,4.8%,6m+,50.0%,No
-383,Ransom Note,https://leetcode.com/problems/ransom-note/,Easy,4.0%,"6m,6m+",65.6%,No
+221,Maximal Square,https://leetcode.com/problems/maximal-square/,Medium,4.7%,6m+,50.0%,No
+383,Ransom Note,https://leetcode.com/problems/ransom-note/,Easy,4.1%,"6m,6m+",65.6%,No
 432,All O`one Data Structure,https://leetcode.com/problems/all-oone-data-structure/,Hard,,,,No
 605,Can Place Flowers,https://leetcode.com/problems/can-place-flowers/,Easy,,,,No
 646,Maximum Length of Pair Chain,https://leetcode.com/problems/maximum-length-of-pair-chain/,Medium,,,,No

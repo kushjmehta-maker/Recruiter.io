@@ -1,6 +1,6 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,100.0%,6m+,38.5%,No
-5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,4.3%,6m+,37.3%,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,4.4%,6m+,37.3%,No
 14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
 62,Unique Paths,https://leetcode.com/problems/unique-paths/,Medium,,,,No
 125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,,,,No

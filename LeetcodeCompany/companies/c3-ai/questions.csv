@@ -2,7 +2,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
 11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,75.0%,6m+,59.5%,No
 12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,,,,No
-20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,1.9%,6m+,43.7%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,2.0%,6m+,43.7%,No
 22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,75.0%,6m+,78.2%,No
 31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,,,,No
 42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,3.8%,6m+,66.8%,No

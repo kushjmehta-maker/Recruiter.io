@@ -14,7 +14,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 268,Missing Number,https://leetcode.com/problems/missing-number/,Easy,,,,No
 347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,1.9%,6m+,65.8%,No
 404,Sum of Left Leaves,https://leetcode.com/problems/sum-of-left-leaves/,Easy,,,,No
-419,Battleships in a Board,https://leetcode.com/problems/battleships-in-a-board/,Medium,4.2%,6m+,77.3%,No
+419,Battleships in a Board,https://leetcode.com/problems/battleships-in-a-board/,Medium,4.3%,6m+,77.3%,No
 496,Next Greater Element I,https://leetcode.com/problems/next-greater-element-i/,Easy,,,,No
 844,Backspace String Compare,https://leetcode.com/problems/backspace-string-compare/,Easy,87.5%,6m+,49.8%,No
 940,Distinct Subsequences II,https://leetcode.com/problems/distinct-subsequences-ii/,Hard,,,,No

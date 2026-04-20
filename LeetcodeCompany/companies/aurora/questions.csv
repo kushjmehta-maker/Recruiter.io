@@ -1,11 +1,11 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 67,Add Binary,https://leetcode.com/problems/add-binary/,Easy,,,,No
 79,Word Search,https://leetcode.com/problems/word-search/,Medium,,,,No
-146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,6.0%,"3m,6m,6m+",46.8%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,5.9%,"3m,6m,6m+",46.8%,No
 167,Two Sum II - Input Array Is Sorted,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,Medium,,,,No
 200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
-210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,3.2%,,,No
-212,Word Search II,https://leetcode.com/problems/word-search-ii/,Hard,4.2%,6m+,38.1%,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,3.1%,,,No
+212,Word Search II,https://leetcode.com/problems/word-search-ii/,Hard,4.1%,6m+,38.1%,No
 239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,3.5%,"3m,6m",48.4%,No
 253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,4.5%,,52.5%,Yes
 286,Walls and Gates,https://leetcode.com/problems/walls-and-gates/,Medium,,,,Yes

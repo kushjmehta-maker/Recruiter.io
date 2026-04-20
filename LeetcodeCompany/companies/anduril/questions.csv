@@ -8,7 +8,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,2.3%,6m+,44.1%,No
 34,Find First and Last Position of Element in Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Medium,,,,No
 42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
-48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
+48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,2.2%,,,No
 49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,5.1%,"6m,6m+",72.2%,No
 53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
 54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,4.2%,6m+,56.1%,No
@@ -18,10 +18,10 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 93,Restore IP Addresses,https://leetcode.com/problems/restore-ip-addresses/,Medium,,,,No
 94,Binary Tree Inorder Traversal,https://leetcode.com/problems/binary-tree-inorder-traversal/,Easy,,,,No
 110,Balanced Binary Tree,https://leetcode.com/problems/balanced-binary-tree/,Easy,,,,No
-114,Flatten Binary Tree to Linked List,https://leetcode.com/problems/flatten-binary-tree-to-linked-list/,Medium,4.5%,6m+,70.2%,No
+114,Flatten Binary Tree to Linked List,https://leetcode.com/problems/flatten-binary-tree-to-linked-list/,Medium,4.6%,6m+,70.2%,No
 130,Surrounded Regions,https://leetcode.com/problems/surrounded-regions/,Medium,,,,No
-140,Word Break II,https://leetcode.com/problems/word-break-ii/,Hard,3.7%,,,No
-146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.2%,,,No
+140,Word Break II,https://leetcode.com/problems/word-break-ii/,Hard,3.8%,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.1%,,,No
 150,Evaluate Reverse Polish Notation,https://leetcode.com/problems/evaluate-reverse-polish-notation/,Medium,3.7%,6m+,57.0%,No
 190,Reverse Bits,https://leetcode.com/problems/reverse-bits/,Easy,,,,No
 191,Number of 1 Bits,https://leetcode.com/problems/number-of-1-bits/,Easy,,,,No
@@ -38,15 +38,15 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
 240,Search a 2D Matrix II,https://leetcode.com/problems/search-a-2d-matrix-ii/,Medium,,,,No
 243,Shortest Word Distance,https://leetcode.com/problems/shortest-word-distance/,Easy,10.0%,"3m,6m,6m+",66.2%,Yes
-244,Shortest Word Distance II,https://leetcode.com/problems/shortest-word-distance-ii/,Medium,8.8%,"6m,6m+",62.7%,Yes
+244,Shortest Word Distance II,https://leetcode.com/problems/shortest-word-distance-ii/,Medium,8.6%,"6m,6m+",62.7%,Yes
 245,Shortest Word Distance III,https://leetcode.com/problems/shortest-word-distance-iii/,Medium,,,,Yes
 253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,5.5%,6m+,52.5%,Yes
 261,Graph Valid Tree,https://leetcode.com/problems/graph-valid-tree/,Medium,,,,Yes
 269,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,Hard,,,,Yes
 283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,1.6%,6m+,63.5%,No
-287,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,Medium,3.1%,6m+,64.0%,No
+287,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,Medium,3.2%,6m+,64.0%,No
 289,Game of Life,https://leetcode.com/problems/game-of-life/,Medium,62.5%,"6m,6m+",72.3%,No
-295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,6.3%,"6m,6m+",54.2%,No
+295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,6.4%,"6m,6m+",54.2%,No
 305,Number of Islands II,https://leetcode.com/problems/number-of-islands-ii/,Hard,,,,Yes
 309,Best Time to Buy and Sell Stock with Cooldown,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/,Medium,,,,No
 314,Binary Tree Vertical Order Traversal,https://leetcode.com/problems/binary-tree-vertical-order-traversal/,Medium,,,,Yes
@@ -63,10 +63,10 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 647,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,Medium,4.5%,6m+,72.5%,No
 684,Redundant Connection,https://leetcode.com/problems/redundant-connection/,Medium,,,,No
 692,Top K Frequent Words,https://leetcode.com/problems/top-k-frequent-words/,Medium,,,,No
-694,Number of Distinct Islands,https://leetcode.com/problems/number-of-distinct-islands/,Medium,6.0%,6m+,62.7%,Yes
+694,Number of Distinct Islands,https://leetcode.com/problems/number-of-distinct-islands/,Medium,6.2%,6m+,62.7%,Yes
 695,Max Area of Island,https://leetcode.com/problems/max-area-of-island/,Medium,50.0%,,73.8%,No
 696,Count Binary Substrings,https://leetcode.com/problems/count-binary-substrings/,Easy,,,,No
-721,Accounts Merge,https://leetcode.com/problems/accounts-merge/,Medium,4.4%,6m+,60.9%,No
+721,Accounts Merge,https://leetcode.com/problems/accounts-merge/,Medium,4.3%,6m+,60.9%,No
 735,Asteroid Collision,https://leetcode.com/problems/asteroid-collision/,Medium,,,,No
 739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,6.0%,6m+,68.3%,No
 701,Insert into a Binary Search Tree,https://leetcode.com/problems/insert-into-a-binary-search-tree/,Medium,,,,No

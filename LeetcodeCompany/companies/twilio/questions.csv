@@ -5,7 +5,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,75.0%,6m+,65.5%,No
 41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/,Hard,,,,No
 44,Wildcard Matching,https://leetcode.com/problems/wildcard-matching/,Hard,,,,No
-49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,2.9%,,72.2%,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,2.6%,,72.2%,No
 56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
 68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,,,,No
 123,Best Time to Buy and Sell Stock III,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/,Hard,,,,No
@@ -13,8 +13,8 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
 217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,,,,No
 253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
-332,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,Hard,6.5%,,,No
-347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,1.6%,6m+,65.8%,No
+332,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,Hard,6.1%,,,No
+347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,1.2%,6m+,65.8%,No
 460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,,,,No
 560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
 636,Exclusive Time of Functions,https://leetcode.com/problems/exclusive-time-of-functions/,Medium,,,,No

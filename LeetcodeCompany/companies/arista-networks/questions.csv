@@ -39,8 +39,8 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 115,Distinct Subsequences,https://leetcode.com/problems/distinct-subsequences/,Hard,,,,No
 118,Pascal's Triangle,https://leetcode.com/problems/pascals-triangle/,Easy,,,,No
 121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,1.9%,,56.4%,No
-124,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Hard,3.8%,6m+,42.0%,No
-125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,3.1%,,52.8%,No
+124,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Hard,3.7%,6m+,42.0%,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,3.2%,,52.8%,No
 127,Word Ladder,https://leetcode.com/problems/word-ladder/,Hard,,,,No
 138,Copy List with Random Pointer,https://leetcode.com/problems/copy-list-with-random-pointer/,Medium,5.7%,6m+,62.4%,No
 139,Word Break,https://leetcode.com/problems/word-break/,Medium,2.5%,,49.1%,No
@@ -52,9 +52,9 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 203,Remove Linked List Elements,https://leetcode.com/problems/remove-linked-list-elements/,Easy,6.5%,6m+,53.8%,No
 204,Count Primes,https://leetcode.com/problems/count-primes/,Medium,,,,No
 208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,4.3%,6m+,69.2%,No
-210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,4.9%,"6m,6m+",55.0%,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,4.8%,"6m,6m+",55.0%,No
 217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,,,,No
-219,Contains Duplicate II,https://leetcode.com/problems/contains-duplicate-ii/,Easy,4.3%,6m+,50.8%,No
+219,Contains Duplicate II,https://leetcode.com/problems/contains-duplicate-ii/,Easy,4.4%,6m+,50.8%,No
 221,Maximal Square,https://leetcode.com/problems/maximal-square/,Medium,,,,No
 223,Rectangle Area,https://leetcode.com/problems/rectangle-area/,Medium,,,,No
 225,Implement Stack using Queues,https://leetcode.com/problems/implement-stack-using-queues/,Easy,,,,No

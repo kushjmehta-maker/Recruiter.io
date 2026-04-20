@@ -8,13 +8,13 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,8.1%,"6m,6m+",46.8%,No
 150,Evaluate Reverse Polish Notation,https://leetcode.com/problems/evaluate-reverse-polish-notation/,Medium,,,,No
 155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,,,,No
-256,Paint House,https://leetcode.com/problems/paint-house/,Medium,6.5%,6m+,64.3%,Yes
+256,Paint House,https://leetcode.com/problems/paint-house/,Medium,6.3%,6m+,64.3%,Yes
 286,Walls and Gates,https://leetcode.com/problems/walls-and-gates/,Medium,,,,Yes
 348,Design Tic-Tac-Toe,https://leetcode.com/problems/design-tic-tac-toe/,Medium,,,,Yes
 354,Russian Doll Envelopes,https://leetcode.com/problems/russian-doll-envelopes/,Hard,,,,No
 486,Predict the Winner,https://leetcode.com/problems/predict-the-winner/,Medium,,,,No
-535,Encode and Decode TinyURL,https://leetcode.com/problems/encode-and-decode-tinyurl/,Medium,7.0%,6m+,86.6%,No
-588,Design In-Memory File System,https://leetcode.com/problems/design-in-memory-file-system/,Hard,8.5%,6m+,48.4%,Yes
+535,Encode and Decode TinyURL,https://leetcode.com/problems/encode-and-decode-tinyurl/,Medium,7.1%,6m+,86.6%,No
+588,Design In-Memory File System,https://leetcode.com/problems/design-in-memory-file-system/,Hard,8.3%,6m+,48.4%,Yes
 721,Accounts Merge,https://leetcode.com/problems/accounts-merge/,Medium,,,,No
 489,Robot Room Cleaner,https://leetcode.com/problems/robot-room-cleaner/,Hard,,,,Yes
 843,Guess the Word,https://leetcode.com/problems/guess-the-word/,Hard,,,,No

@@ -2,7 +2,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
 11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
 56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,62.5%,6m+,51.1%,No
-121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,4.1%,6m+,56.4%,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,4.2%,6m+,56.4%,No
 205,Isomorphic Strings,https://leetcode.com/problems/isomorphic-strings/,Easy,6.5%,6m+,48.0%,No
 207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,,,,No
 210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,2.4%,6m+,55.0%,No

@@ -2,14 +2,14 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,50.0%,,57.1%,No
 2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
 3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
-4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,2.3%,6m+,45.9%,No
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,2.4%,6m+,45.9%,No
 5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,3.2%,,37.3%,No
 6,Zigzag Conversion,https://leetcode.com/problems/zigzag-conversion/,Medium,,,,No
 11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
 14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
 15,3Sum,https://leetcode.com/problems/3sum/,Medium,75.0%,6m+,38.6%,No
 17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,,,,No
-20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,3.5%,6m+,43.7%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,3.6%,6m+,43.7%,No
 23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,,,,No
 25,Reverse Nodes in k-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,Hard,75.0%,6m+,65.3%,No
 33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,3.3%,6m+,44.1%,No
@@ -41,25 +41,25 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,4.8%,6m+,46.8%,No
 155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,,,,No
 160,Intersection of Two Linked Lists,https://leetcode.com/problems/intersection-of-two-linked-lists/,Easy,,,,No
-169,Majority Element,https://leetcode.com/problems/majority-element/,Easy,1.5%,6m+,66.1%,No
+169,Majority Element,https://leetcode.com/problems/majority-element/,Easy,1.6%,6m+,66.1%,No
 176,Second Highest Salary,https://leetcode.com/problems/second-highest-salary/,Medium,,,,No
 200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,2.5%,,,No
 202,Happy Number,https://leetcode.com/problems/happy-number/,Easy,,,,No
 204,Count Primes,https://leetcode.com/problems/count-primes/,Medium,,,,No
 208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,,,,No
 209,Minimum Size Subarray Sum,https://leetcode.com/problems/minimum-size-subarray-sum/,Medium,2.2%,6m+,51.0%,No
-215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,2.1%,,68.8%,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,2.0%,,68.8%,No
 218,The Skyline Problem,https://leetcode.com/problems/the-skyline-problem/,Hard,,,,No
 221,Maximal Square,https://leetcode.com/problems/maximal-square/,Medium,,,,No
 238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,1.7%,6m+,68.6%,No
-239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,4.7%,6m+,48.4%,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,4.6%,6m+,48.4%,No
 242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
 253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
 259,3Sum Smaller,https://leetcode.com/problems/3sum-smaller/,Medium,,,,Yes
 300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,75.0%,6m+,59.0%,No
 303,Range Sum Query - Immutable,https://leetcode.com/problems/range-sum-query-immutable/,Easy,,,,No
 383,Ransom Note,https://leetcode.com/problems/ransom-note/,Easy,,,,No
-390,Elimination Game,https://leetcode.com/problems/elimination-game/,Medium,5.0%,6m+,45.9%,No
+390,Elimination Game,https://leetcode.com/problems/elimination-game/,Medium,5.1%,6m+,45.9%,No
 396,Rotate Function,https://leetcode.com/problems/rotate-function/,Medium,,,,No
 407,Trapping Rain Water II,https://leetcode.com/problems/trapping-rain-water-ii/,Hard,,,,No
 416,Partition Equal Subset Sum,https://leetcode.com/problems/partition-equal-subset-sum/,Medium,,,,No

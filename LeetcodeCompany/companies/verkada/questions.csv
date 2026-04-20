@@ -1,5 +1,5 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
-12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,3.7%,"3m,6m",70.4%,No
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,3.8%,"3m,6m",70.4%,No
 23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,62.5%,,58.8%,No
 36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,3.2%,6m,64.1%,No
 42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
@@ -10,14 +10,14 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 72,Edit Distance,https://leetcode.com/problems/edit-distance/,Medium,,,,No
 73,Set Matrix Zeroes,https://leetcode.com/problems/set-matrix-zeroes/,Medium,,,,No
 79,Word Search,https://leetcode.com/problems/word-search/,Medium,,,,No
-88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,2.1%,6m+,54.4%,No
-146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,4.3%,"6m,6m+",46.8%,No
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,2.2%,6m+,54.4%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,4.2%,"6m,6m+",46.8%,No
 191,Number of 1 Bits,https://leetcode.com/problems/number-of-1-bits/,Easy,87.5%,6m+,76.3%,No
 227,Basic Calculator II,https://leetcode.com/problems/basic-calculator-ii/,Medium,5.8%,6m+,46.6%,No
 253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
 286,Walls and Gates,https://leetcode.com/problems/walls-and-gates/,Medium,,,,Yes
-435,Non-overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/,Medium,5.8%,"3m,6m,6m+",56.7%,No
-460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,3.8%,,48.6%,No
+435,Non-overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/,Medium,5.7%,"3m,6m,6m+",56.7%,No
+460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,3.7%,,48.6%,No
 543,Diameter of Binary Tree,https://leetcode.com/problems/diameter-of-binary-tree/,Easy,2.2%,6m+,65.0%,No
 759,Employee Free Time,https://leetcode.com/problems/employee-free-time/,Hard,,,,Yes
 772,Basic Calculator III,https://leetcode.com/problems/basic-calculator-iii/,Hard,75.0%,6m+,53.1%,Yes

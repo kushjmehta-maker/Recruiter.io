@@ -5,11 +5,11 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,37.5%,,58.8%,No
 34,Find First and Last Position of Element in Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Medium,2.6%,6m+,48.3%,No
 35,Search Insert Position,https://leetcode.com/problems/search-insert-position/,Easy,,,,No
-38,Count and Say,https://leetcode.com/problems/count-and-say/,Medium,8.0%,6m+,62.3%,No
+38,Count and Say,https://leetcode.com/problems/count-and-say/,Medium,8.1%,6m+,62.3%,No
 39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,2.3%,6m+,76.1%,No
 43,Multiply Strings,https://leetcode.com/problems/multiply-strings/,Medium,50.0%,6m+,43.5%,No
 46,Permutations,https://leetcode.com/problems/permutations/,Medium,,,,No
-56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,3.2%,6m+,51.1%,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,3.3%,6m+,51.1%,No
 57,Insert Interval,https://leetcode.com/problems/insert-interval/,Medium,,,,No
 63,Unique Paths II,https://leetcode.com/problems/unique-paths-ii/,Medium,2.7%,6m+,44.1%,No
 68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,37.5%,,50.4%,No
@@ -26,23 +26,23 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,50.0%,6m+,52.5%,Yes
 269,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,Hard,,,,Yes
 277,Find the Celebrity,https://leetcode.com/problems/find-the-celebrity/,Medium,37.5%,6m+,48.9%,Yes
-282,Expression Add Operators,https://leetcode.com/problems/expression-add-operators/,Hard,7.5%,"6m,6m+",42.8%,No
+282,Expression Add Operators,https://leetcode.com/problems/expression-add-operators/,Hard,7.6%,"6m,6m+",42.8%,No
 295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,5.7%,6m+,54.2%,No
-311,Sparse Matrix Multiplication,https://leetcode.com/problems/sparse-matrix-multiplication/,Medium,7.9%,"3m,6m,6m+",69.2%,Yes
+311,Sparse Matrix Multiplication,https://leetcode.com/problems/sparse-matrix-multiplication/,Medium,7.7%,"3m,6m,6m+",69.2%,Yes
 322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,4.5%,"6m,6m+",47.9%,No
 323,Number of Connected Components in an Undirected Graph,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/,Medium,,,,Yes
-332,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,Hard,8.3%,"30d,3m,6m,6m+",44.3%,No
+332,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,Hard,8.2%,"30d,3m,6m,6m+",44.3%,No
 347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,1.1%,6m+,65.8%,No
 359,Logger Rate Limiter,https://leetcode.com/problems/logger-rate-limiter/,Easy,,,,Yes
-392,Is Subsequence,https://leetcode.com/problems/is-subsequence/,Easy,4.5%,6m+,48.8%,No
+392,Is Subsequence,https://leetcode.com/problems/is-subsequence/,Easy,4.4%,6m+,48.8%,No
 410,Split Array Largest Sum,https://leetcode.com/problems/split-array-largest-sum/,Hard,4.2%,6m+,59.8%,No
 432,All O`one Data Structure,https://leetcode.com/problems/all-oone-data-structure/,Hard,,,,No
-443,String Compression,https://leetcode.com/problems/string-compression/,Medium,3.8%,6m+,59.5%,No
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,3.9%,6m+,59.5%,No
 450,Delete Node in a BST,https://leetcode.com/problems/delete-node-in-a-bst/,Medium,,,,No
 460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,,,,No
-465,Optimal Account Balancing,https://leetcode.com/problems/optimal-account-balancing/,Hard,10.0%,"30d,3m,6m,6m+",50.3%,Yes
+465,Optimal Account Balancing,https://leetcode.com/problems/optimal-account-balancing/,Hard,9.8%,"30d,3m,6m,6m+",50.3%,Yes
 490,The Maze,https://leetcode.com/problems/the-maze/,Medium,4.3%,6m+,60.3%,Yes
-494,Target Sum,https://leetcode.com/problems/target-sum/,Medium,3.9%,6m+,51.8%,No
+494,Target Sum,https://leetcode.com/problems/target-sum/,Medium,3.8%,6m+,51.8%,No
 540,Single Element in a Sorted Array,https://leetcode.com/problems/single-element-in-a-sorted-array/,Medium,,,,No
 547,Number of Provinces,https://leetcode.com/problems/number-of-provinces/,Medium,1.2%,,70.0%,No
 571,Find Median Given Frequency of Numbers,https://leetcode.com/problems/find-median-given-frequency-of-numbers/,Hard,,6m+,42.3%,Yes
@@ -51,7 +51,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 642,Design Search Autocomplete System,https://leetcode.com/problems/design-search-autocomplete-system/,Hard,8.3%,6m+,49.7%,Yes
 719,Find K-th Smallest Pair Distance,https://leetcode.com/problems/find-k-th-smallest-pair-distance/,Hard,,,,No
 720,Longest Word in Dictionary,https://leetcode.com/problems/longest-word-in-dictionary/,Medium,3.0%,6m+,54.5%,No
-721,Accounts Merge,https://leetcode.com/problems/accounts-merge/,Medium,5.0%,6m+,60.9%,No
+721,Accounts Merge,https://leetcode.com/problems/accounts-merge/,Medium,4.9%,6m+,60.9%,No
 723,Candy Crush,https://leetcode.com/problems/candy-crush/,Medium,6.4%,6m+,77.3%,Yes
 759,Employee Free Time,https://leetcode.com/problems/employee-free-time/,Hard,50.0%,6m+,72.8%,Yes
 767,Reorganize String,https://leetcode.com/problems/reorganize-string/,Medium,75.0%,6m+,56.8%,No

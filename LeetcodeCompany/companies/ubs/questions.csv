@@ -5,9 +5,9 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
 12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,,,,No
 14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
-20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,1.9%,6m+,43.7%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,2.0%,6m+,43.7%,No
 42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
-49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,2.9%,6m+,72.2%,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,3.0%,6m+,72.2%,No
 53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
 76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,,,,No
 121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No

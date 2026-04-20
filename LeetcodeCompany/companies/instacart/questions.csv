@@ -6,7 +6,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 34,Find First and Last Position of Element in Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Medium,6.4%,6m+,48.3%,No
 35,Search Insert Position,https://leetcode.com/problems/search-insert-position/,Easy,,,,No
 36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,62.5%,6m+,64.1%,No
-44,Wildcard Matching,https://leetcode.com/problems/wildcard-matching/,Hard,5.0%,6m+,31.3%,No
+44,Wildcard Matching,https://leetcode.com/problems/wildcard-matching/,Hard,5.1%,6m+,31.3%,No
 48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
 49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,5.1%,6m,72.2%,No
 50,"Pow(x, n)",https://leetcode.com/problems/powx-n/,Medium,,,,No

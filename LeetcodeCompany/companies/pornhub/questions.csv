@@ -57,7 +57,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 577,Employee Bonus,https://leetcode.com/problems/employee-bonus/,Easy,,,,No
 605,Can Place Flowers,https://leetcode.com/problems/can-place-flowers/,Easy,,,,No
 673,Number of Longest Increasing Subsequence,https://leetcode.com/problems/number-of-longest-increasing-subsequence/,Medium,,,,No
-678,Valid Parenthesis String,https://leetcode.com/problems/valid-parenthesis-string/,Medium,3.4%,"3m,6m",39.8%,No
+678,Valid Parenthesis String,https://leetcode.com/problems/valid-parenthesis-string/,Medium,3.3%,"3m,6m",39.8%,No
 684,Redundant Connection,https://leetcode.com/problems/redundant-connection/,Medium,,,,No
 703,Kth Largest Element in a Stream,https://leetcode.com/problems/kth-largest-element-in-a-stream/,Easy,,,,No
 904,Fruit Into Baskets,https://leetcode.com/problems/fruit-into-baskets/,Medium,,,,No

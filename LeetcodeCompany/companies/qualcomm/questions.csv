@@ -1,22 +1,22 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
-1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,4.1%,6m+,57.1%,No
-3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,3.4%,6m+,38.5%,No
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,4.2%,6m+,57.1%,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,3.5%,6m+,38.5%,No
 4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,62.5%,6m+,45.9%,No
 5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
 7,Reverse Integer,https://leetcode.com/problems/reverse-integer/,Medium,62.5%,6m+,31.5%,No
-8,String to Integer (atoi),https://leetcode.com/problems/string-to-integer-atoi/,Medium,4.0%,6m+,20.6%,No
-9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,3.0%,6m+,60.2%,No
+8,String to Integer (atoi),https://leetcode.com/problems/string-to-integer-atoi/,Medium,4.1%,6m+,20.6%,No
+9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,3.1%,6m+,60.2%,No
 11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,50.0%,,59.5%,No
 12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,,,,No
 13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,,,,No
-14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,2.3%,,,No
-15,3Sum,https://leetcode.com/problems/3sum/,Medium,2.5%,"3m,6m",38.6%,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,2.4%,,,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,2.6%,"3m,6m",38.6%,No
 18,4Sum,https://leetcode.com/problems/4sum/,Medium,,,,No
 19,Remove Nth Node From End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Medium,87.5%,6m+,51.0%,No
-20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,4.7%,6m+,43.7%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,4.8%,6m+,43.7%,No
 21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,3.8%,,,No
 22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,50.0%,,78.2%,No
-23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,4.3%,,58.8%,No
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,4.4%,,58.8%,No
 24,Swap Nodes in Pairs,https://leetcode.com/problems/swap-nodes-in-pairs/,Medium,75.0%,6m+,68.9%,No
 25,Reverse Nodes in k-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,Hard,75.0%,6m+,65.3%,No
 26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,2.5%,6m+,62.2%,No
@@ -28,7 +28,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,,,,No
 40,Combination Sum II,https://leetcode.com/problems/combination-sum-ii/,Medium,,,,No
 42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,2.7%,6m+,66.8%,No
-46,Permutations,https://leetcode.com/problems/permutations/,Medium,3.1%,6m+,81.6%,No
+46,Permutations,https://leetcode.com/problems/permutations/,Medium,3.2%,6m+,81.6%,No
 48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,87.5%,6m+,79.3%,No
 49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
 50,"Pow(x, n)",https://leetcode.com/problems/powx-n/,Medium,75.0%,6m+,38.2%,No
@@ -44,7 +44,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 74,Search a 2D Matrix,https://leetcode.com/problems/search-a-2d-matrix/,Medium,,,,No
 80,Remove Duplicates from Sorted Array II,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/,Medium,,,,No
 85,Maximal Rectangle,https://leetcode.com/problems/maximal-rectangle/,Hard,,,,No
-88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,2.7%,6m+,54.4%,No
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,2.8%,6m+,54.4%,No
 90,Subsets II,https://leetcode.com/problems/subsets-ii/,Medium,,,,No
 91,Decode Ways,https://leetcode.com/problems/decode-ways/,Medium,,,,No
 92,Reverse Linked List II,https://leetcode.com/problems/reverse-linked-list-ii/,Medium,,,,No
@@ -67,7 +67,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 162,Find Peak Element,https://leetcode.com/problems/find-peak-element/,Medium,,,,No
 166,Fraction to Recurring Decimal,https://leetcode.com/problems/fraction-to-recurring-decimal/,Medium,,,,No
 167,Two Sum II - Input Array Is Sorted,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,Medium,,,,No
-169,Majority Element,https://leetcode.com/problems/majority-element/,Easy,2.0%,6m+,66.1%,No
+169,Majority Element,https://leetcode.com/problems/majority-element/,Easy,2.1%,6m+,66.1%,No
 189,Rotate Array,https://leetcode.com/problems/rotate-array/,Medium,,,,No
 190,Reverse Bits,https://leetcode.com/problems/reverse-bits/,Easy,6.5%,6m+,67.7%,No
 191,Number of 1 Bits,https://leetcode.com/problems/number-of-1-bits/,Easy,62.5%,6m+,76.3%,No
@@ -76,12 +76,12 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 203,Remove Linked List Elements,https://leetcode.com/problems/remove-linked-list-elements/,Easy,,,,No
 205,Isomorphic Strings,https://leetcode.com/problems/isomorphic-strings/,Easy,,,,No
 206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,6.2%,"3m,6m,6m+",80.2%,No
-210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,2.5%,6m+,55.0%,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,2.4%,6m+,55.0%,No
 215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,3.0%,6m+,68.8%,No
 223,Rectangle Area,https://leetcode.com/problems/rectangle-area/,Medium,,,,No
 225,Implement Stack using Queues,https://leetcode.com/problems/implement-stack-using-queues/,Easy,50.0%,,69.3%,No
 231,Power of Two,https://leetcode.com/problems/power-of-two/,Easy,4.6%,6m+,49.8%,No
-232,Implement Queue using Stacks,https://leetcode.com/problems/implement-queue-using-stacks/,Easy,3.9%,6m+,69.3%,No
+232,Implement Queue using Stacks,https://leetcode.com/problems/implement-queue-using-stacks/,Easy,4.0%,6m+,69.3%,No
 234,Palindrome Linked List,https://leetcode.com/problems/palindrome-linked-list/,Easy,,,,No
 236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Medium,,,,No
 237,Delete Node in a Linked List,https://leetcode.com/problems/delete-node-in-a-linked-list/,Medium,,,,No
@@ -94,13 +94,13 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,,,,No
 322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No
 338,Counting Bits,https://leetcode.com/problems/counting-bits/,Easy,,,,No
-342,Power of Four,https://leetcode.com/problems/power-of-four/,Easy,4.2%,6m+,51.7%,No
-344,Reverse String,https://leetcode.com/problems/reverse-string/,Easy,4.2%,6m+,80.5%,No
+342,Power of Four,https://leetcode.com/problems/power-of-four/,Easy,4.3%,6m+,51.7%,No
+344,Reverse String,https://leetcode.com/problems/reverse-string/,Easy,4.3%,6m+,80.5%,No
 346,Moving Average from Data Stream,https://leetcode.com/problems/moving-average-from-data-stream/,Easy,,,,Yes
 348,Design Tic-Tac-Toe,https://leetcode.com/problems/design-tic-tac-toe/,Medium,,,,Yes
 349,Intersection of Two Arrays,https://leetcode.com/problems/intersection-of-two-arrays/,Easy,,,,No
 371,Sum of Two Integers,https://leetcode.com/problems/sum-of-two-integers/,Medium,,,,No
-387,First Unique Character in a String,https://leetcode.com/problems/first-unique-character-in-a-string/,Easy,2.4%,6m+,65.0%,No
+387,First Unique Character in a String,https://leetcode.com/problems/first-unique-character-in-a-string/,Easy,2.5%,6m+,65.0%,No
 392,Is Subsequence,https://leetcode.com/problems/is-subsequence/,Easy,62.5%,6m+,48.8%,No
 399,Evaluate Division,https://leetcode.com/problems/evaluate-division/,Medium,,,,No
 407,Trapping Rain Water II,https://leetcode.com/problems/trapping-rain-water-ii/,Hard,62.5%,6m+,64.0%,No

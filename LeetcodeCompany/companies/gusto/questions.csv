@@ -2,7 +2,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 149,Max Points on a Line,https://leetcode.com/problems/max-points-on-a-line/,Hard,,,,No
 198,House Robber,https://leetcode.com/problems/house-robber/,Medium,62.5%,6m,52.9%,No
 221,Maximal Square,https://leetcode.com/problems/maximal-square/,Medium,,,,No
-273,Integer to English Words,https://leetcode.com/problems/integer-to-english-words/,Hard,11.1%,"6m,6m+",34.8%,No
+273,Integer to English Words,https://leetcode.com/problems/integer-to-english-words/,Hard,11.2%,"6m,6m+",34.8%,No
 584,Find Customer Referee,https://leetcode.com/problems/find-customer-referee/,Easy,,,,No
 616,Add Bold Tag in String,https://leetcode.com/problems/add-bold-tag-in-string/,Medium,13.8%,"6m,6m+",51.4%,Yes
 635,Design Log Storage System,https://leetcode.com/problems/design-log-storage-system/,Medium,,,,Yes

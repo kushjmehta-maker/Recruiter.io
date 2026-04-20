@@ -1,12 +1,12 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
-14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,5.3%,6m+,47.1%,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,5.1%,6m+,47.1%,No
 48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
-68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,5.2%,6m+,50.4%,No
-297,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,Hard,7.9%,6m+,60.3%,No
-380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,6.8%,"3m,6m,6m+",55.3%,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,4.9%,6m+,50.4%,No
+297,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,Hard,7.6%,6m+,60.3%,No
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,6.5%,"3m,6m,6m+",55.3%,No
 435,Non-overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/,Medium,,,,No
 449,Serialize and Deserialize BST,https://leetcode.com/problems/serialize-and-deserialize-bst/,Medium,,,,No
-560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,4.2%,6m+,46.8%,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,4.0%,6m+,46.8%,No
 717,1-bit and 2-bit Characters,https://leetcode.com/problems/1-bit-and-2-bit-characters/,Easy,,6m+,49.5%,No
 795,Number of Subarrays with Bounded Maximum,https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/,Medium,62.5%,6m+,54.7%,No
 855,Exam Room,https://leetcode.com/problems/exam-room/,Medium,62.5%,6m+,43.2%,No

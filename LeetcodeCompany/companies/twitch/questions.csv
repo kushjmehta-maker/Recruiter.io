@@ -3,12 +3,12 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,,,,No
 17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,,,,No
 53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
-56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,4.6%,6m+,51.1%,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,4.5%,6m+,51.1%,No
 67,Add Binary,https://leetcode.com/problems/add-binary/,Easy,,,,No
 72,Edit Distance,https://leetcode.com/problems/edit-distance/,Medium,,,,No
 125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,,,,No
 139,Word Break,https://leetcode.com/problems/word-break/,Medium,,,,No
-146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,7.1%,6m+,46.8%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,7.0%,6m+,46.8%,No
 156,Binary Tree Upside Down,https://leetcode.com/problems/binary-tree-upside-down/,Medium,,,,Yes
 295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,100.0%,6m+,54.2%,No
 345,Reverse Vowels of a String,https://leetcode.com/problems/reverse-vowels-of-a-string/,Easy,2.5%,6m+,60.6%,No

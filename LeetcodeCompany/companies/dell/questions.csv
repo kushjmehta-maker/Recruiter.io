@@ -39,7 +39,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 645,Set Mismatch,https://leetcode.com/problems/set-mismatch/,Easy,,,,No
 647,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,Medium,,,,No
 670,Maximum Swap,https://leetcode.com/problems/maximum-swap/,Medium,,,,No
-696,Count Binary Substrings,https://leetcode.com/problems/count-binary-substrings/,Easy,7.9%,"6m,6m+",70.2%,No
+696,Count Binary Substrings,https://leetcode.com/problems/count-binary-substrings/,Easy,8.0%,"6m,6m+",70.2%,No
 715,Range Module,https://leetcode.com/problems/range-module/,Hard,,,,No
 724,Find Pivot Index,https://leetcode.com/problems/find-pivot-index/,Easy,,,,No
 704,Binary Search,https://leetcode.com/problems/binary-search/,Easy,,,,No

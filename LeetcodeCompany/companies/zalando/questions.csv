@@ -7,7 +7,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 85,Maximal Rectangle,https://leetcode.com/problems/maximal-rectangle/,Hard,,,,No
 94,Binary Tree Inorder Traversal,https://leetcode.com/problems/binary-tree-inorder-traversal/,Easy,,,,No
 146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
-179,Largest Number,https://leetcode.com/problems/largest-number/,Medium,3.4%,6m+,42.6%,No
+179,Largest Number,https://leetcode.com/problems/largest-number/,Medium,3.3%,6m+,42.6%,No
 200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
 208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,,,,No
 344,Reverse String,https://leetcode.com/problems/reverse-string/,Easy,,,,No

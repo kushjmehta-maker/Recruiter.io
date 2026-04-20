@@ -5,10 +5,10 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
 68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,,,,No
 85,Maximal Rectangle,https://leetcode.com/problems/maximal-rectangle/,Hard,,,,No
-115,Distinct Subsequences,https://leetcode.com/problems/distinct-subsequences/,Hard,2.8%,6m+,51.5%,No
+115,Distinct Subsequences,https://leetcode.com/problems/distinct-subsequences/,Hard,2.7%,6m+,51.5%,No
 174,Dungeon Game,https://leetcode.com/problems/dungeon-game/,Hard,,,,No
 401,Binary Watch,https://leetcode.com/problems/binary-watch/,Easy,,,,No
-592,Fraction Addition and Subtraction,https://leetcode.com/problems/fraction-addition-and-subtraction/,Medium,5.6%,6m+,66.4%,No
+592,Fraction Addition and Subtraction,https://leetcode.com/problems/fraction-addition-and-subtraction/,Medium,5.5%,6m+,66.4%,No
 647,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,Medium,,,,No
 749,Contain Virus,https://leetcode.com/problems/contain-virus/,Hard,,,,No
 828,Count Unique Characters of All Substrings of a Given String,https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/,Hard,,,,No

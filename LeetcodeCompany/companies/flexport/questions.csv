@@ -1,6 +1,6 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
-17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,7.2%,6m+,65.5%,No
+17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,7.3%,6m+,65.5%,No
 33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
 38,Count and Say,https://leetcode.com/problems/count-and-say/,Medium,,,,No
 56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
@@ -14,7 +14,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 713,Subarray Product Less Than K,https://leetcode.com/problems/subarray-product-less-than-k/,Medium,3.4%,6m+,53.9%,No
 721,Accounts Merge,https://leetcode.com/problems/accounts-merge/,Medium,,,,No
 726,Number of Atoms,https://leetcode.com/problems/number-of-atoms/,Hard,,,,No
-729,My Calendar I,https://leetcode.com/problems/my-calendar-i/,Medium,6.3%,6m+,58.2%,No
+729,My Calendar I,https://leetcode.com/problems/my-calendar-i/,Medium,6.4%,6m+,58.2%,No
 767,Reorganize String,https://leetcode.com/problems/reorganize-string/,Medium,,,,No
 948,Bag of Tokens,https://leetcode.com/problems/bag-of-tokens/,Medium,75.0%,6m+,59.5%,No
 981,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/,Medium,62.5%,6m+,49.7%,No

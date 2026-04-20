@@ -16,10 +16,10 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 162,Find Peak Element,https://leetcode.com/problems/find-peak-element/,Medium,,,,No
 189,Rotate Array,https://leetcode.com/problems/rotate-array/,Medium,,,,No
 212,Word Search II,https://leetcode.com/problems/word-search-ii/,Hard,,,,No
-238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,2.2%,6m+,68.6%,No
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,2.3%,6m+,68.6%,No
 268,Missing Number,https://leetcode.com/problems/missing-number/,Easy,,,,No
-273,Integer to English Words,https://leetcode.com/problems/integer-to-english-words/,Hard,6.6%,6m+,34.8%,No
-289,Game of Life,https://leetcode.com/problems/game-of-life/,Medium,4.7%,6m+,72.3%,No
+273,Integer to English Words,https://leetcode.com/problems/integer-to-english-words/,Hard,6.7%,6m+,34.8%,No
+289,Game of Life,https://leetcode.com/problems/game-of-life/,Medium,4.8%,6m+,72.3%,No
 322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No
 341,Flatten Nested List Iterator,https://leetcode.com/problems/flatten-nested-list-iterator/,Medium,75.0%,6m+,65.6%,No
 346,Moving Average from Data Stream,https://leetcode.com/problems/moving-average-from-data-stream/,Easy,,,,Yes

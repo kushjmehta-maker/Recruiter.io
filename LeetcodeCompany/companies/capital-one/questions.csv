@@ -3,7 +3,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,62.5%,6m+,47.9%,No
 3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,2.1%,6m+,38.5%,No
 5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
-9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,2.8%,6m+,60.2%,No
+9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,2.9%,6m+,60.2%,No
 10,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,Hard,,,,No
 11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,1.3%,"6m,6m+",59.5%,No
 13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,,,,No
@@ -16,13 +16,13 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 38,Count and Say,https://leetcode.com/problems/count-and-say/,Medium,,,,No
 48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,4.4%,6m+,79.3%,No
 54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,5.1%,6m+,56.1%,No
-56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,2.0%,6m+,51.1%,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,2.1%,6m+,51.1%,No
 59,Spiral Matrix II,https://leetcode.com/problems/spiral-matrix-ii/,Medium,,,,No
 64,Minimum Path Sum,https://leetcode.com/problems/minimum-path-sum/,Medium,,,,No
 68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,8.5%,"30d,3m,6m,6m+",50.4%,No
 71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,5.3%,"6m,6m+",50.0%,No
 75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,,,,No
-84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,3.6%,"6m,6m+",49.3%,No
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,3.7%,"6m,6m+",49.3%,No
 121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,3.2%,6m+,56.4%,No
 122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,37.5%,6m+,70.7%,No
 123,Best Time to Buy and Sell Stock III,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/,Hard,,,,No
@@ -45,22 +45,22 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 287,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,Medium,,,,No
 312,Burst Balloons,https://leetcode.com/problems/burst-balloons/,Hard,,,,No
 322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,37.5%,6m+,47.9%,No
-332,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,Hard,3.0%,,44.3%,No
+332,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,Hard,2.9%,,44.3%,No
 345,Reverse Vowels of a String,https://leetcode.com/problems/reverse-vowels-of-a-string/,Easy,,,,No
 349,Intersection of Two Arrays,https://leetcode.com/problems/intersection-of-two-arrays/,Easy,,,,No
 397,Integer Replacement,https://leetcode.com/problems/integer-replacement/,Medium,,,,No
 403,Frog Jump,https://leetcode.com/problems/frog-jump/,Hard,,,,No
 412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
-415,Add Strings,https://leetcode.com/problems/add-strings/,Easy,3.4%,6m+,52.1%,No
+415,Add Strings,https://leetcode.com/problems/add-strings/,Easy,3.5%,6m+,52.1%,No
 417,Pacific Atlantic Water Flow,https://leetcode.com/problems/pacific-atlantic-water-flow/,Medium,,,,No
-435,Non-overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/,Medium,1.9%,6m+,56.7%,No
+435,Non-overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/,Medium,1.8%,6m+,56.7%,No
 475,Heaters,https://leetcode.com/problems/heaters/,Medium,,,,No
 482,License Key Formatting,https://leetcode.com/problems/license-key-formatting/,Easy,,,,No
 488,Zuma Game,https://leetcode.com/problems/zuma-game/,Hard,,,,No
 494,Target Sum,https://leetcode.com/problems/target-sum/,Medium,,,,No
-539,Minimum Time Difference,https://leetcode.com/problems/minimum-time-difference/,Medium,5.0%,6m+,62.5%,No
-546,Remove Boxes,https://leetcode.com/problems/remove-boxes/,Hard,5.9%,6m+,49.3%,No
-560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,0.7%,6m,46.8%,No
+539,Minimum Time Difference,https://leetcode.com/problems/minimum-time-difference/,Medium,5.1%,6m+,62.5%,No
+546,Remove Boxes,https://leetcode.com/problems/remove-boxes/,Hard,6.0%,6m+,49.3%,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,0.8%,6m,46.8%,No
 621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,,,,No
 647,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,Medium,1.4%,"3m,6m",72.5%,No
 657,Robot Return to Origin,https://leetcode.com/problems/robot-return-to-origin/,Easy,,,,No
@@ -103,7 +103,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 2043,Simple Bank System,https://leetcode.com/problems/simple-bank-system/,Medium,87.5%,"30d,3m,6m,6m+",69.8%,No
 2115,Find All Possible Recipes from Given Supplies,https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/,Medium,,,,No
 2141,Maximum Running Time of N Computers,https://leetcode.com/problems/maximum-running-time-of-n-computers/,Hard,62.5%,"3m,6m",56.4%,No
-2169,Count Operations to Obtain Zero,https://leetcode.com/problems/count-operations-to-obtain-zero/,Easy,9.8%,6m+,79.8%,No
+2169,Count Operations to Obtain Zero,https://leetcode.com/problems/count-operations-to-obtain-zero/,Easy,9.7%,6m+,79.8%,No
 2221,Find Triangular Sum of an Array,https://leetcode.com/problems/find-triangular-sum-of-an-array/,Medium,,,,No
 2251,Number of Flowers in Full Bloom,https://leetcode.com/problems/number-of-flowers-in-full-bloom/,Hard,37.5%,6m+,57.7%,No
 2237,Count Positions on Street With Required Brightness,https://leetcode.com/problems/count-positions-on-street-with-required-brightness/,Medium,,,,Yes

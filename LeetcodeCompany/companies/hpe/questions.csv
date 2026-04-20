@@ -3,7 +3,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
 14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
 18,4Sum,https://leetcode.com/problems/4sum/,Medium,,,,No
-21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,1.5%,6m+,67.9%,No
+21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,1.6%,6m+,67.9%,No
 26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,,,,No
 32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,,,,No
 39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,2.0%,,76.1%,No

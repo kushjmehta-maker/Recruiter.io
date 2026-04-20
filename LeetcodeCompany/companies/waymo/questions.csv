@@ -9,11 +9,11 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 64,Minimum Path Sum,https://leetcode.com/problems/minimum-path-sum/,Medium,,,,No
 68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,4.1%,6m+,50.4%,No
 69,Sqrt(x),https://leetcode.com/problems/sqrtx/,Easy,,,,No
-84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,2.2%,6m+,49.3%,No
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,2.3%,6m+,49.3%,No
 85,Maximal Rectangle,https://leetcode.com/problems/maximal-rectangle/,Hard,,,,No
 139,Word Break,https://leetcode.com/problems/word-break/,Medium,,,,No
 146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
-149,Max Points on a Line,https://leetcode.com/problems/max-points-on-a-line/,Hard,3.9%,6m+,30.2%,No
+149,Max Points on a Line,https://leetcode.com/problems/max-points-on-a-line/,Hard,4.0%,6m+,30.2%,No
 162,Find Peak Element,https://leetcode.com/problems/find-peak-element/,Medium,2.9%,6m+,46.8%,No
 191,Number of 1 Bits,https://leetcode.com/problems/number-of-1-bits/,Easy,,,,No
 200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,4.1%,6m+,63.8%,No
@@ -36,14 +36,14 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 323,Number of Connected Components in an Undirected Graph,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/,Medium,,,,Yes
 337,House Robber III,https://leetcode.com/problems/house-robber-iii/,Medium,,,,No
 348,Design Tic-Tac-Toe,https://leetcode.com/problems/design-tic-tac-toe/,Medium,62.5%,6m+,58.7%,Yes
-359,Logger Rate Limiter,https://leetcode.com/problems/logger-rate-limiter/,Easy,6.5%,,76.8%,Yes
+359,Logger Rate Limiter,https://leetcode.com/problems/logger-rate-limiter/,Easy,6.4%,,76.8%,Yes
 373,Find K Pairs with Smallest Sums,https://leetcode.com/problems/find-k-pairs-with-smallest-sums/,Medium,,,,No
 394,Decode String,https://leetcode.com/problems/decode-string/,Medium,,,,No
 410,Split Array Largest Sum,https://leetcode.com/problems/split-array-largest-sum/,Hard,,,,No
 419,Battleships in a Board,https://leetcode.com/problems/battleships-in-a-board/,Medium,,,,No
 433,Minimum Genetic Mutation,https://leetcode.com/problems/minimum-genetic-mutation/,Medium,,,,No
 499,The Maze III,https://leetcode.com/problems/the-maze-iii/,Hard,,,,Yes
-631,Design Excel Sum Formula,https://leetcode.com/problems/design-excel-sum-formula/,Hard,6.9%,6m+,39.8%,Yes
+631,Design Excel Sum Formula,https://leetcode.com/problems/design-excel-sum-formula/,Hard,7.1%,6m+,39.8%,Yes
 715,Range Module,https://leetcode.com/problems/range-module/,Hard,,,,No
 778,Swim in Rising Water,https://leetcode.com/problems/swim-in-rising-water/,Hard,,,,No
 622,Design Circular Queue,https://leetcode.com/problems/design-circular-queue/,Medium,,,,No

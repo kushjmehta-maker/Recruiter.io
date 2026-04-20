@@ -1,13 +1,13 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
-1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,2.2%,6m+,57.1%,No
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,2.3%,6m+,57.1%,No
 2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,25.0%,,47.9%,No
 5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,25.0%,6m+,37.3%,No
-12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,1.6%,6m+,70.4%,No
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,1.7%,6m+,70.4%,No
 13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,25.0%,6m+,66.2%,No
 18,4Sum,https://leetcode.com/problems/4sum/,Medium,2.0%,6m+,40.0%,No
 22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,,,,No
 23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,2.4%,6m+,58.8%,No
-31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,5.3%,6m+,44.7%,No
+31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,5.4%,6m+,44.7%,No
 34,Find First and Last Position of Element in Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Medium,,,,No
 36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,,,,No
 37,Sudoku Solver,https://leetcode.com/problems/sudoku-solver/,Hard,37.5%,6m+,65.4%,No
@@ -22,45 +22,45 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,5.1%,6m+,49.3%,No
 113,Path Sum II,https://leetcode.com/problems/path-sum-ii/,Medium,,,,No
 122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,,,,No
-124,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Hard,10.5%,"6m,6m+",42.0%,No
+124,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Hard,10.4%,"6m,6m+",42.0%,No
 126,Word Ladder II,https://leetcode.com/problems/word-ladder-ii/,Hard,,,,No
 146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,4.9%,6m+,46.8%,No
 162,Find Peak Element,https://leetcode.com/problems/find-peak-element/,Medium,,,,No
 164,Maximum Gap,https://leetcode.com/problems/maximum-gap/,Medium,3.7%,6m+,51.4%,No
 200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,6.1%,6m+,63.8%,No
 207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,3.3%,6m+,50.8%,No
-208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,5.0%,6m+,69.2%,No
-209,Minimum Size Subarray Sum,https://leetcode.com/problems/minimum-size-subarray-sum/,Medium,3.7%,6m+,51.0%,No
-210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,7.9%,6m+,55.0%,No
-211,Design Add and Search Words Data Structure,https://leetcode.com/problems/design-add-and-search-words-data-structure/,Medium,4.2%,6m+,48.1%,No
-212,Word Search II,https://leetcode.com/problems/word-search-ii/,Hard,4.3%,6m+,38.1%,No
+208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,4.9%,6m+,69.2%,No
+209,Minimum Size Subarray Sum,https://leetcode.com/problems/minimum-size-subarray-sum/,Medium,3.8%,6m+,51.0%,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,7.8%,6m+,55.0%,No
+211,Design Add and Search Words Data Structure,https://leetcode.com/problems/design-add-and-search-words-data-structure/,Medium,4.1%,6m+,48.1%,No
+212,Word Search II,https://leetcode.com/problems/word-search-ii/,Hard,4.2%,6m+,38.1%,No
 215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
 224,Basic Calculator,https://leetcode.com/problems/basic-calculator/,Hard,7.0%,6m+,46.5%,No
 227,Basic Calculator II,https://leetcode.com/problems/basic-calculator-ii/,Medium,7.3%,6m+,46.6%,No
 239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,5.9%,"6m,6m+",48.4%,No
 286,Walls and Gates,https://leetcode.com/problems/walls-and-gates/,Medium,12.6%,"30d,3m,6m,6m+",63.8%,Yes
-296,Best Meeting Point,https://leetcode.com/problems/best-meeting-point/,Hard,9.4%,6m+,61.4%,Yes
+296,Best Meeting Point,https://leetcode.com/problems/best-meeting-point/,Hard,9.3%,6m+,61.4%,Yes
 297,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,Hard,7.2%,6m+,60.3%,No
 304,Range Sum Query 2D - Immutable,https://leetcode.com/problems/range-sum-query-2d-immutable/,Medium,25.0%,6m+,57.8%,No
 305,Number of Islands II,https://leetcode.com/problems/number-of-islands-ii/,Hard,,,,Yes
-314,Binary Tree Vertical Order Traversal,https://leetcode.com/problems/binary-tree-vertical-order-traversal/,Medium,4.9%,6m+,57.7%,Yes
-317,Shortest Distance from All Buildings,https://leetcode.com/problems/shortest-distance-from-all-buildings/,Hard,11.3%,6m+,44.8%,Yes
+314,Binary Tree Vertical Order Traversal,https://leetcode.com/problems/binary-tree-vertical-order-traversal/,Medium,4.8%,6m+,57.7%,Yes
+317,Shortest Distance from All Buildings,https://leetcode.com/problems/shortest-distance-from-all-buildings/,Hard,11.2%,6m+,44.8%,Yes
 322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No
 329,Longest Increasing Path in a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,Hard,10.3%,"3m,6m,6m+",56.3%,No
 347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,25.0%,6m+,65.8%,No
 348,Design Tic-Tac-Toe,https://leetcode.com/problems/design-tic-tac-toe/,Medium,,,,Yes
-380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,3.0%,6m+,55.3%,No
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,2.9%,6m+,55.3%,No
 424,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Medium,,,,No
 438,Find All Anagrams in a String,https://leetcode.com/problems/find-all-anagrams-in-a-string/,Medium,,,,No
-456,132 Pattern,https://leetcode.com/problems/132-pattern/,Medium,4.4%,"3m,6m",34.5%,No
-460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,3.0%,6m+,48.6%,No
+456,132 Pattern,https://leetcode.com/problems/132-pattern/,Medium,4.5%,"3m,6m",34.5%,No
+460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,2.9%,6m+,48.6%,No
 480,Sliding Window Median,https://leetcode.com/problems/sliding-window-median/,Hard,37.5%,6m+,38.9%,No
-542,01 Matrix,https://leetcode.com/problems/01-matrix/,Medium,4.6%,6m+,53.3%,No
+542,01 Matrix,https://leetcode.com/problems/01-matrix/,Medium,4.7%,6m+,53.3%,No
 543,Diameter of Binary Tree,https://leetcode.com/problems/diameter-of-binary-tree/,Easy,,,,No
 547,Number of Provinces,https://leetcode.com/problems/number-of-provinces/,Medium,,,,No
 1730,Shortest Path to Get Food,https://leetcode.com/problems/shortest-path-to-get-food/,Medium,37.5%,6m+,57.1%,Yes
 556,Next Greater Element III,https://leetcode.com/problems/next-greater-element-iii/,Medium,9.5%,6m+,35.1%,No
-588,Design In-Memory File System,https://leetcode.com/problems/design-in-memory-file-system/,Hard,9.3%,6m+,48.4%,Yes
+588,Design In-Memory File System,https://leetcode.com/problems/design-in-memory-file-system/,Hard,9.2%,6m+,48.4%,Yes
 642,Design Search Autocomplete System,https://leetcode.com/problems/design-search-autocomplete-system/,Hard,25.0%,6m+,49.7%,Yes
 643,Maximum Average Subarray I,https://leetcode.com/problems/maximum-average-subarray-i/,Easy,,,,No
 658,Find K Closest Elements,https://leetcode.com/problems/find-k-closest-elements/,Medium,7.8%,6m+,49.4%,No
@@ -73,7 +73,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 826,Most Profit Assigning Work,https://leetcode.com/problems/most-profit-assigning-work/,Medium,75.0%,6m+,56.1%,No
 827,Making A Large Island,https://leetcode.com/problems/making-a-large-island/,Hard,50.0%,"6m,6m+",56.3%,No
 839,Similar String Groups,https://leetcode.com/problems/similar-string-groups/,Hard,25.0%,6m+,56.1%,No
-854,K-Similar Strings,https://leetcode.com/problems/k-similar-strings/,Hard,8.3%,6m+,40.6%,No
+854,K-Similar Strings,https://leetcode.com/problems/k-similar-strings/,Hard,8.2%,6m+,40.6%,No
 859,Buddy Strings,https://leetcode.com/problems/buddy-strings/,Easy,50.0%,"6m,6m+",33.9%,No
 875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,50.0%,"6m,6m+",49.7%,No
 924,Minimize Malware Spread,https://leetcode.com/problems/minimize-malware-spread/,Hard,37.5%,6m+,42.9%,No

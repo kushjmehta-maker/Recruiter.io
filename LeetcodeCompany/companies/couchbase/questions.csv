@@ -4,7 +4,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
 36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,,,,No
 78,Subsets,https://leetcode.com/problems/subsets/,Medium,,,,No
-146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.2%,6m+,46.8%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.1%,6m+,46.8%,No
 153,Find Minimum in Rotated Sorted Array,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,Medium,,,,No
 205,Isomorphic Strings,https://leetcode.com/problems/isomorphic-strings/,Easy,,,,No
 237,Delete Node in a Linked List,https://leetcode.com/problems/delete-node-in-a-linked-list/,Medium,,,,No

@@ -2,7 +2,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 16,3Sum Closest,https://leetcode.com/problems/3sum-closest/,Medium,,,,No
 37,Sudoku Solver,https://leetcode.com/problems/sudoku-solver/,Hard,,,,No
 42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,2.5%,6m+,66.8%,No
-146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,4.3%,6m+,46.8%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,4.2%,6m+,46.8%,No
 215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
 238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,3.0%,6m+,68.6%,No
 253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes

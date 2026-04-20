@@ -8,11 +8,11 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
 56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
 68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,,,,No
-76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,4.6%,6m+,46.9%,No
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,4.5%,6m+,46.9%,No
 126,Word Ladder II,https://leetcode.com/problems/word-ladder-ii/,Hard,,,,No
 127,Word Ladder,https://leetcode.com/problems/word-ladder/,Hard,,,,No
 134,Gas Station,https://leetcode.com/problems/gas-station/,Medium,,,,No
-146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,4.3%,6m+,46.8%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,4.2%,6m+,46.8%,No
 159,Longest Substring with At Most Two Distinct Characters,https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/,Medium,,,,Yes
 173,Binary Search Tree Iterator,https://leetcode.com/problems/binary-search-tree-iterator/,Medium,,,,No
 200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,3.5%,6m+,63.8%,No
@@ -23,16 +23,16 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 273,Integer to English Words,https://leetcode.com/problems/integer-to-english-words/,Hard,,,,No
 295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,,,,No
 332,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,Hard,,,,No
-347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,3.5%,6m+,65.8%,No
+347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,3.6%,6m+,65.8%,No
 355,Design Twitter,https://leetcode.com/problems/design-twitter/,Medium,,,,No
 359,Logger Rate Limiter,https://leetcode.com/problems/logger-rate-limiter/,Easy,,,,Yes
-380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,6.6%,6m+,55.3%,No
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,6.5%,6m+,55.3%,No
 381,Insert Delete GetRandom O(1) - Duplicates allowed,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/,Hard,,,,No
 443,String Compression,https://leetcode.com/problems/string-compression/,Medium,,,,No
 560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
 647,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,Medium,62.5%,6m+,72.5%,No
 678,Valid Parenthesis String,https://leetcode.com/problems/valid-parenthesis-string/,Medium,,,,No
-697,Degree of an Array,https://leetcode.com/problems/degree-of-an-array/,Easy,6.5%,6m+,58.2%,No
+697,Degree of an Array,https://leetcode.com/problems/degree-of-an-array/,Easy,6.6%,6m+,58.2%,No
 735,Asteroid Collision,https://leetcode.com/problems/asteroid-collision/,Medium,87.5%,6m+,47.1%,No
 489,Robot Room Cleaner,https://leetcode.com/problems/robot-room-cleaner/,Hard,,,,Yes
 845,Longest Mountain in Array,https://leetcode.com/problems/longest-mountain-in-array/,Medium,87.5%,6m+,41.8%,No

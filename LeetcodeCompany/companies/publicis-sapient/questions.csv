@@ -8,7 +8,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,87.5%,6m+,47.1%,No
 20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
 22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,,,,No
-42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,4.6%,6m+,66.8%,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,4.4%,6m+,66.8%,No
 48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
 49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,75.0%,,72.2%,No
 56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No

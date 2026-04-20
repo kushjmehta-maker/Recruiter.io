@@ -1,12 +1,12 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
 4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
-12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,2.2%,6m+,70.4%,No
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,2.3%,6m+,70.4%,No
 13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,62.5%,6m+,66.2%,No
 20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
 32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,62.5%,6m+,38.0%,No
 33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
-46,Permutations,https://leetcode.com/problems/permutations/,Medium,2.7%,6m+,81.6%,No
+46,Permutations,https://leetcode.com/problems/permutations/,Medium,2.8%,6m+,81.6%,No
 64,Minimum Path Sum,https://leetcode.com/problems/minimum-path-sum/,Medium,,,,No
 80,Remove Duplicates from Sorted Array II,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/,Medium,,,,No
 146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.8%,6m+,46.8%,No
@@ -22,7 +22,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 277,Find the Celebrity,https://leetcode.com/problems/find-the-celebrity/,Medium,,,,Yes
 309,Best Time to Buy and Sell Stock with Cooldown,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/,Medium,,,,No
 322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No
-332,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,Hard,5.2%,6m+,44.3%,No
+332,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,Hard,5.1%,6m+,44.3%,No
 362,Design Hit Counter,https://leetcode.com/problems/design-hit-counter/,Medium,,,,Yes
 365,Water and Jug Problem,https://leetcode.com/problems/water-and-jug-problem/,Medium,,,,No
 636,Exclusive Time of Functions,https://leetcode.com/problems/exclusive-time-of-functions/,Medium,,,,No

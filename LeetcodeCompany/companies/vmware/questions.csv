@@ -11,7 +11,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 101,Symmetric Tree,https://leetcode.com/problems/symmetric-tree/,Easy,,,,No
 102,Binary Tree Level Order Traversal,https://leetcode.com/problems/binary-tree-level-order-traversal/,Medium,,,,No
 138,Copy List with Random Pointer,https://leetcode.com/problems/copy-list-with-random-pointer/,Medium,,,,No
-142,Linked List Cycle II,https://leetcode.com/problems/linked-list-cycle-ii/,Medium,4.9%,6m+,57.2%,No
+142,Linked List Cycle II,https://leetcode.com/problems/linked-list-cycle-ii/,Medium,5.0%,6m+,57.2%,No
 146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,100.0%,6m+,46.8%,No
 160,Intersection of Two Linked Lists,https://leetcode.com/problems/intersection-of-two-linked-lists/,Easy,,,,No
 189,Rotate Array,https://leetcode.com/problems/rotate-array/,Medium,,,,No

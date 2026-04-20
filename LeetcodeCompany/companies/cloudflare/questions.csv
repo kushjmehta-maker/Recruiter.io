@@ -1,5 +1,5 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
-15,3Sum,https://leetcode.com/problems/3sum/,Medium,5.5%,"6m,6m+",38.6%,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,5.6%,"6m,6m+",38.6%,No
 18,4Sum,https://leetcode.com/problems/4sum/,Medium,6.4%,6m+,40.0%,No
 23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,3.9%,"3m,6m",58.8%,No
 78,Subsets,https://leetcode.com/problems/subsets/,Medium,,,,No
@@ -8,7 +8,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,2.7%,"30d,3m,6m",50.8%,No
 289,Game of Life,https://leetcode.com/problems/game-of-life/,Medium,,,,No
 359,Logger Rate Limiter,https://leetcode.com/problems/logger-rate-limiter/,Easy,6.9%,6m+,76.8%,Yes
-362,Design Hit Counter,https://leetcode.com/problems/design-hit-counter/,Medium,7.5%,6m+,69.6%,Yes
+362,Design Hit Counter,https://leetcode.com/problems/design-hit-counter/,Medium,7.4%,6m+,69.6%,Yes
 394,Decode String,https://leetcode.com/problems/decode-string/,Medium,,,,No
 412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
 437,Path Sum III,https://leetcode.com/problems/path-sum-iii/,Medium,,,,No

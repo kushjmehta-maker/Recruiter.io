@@ -5,7 +5,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 127,Word Ladder,https://leetcode.com/problems/word-ladder/,Hard,6.2%,6m+,44.9%,No
 189,Rotate Array,https://leetcode.com/problems/rotate-array/,Medium,3.9%,"6m,6m+",44.4%,No
 190,Reverse Bits,https://leetcode.com/problems/reverse-bits/,Easy,,,,No
-191,Number of 1 Bits,https://leetcode.com/problems/number-of-1-bits/,Easy,10.1%,6m+,76.3%,No
+191,Number of 1 Bits,https://leetcode.com/problems/number-of-1-bits/,Easy,10.2%,6m+,76.3%,No
 230,Kth Smallest Element in a BST,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,Medium,,,,No
 250,Count Univalue Subtrees,https://leetcode.com/problems/count-univalue-subtrees/,Medium,,,,Yes
 346,Moving Average from Data Stream,https://leetcode.com/problems/moving-average-from-data-stream/,Easy,,,,Yes
@@ -13,7 +13,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 359,Logger Rate Limiter,https://leetcode.com/problems/logger-rate-limiter/,Easy,,,,Yes
 684,Redundant Connection,https://leetcode.com/problems/redundant-connection/,Medium,4.8%,6m+,67.2%,No
 687,Longest Univalue Path,https://leetcode.com/problems/longest-univalue-path/,Medium,,,,No
-692,Top K Frequent Words,https://leetcode.com/problems/top-k-frequent-words/,Medium,7.9%,"6m,6m+",60.0%,No
+692,Top K Frequent Words,https://leetcode.com/problems/top-k-frequent-words/,Medium,8.0%,"6m,6m+",60.0%,No
 703,Kth Largest Element in a Stream,https://leetcode.com/problems/kth-largest-element-in-a-stream/,Easy,,,,No
 933,Number of Recent Calls,https://leetcode.com/problems/number-of-recent-calls/,Easy,,,,No
 935,Knight Dialer,https://leetcode.com/problems/knight-dialer/,Medium,62.5%,,61.7%,No

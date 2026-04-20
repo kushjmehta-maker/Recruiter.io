@@ -1,7 +1,7 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
 3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
-20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,5.2%,6m+,43.7%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,5.3%,6m+,43.7%,No
 33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
 51,N-Queens,https://leetcode.com/problems/n-queens/,Hard,,,,No
 56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,4.8%,6m+,51.1%,No
@@ -15,8 +15,8 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 344,Reverse String,https://leetcode.com/problems/reverse-string/,Easy,,,,No
 409,Longest Palindrome,https://leetcode.com/problems/longest-palindrome/,Easy,,,,No
 412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
-441,Arranging Coins,https://leetcode.com/problems/arranging-coins/,Easy,8.0%,6m+,48.0%,No
-443,String Compression,https://leetcode.com/problems/string-compression/,Medium,2.9%,6m+,59.5%,No
+441,Arranging Coins,https://leetcode.com/problems/arranging-coins/,Easy,8.1%,6m+,48.0%,No
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,3.0%,6m+,59.5%,No
 532,K-diff Pairs in an Array,https://leetcode.com/problems/k-diff-pairs-in-an-array/,Medium,,,,No
 761,Special Binary String,https://leetcode.com/problems/special-binary-string/,Hard,,,,No
 1200,Minimum Absolute Difference,https://leetcode.com/problems/minimum-absolute-difference/,Easy,,,,No

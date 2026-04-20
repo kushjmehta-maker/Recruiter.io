@@ -1,13 +1,13 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
-1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,3.3%,"3m,6m,6m+",57.1%,No
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,3.4%,"3m,6m,6m+",57.1%,No
 3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,3.4%,6m+,38.5%,No
 5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,1.6%,,37.3%,No
 9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,,,,No
 11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
 14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
-15,3Sum,https://leetcode.com/problems/3sum/,Medium,1.3%,6m+,38.6%,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,1.4%,6m+,38.6%,No
 18,4Sum,https://leetcode.com/problems/4sum/,Medium,,,,No
-20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,4.4%,6m+,43.7%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,4.5%,6m+,43.7%,No
 27,Remove Element,https://leetcode.com/problems/remove-element/,Easy,,,,No
 30,Substring with Concatenation of All Words,https://leetcode.com/problems/substring-with-concatenation-of-all-words/,Hard,,,,No
 33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
@@ -21,7 +21,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 77,Combinations,https://leetcode.com/problems/combinations/,Medium,,,,No
 88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,2.7%,6m+,54.4%,No
 121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
-125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,2.7%,"3m,6m",52.8%,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,2.8%,"3m,6m",52.8%,No
 127,Word Ladder,https://leetcode.com/problems/word-ladder/,Hard,,,,No
 151,Reverse Words in a String,https://leetcode.com/problems/reverse-words-in-a-string/,Medium,62.5%,,55.5%,No
 160,Intersection of Two Linked Lists,https://leetcode.com/problems/intersection-of-two-linked-lists/,Easy,,,,No
@@ -51,6 +51,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 696,Count Binary Substrings,https://leetcode.com/problems/count-binary-substrings/,Easy,,,,No
 796,Rotate String,https://leetcode.com/problems/rotate-string/,Easy,,,,No
 1047,Remove All Adjacent Duplicates In String,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/,Easy,,,,No
+1163,Last Substring in Lexicographical Order,https://leetcode.com/problems/last-substring-in-lexicographical-order/,Hard,,,,No
 1207,Unique Number of Occurrences,https://leetcode.com/problems/unique-number-of-occurrences/,Easy,,,,No
 1250,Check If It Is a Good Array,https://leetcode.com/problems/check-if-it-is-a-good-array/,Hard,,,,No
 1319,Number of Operations to Make Network Connected,https://leetcode.com/problems/number-of-operations-to-make-network-connected/,Medium,,,,No

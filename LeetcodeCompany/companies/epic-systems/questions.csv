@@ -6,8 +6,8 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 7,Reverse Integer,https://leetcode.com/problems/reverse-integer/,Medium,,,,No
 9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,,,,No
 13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,,,,No
-17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,8.3%,6m+,65.5%,No
-20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,5.9%,"6m,6m+",43.7%,No
+17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,8.4%,6m+,65.5%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,6.0%,"6m,6m+",43.7%,No
 38,Count and Say,https://leetcode.com/problems/count-and-say/,Medium,,,,No
 46,Permutations,https://leetcode.com/problems/permutations/,Medium,62.5%,6m+,81.6%,No
 54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,8.2%,6m+,56.1%,No
@@ -16,7 +16,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 66,Plus One,https://leetcode.com/problems/plus-one/,Easy,,,,No
 68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,,,,No
 70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
-79,Word Search,https://leetcode.com/problems/word-search/,Medium,5.4%,6m+,46.8%,No
+79,Word Search,https://leetcode.com/problems/word-search/,Medium,5.5%,6m+,46.8%,No
 121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
 125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,,,,No
 127,Word Ladder,https://leetcode.com/problems/word-ladder/,Hard,,,,No
@@ -28,19 +28,20 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,,,,No
 242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
 289,Game of Life,https://leetcode.com/problems/game-of-life/,Medium,,,,No
-299,Bulls and Cows,https://leetcode.com/problems/bulls-and-cows/,Medium,7.7%,6m+,52.2%,No
+299,Bulls and Cows,https://leetcode.com/problems/bulls-and-cows/,Medium,7.8%,6m+,52.2%,No
 306,Additive Number,https://leetcode.com/problems/additive-number/,Medium,11.4%,"3m,6m,6m+",33.5%,No
 329,Longest Increasing Path in a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,Hard,,,,No
 348,Design Tic-Tac-Toe,https://leetcode.com/problems/design-tic-tac-toe/,Medium,,,,Yes
 495,Teemo Attacking,https://leetcode.com/problems/teemo-attacking/,Easy,,,,No
 647,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,Medium,3.1%,6m+,72.5%,No
 681,Next Closest Time,https://leetcode.com/problems/next-closest-time/,Medium,,,,Yes
-728,Self Dividing Numbers,https://leetcode.com/problems/self-dividing-numbers/,Easy,5.9%,6m+,80.5%,No
+728,Self Dividing Numbers,https://leetcode.com/problems/self-dividing-numbers/,Easy,5.8%,6m+,80.5%,No
 784,Letter Case Permutation,https://leetcode.com/problems/letter-case-permutation/,Medium,,,,No
 974,Subarray Sums Divisible by K,https://leetcode.com/problems/subarray-sums-divisible-by-k/,Medium,,,,No
 1215,Stepping Numbers,https://leetcode.com/problems/stepping-numbers/,Medium,62.5%,6m+,48.2%,Yes
 1154,Day of the Year,https://leetcode.com/problems/day-of-the-year/,Easy,,,,No
 2215,Find the Difference of Two Arrays,https://leetcode.com/problems/find-the-difference-of-two-arrays/,Easy,,,,No
 1344,Angle Between Hands of a Clock,https://leetcode.com/problems/angle-between-hands-of-a-clock/,Medium,75.0%,6m+,64.4%,No
+1703,Minimum Adjacent Swaps for K Consecutive Ones,https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/,Hard,,,,No
 1861,Rotating the Box,https://leetcode.com/problems/rotating-the-box/,Medium,,,,No
 2319,Check if Matrix Is X-Matrix,https://leetcode.com/problems/check-if-matrix-is-x-matrix/,Easy,,,,No

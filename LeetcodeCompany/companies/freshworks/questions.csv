@@ -5,7 +5,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,,,,No
 11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,75.0%,,59.5%,No
 17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,,,,No
-20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,3.5%,6m+,43.7%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,3.6%,6m+,43.7%,No
 23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,,,,No
 26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,,,,No
 30,Substring with Concatenation of All Words,https://leetcode.com/problems/substring-with-concatenation-of-all-words/,Hard,,,,No
@@ -21,11 +21,11 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No
 92,Reverse Linked List II,https://leetcode.com/problems/reverse-linked-list-ii/,Medium,,,,No
 121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
-146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.2%,6m+,46.8%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.1%,6m+,46.8%,No
 153,Find Minimum in Rotated Sorted Array,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,Medium,,,,No
 198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
 238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,1.7%,,,No
-253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,5.1%,,52.5%,Yes
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,5.0%,,52.5%,Yes
 287,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,Medium,,,,No
 322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No
 332,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,Hard,,,,No

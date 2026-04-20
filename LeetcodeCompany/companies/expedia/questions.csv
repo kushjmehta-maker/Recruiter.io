@@ -4,23 +4,23 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,75.0%,6m+,38.5%,No
 5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
 8,String to Integer (atoi),https://leetcode.com/problems/string-to-integer-atoi/,Medium,,,,No
-11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,1.6%,6m+,59.5%,No
-13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,4.2%,6m+,66.2%,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,1.7%,6m+,59.5%,No
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,4.3%,6m+,66.2%,No
 15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
 17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,50.0%,,65.5%,No
-20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,7.2%,6m+,43.7%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,7.3%,6m+,43.7%,No
 21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,,,,No
-22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,3.7%,6m+,78.2%,No
+22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,3.8%,6m+,78.2%,No
 23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,,,,No
-28,Find the Index of the First Occurrence in a String,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/,Easy,2.5%,6m+,46.2%,No
+28,Find the Index of the First Occurrence in a String,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/,Easy,2.6%,6m+,46.2%,No
 31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,,,,No
 32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,,,,No
 33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
-38,Count and Say,https://leetcode.com/problems/count-and-say/,Medium,5.2%,"30d,3m,6m",62.3%,No
+38,Count and Say,https://leetcode.com/problems/count-and-say/,Medium,5.3%,"30d,3m,6m",62.3%,No
 39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,,,,No
 42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,4.5%,6m+,66.8%,No
 44,Wildcard Matching,https://leetcode.com/problems/wildcard-matching/,Hard,,,,No
-49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,5.2%,6m+,72.2%,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,5.3%,6m+,72.2%,No
 56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,5.4%,6m+,51.1%,No
 70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
 73,Set Matrix Zeroes,https://leetcode.com/problems/set-matrix-zeroes/,Medium,62.5%,6m+,62.4%,No
@@ -50,21 +50,20 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 198,House Robber,https://leetcode.com/problems/house-robber/,Medium,4.9%,6m+,52.9%,No
 200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,6.7%,6m,63.8%,No
 204,Count Primes,https://leetcode.com/problems/count-primes/,Medium,,,,No
-206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No
 217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,,,,No
 221,Maximal Square,https://leetcode.com/problems/maximal-square/,Medium,,,,No
 227,Basic Calculator II,https://leetcode.com/problems/basic-calculator-ii/,Medium,3.5%,,,No
-230,Kth Smallest Element in a BST,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,Medium,4.0%,,76.5%,No
+230,Kth Smallest Element in a BST,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,Medium,4.1%,,76.5%,No
 236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Medium,,,,No
 238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,,,,No
 239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,3.7%,6m,48.4%,No
 240,Search a 2D Matrix II,https://leetcode.com/problems/search-a-2d-matrix-ii/,Medium,,,,No
 253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
-255,Verify Preorder Sequence in Binary Search Tree,https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/,Medium,6.2%,,51.7%,Yes
+255,Verify Preorder Sequence in Binary Search Tree,https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/,Medium,6.7%,,51.7%,Yes
 261,Graph Valid Tree,https://leetcode.com/problems/graph-valid-tree/,Medium,,,,Yes
 269,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,Hard,,,,Yes
 300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,,,,No
-316,Remove Duplicate Letters,https://leetcode.com/problems/remove-duplicate-letters/,Medium,6.5%,6m+,52.8%,No
+316,Remove Duplicate Letters,https://leetcode.com/problems/remove-duplicate-letters/,Medium,6.6%,6m+,52.8%,No
 336,Palindrome Pairs,https://leetcode.com/problems/palindrome-pairs/,Hard,,,,No
 377,Combination Sum IV,https://leetcode.com/problems/combination-sum-iv/,Medium,,,,No
 380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,,,,No
@@ -77,13 +76,13 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 494,Target Sum,https://leetcode.com/problems/target-sum/,Medium,,,,No
 523,Continuous Subarray Sum,https://leetcode.com/problems/continuous-subarray-sum/,Medium,,,,No
 532,K-diff Pairs in an Array,https://leetcode.com/problems/k-diff-pairs-in-an-array/,Medium,,,,No
-611,Valid Triangle Number,https://leetcode.com/problems/valid-triangle-number/,Medium,4.4%,6m+,56.7%,No
+611,Valid Triangle Number,https://leetcode.com/problems/valid-triangle-number/,Medium,4.5%,6m+,56.7%,No
 649,Dota2 Senate,https://leetcode.com/problems/dota2-senate/,Medium,,,,No
 684,Redundant Connection,https://leetcode.com/problems/redundant-connection/,Medium,,,,No
 695,Max Area of Island,https://leetcode.com/problems/max-area-of-island/,Medium,4.9%,,,No
 697,Degree of an Array,https://leetcode.com/problems/degree-of-an-array/,Easy,62.5%,6m+,58.2%,No
 713,Subarray Product Less Than K,https://leetcode.com/problems/subarray-product-less-than-k/,Medium,,,,No
-724,Find Pivot Index,https://leetcode.com/problems/find-pivot-index/,Easy,5.9%,6m,62.1%,No
+724,Find Pivot Index,https://leetcode.com/problems/find-pivot-index/,Easy,6.0%,6m,62.1%,No
 735,Asteroid Collision,https://leetcode.com/problems/asteroid-collision/,Medium,,,,No
 767,Reorganize String,https://leetcode.com/problems/reorganize-string/,Medium,50.0%,,56.8%,No
 768,Max Chunks To Make Sorted II,https://leetcode.com/problems/max-chunks-to-make-sorted-ii/,Hard,,,,No
@@ -122,6 +121,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 1200,Minimum Absolute Difference,https://leetcode.com/problems/minimum-absolute-difference/,Easy,,,,No
 1202,Smallest String With Swaps,https://leetcode.com/problems/smallest-string-with-swaps/,Medium,,,,No
 2204,Distance to a Cycle in Undirected Graph,https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph/,Hard,,,,Yes
+1235,Maximum Profit in Job Scheduling,https://leetcode.com/problems/maximum-profit-in-job-scheduling/,Hard,,,,No
 1283,Find the Smallest Divisor Given a Threshold,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/,Medium,75.0%,6m+,65.4%,No
 1326,Minimum Number of Taps to Open to Water a Garden,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/,Hard,,,,No
 1321,Restaurant Growth,https://leetcode.com/problems/restaurant-growth/,Medium,,,,No
@@ -148,7 +148,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 2016,Maximum Difference Between Increasing Elements,https://leetcode.com/problems/maximum-difference-between-increasing-elements/,Easy,,,,No
 2062,Count Vowel Substrings of a String,https://leetcode.com/problems/count-vowel-substrings-of-a-string/,Easy,62.5%,6m+,72.8%,No
 2092,Find All People With Secret,https://leetcode.com/problems/find-all-people-with-secret/,Hard,,,,No
-2116,Check if a Parentheses String Can Be Valid,https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/,Medium,3.8%,,,No
+2116,Check if a Parentheses String Can Be Valid,https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/,Medium,3.9%,,,No
 2168,Unique Substrings With Equal Digit Frequency,https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/,Medium,62.5%,6m+,64.5%,Yes
 2195,Append K Integers With Minimal Sum,https://leetcode.com/problems/append-k-integers-with-minimal-sum/,Medium,,,,No
 2353,Design a Food Rating System,https://leetcode.com/problems/design-a-food-rating-system/,Medium,,,,No

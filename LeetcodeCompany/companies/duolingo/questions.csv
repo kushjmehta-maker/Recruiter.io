@@ -1,7 +1,7 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 61,Rotate List,https://leetcode.com/problems/rotate-list/,Medium,,,,No
 253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
-329,Longest Increasing Path in a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,Hard,3.5%,6m,56.3%,No
+329,Longest Increasing Path in a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,Hard,3.3%,6m,56.3%,No
 345,Reverse Vowels of a String,https://leetcode.com/problems/reverse-vowels-of-a-string/,Easy,,,,No
 855,Exam Room,https://leetcode.com/problems/exam-room/,Medium,,,,No
 946,Validate Stack Sequences,https://leetcode.com/problems/validate-stack-sequences/,Medium,,,,No

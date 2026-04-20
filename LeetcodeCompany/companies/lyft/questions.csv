@@ -2,30 +2,30 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,2.6%,6m+,38.5%,No
 17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,37.5%,,65.5%,No
 56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
-76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,8.9%,"3m,6m,6m+",46.9%,No
-91,Decode Ways,https://leetcode.com/problems/decode-ways/,Medium,8.2%,6m+,37.6%,No
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,8.7%,"3m,6m,6m+",46.9%,No
+91,Decode Ways,https://leetcode.com/problems/decode-ways/,Medium,8.0%,6m+,37.6%,No
 98,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/,Medium,,,,No
 109,Convert Sorted List to Binary Search Tree,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/,Medium,75.0%,6m+,65.9%,No
 114,Flatten Binary Tree to Linked List,https://leetcode.com/problems/flatten-binary-tree-to-linked-list/,Medium,,,,No
 121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
-126,Word Ladder II,https://leetcode.com/problems/word-ladder-ii/,Hard,8.1%,6m+,27.5%,No
+126,Word Ladder II,https://leetcode.com/problems/word-ladder-ii/,Hard,7.9%,6m+,27.5%,No
 128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,62.5%,6m+,47.0%,No
 148,Sort List,https://leetcode.com/problems/sort-list/,Medium,2.5%,6m+,63.8%,No
 155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,6.6%,6m+,57.7%,No
-158,Read N Characters Given read4 II - Call Multiple Times,https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/,Hard,14.1%,"6m,6m+",43.2%,Yes
+158,Read N Characters Given read4 II - Call Multiple Times,https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/,Hard,14.0%,"6m,6m+",43.2%,Yes
 181,Employees Earning More Than Their Managers,https://leetcode.com/problems/employees-earning-more-than-their-managers/,Easy,,,,No
 208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,50.0%,6m+,69.2%,No
 211,Design Add and Search Words Data Structure,https://leetcode.com/problems/design-add-and-search-words-data-structure/,Medium,,,,No
 212,Word Search II,https://leetcode.com/problems/word-search-ii/,Hard,,,,No
 238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,50.0%,6m+,68.6%,No
-253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,6.8%,6m+,52.5%,Yes
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,6.6%,6m+,52.5%,Yes
 278,First Bad Version,https://leetcode.com/problems/first-bad-version/,Easy,,,,No
 304,Range Sum Query 2D - Immutable,https://leetcode.com/problems/range-sum-query-2d-immutable/,Medium,37.5%,,57.8%,No
 365,Water and Jug Problem,https://leetcode.com/problems/water-and-jug-problem/,Medium,9.5%,6m+,44.8%,No
 443,String Compression,https://leetcode.com/problems/string-compression/,Medium,,6m+,59.5%,No
-632,Smallest Range Covering Elements from K Lists,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/,Hard,4.1%,6m+,70.0%,No
+632,Smallest Range Covering Elements from K Lists,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/,Hard,3.9%,6m+,70.0%,No
 713,Subarray Product Less Than K,https://leetcode.com/problems/subarray-product-less-than-k/,Medium,,,,No
-716,Max Stack,https://leetcode.com/problems/max-stack/,Hard,12.7%,6m+,45.9%,Yes
+716,Max Stack,https://leetcode.com/problems/max-stack/,Hard,12.3%,6m+,45.9%,Yes
 426,Convert Binary Search Tree to Sorted Doubly Linked List,https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/,Medium,,,,Yes
 958,Check Completeness of a Binary Tree,https://leetcode.com/problems/check-completeness-of-a-binary-tree/,Medium,75.0%,6m+,58.9%,No
 966,Vowel Spellchecker,https://leetcode.com/problems/vowel-spellchecker/,Medium,,,,No

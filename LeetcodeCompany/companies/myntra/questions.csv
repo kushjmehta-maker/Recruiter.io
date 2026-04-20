@@ -11,7 +11,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,75.0%,6m+,62.2%,No
 31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,,,,No
 33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,75.0%,6m+,44.1%,No
-41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/,Hard,2.8%,6m+,42.4%,No
+41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/,Hard,2.9%,6m+,42.4%,No
 42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,3.1%,6m+,66.8%,No
 46,Permutations,https://leetcode.com/problems/permutations/,Medium,,,,No
 47,Permutations II,https://leetcode.com/problems/permutations-ii/,Medium,,,,No
@@ -27,11 +27,11 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 104,Maximum Depth of Binary Tree,https://leetcode.com/problems/maximum-depth-of-binary-tree/,Easy,,,,No
 121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,1.8%,6m+,56.4%,No
 122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,,,,No
-128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,0.8%,,47.0%,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,0.9%,,47.0%,No
 139,Word Break,https://leetcode.com/problems/word-break/,Medium,,,,No
-146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.5%,6m+,46.8%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.4%,6m+,46.8%,No
 173,Binary Search Tree Iterator,https://leetcode.com/problems/binary-search-tree-iterator/,Medium,,,,No
-179,Largest Number,https://leetcode.com/problems/largest-number/,Medium,3.2%,6m+,42.6%,No
+179,Largest Number,https://leetcode.com/problems/largest-number/,Medium,3.1%,6m+,42.6%,No
 188,Best Time to Buy and Sell Stock IV,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/,Hard,,,,No
 198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
 210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,,,,No
@@ -43,7 +43,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 262,Trips and Users,https://leetcode.com/problems/trips-and-users/,Hard,,,,No
 268,Missing Number,https://leetcode.com/problems/missing-number/,Easy,,,,No
 278,First Bad Version,https://leetcode.com/problems/first-bad-version/,Easy,,,,No
-280,Wiggle Sort,https://leetcode.com/problems/wiggle-sort/,Medium,5.7%,6m+,68.4%,Yes
+280,Wiggle Sort,https://leetcode.com/problems/wiggle-sort/,Medium,5.6%,6m+,68.4%,Yes
 287,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,Medium,,,,No
 312,Burst Balloons,https://leetcode.com/problems/burst-balloons/,Hard,,,,No
 324,Wiggle Sort II,https://leetcode.com/problems/wiggle-sort-ii/,Medium,,,,No
@@ -56,13 +56,13 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 435,Non-overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/,Medium,,,,No
 452,Minimum Number of Arrows to Burst Balloons,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/,Medium,,,,No
 459,Repeated Substring Pattern,https://leetcode.com/problems/repeated-substring-pattern/,Easy,3.5%,6m+,47.8%,No
-462,Minimum Moves to Equal Array Elements II,https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/,Medium,4.1%,6m+,61.5%,No
-494,Target Sum,https://leetcode.com/problems/target-sum/,Medium,2.0%,6m+,51.8%,No
+462,Minimum Moves to Equal Array Elements II,https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/,Medium,4.0%,6m+,61.5%,No
+494,Target Sum,https://leetcode.com/problems/target-sum/,Medium,1.9%,6m+,51.8%,No
 525,Contiguous Array,https://leetcode.com/problems/contiguous-array/,Medium,,,,No
 564,Find the Closest Palindrome,https://leetcode.com/problems/find-the-closest-palindrome/,Hard,,,,No
 570,Managers with at Least 5 Direct Reports,https://leetcode.com/problems/managers-with-at-least-5-direct-reports/,Medium,,,,No
 678,Valid Parenthesis String,https://leetcode.com/problems/valid-parenthesis-string/,Medium,,,,No
-724,Find Pivot Index,https://leetcode.com/problems/find-pivot-index/,Easy,2.4%,6m+,62.1%,No
+724,Find Pivot Index,https://leetcode.com/problems/find-pivot-index/,Easy,2.5%,6m+,62.1%,No
 735,Asteroid Collision,https://leetcode.com/problems/asteroid-collision/,Medium,100.0%,6m+,47.1%,No
 740,Delete and Earn,https://leetcode.com/problems/delete-and-earn/,Medium,,,,No
 787,Cheapest Flights Within K Stops,https://leetcode.com/problems/cheapest-flights-within-k-stops/,Medium,,,,No

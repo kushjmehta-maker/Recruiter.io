@@ -1,16 +1,16 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,87.5%,6m,57.1%,No
 2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
-3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,5.7%,6m+,38.5%,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,5.8%,6m+,38.5%,No
 4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,50.0%,6m+,45.9%,No
 5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,3.2%,6m+,37.3%,No
 9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,,,,No
 10,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,Hard,50.0%,6m+,30.4%,No
 11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
 13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,,,,No
-14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,3.4%,6m+,47.1%,No
-15,3Sum,https://leetcode.com/problems/3sum/,Medium,1.3%,6m+,38.6%,No
-20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,7.7%,6m+,43.7%,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,3.5%,6m+,47.1%,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,1.4%,6m+,38.6%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,7.8%,6m+,43.7%,No
 21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,,,,No
 29,Divide Two Integers,https://leetcode.com/problems/divide-two-integers/,Medium,,,,No
 34,Find First and Last Position of Element in Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Medium,1.8%,6m+,48.3%,No
@@ -55,7 +55,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,,,,No
 629,K Inverse Pairs Array,https://leetcode.com/problems/k-inverse-pairs-array/,Hard,,,,No
 665,Non-decreasing Array,https://leetcode.com/problems/non-decreasing-array/,Medium,,,,No
-682,Baseball Game,https://leetcode.com/problems/baseball-game/,Easy,8.2%,6m+,80.0%,No
+682,Baseball Game,https://leetcode.com/problems/baseball-game/,Easy,8.3%,6m+,80.0%,No
 697,Degree of an Array,https://leetcode.com/problems/degree-of-an-array/,Easy,6.0%,,58.2%,No
 729,My Calendar I,https://leetcode.com/problems/my-calendar-i/,Medium,,,,No
 740,Delete and Earn,https://leetcode.com/problems/delete-and-earn/,Medium,,,,No

@@ -3,7 +3,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
 9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,,,,No
 14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,87.5%,,47.1%,No
-20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,3.2%,6m+,43.7%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,3.3%,6m+,43.7%,No
 64,Minimum Path Sum,https://leetcode.com/problems/minimum-path-sum/,Medium,,,,No
 67,Add Binary,https://leetcode.com/problems/add-binary/,Easy,,,,No
 105,Construct Binary Tree from Preorder and Inorder Traversal,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/,Medium,,,,No

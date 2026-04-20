@@ -17,7 +17,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 34,Find First and Last Position of Element in Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Medium,,,,No
 36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,,,,No
 39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,,,,No
-41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/,Hard,5.4%,6m+,42.4%,No
+41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/,Hard,5.5%,6m+,42.4%,No
 42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,3.8%,6m+,66.8%,No
 43,Multiply Strings,https://leetcode.com/problems/multiply-strings/,Medium,,,,No
 45,Jump Game II,https://leetcode.com/problems/jump-game-ii/,Medium,75.0%,6m+,42.5%,No
@@ -42,21 +42,21 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
 122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,,,,No
 123,Best Time to Buy and Sell Stock III,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/,Hard,,,,No
-124,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Hard,3.2%,6m+,42.0%,No
+124,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Hard,3.1%,6m+,42.0%,No
 126,Word Ladder II,https://leetcode.com/problems/word-ladder-ii/,Hard,4.3%,,27.5%,No
 130,Surrounded Regions,https://leetcode.com/problems/surrounded-regions/,Medium,3.5%,6m+,44.7%,No
 132,Palindrome Partitioning II,https://leetcode.com/problems/palindrome-partitioning-ii/,Hard,75.0%,6m+,36.6%,No
 133,Clone Graph,https://leetcode.com/problems/clone-graph/,Medium,75.0%,6m+,64.7%,No
 136,Single Number,https://leetcode.com/problems/single-number/,Easy,,,,No
 139,Word Break,https://leetcode.com/problems/word-break/,Medium,4.3%,6m+,49.1%,No
-146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,6.6%,6m+,46.8%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,6.5%,6m+,46.8%,No
 153,Find Minimum in Rotated Sorted Array,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,Medium,,,,No
 189,Rotate Array,https://leetcode.com/problems/rotate-array/,Medium,2.6%,6m+,44.4%,No
 199,Binary Tree Right Side View,https://leetcode.com/problems/binary-tree-right-side-view/,Medium,,,,No
 200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,4.8%,6m+,63.8%,No
 208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,,,,No
 209,Minimum Size Subarray Sum,https://leetcode.com/problems/minimum-size-subarray-sum/,Medium,,,,No
-210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,6.1%,6m,55.0%,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,6.0%,6m,55.0%,No
 212,Word Search II,https://leetcode.com/problems/word-search-ii/,Hard,,,,No
 213,House Robber II,https://leetcode.com/problems/house-robber-ii/,Medium,,,,No
 222,Count Complete Tree Nodes,https://leetcode.com/problems/count-complete-tree-nodes/,Easy,,,,No
@@ -71,7 +71,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 325,Maximum Size Subarray Sum Equals k,https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/,Medium,,,,Yes
 329,Longest Increasing Path in a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,Hard,6.0%,6m+,56.3%,No
 332,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,Hard,,,,No
-334,Increasing Triplet Subsequence,https://leetcode.com/problems/increasing-triplet-subsequence/,Medium,5.1%,6m+,39.2%,No
+334,Increasing Triplet Subsequence,https://leetcode.com/problems/increasing-triplet-subsequence/,Medium,5.2%,6m+,39.2%,No
 347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,4.2%,6m+,65.8%,No
 394,Decode String,https://leetcode.com/problems/decode-string/,Medium,3.8%,6m+,62.2%,No
 399,Evaluate Division,https://leetcode.com/problems/evaluate-division/,Medium,,,,No
@@ -87,14 +87,14 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 516,Longest Palindromic Subsequence,https://leetcode.com/problems/longest-palindromic-subsequence/,Medium,75.0%,6m+,65.1%,No
 523,Continuous Subarray Sum,https://leetcode.com/problems/continuous-subarray-sum/,Medium,,,,No
 543,Diameter of Binary Tree,https://leetcode.com/problems/diameter-of-binary-tree/,Easy,3.5%,"3m,6m",65.0%,No
-545,Boundary of Binary Tree,https://leetcode.com/problems/boundary-of-binary-tree/,Medium,7.4%,6m+,47.9%,Yes
+545,Boundary of Binary Tree,https://leetcode.com/problems/boundary-of-binary-tree/,Medium,7.5%,6m+,47.9%,Yes
 547,Number of Provinces,https://leetcode.com/problems/number-of-provinces/,Medium,,,,No
-605,Can Place Flowers,https://leetcode.com/problems/can-place-flowers/,Easy,2.9%,"3m,6m",29.0%,No
+605,Can Place Flowers,https://leetcode.com/problems/can-place-flowers/,Easy,3.0%,"3m,6m",29.0%,No
 621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,5.9%,6m+,62.6%,No
 628,Maximum Product of Three Numbers,https://leetcode.com/problems/maximum-product-of-three-numbers/,Easy,5.0%,6m+,45.7%,No
 647,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,Medium,,,,No
 713,Subarray Product Less Than K,https://leetcode.com/problems/subarray-product-less-than-k/,Medium,,,,No
-716,Max Stack,https://leetcode.com/problems/max-stack/,Hard,6.8%,6m+,45.9%,Yes
+716,Max Stack,https://leetcode.com/problems/max-stack/,Hard,6.6%,6m+,45.9%,Yes
 724,Find Pivot Index,https://leetcode.com/problems/find-pivot-index/,Easy,,,,No
 731,My Calendar II,https://leetcode.com/problems/my-calendar-ii/,Medium,,,,No
 739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,,,,No

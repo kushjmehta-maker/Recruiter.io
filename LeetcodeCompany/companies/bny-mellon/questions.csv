@@ -5,7 +5,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
 6,Zigzag Conversion,https://leetcode.com/problems/zigzag-conversion/,Medium,,,,No
 7,Reverse Integer,https://leetcode.com/problems/reverse-integer/,Medium,,,,No
-15,3Sum,https://leetcode.com/problems/3sum/,Medium,1.3%,6m+,38.6%,No
+15,3Sum,https://leetcode.com/problems/3sum/,Medium,1.4%,6m+,38.6%,No
 20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
 28,Find the Index of the First Occurrence in a String,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/,Easy,,,,No
 42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No

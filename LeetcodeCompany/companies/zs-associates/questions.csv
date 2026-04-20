@@ -1,7 +1,7 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
 3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,100.0%,6m+,38.5%,No
-5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,2.2%,6m,37.3%,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,2.3%,6m,37.3%,No
 14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
 15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
 20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,87.5%,,43.7%,No
@@ -10,7 +10,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
 81,Search in Rotated Sorted Array II,https://leetcode.com/problems/search-in-rotated-sorted-array-ii/,Medium,,,,No
 133,Clone Graph,https://leetcode.com/problems/clone-graph/,Medium,,,,No
-176,Second Highest Salary,https://leetcode.com/problems/second-highest-salary/,Medium,3.0%,6m,46.3%,No
+176,Second Highest Salary,https://leetcode.com/problems/second-highest-salary/,Medium,3.1%,6m,46.3%,No
 177,Nth Highest Salary,https://leetcode.com/problems/nth-highest-salary/,Medium,3.7%,6m+,38.8%,No
 185,Department Top Three Salaries,https://leetcode.com/problems/department-top-three-salaries/,Hard,,,,No
 196,Delete Duplicate Emails,https://leetcode.com/problems/delete-duplicate-emails/,Easy,,,,No

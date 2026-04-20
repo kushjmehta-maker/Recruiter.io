@@ -11,7 +11,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
 48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,4.3%,6m+,79.3%,No
 56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
-71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,5.8%,6m+,50.0%,No
+71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,5.9%,6m+,50.0%,No
 72,Edit Distance,https://leetcode.com/problems/edit-distance/,Medium,,,,No
 74,Search a 2D Matrix,https://leetcode.com/problems/search-a-2d-matrix/,Medium,62.5%,6m+,53.5%,No
 81,Search in Rotated Sorted Array II,https://leetcode.com/problems/search-in-rotated-sorted-array-ii/,Medium,,,,No
@@ -20,13 +20,13 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,62.5%,6m+,52.8%,No
 127,Word Ladder,https://leetcode.com/problems/word-ladder/,Hard,,,,No
 146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
-155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,5.9%,6m+,57.7%,No
+155,Min Stack,https://leetcode.com/problems/min-stack/,Medium,6.0%,6m+,57.7%,No
 161,One Edit Distance,https://leetcode.com/problems/one-edit-distance/,Medium,,,,Yes
 167,Two Sum II - Input Array Is Sorted,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,Medium,,,,No
 184,Department Highest Salary,https://leetcode.com/problems/department-highest-salary/,Medium,62.5%,6m+,57.3%,No
 197,Rising Temperature,https://leetcode.com/problems/rising-temperature/,Easy,,,,No
 200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,3.8%,6m+,63.8%,No
-205,Isomorphic Strings,https://leetcode.com/problems/isomorphic-strings/,Easy,2.4%,6m+,48.0%,No
+205,Isomorphic Strings,https://leetcode.com/problems/isomorphic-strings/,Easy,2.5%,6m+,48.0%,No
 206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No
 209,Minimum Size Subarray Sum,https://leetcode.com/problems/minimum-size-subarray-sum/,Medium,,,,No
 217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,,,,No
@@ -38,11 +38,11 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 256,Paint House,https://leetcode.com/problems/paint-house/,Medium,,,,Yes
 356,Line Reflection,https://leetcode.com/problems/line-reflection/,Medium,,,,Yes
 383,Ransom Note,https://leetcode.com/problems/ransom-note/,Easy,,,,No
-392,Is Subsequence,https://leetcode.com/problems/is-subsequence/,Easy,4.1%,6m+,48.8%,No
-394,Decode String,https://leetcode.com/problems/decode-string/,Medium,4.3%,6m+,62.2%,No
-419,Battleships in a Board,https://leetcode.com/problems/battleships-in-a-board/,Medium,7.0%,6m+,77.3%,No
-443,String Compression,https://leetcode.com/problems/string-compression/,Medium,2.9%,,59.5%,No
-448,Find All Numbers Disappeared in an Array,https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/,Easy,3.9%,6m+,63.7%,No
+392,Is Subsequence,https://leetcode.com/problems/is-subsequence/,Easy,4.0%,6m+,48.8%,No
+394,Decode String,https://leetcode.com/problems/decode-string/,Medium,4.4%,6m+,62.2%,No
+419,Battleships in a Board,https://leetcode.com/problems/battleships-in-a-board/,Medium,7.1%,6m+,77.3%,No
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,3.0%,,59.5%,No
+448,Find All Numbers Disappeared in an Array,https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/,Easy,4.0%,6m+,63.7%,No
 487,Max Consecutive Ones II,https://leetcode.com/problems/max-consecutive-ones-ii/,Medium,,,,Yes
 560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,62.5%,6m+,46.8%,No
 596,Classes With at Least 5 Students,https://leetcode.com/problems/classes-with-at-least-5-students/,Easy,,,,No

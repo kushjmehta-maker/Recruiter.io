@@ -1,9 +1,9 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
-1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,3.9%,6m+,57.1%,No
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,4.2%,6m+,57.1%,No
 3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
 7,Reverse Integer,https://leetcode.com/problems/reverse-integer/,Medium,,,,No
 9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,,,,No
-14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,3.6%,6m+,47.1%,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,4.0%,6m+,47.1%,No
 17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,,,,No
 21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,,,,No
 22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,,,,No
@@ -11,7 +11,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 45,Jump Game II,https://leetcode.com/problems/jump-game-ii/,Medium,,,,No
 48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
 51,N-Queens,https://leetcode.com/problems/n-queens/,Hard,,,,No
-52,N-Queens II,https://leetcode.com/problems/n-queens-ii/,Hard,3.0%,6m+,78.1%,No
+52,N-Queens II,https://leetcode.com/problems/n-queens-ii/,Hard,3.3%,6m+,78.1%,No
 53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
 54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,,,,No
 70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
@@ -19,7 +19,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 82,Remove Duplicates from Sorted List II,https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/,Medium,,,,No
 91,Decode Ways,https://leetcode.com/problems/decode-ways/,Medium,,,,No
 118,Pascal's Triangle,https://leetcode.com/problems/pascals-triangle/,Easy,75.0%,6m+,78.7%,No
-121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,4.3%,6m+,56.4%,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,4.6%,6m+,56.4%,No
 122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,75.0%,6m+,70.7%,No
 125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,,,,No
 131,Palindrome Partitioning,https://leetcode.com/problems/palindrome-partitioning/,Medium,,,,No
@@ -28,7 +28,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 151,Reverse Words in a String,https://leetcode.com/problems/reverse-words-in-a-string/,Medium,,,,No
 205,Isomorphic Strings,https://leetcode.com/problems/isomorphic-strings/,Easy,,,,No
 238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,,,,No
-241,Different Ways to Add Parentheses,https://leetcode.com/problems/different-ways-to-add-parentheses/,Medium,6.0%,6m+,73.1%,No
+241,Different Ways to Add Parentheses,https://leetcode.com/problems/different-ways-to-add-parentheses/,Medium,6.3%,6m+,73.1%,No
 242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
 268,Missing Number,https://leetcode.com/problems/missing-number/,Easy,,,,No
 279,Perfect Squares,https://leetcode.com/problems/perfect-squares/,Medium,,,,No

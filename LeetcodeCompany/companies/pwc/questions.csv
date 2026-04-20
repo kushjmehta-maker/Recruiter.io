@@ -4,7 +4,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,87.5%,6m+,45.9%,No
 5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
 12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,,,,No
-13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,2.3%,6m+,66.2%,No
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,2.4%,6m+,66.2%,No
 14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,75.0%,,47.1%,No
 22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,,,,No
 26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,,,,No

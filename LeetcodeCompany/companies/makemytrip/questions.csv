@@ -1,13 +1,13 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
-3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,1.3%,6m+,38.5%,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,1.4%,6m+,38.5%,No
 5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,75.0%,6m+,37.3%,No
 10,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,Hard,,,,No
 11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
 15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
 18,4Sum,https://leetcode.com/problems/4sum/,Medium,,,,No
-22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,2.6%,6m+,78.2%,No
+22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,2.7%,6m+,78.2%,No
 25,Reverse Nodes in k-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,Hard,,,,No
-32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,1.5%,6m+,38.0%,No
+32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,1.6%,6m+,38.0%,No
 33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
 34,Find First and Last Position of Element in Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Medium,,,,No
 39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,,,,No

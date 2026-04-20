@@ -1,6 +1,6 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
-588,Design In-Memory File System,https://leetcode.com/problems/design-in-memory-file-system/,Hard,5.7%,6m+,48.4%,Yes
+588,Design In-Memory File System,https://leetcode.com/problems/design-in-memory-file-system/,Hard,5.5%,6m+,48.4%,Yes
 653,Two Sum IV - Input is a BST,https://leetcode.com/problems/two-sum-iv-input-is-a-bst/,Easy,,,,No
 834,Sum of Distances in Tree,https://leetcode.com/problems/sum-of-distances-in-tree/,Hard,,,,No
 1031,Maximum Sum of Two Non-Overlapping Subarrays,https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/,Medium,,,,No

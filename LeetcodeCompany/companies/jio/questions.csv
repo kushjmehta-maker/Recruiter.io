@@ -7,7 +7,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,,,,No
 42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
 44,Wildcard Matching,https://leetcode.com/problems/wildcard-matching/,Hard,,,,No
-49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,2.9%,,72.2%,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,3.0%,,72.2%,No
 55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
 121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
 131,Palindrome Partitioning,https://leetcode.com/problems/palindrome-partitioning/,Medium,,,,No

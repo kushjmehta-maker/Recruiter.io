@@ -1,10 +1,9 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
-17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,,,,No
 29,Divide Two Integers,https://leetcode.com/problems/divide-two-integers/,Medium,,,,No
 31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,,,,No
 42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,62.5%,6m+,66.8%,No
 55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
-56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,4.3%,6m+,51.1%,No
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,4.4%,6m+,51.1%,No
 114,Flatten Binary Tree to Linked List,https://leetcode.com/problems/flatten-binary-tree-to-linked-list/,Medium,,,,No
 165,Compare Version Numbers,https://leetcode.com/problems/compare-version-numbers/,Medium,7.8%,"6m,6m+",46.1%,No
 221,Maximal Square,https://leetcode.com/problems/maximal-square/,Medium,,,,No

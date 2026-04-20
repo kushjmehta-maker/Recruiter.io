@@ -2,7 +2,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,,,,No
 26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,,,,No
 48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
-49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,2.9%,6m+,72.2%,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,3.0%,6m+,72.2%,No
 121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
 205,Isomorphic Strings,https://leetcode.com/problems/isomorphic-strings/,Easy,,,,No
 303,Range Sum Query - Immutable,https://leetcode.com/problems/range-sum-query-immutable/,Easy,,,,No

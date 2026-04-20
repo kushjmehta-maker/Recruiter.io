@@ -19,7 +19,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 104,Maximum Depth of Binary Tree,https://leetcode.com/problems/maximum-depth-of-binary-tree/,Easy,,,,No
 121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,87.5%,6m+,56.4%,No
 125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,87.5%,6m+,52.8%,No
-146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,6.4%,6m+,46.8%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,6.3%,6m+,46.8%,No
 148,Sort List,https://leetcode.com/problems/sort-list/,Medium,,,,No
 200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
 253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes

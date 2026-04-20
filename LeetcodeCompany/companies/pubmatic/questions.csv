@@ -1,6 +1,6 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,100.0%,,59.5%,No
-14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,2.1%,6m+,47.1%,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,2.2%,6m+,47.1%,No
 146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
 188,Best Time to Buy and Sell Stock IV,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/,Hard,,,,No
 206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No

@@ -4,7 +4,6 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,,,,No
 20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,87.5%,6m+,43.7%,No
 21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,75.0%,6m+,67.9%,No
-23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,,,,No
 56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,62.5%,,51.1%,No
 71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,,,,No
 78,Subsets,https://leetcode.com/problems/subsets/,Medium,,,,No

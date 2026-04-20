@@ -14,9 +14,9 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 339,Nested List Weight Sum,https://leetcode.com/problems/nested-list-weight-sum/,Medium,,,,Yes
 357,Count Numbers with Unique Digits,https://leetcode.com/problems/count-numbers-with-unique-digits/,Medium,,,,No
 386,Lexicographical Numbers,https://leetcode.com/problems/lexicographical-numbers/,Medium,,,,No
-399,Evaluate Division,https://leetcode.com/problems/evaluate-division/,Medium,7.0%,6m+,64.0%,No
+399,Evaluate Division,https://leetcode.com/problems/evaluate-division/,Medium,6.9%,6m+,64.0%,No
 460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,,,,No
-465,Optimal Account Balancing,https://leetcode.com/problems/optimal-account-balancing/,Hard,9.2%,,,Yes
+465,Optimal Account Balancing,https://leetcode.com/problems/optimal-account-balancing/,Hard,9.0%,,,Yes
 570,Managers with at Least 5 Direct Reports,https://leetcode.com/problems/managers-with-at-least-5-direct-reports/,Medium,,,,No
 592,Fraction Addition and Subtraction,https://leetcode.com/problems/fraction-addition-and-subtraction/,Medium,,,,No
 635,Design Log Storage System,https://leetcode.com/problems/design-log-storage-system/,Medium,,,,Yes

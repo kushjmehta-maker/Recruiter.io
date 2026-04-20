@@ -10,6 +10,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
 53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
 88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No
+139,Word Break,https://leetcode.com/problems/word-break/,Medium,,,,No
 160,Intersection of Two Linked Lists,https://leetcode.com/problems/intersection-of-two-linked-lists/,Easy,,,,No
 189,Rotate Array,https://leetcode.com/problems/rotate-array/,Medium,62.5%,,44.4%,No
 197,Rising Temperature,https://leetcode.com/problems/rising-temperature/,Easy,,,,No

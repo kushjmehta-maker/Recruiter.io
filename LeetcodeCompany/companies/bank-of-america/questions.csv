@@ -10,7 +10,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No
 91,Decode Ways,https://leetcode.com/problems/decode-ways/,Medium,,,,No
 118,Pascal's Triangle,https://leetcode.com/problems/pascals-triangle/,Easy,,,,No
-121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,3.9%,6m+,56.4%,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,4.0%,6m+,56.4%,No
 125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,,,,No
 127,Word Ladder,https://leetcode.com/problems/word-ladder/,Hard,,,,No
 143,Reorder List,https://leetcode.com/problems/reorder-list/,Medium,,,,No

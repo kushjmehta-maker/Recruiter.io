@@ -1,6 +1,6 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
-8,String to Integer (atoi),https://leetcode.com/problems/string-to-integer-atoi/,Medium,2.8%,6m+,20.6%,No
+8,String to Integer (atoi),https://leetcode.com/problems/string-to-integer-atoi/,Medium,2.9%,6m+,20.6%,No
 12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,,,,No
 17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,,,,No
 33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No

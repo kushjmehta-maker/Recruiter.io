@@ -6,6 +6,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/,Hard,87.5%,,42.4%,No
 56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
 76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,100.0%,6m+,46.9%,No
+115,Distinct Subsequences,https://leetcode.com/problems/distinct-subsequences/,Hard,,,,No
 146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
 239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
 321,Create Maximum Number,https://leetcode.com/problems/create-maximum-number/,Hard,,,,No

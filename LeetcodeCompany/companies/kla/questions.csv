@@ -12,8 +12,8 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,2.8%,6m+,54.2%,No
 334,Increasing Triplet Subsequence,https://leetcode.com/problems/increasing-triplet-subsequence/,Medium,,,,No
 344,Reverse String,https://leetcode.com/problems/reverse-string/,Easy,,,,No
-460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,3.8%,6m+,48.6%,No
-554,Brick Wall,https://leetcode.com/problems/brick-wall/,Medium,6.8%,6m,56.0%,No
+460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,3.7%,6m+,48.6%,No
+554,Brick Wall,https://leetcode.com/problems/brick-wall/,Medium,6.9%,6m,56.0%,No
 670,Maximum Swap,https://leetcode.com/problems/maximum-swap/,Medium,,,,No
 700,Search in a Binary Search Tree,https://leetcode.com/problems/search-in-a-binary-search-tree/,Easy,,,,No
 780,Reaching Points,https://leetcode.com/problems/reaching-points/,Hard,75.0%,6m+,34.2%,No

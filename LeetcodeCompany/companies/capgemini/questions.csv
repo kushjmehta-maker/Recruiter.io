@@ -1,7 +1,7 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,4.6%,"3m,6m,6m+",57.1%,No
 2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,62.5%,6m+,47.9%,No
-3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,2.6%,6m+,38.5%,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,2.5%,6m+,38.5%,No
 4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,62.5%,6m+,45.9%,No
 5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
 7,Reverse Integer,https://leetcode.com/problems/reverse-integer/,Medium,50.0%,,31.5%,No
@@ -13,10 +13,10 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
 21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,62.5%,6m+,67.9%,No
 24,Swap Nodes in Pairs,https://leetcode.com/problems/swap-nodes-in-pairs/,Medium,,,,No
-26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,3.0%,6m+,62.2%,No
+26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,2.9%,6m+,62.2%,No
 27,Remove Element,https://leetcode.com/problems/remove-element/,Easy,,,,No
 28,Find the Index of the First Occurrence in a String,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/,Easy,75.0%,6m,46.2%,No
-34,Find First and Last Position of Element in Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Medium,1.8%,6m+,48.3%,No
+34,Find First and Last Position of Element in Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Medium,1.7%,6m+,48.3%,No
 35,Search Insert Position,https://leetcode.com/problems/search-insert-position/,Easy,,,,No
 40,Combination Sum II,https://leetcode.com/problems/combination-sum-ii/,Medium,,,,No
 42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,62.5%,6m+,66.8%,No
@@ -57,8 +57,8 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,2.3%,6m,64.1%,No
 232,Implement Queue using Stacks,https://leetcode.com/problems/implement-queue-using-stacks/,Easy,,,,No
 234,Palindrome Linked List,https://leetcode.com/problems/palindrome-linked-list/,Easy,,,,No
-235,Lowest Common Ancestor of a Binary Search Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,Medium,1.7%,,70.0%,No
-242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,1.4%,6m+,67.8%,No
+235,Lowest Common Ancestor of a Binary Search Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,Medium,1.6%,,70.0%,No
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,1.3%,6m+,67.8%,No
 274,H-Index,https://leetcode.com/problems/h-index/,Medium,,,,No
 283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,2.4%,6m+,63.5%,No
 319,Bulb Switcher,https://leetcode.com/problems/bulb-switcher/,Medium,,,,No

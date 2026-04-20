@@ -4,8 +4,8 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
 5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
 6,Zigzag Conversion,https://leetcode.com/problems/zigzag-conversion/,Medium,,,,No
-13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,3.3%,6m,66.2%,No
-14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,1.4%,6m,47.1%,No
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,3.4%,6m,66.2%,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,1.5%,6m,47.1%,No
 20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
 41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/,Hard,,,,No
 55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No

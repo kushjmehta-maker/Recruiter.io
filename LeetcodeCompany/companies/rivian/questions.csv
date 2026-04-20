@@ -7,7 +7,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
 56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
 141,Linked List Cycle,https://leetcode.com/problems/linked-list-cycle/,Easy,,,,No
-146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,4.6%,6m+,46.8%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,4.5%,6m+,46.8%,No
 173,Binary Search Tree Iterator,https://leetcode.com/problems/binary-search-tree-iterator/,Medium,,,,No
 200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,4.4%,6m+,63.8%,No
 208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,,,,No

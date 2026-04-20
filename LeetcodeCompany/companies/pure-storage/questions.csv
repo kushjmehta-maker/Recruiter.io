@@ -1,5 +1,5 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
-5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,4.7%,6m+,37.3%,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,4.8%,6m+,37.3%,No
 75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,,,,No
 76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,,,,No
 128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No
@@ -7,9 +7,9 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
 242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
 283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
-380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,6.2%,6m+,55.3%,No
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,6.1%,6m+,55.3%,No
 412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,62.5%,6m+,75.2%,No
-593,Valid Square,https://leetcode.com/problems/valid-square/,Medium,12.6%,6m+,44.8%,No
+593,Valid Square,https://leetcode.com/problems/valid-square/,Medium,12.7%,6m+,44.8%,No
 647,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,Medium,9.5%,"6m,6m+",72.5%,No
 704,Binary Search,https://leetcode.com/problems/binary-search/,Easy,50.0%,,60.5%,No
 705,Design HashSet,https://leetcode.com/problems/design-hashset/,Easy,,,,No

@@ -2,7 +2,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
 15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
 139,Word Break,https://leetcode.com/problems/word-break/,Medium,,,,No
-146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.2%,6m+,46.8%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.1%,6m+,46.8%,No
 211,Design Add and Search Words Data Structure,https://leetcode.com/problems/design-add-and-search-words-data-structure/,Medium,,,,No
 273,Integer to English Words,https://leetcode.com/problems/integer-to-english-words/,Hard,,,,No
 380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,,,,No

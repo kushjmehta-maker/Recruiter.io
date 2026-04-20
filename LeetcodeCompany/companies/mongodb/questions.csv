@@ -2,9 +2,9 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 10,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,Hard,,,,No
 21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,,,,No
 22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,,,,No
-23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,4.8%,6m+,58.8%,No
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,3.8%,6m+,58.8%,No
 30,Substring with Concatenation of All Words,https://leetcode.com/problems/substring-with-concatenation-of-all-words/,Hard,,,,No
-33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,3.3%,6m+,44.1%,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,2.2%,6m+,44.1%,No
 37,Sudoku Solver,https://leetcode.com/problems/sudoku-solver/,Hard,,,,No
 38,Count and Say,https://leetcode.com/problems/count-and-say/,Medium,,,,No
 39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,,,,No
@@ -13,25 +13,25 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
 55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
 56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
-57,Insert Interval,https://leetcode.com/problems/insert-interval/,Medium,4.5%,6m+,44.7%,No
-68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,6.1%,6m+,50.4%,No
+57,Insert Interval,https://leetcode.com/problems/insert-interval/,Medium,3.5%,6m+,44.7%,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,5.0%,6m+,50.4%,No
 75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,,,,No
 88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No
-133,Clone Graph,https://leetcode.com/problems/clone-graph/,Medium,2.5%,,,No
-139,Word Break,https://leetcode.com/problems/word-break/,Medium,5.4%,"6m,6m+",49.1%,No
+133,Clone Graph,https://leetcode.com/problems/clone-graph/,Medium,1.4%,,,No
+139,Word Break,https://leetcode.com/problems/word-break/,Medium,4.4%,"6m,6m+",49.1%,No
 140,Word Break II,https://leetcode.com/problems/word-break-ii/,Hard,62.5%,,55.1%,No
-146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,5.5%,6m,46.8%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,4.4%,6m,46.8%,No
 149,Max Points on a Line,https://leetcode.com/problems/max-points-on-a-line/,Hard,,,,No
 162,Find Peak Element,https://leetcode.com/problems/find-peak-element/,Medium,,,,No
 165,Compare Version Numbers,https://leetcode.com/problems/compare-version-numbers/,Medium,,,,No
 166,Fraction to Recurring Decimal,https://leetcode.com/problems/fraction-to-recurring-decimal/,Medium,,,,No
 198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
 207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,,,,No
-208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,7.0%,"3m,6m,6m+",69.2%,No
-210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,2.4%,,55.0%,No
+208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,5.8%,"3m,6m,6m+",69.2%,No
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,1.3%,,55.0%,No
 211,Design Add and Search Words Data Structure,https://leetcode.com/problems/design-add-and-search-words-data-structure/,Medium,,,,No
-236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Medium,2.3%,6m+,68.7%,No
-239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,3.0%,6m+,48.4%,No
+236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Medium,1.2%,6m+,68.7%,No
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,1.9%,6m+,48.4%,No
 252,Meeting Rooms,https://leetcode.com/problems/meeting-rooms/,Easy,,,,Yes
 253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
 284,Peeking Iterator,https://leetcode.com/problems/peeking-iterator/,Medium,,,,No
@@ -42,14 +42,14 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 346,Moving Average from Data Stream,https://leetcode.com/problems/moving-average-from-data-stream/,Easy,,,,Yes
 347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,,,,No
 348,Design Tic-Tac-Toe,https://leetcode.com/problems/design-tic-tac-toe/,Medium,,,,Yes
-349,Intersection of Two Arrays,https://leetcode.com/problems/intersection-of-two-arrays/,Easy,5.7%,"3m,6m,6m+",77.5%,No
+349,Intersection of Two Arrays,https://leetcode.com/problems/intersection-of-two-arrays/,Easy,4.6%,"3m,6m,6m+",77.5%,No
 362,Design Hit Counter,https://leetcode.com/problems/design-hit-counter/,Medium,,,,Yes
 399,Evaluate Division,https://leetcode.com/problems/evaluate-division/,Medium,,,,No
-443,String Compression,https://leetcode.com/problems/string-compression/,Medium,2.9%,6m,59.5%,No
+443,String Compression,https://leetcode.com/problems/string-compression/,Medium,1.9%,6m,59.5%,No
 460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,,,,No
 516,Longest Palindromic Subsequence,https://leetcode.com/problems/longest-palindromic-subsequence/,Medium,,,,No
 617,Merge Two Binary Trees,https://leetcode.com/problems/merge-two-binary-trees/,Easy,87.5%,6m+,79.0%,No
-642,Design Search Autocomplete System,https://leetcode.com/problems/design-search-autocomplete-system/,Hard,6.7%,6m+,49.7%,Yes
+642,Design Search Autocomplete System,https://leetcode.com/problems/design-search-autocomplete-system/,Hard,5.6%,6m+,49.7%,Yes
 981,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/,Medium,,,,No
 1115,Print FooBar Alternately,https://leetcode.com/problems/print-foobar-alternately/,Medium,,,,No
 1188,Design Bounded Blocking Queue,https://leetcode.com/problems/design-bounded-blocking-queue/,Medium,,,,Yes

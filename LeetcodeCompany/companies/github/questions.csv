@@ -2,7 +2,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 16,3Sum Closest,https://leetcode.com/problems/3sum-closest/,Medium,,,,No
 42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
 131,Palindrome Partitioning,https://leetcode.com/problems/palindrome-partitioning/,Medium,,,,No
-146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.9%,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,3.5%,,,No
 169,Majority Element,https://leetcode.com/problems/majority-element/,Easy,,,,No
 215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
 263,Ugly Number,https://leetcode.com/problems/ugly-number/,Easy,100.0%,6m+,43.1%,No

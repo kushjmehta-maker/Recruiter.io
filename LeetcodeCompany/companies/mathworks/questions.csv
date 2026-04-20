@@ -5,7 +5,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 19,Remove Nth Node From End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Medium,,,,No
 20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
 21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,,,,No
-25,Reverse Nodes in k-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,Hard,6.5%,6m+,65.3%,No
+25,Reverse Nodes in k-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,Hard,6.6%,6m+,65.3%,No
 33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
 49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
 55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
@@ -32,13 +32,13 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 392,Is Subsequence,https://leetcode.com/problems/is-subsequence/,Easy,,,,No
 394,Decode String,https://leetcode.com/problems/decode-string/,Medium,,,,No
 407,Trapping Rain Water II,https://leetcode.com/problems/trapping-rain-water-ii/,Hard,,,,No
-410,Split Array Largest Sum,https://leetcode.com/problems/split-array-largest-sum/,Hard,2.7%,6m+,59.8%,No
+410,Split Array Largest Sum,https://leetcode.com/problems/split-array-largest-sum/,Hard,2.8%,6m+,59.8%,No
 424,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Medium,,,,No
 496,Next Greater Element I,https://leetcode.com/problems/next-greater-element-i/,Easy,,,,No
-500,Keyboard Row,https://leetcode.com/problems/keyboard-row/,Easy,6.5%,6m+,73.5%,No
+500,Keyboard Row,https://leetcode.com/problems/keyboard-row/,Easy,6.6%,6m+,73.5%,No
 523,Continuous Subarray Sum,https://leetcode.com/problems/continuous-subarray-sum/,Medium,,,,No
-566,Reshape the Matrix,https://leetcode.com/problems/reshape-the-matrix/,Easy,3.2%,6m+,64.7%,No
-621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,3.0%,"6m,6m+",62.6%,No
+566,Reshape the Matrix,https://leetcode.com/problems/reshape-the-matrix/,Easy,3.3%,6m+,64.7%,No
+621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,3.1%,"6m,6m+",62.6%,No
 638,Shopping Offers,https://leetcode.com/problems/shopping-offers/,Medium,100.0%,6m+,52.2%,No
 713,Subarray Product Less Than K,https://leetcode.com/problems/subarray-product-less-than-k/,Medium,,,,No
 735,Asteroid Collision,https://leetcode.com/problems/asteroid-collision/,Medium,,,,No

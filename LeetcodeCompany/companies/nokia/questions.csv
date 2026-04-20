@@ -20,7 +20,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 148,Sort List,https://leetcode.com/problems/sort-list/,Medium,,,,No
 200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
 203,Remove Linked List Elements,https://leetcode.com/problems/remove-linked-list-elements/,Easy,,,,No
-204,Count Primes,https://leetcode.com/problems/count-primes/,Medium,2.9%,6m+,35.7%,No
+204,Count Primes,https://leetcode.com/problems/count-primes/,Medium,3.0%,6m+,35.7%,No
 206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No
 217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,,,,No
 236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Medium,,,,No

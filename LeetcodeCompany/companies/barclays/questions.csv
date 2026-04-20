@@ -6,7 +6,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
 12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,,,,No
 13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,,,,No
-14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,2.1%,6m,47.1%,No
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,2.2%,6m,47.1%,No
 15,3Sum,https://leetcode.com/problems/3sum/,Medium,2.5%,,,No
 20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,62.5%,6m+,43.7%,No
 49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
@@ -33,7 +33,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
 344,Reverse String,https://leetcode.com/problems/reverse-string/,Easy,,,,No
 345,Reverse Vowels of a String,https://leetcode.com/problems/reverse-vowels-of-a-string/,Easy,,,,No
-386,Lexicographical Numbers,https://leetcode.com/problems/lexicographical-numbers/,Medium,4.7%,6m+,76.2%,No
+386,Lexicographical Numbers,https://leetcode.com/problems/lexicographical-numbers/,Medium,4.9%,6m+,76.2%,No
 451,Sort Characters By Frequency,https://leetcode.com/problems/sort-characters-by-frequency/,Medium,,,,No
 452,Minimum Number of Arrows to Burst Balloons,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/,Medium,,,,No
 453,Minimum Moves to Equal Array Elements,https://leetcode.com/problems/minimum-moves-to-equal-array-elements/,Medium,,,,No

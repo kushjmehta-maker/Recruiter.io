@@ -1,13 +1,13 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
-28,Find the Index of the First Occurrence in a String,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/,Easy,6.0%,6m+,46.2%,No
-75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,5.6%,6m+,69.1%,No
-133,Clone Graph,https://leetcode.com/problems/clone-graph/,Medium,6.2%,6m+,64.7%,No
-139,Word Break,https://leetcode.com/problems/word-break/,Medium,3.9%,6m+,49.1%,No
-214,Shortest Palindrome,https://leetcode.com/problems/shortest-palindrome/,Hard,3.7%,6m+,41.9%,No
-215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,2.0%,6m+,68.8%,No
+28,Find the Index of the First Occurrence in a String,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/,Easy,6.1%,6m+,46.2%,No
+75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,5.7%,6m+,69.1%,No
+133,Clone Graph,https://leetcode.com/problems/clone-graph/,Medium,6.3%,6m+,64.7%,No
+139,Word Break,https://leetcode.com/problems/word-break/,Medium,4.0%,6m+,49.1%,No
+214,Shortest Palindrome,https://leetcode.com/problems/shortest-palindrome/,Hard,3.8%,6m+,41.9%,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,2.1%,6m+,68.8%,No
 269,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,Hard,4.6%,6m+,37.1%,Yes
-285,Inorder Successor in BST,https://leetcode.com/problems/inorder-successor-in-bst/,Medium,8.3%,6m+,51.1%,Yes
-347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,4.7%,6m+,65.8%,No
+285,Inorder Successor in BST,https://leetcode.com/problems/inorder-successor-in-bst/,Medium,8.4%,6m+,51.1%,Yes
+347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,4.8%,6m+,65.8%,No
 380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,,6m+,55.3%,No
 424,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Medium,,6m+,59.0%,No
 442,Find All Duplicates in an Array,https://leetcode.com/problems/find-all-duplicates-in-an-array/,Medium,,6m+,76.8%,No

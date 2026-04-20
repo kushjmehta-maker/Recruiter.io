@@ -10,7 +10,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 388,Longest Absolute File Path,https://leetcode.com/problems/longest-absolute-file-path/,Medium,,,,No
 410,Split Array Largest Sum,https://leetcode.com/problems/split-array-largest-sum/,Hard,,,,No
 424,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Medium,,,,No
-476,Number Complement,https://leetcode.com/problems/number-complement/,Easy,4.6%,6m+,70.4%,No
+476,Number Complement,https://leetcode.com/problems/number-complement/,Easy,4.7%,6m+,70.4%,No
 621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,,,,No
 682,Baseball Game,https://leetcode.com/problems/baseball-game/,Easy,,,,No
 870,Advantage Shuffle,https://leetcode.com/problems/advantage-shuffle/,Medium,,,,No

@@ -37,7 +37,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,62.5%,6m+,63.8%,No
 202,Happy Number,https://leetcode.com/problems/happy-number/,Easy,,,,No
 205,Isomorphic Strings,https://leetcode.com/problems/isomorphic-strings/,Easy,62.5%,6m+,48.0%,No
-207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,2.4%,6m+,50.8%,No
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,2.3%,6m+,50.8%,No
 215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
 217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,,,,No
 218,The Skyline Problem,https://leetcode.com/problems/the-skyline-problem/,Hard,4.0%,6m+,45.0%,No
@@ -60,7 +60,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 432,All O`one Data Structure,https://leetcode.com/problems/all-oone-data-structure/,Hard,,,,No
 441,Arranging Coins,https://leetcode.com/problems/arranging-coins/,Easy,,,,No
 450,Delete Node in a BST,https://leetcode.com/problems/delete-node-in-a-bst/,Medium,,,,No
-460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,4.2%,6m+,48.6%,No
+460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,4.1%,6m+,48.6%,No
 496,Next Greater Element I,https://leetcode.com/problems/next-greater-element-i/,Easy,,,,No
 500,Keyboard Row,https://leetcode.com/problems/keyboard-row/,Easy,,,,No
 540,Single Element in a Sorted Array,https://leetcode.com/problems/single-element-in-a-sorted-array/,Medium,62.5%,6m+,59.2%,No

@@ -5,7 +5,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 221,Maximal Square,https://leetcode.com/problems/maximal-square/,Medium,,,,No
 373,Find K Pairs with Smallest Sums,https://leetcode.com/problems/find-k-pairs-with-smallest-sums/,Medium,,,,No
 494,Target Sum,https://leetcode.com/problems/target-sum/,Medium,,,,No
-688,Knight Probability in Chessboard,https://leetcode.com/problems/knight-probability-in-chessboard/,Medium,6.3%,6m+,56.9%,No
+688,Knight Probability in Chessboard,https://leetcode.com/problems/knight-probability-in-chessboard/,Medium,6.2%,6m+,56.9%,No
 764,Largest Plus Sign,https://leetcode.com/problems/largest-plus-sign/,Medium,,,,No
 792,Number of Matching Subsequences,https://leetcode.com/problems/number-of-matching-subsequences/,Medium,87.5%,,50.6%,No
 829,Consecutive Numbers Sum,https://leetcode.com/problems/consecutive-numbers-sum/,Hard,,,,No

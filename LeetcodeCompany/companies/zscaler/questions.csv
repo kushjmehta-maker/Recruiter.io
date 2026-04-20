@@ -17,7 +17,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 132,Palindrome Partitioning II,https://leetcode.com/problems/palindrome-partitioning-ii/,Hard,,,,No
 141,Linked List Cycle,https://leetcode.com/problems/linked-list-cycle/,Easy,,,,No
 142,Linked List Cycle II,https://leetcode.com/problems/linked-list-cycle-ii/,Medium,,,,No
-146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,4.3%,,46.8%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,4.2%,,46.8%,No
 151,Reverse Words in a String,https://leetcode.com/problems/reverse-words-in-a-string/,Medium,,,,No
 196,Delete Duplicate Emails,https://leetcode.com/problems/delete-duplicate-emails/,Easy,,,,No
 217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,62.5%,6m+,64.1%,No
@@ -30,7 +30,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 349,Intersection of Two Arrays,https://leetcode.com/problems/intersection-of-two-arrays/,Easy,,,,No
 394,Decode String,https://leetcode.com/problems/decode-string/,Medium,,,,No
 416,Partition Equal Subset Sum,https://leetcode.com/problems/partition-equal-subset-sum/,Medium,,,,No
-465,Optimal Account Balancing,https://leetcode.com/problems/optimal-account-balancing/,Hard,8.7%,6m+,50.3%,Yes
+465,Optimal Account Balancing,https://leetcode.com/problems/optimal-account-balancing/,Hard,8.5%,6m+,50.3%,Yes
 518,Coin Change II,https://leetcode.com/problems/coin-change-ii/,Medium,,,,No
 733,Flood Fill,https://leetcode.com/problems/flood-fill/,Easy,,,,No
 783,Minimum Distance Between BST Nodes,https://leetcode.com/problems/minimum-distance-between-bst-nodes/,Easy,,,,No

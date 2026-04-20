@@ -11,7 +11,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
 300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,,,,No
 390,Elimination Game,https://leetcode.com/problems/elimination-game/,Medium,,,,No
-399,Evaluate Division,https://leetcode.com/problems/evaluate-division/,Medium,3.6%,"3m,6m",64.0%,No
+399,Evaluate Division,https://leetcode.com/problems/evaluate-division/,Medium,3.5%,"3m,6m",64.0%,No
 417,Pacific Atlantic Water Flow,https://leetcode.com/problems/pacific-atlantic-water-flow/,Medium,3.4%,,60.6%,No
 424,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Medium,,,,No
 452,Minimum Number of Arrows to Burst Balloons,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/,Medium,,,,No

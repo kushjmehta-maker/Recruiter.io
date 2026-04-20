@@ -1,8 +1,8 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,62.5%,6m+,57.1%,No
-3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,2.2%,"3m,6m",38.5%,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,2.1%,"3m,6m",38.5%,No
 4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
-5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,2.5%,"6m,6m+",37.3%,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,2.4%,"6m,6m+",37.3%,No
 6,Zigzag Conversion,https://leetcode.com/problems/zigzag-conversion/,Medium,,,,No
 11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,2.2%,6m+,59.5%,No
 14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,75.0%,6m+,47.1%,No
@@ -14,15 +14,15 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,,,,No
 33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
 41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/,Hard,,,,No
-42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,2.7%,6m+,66.8%,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,2.6%,6m+,66.8%,No
 43,Multiply Strings,https://leetcode.com/problems/multiply-strings/,Medium,,,,No
 44,Wildcard Matching,https://leetcode.com/problems/wildcard-matching/,Hard,,,,No
-45,Jump Game II,https://leetcode.com/problems/jump-game-ii/,Medium,3.1%,6m+,42.5%,No
-49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,4.6%,6m+,72.2%,No
+45,Jump Game II,https://leetcode.com/problems/jump-game-ii/,Medium,3.0%,6m+,42.5%,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,4.5%,6m+,72.2%,No
 53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,62.5%,6m+,53.0%,No
-55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,3.3%,6m+,40.5%,No
+55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,3.2%,6m+,40.5%,No
 70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
-72,Edit Distance,https://leetcode.com/problems/edit-distance/,Medium,2.3%,6m+,60.1%,No
+72,Edit Distance,https://leetcode.com/problems/edit-distance/,Medium,2.2%,6m+,60.1%,No
 74,Search a 2D Matrix,https://leetcode.com/problems/search-a-2d-matrix/,Medium,,,,No
 75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,,,,No
 78,Subsets,https://leetcode.com/problems/subsets/,Medium,,,,No
@@ -38,7 +38,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,62.5%,6m+,56.4%,No
 123,Best Time to Buy and Sell Stock III,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/,Hard,,,,No
 124,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Hard,,,,No
-125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,1.2%,,,No
+125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,1.1%,,,No
 127,Word Ladder,https://leetcode.com/problems/word-ladder/,Hard,,,,No
 130,Surrounded Regions,https://leetcode.com/problems/surrounded-regions/,Medium,,,,No
 132,Palindrome Partitioning II,https://leetcode.com/problems/palindrome-partitioning-ii/,Hard,,,,No
@@ -53,7 +53,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 188,Best Time to Buy and Sell Stock IV,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/,Hard,62.5%,,49.5%,No
 198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
 199,Binary Tree Right Side View,https://leetcode.com/problems/binary-tree-right-side-view/,Medium,,,,No
-200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,4.5%,6m+,63.8%,No
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,4.4%,6m+,63.8%,No
 205,Isomorphic Strings,https://leetcode.com/problems/isomorphic-strings/,Easy,2.1%,6m+,48.0%,No
 228,Summary Ranges,https://leetcode.com/problems/summary-ranges/,Easy,,,,No
 238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,,,,No
@@ -63,14 +63,14 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 344,Reverse String,https://leetcode.com/problems/reverse-string/,Easy,,,,No
 354,Russian Doll Envelopes,https://leetcode.com/problems/russian-doll-envelopes/,Hard,,,,No
 387,First Unique Character in a String,https://leetcode.com/problems/first-unique-character-in-a-string/,Easy,,,,No
-394,Decode String,https://leetcode.com/problems/decode-string/,Medium,2.7%,6m,62.2%,No
+394,Decode String,https://leetcode.com/problems/decode-string/,Medium,2.6%,6m,62.2%,No
 402,Remove K Digits,https://leetcode.com/problems/remove-k-digits/,Medium,,,,No
 416,Partition Equal Subset Sum,https://leetcode.com/problems/partition-equal-subset-sum/,Medium,,,,No
 420,Strong Password Checker,https://leetcode.com/problems/strong-password-checker/,Hard,,,,No
 438,Find All Anagrams in a String,https://leetcode.com/problems/find-all-anagrams-in-a-string/,Medium,,,,No
 453,Minimum Moves to Equal Array Elements,https://leetcode.com/problems/minimum-moves-to-equal-array-elements/,Medium,,,,No
 493,Reverse Pairs,https://leetcode.com/problems/reverse-pairs/,Hard,,,,No
-526,Beautiful Arrangement,https://leetcode.com/problems/beautiful-arrangement/,Medium,4.8%,6m+,64.7%,No
+526,Beautiful Arrangement,https://leetcode.com/problems/beautiful-arrangement/,Medium,4.9%,6m+,64.7%,No
 557,Reverse Words in a String III,https://leetcode.com/problems/reverse-words-in-a-string-iii/,Easy,,,,No
 560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
 626,Exchange Seats,https://leetcode.com/problems/exchange-seats/,Medium,,,,No
@@ -79,7 +79,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 658,Find K Closest Elements,https://leetcode.com/problems/find-k-closest-elements/,Medium,,,,No
 691,Stickers to Spell Word,https://leetcode.com/problems/stickers-to-spell-word/,Hard,,,,No
 735,Asteroid Collision,https://leetcode.com/problems/asteroid-collision/,Medium,,,,No
-739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,2.8%,,68.3%,No
+739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,2.7%,,68.3%,No
 746,Min Cost Climbing Stairs,https://leetcode.com/problems/min-cost-climbing-stairs/,Easy,,,,No
 752,Open the Lock,https://leetcode.com/problems/open-the-lock/,Medium,,,,No
 703,Kth Largest Element in a Stream,https://leetcode.com/problems/kth-largest-element-in-a-stream/,Easy,,,,No

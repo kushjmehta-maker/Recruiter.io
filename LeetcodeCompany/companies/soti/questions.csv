@@ -14,7 +14,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 104,Maximum Depth of Binary Tree,https://leetcode.com/problems/maximum-depth-of-binary-tree/,Easy,,,,No
 560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
 567,Permutation in String,https://leetcode.com/problems/permutation-in-string/,Medium,,,,No
-605,Can Place Flowers,https://leetcode.com/problems/can-place-flowers/,Easy,4.7%,6m+,29.0%,No
+605,Can Place Flowers,https://leetcode.com/problems/can-place-flowers/,Easy,4.8%,6m+,29.0%,No
 622,Design Circular Queue,https://leetcode.com/problems/design-circular-queue/,Medium,,,,No
 1143,Longest Common Subsequence,https://leetcode.com/problems/longest-common-subsequence/,Medium,,,,No
 1438,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/,Medium,,,,No

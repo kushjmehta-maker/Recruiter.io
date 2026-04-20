@@ -1,9 +1,9 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
 5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
-32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,2.2%,6m+,38.0%,No
+32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,2.4%,6m+,38.0%,No
 38,Count and Say,https://leetcode.com/problems/count-and-say/,Medium,,,,No
-42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,2.6%,6m+,66.8%,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,2.8%,6m+,66.8%,No
 71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,,,,No
 152,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/,Medium,,,,No
 188,Best Time to Buy and Sell Stock IV,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/,Hard,,,,No
@@ -13,12 +13,12 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 346,Moving Average from Data Stream,https://leetcode.com/problems/moving-average-from-data-stream/,Easy,,,,Yes
 392,Is Subsequence,https://leetcode.com/problems/is-subsequence/,Easy,,,,No
 424,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Medium,,,,No
-488,Zuma Game,https://leetcode.com/problems/zuma-game/,Hard,6.5%,6m,30.2%,No
+488,Zuma Game,https://leetcode.com/problems/zuma-game/,Hard,6.9%,6m,30.2%,No
 502,IPO,https://leetcode.com/problems/ipo/,Hard,,,,No
 552,Student Attendance Record II,https://leetcode.com/problems/student-attendance-record-ii/,Hard,,,,No
 630,Course Schedule III,https://leetcode.com/problems/course-schedule-iii/,Hard,,,,No
-664,Strange Printer,https://leetcode.com/problems/strange-printer/,Hard,7.1%,6m,60.9%,No
-684,Redundant Connection,https://leetcode.com/problems/redundant-connection/,Medium,3.0%,6m+,67.2%,No
+664,Strange Printer,https://leetcode.com/problems/strange-printer/,Hard,7.3%,6m,60.9%,No
+684,Redundant Connection,https://leetcode.com/problems/redundant-connection/,Medium,3.2%,6m+,67.2%,No
 754,Reach a Number,https://leetcode.com/problems/reach-a-number/,Medium,100.0%,6m+,44.6%,No
 763,Partition Labels,https://leetcode.com/problems/partition-labels/,Medium,100.0%,6m+,81.8%,No
 826,Most Profit Assigning Work,https://leetcode.com/problems/most-profit-assigning-work/,Medium,,,,No

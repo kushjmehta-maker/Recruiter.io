@@ -1,9 +1,9 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
-5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,2.6%,6m+,37.3%,No
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,2.5%,6m+,37.3%,No
 22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,,,,No
 25,Reverse Nodes in k-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,Hard,,,,No
-91,Decode Ways,https://leetcode.com/problems/decode-ways/,Medium,5.2%,6m+,37.6%,No
+91,Decode Ways,https://leetcode.com/problems/decode-ways/,Medium,5.1%,6m+,37.6%,No
 121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
 135,Candy,https://leetcode.com/problems/candy/,Hard,,,,No
 162,Find Peak Element,https://leetcode.com/problems/find-peak-element/,Medium,2.6%,6m+,46.8%,No

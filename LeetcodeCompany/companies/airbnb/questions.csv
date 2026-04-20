@@ -16,38 +16,38 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 61,Rotate List,https://leetcode.com/problems/rotate-list/,Medium,,,,No
 68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,9.2%,"6m,6m+",50.4%,No
 72,Edit Distance,https://leetcode.com/problems/edit-distance/,Medium,,,,No
-76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,7.1%,6m+,46.9%,No
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,7.0%,6m+,46.9%,No
 108,Convert Sorted Array to Binary Search Tree,https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/,Easy,2.9%,6m+,75.2%,No
 109,Convert Sorted List to Binary Search Tree,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/,Medium,,,,No
 136,Single Number,https://leetcode.com/problems/single-number/,Easy,2.7%,6m+,77.3%,No
 146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
 152,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/,Medium,,,,No
-160,Intersection of Two Linked Lists,https://leetcode.com/problems/intersection-of-two-linked-lists/,Easy,5.0%,6m+,63.2%,No
+160,Intersection of Two Linked Lists,https://leetcode.com/problems/intersection-of-two-linked-lists/,Easy,5.1%,6m+,63.2%,No
 166,Fraction to Recurring Decimal,https://leetcode.com/problems/fraction-to-recurring-decimal/,Medium,,,,No
 190,Reverse Bits,https://leetcode.com/problems/reverse-bits/,Easy,2.7%,6m+,67.7%,No
 197,Rising Temperature,https://leetcode.com/problems/rising-temperature/,Easy,,,,No
 198,House Robber,https://leetcode.com/problems/house-robber/,Medium,3.9%,6m+,52.9%,No
 200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
 202,Happy Number,https://leetcode.com/problems/happy-number/,Easy,2.6%,6m+,59.2%,No
-212,Word Search II,https://leetcode.com/problems/word-search-ii/,Hard,6.4%,6m+,38.1%,No
+212,Word Search II,https://leetcode.com/problems/word-search-ii/,Hard,6.2%,6m+,38.1%,No
 217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,1.2%,6m+,64.1%,No
-219,Contains Duplicate II,https://leetcode.com/problems/contains-duplicate-ii/,Easy,3.6%,6m+,50.8%,No
+219,Contains Duplicate II,https://leetcode.com/problems/contains-duplicate-ii/,Easy,3.7%,6m+,50.8%,No
 220,Contains Duplicate III,https://leetcode.com/problems/contains-duplicate-iii/,Hard,4.1%,6m+,24.4%,No
-221,Maximal Square,https://leetcode.com/problems/maximal-square/,Medium,2.9%,6m+,50.0%,No
+221,Maximal Square,https://leetcode.com/problems/maximal-square/,Medium,2.8%,6m+,50.0%,No
 227,Basic Calculator II,https://leetcode.com/problems/basic-calculator-ii/,Medium,,6m+,46.6%,No
 234,Palindrome Linked List,https://leetcode.com/problems/palindrome-linked-list/,Easy,,,,No
 236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Medium,37.5%,6m+,68.7%,No
-251,Flatten 2D Vector,https://leetcode.com/problems/flatten-2d-vector/,Medium,14.2%,"6m,6m+",50.4%,Yes
-269,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,Hard,11.9%,"6m,6m+",37.1%,Yes
+251,Flatten 2D Vector,https://leetcode.com/problems/flatten-2d-vector/,Medium,13.9%,"6m,6m+",50.4%,Yes
+269,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,Hard,11.8%,"6m,6m+",37.1%,Yes
 295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,,,,No
 296,Best Meeting Point,https://leetcode.com/problems/best-meeting-point/,Hard,,,,Yes
 322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,5.7%,,47.9%,No
 329,Longest Increasing Path in a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,Hard,,,,No
-336,Palindrome Pairs,https://leetcode.com/problems/palindrome-pairs/,Hard,13.5%,6m+,36.9%,No
+336,Palindrome Pairs,https://leetcode.com/problems/palindrome-pairs/,Hard,13.4%,6m+,36.9%,No
 337,House Robber III,https://leetcode.com/problems/house-robber-iii/,Medium,,,,No
 341,Flatten Nested List Iterator,https://leetcode.com/problems/flatten-nested-list-iterator/,Medium,37.5%,6m+,65.6%,No
-348,Design Tic-Tac-Toe,https://leetcode.com/problems/design-tic-tac-toe/,Medium,6.4%,6m+,58.7%,Yes
-385,Mini Parser,https://leetcode.com/problems/mini-parser/,Medium,4.1%,6m+,42.0%,No
+348,Design Tic-Tac-Toe,https://leetcode.com/problems/design-tic-tac-toe/,Medium,6.0%,6m+,58.7%,Yes
+385,Mini Parser,https://leetcode.com/problems/mini-parser/,Medium,4.0%,6m+,42.0%,No
 400,Nth Digit,https://leetcode.com/problems/nth-digit/,Medium,37.5%,6m+,37.1%,No
 415,Add Strings,https://leetcode.com/problems/add-strings/,Easy,,6m+,52.1%,No
 432,All O`one Data Structure,https://leetcode.com/problems/all-oone-data-structure/,Hard,50.0%,6m+,44.1%,No
@@ -56,21 +56,21 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 569,Median Employee Salary,https://leetcode.com/problems/median-employee-salary/,Hard,,,,Yes
 588,Design In-Memory File System,https://leetcode.com/problems/design-in-memory-file-system/,Hard,,,,Yes
 605,Can Place Flowers,https://leetcode.com/problems/can-place-flowers/,Easy,37.5%,6m+,29.0%,No
-631,Design Excel Sum Formula,https://leetcode.com/problems/design-excel-sum-formula/,Hard,8.0%,"3m,6m,6m+",39.8%,Yes
+631,Design Excel Sum Formula,https://leetcode.com/problems/design-excel-sum-formula/,Hard,8.2%,"3m,6m,6m+",39.8%,Yes
 638,Shopping Offers,https://leetcode.com/problems/shopping-offers/,Medium,6.4%,"3m,6m,6m+",52.2%,No
 658,Find K Closest Elements,https://leetcode.com/problems/find-k-closest-elements/,Medium,,,,No
 680,Valid Palindrome II,https://leetcode.com/problems/valid-palindrome-ii/,Easy,,,,No
-713,Subarray Product Less Than K,https://leetcode.com/problems/subarray-product-less-than-k/,Medium,3.7%,6m+,53.9%,No
-721,Accounts Merge,https://leetcode.com/problems/accounts-merge/,Medium,4.6%,"3m,6m",60.9%,No
+713,Subarray Product Less Than K,https://leetcode.com/problems/subarray-product-less-than-k/,Medium,3.6%,6m+,53.9%,No
+721,Accounts Merge,https://leetcode.com/problems/accounts-merge/,Medium,4.5%,"3m,6m",60.9%,No
 725,Split Linked List in Parts,https://leetcode.com/problems/split-linked-list-in-parts/,Medium,,,,No
 727,Minimum Window Subsequence,https://leetcode.com/problems/minimum-window-subsequence/,Hard,8.2%,,43.8%,Yes
 739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,,,,No
 751,IP to CIDR,https://leetcode.com/problems/ip-to-cidr/,Medium,37.5%,6m+,53.7%,Yes
 755,Pour Water,https://leetcode.com/problems/pour-water/,Medium,75.0%,6m+,48.5%,Yes
-756,Pyramid Transition Matrix,https://leetcode.com/problems/pyramid-transition-matrix/,Medium,12.7%,6m+,60.6%,No
+756,Pyramid Transition Matrix,https://leetcode.com/problems/pyramid-transition-matrix/,Medium,12.6%,6m+,60.6%,No
 759,Employee Free Time,https://leetcode.com/problems/employee-free-time/,Hard,37.5%,6m+,72.8%,Yes
 773,Sliding Puzzle,https://leetcode.com/problems/sliding-puzzle/,Hard,62.5%,6m+,74.1%,No
-787,Cheapest Flights Within K Stops,https://leetcode.com/problems/cheapest-flights-within-k-stops/,Medium,10.7%,6m+,41.4%,No
+787,Cheapest Flights Within K Stops,https://leetcode.com/problems/cheapest-flights-within-k-stops/,Medium,10.8%,6m+,41.4%,No
 827,Making A Large Island,https://leetcode.com/problems/making-a-large-island/,Hard,37.5%,6m+,56.3%,No
 829,Consecutive Numbers Sum,https://leetcode.com/problems/consecutive-numbers-sum/,Hard,,,,No
 622,Design Circular Queue,https://leetcode.com/problems/design-circular-queue/,Medium,37.5%,,54.0%,No
@@ -89,7 +89,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 1166,Design File System,https://leetcode.com/problems/design-file-system/,Medium,37.5%,6m+,65.1%,Yes
 1091,Shortest Path in Binary Matrix,https://leetcode.com/problems/shortest-path-in-binary-matrix/,Medium,37.5%,6m+,51.1%,No
 1257,Smallest Common Region,https://leetcode.com/problems/smallest-common-region/,Medium,75.0%,6m+,68.3%,Yes
-1125,Smallest Sufficient Team,https://leetcode.com/problems/smallest-sufficient-team/,Hard,9.6%,,,No
+1125,Smallest Sufficient Team,https://leetcode.com/problems/smallest-sufficient-team/,Hard,9.7%,,,No
 1944,Number of Visible People in a Queue,https://leetcode.com/problems/number-of-visible-people-in-a-queue/,Hard,,,,No
 1207,Unique Number of Occurrences,https://leetcode.com/problems/unique-number-of-occurrences/,Easy,,,,No
 1235,Maximum Profit in Job Scheduling,https://leetcode.com/problems/maximum-profit-in-job-scheduling/,Hard,100.0%,"30d,3m,6m,6m+",54.6%,No

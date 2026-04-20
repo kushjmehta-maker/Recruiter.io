@@ -1,9 +1,9 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
-21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,2.7%,6m,67.9%,No
+21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,2.8%,6m,67.9%,No
 56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,1.8%,,51.1%,No
 88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,4.9%,"3m,6m,6m+",54.4%,No
-146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,5.1%,6m+,46.8%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,5.0%,6m+,46.8%,No
 394,Decode String,https://leetcode.com/problems/decode-string/,Medium,,,,No
 751,IP to CIDR,https://leetcode.com/problems/ip-to-cidr/,Medium,,,,Yes
 1893,Check if All the Integers in a Range Are Covered,https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/,Easy,100.0%,6m,50.8%,No

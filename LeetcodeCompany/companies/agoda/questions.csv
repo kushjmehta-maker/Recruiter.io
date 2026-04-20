@@ -1,6 +1,6 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,62.5%,6m+,57.1%,No
-3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,4.7%,6m+,38.5%,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,4.8%,6m+,38.5%,No
 4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
 5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
 12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,62.5%,6m+,70.4%,No
@@ -16,18 +16,18 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,75.0%,"3m,6m",40.5%,No
 56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
 62,Unique Paths,https://leetcode.com/problems/unique-paths/,Medium,,,,No
-63,Unique Paths II,https://leetcode.com/problems/unique-paths-ii/,Medium,4.4%,6m+,44.1%,No
+63,Unique Paths II,https://leetcode.com/problems/unique-paths-ii/,Medium,4.5%,6m+,44.1%,No
 68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,,,,No
 70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,1.9%,6m+,53.9%,No
 74,Search a 2D Matrix,https://leetcode.com/problems/search-a-2d-matrix/,Medium,,,,No
-75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,2.7%,,69.1%,No
+75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,2.8%,,69.1%,No
 78,Subsets,https://leetcode.com/problems/subsets/,Medium,,,,No
 84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,,,,No
 88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No
 90,Subsets II,https://leetcode.com/problems/subsets-ii/,Medium,,,,No
 98,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/,Medium,,,,No
 120,Triangle,https://leetcode.com/problems/triangle/,Medium,62.5%,6m+,59.8%,No
-121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,5.6%,"6m,6m+",56.4%,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,5.7%,"6m,6m+",56.4%,No
 122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,62.5%,6m+,70.7%,No
 123,Best Time to Buy and Sell Stock III,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/,Hard,,,,No
 129,Sum Root to Leaf Numbers,https://leetcode.com/problems/sum-root-to-leaf-numbers/,Medium,,,,No
@@ -51,7 +51,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,50.0%,,47.9%,No
 349,Intersection of Two Arrays,https://leetcode.com/problems/intersection-of-two-arrays/,Easy,,,,No
 374,Guess Number Higher or Lower,https://leetcode.com/problems/guess-number-higher-or-lower/,Easy,,,,No
-380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,2.9%,6m+,55.3%,No
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,2.8%,6m+,55.3%,No
 392,Is Subsequence,https://leetcode.com/problems/is-subsequence/,Easy,,,,No
 394,Decode String,https://leetcode.com/problems/decode-string/,Medium,5.1%,"6m,6m+",62.2%,No
 399,Evaluate Division,https://leetcode.com/problems/evaluate-division/,Medium,,,,No
@@ -72,8 +72,8 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 692,Top K Frequent Words,https://leetcode.com/problems/top-k-frequent-words/,Medium,,,,No
 697,Degree of an Array,https://leetcode.com/problems/degree-of-an-array/,Easy,,,,No
 713,Subarray Product Less Than K,https://leetcode.com/problems/subarray-product-less-than-k/,Medium,3.0%,6m+,53.9%,No
-724,Find Pivot Index,https://leetcode.com/problems/find-pivot-index/,Easy,3.6%,6m+,62.1%,No
-726,Number of Atoms,https://leetcode.com/problems/number-of-atoms/,Hard,8.6%,"3m,6m,6m+",65.1%,No
+724,Find Pivot Index,https://leetcode.com/problems/find-pivot-index/,Easy,3.7%,6m+,62.1%,No
+726,Number of Atoms,https://leetcode.com/problems/number-of-atoms/,Hard,8.5%,"3m,6m,6m+",65.1%,No
 739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,5.3%,"6m,6m+",68.3%,No
 767,Reorganize String,https://leetcode.com/problems/reorganize-string/,Medium,62.5%,6m+,56.8%,No
 787,Cheapest Flights Within K Stops,https://leetcode.com/problems/cheapest-flights-within-k-stops/,Medium,,,,No

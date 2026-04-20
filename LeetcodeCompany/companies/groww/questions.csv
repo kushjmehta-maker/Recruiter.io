@@ -2,10 +2,9 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
 4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
 5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
-11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,2.0%,,59.5%,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,2.1%,,59.5%,No
 23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,,,,No
 33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
-42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
 57,Insert Interval,https://leetcode.com/problems/insert-interval/,Medium,,,,No
 73,Set Matrix Zeroes,https://leetcode.com/problems/set-matrix-zeroes/,Medium,,,,No
 74,Search a 2D Matrix,https://leetcode.com/problems/search-a-2d-matrix/,Medium,,,,No

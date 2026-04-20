@@ -4,7 +4,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,,,,No
 20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,87.5%,6m+,43.7%,No
 31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,87.5%,6m+,44.7%,No
-32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,3.4%,6m+,38.0%,No
+32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,3.5%,6m+,38.0%,No
 36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,,,,No
 49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
 53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,87.5%,6m+,53.0%,No
@@ -17,7 +17,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 237,Delete Node in a Linked List,https://leetcode.com/problems/delete-node-in-a-linked-list/,Medium,,,,No
 242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
 268,Missing Number,https://leetcode.com/problems/missing-number/,Easy,,,,No
-287,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,Medium,2.3%,6m,64.0%,No
+287,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,Medium,2.4%,6m,64.0%,No
 300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,,,,No
 432,All O`one Data Structure,https://leetcode.com/problems/all-oone-data-structure/,Hard,,,,No
 498,Diagonal Traverse,https://leetcode.com/problems/diagonal-traverse/,Medium,87.5%,6m+,67.0%,No

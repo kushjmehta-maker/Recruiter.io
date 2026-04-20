@@ -5,9 +5,9 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 37,Sudoku Solver,https://leetcode.com/problems/sudoku-solver/,Hard,,,,No
 75,Sort Colors,https://leetcode.com/problems/sort-colors/,Medium,,,,No
 133,Clone Graph,https://leetcode.com/problems/clone-graph/,Medium,,,,No
-146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.6%,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.4%,,,No
 207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,,,,No
-212,Word Search II,https://leetcode.com/problems/word-search-ii/,Hard,2.2%,"3m,6m",38.1%,No
+212,Word Search II,https://leetcode.com/problems/word-search-ii/,Hard,2.0%,"3m,6m",38.1%,No
 256,Paint House,https://leetcode.com/problems/paint-house/,Medium,,,,Yes
 394,Decode String,https://leetcode.com/problems/decode-string/,Medium,,,,No
 592,Fraction Addition and Subtraction,https://leetcode.com/problems/fraction-addition-and-subtraction/,Medium,,,,No

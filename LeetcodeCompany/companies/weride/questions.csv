@@ -1,17 +1,17 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
-68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,1.6%,6m+,50.4%,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,2.1%,6m+,50.4%,No
 127,Word Ladder,https://leetcode.com/problems/word-ladder/,Hard,,,,No
 146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
 148,Sort List,https://leetcode.com/problems/sort-list/,Medium,,,,No
 206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No
 239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
 253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
-329,Longest Increasing Path in a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,Hard,3.4%,6m+,56.3%,No
-353,Design Snake Game,https://leetcode.com/problems/design-snake-game/,Medium,5.0%,6m,40.0%,Yes
+329,Longest Increasing Path in a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,Hard,3.9%,6m+,56.3%,No
+353,Design Snake Game,https://leetcode.com/problems/design-snake-game/,Medium,5.2%,6m,40.0%,Yes
 378,Kth Smallest Element in a Sorted Matrix,https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/,Medium,,,,No
 518,Coin Change II,https://leetcode.com/problems/coin-change-ii/,Medium,,,,No
 692,Top K Frequent Words,https://leetcode.com/problems/top-k-frequent-words/,Medium,,,,No
-696,Count Binary Substrings,https://leetcode.com/problems/count-binary-substrings/,Easy,2.6%,6m,70.2%,No
+696,Count Binary Substrings,https://leetcode.com/problems/count-binary-substrings/,Easy,3.1%,6m,70.2%,No
 778,Swim in Rising Water,https://leetcode.com/problems/swim-in-rising-water/,Hard,87.5%,6m+,67.6%,No
 1235,Maximum Profit in Job Scheduling,https://leetcode.com/problems/maximum-profit-in-job-scheduling/,Hard,100.0%,6m+,54.6%,No
 1319,Number of Operations to Make Network Connected,https://leetcode.com/problems/number-of-operations-to-make-network-connected/,Medium,,,,No

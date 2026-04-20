@@ -5,8 +5,8 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,100.0%,6m+,50.8%,No
 210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,,,,No
 334,Increasing Triplet Subsequence,https://leetcode.com/problems/increasing-triplet-subsequence/,Medium,,,,No
-575,Distribute Candies,https://leetcode.com/problems/distribute-candies/,Easy,1.8%,6m+,70.7%,No
-581,Shortest Unsorted Continuous Subarray,https://leetcode.com/problems/shortest-unsorted-continuous-subarray/,Medium,0.9%,6m+,38.0%,No
+575,Distribute Candies,https://leetcode.com/problems/distribute-candies/,Easy,2.0%,6m+,70.7%,No
+581,Shortest Unsorted Continuous Subarray,https://leetcode.com/problems/shortest-unsorted-continuous-subarray/,Medium,1.0%,6m+,38.0%,No
 594,Longest Harmonious Subsequence,https://leetcode.com/problems/longest-harmonious-subsequence/,Easy,,6m+,64.4%,No
 692,Top K Frequent Words,https://leetcode.com/problems/top-k-frequent-words/,Medium,,,,No
 949,Largest Time for Given Digits,https://leetcode.com/problems/largest-time-for-given-digits/,Medium,100.0%,6m+,35.8%,No

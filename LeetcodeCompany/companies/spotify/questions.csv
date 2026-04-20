@@ -1,13 +1,13 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
-1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,3.6%,6m+,57.1%,No
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,3.7%,6m+,57.1%,No
 2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
-3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,4.5%,6m+,38.5%,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,4.6%,6m+,38.5%,No
 15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
-20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,5.4%,6m+,43.7%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,5.6%,6m+,43.7%,No
 39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,,,,No
 49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
 88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No
-104,Maximum Depth of Binary Tree,https://leetcode.com/problems/maximum-depth-of-binary-tree/,Easy,2.6%,,77.9%,No
+104,Maximum Depth of Binary Tree,https://leetcode.com/problems/maximum-depth-of-binary-tree/,Easy,2.7%,,77.9%,No
 110,Balanced Binary Tree,https://leetcode.com/problems/balanced-binary-tree/,Easy,,,,No
 121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
 124,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Hard,,,,No
@@ -15,15 +15,15 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 144,Binary Tree Preorder Traversal,https://leetcode.com/problems/binary-tree-preorder-traversal/,Easy,,,,No
 146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
 191,Number of 1 Bits,https://leetcode.com/problems/number-of-1-bits/,Easy,,,,No
-215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,5.6%,6m+,68.8%,No
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,5.7%,6m+,68.8%,No
 242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No
-286,Walls and Gates,https://leetcode.com/problems/walls-and-gates/,Medium,6.0%,6m+,63.8%,Yes
-295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,3.1%,6m,54.2%,No
+286,Walls and Gates,https://leetcode.com/problems/walls-and-gates/,Medium,6.1%,6m+,63.8%,Yes
+295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,3.3%,6m,54.2%,No
 305,Number of Islands II,https://leetcode.com/problems/number-of-islands-ii/,Hard,,,,Yes
-346,Moving Average from Data Stream,https://leetcode.com/problems/moving-average-from-data-stream/,Easy,10.5%,"3m,6m,6m+",80.2%,Yes
-383,Ransom Note,https://leetcode.com/problems/ransom-note/,Easy,6.1%,6m+,65.6%,No
+346,Moving Average from Data Stream,https://leetcode.com/problems/moving-average-from-data-stream/,Easy,10.7%,"3m,6m,6m+",80.2%,Yes
+383,Ransom Note,https://leetcode.com/problems/ransom-note/,Easy,6.3%,6m+,65.6%,No
 443,String Compression,https://leetcode.com/problems/string-compression/,Medium,,,,No
-480,Sliding Window Median,https://leetcode.com/problems/sliding-window-median/,Hard,7.7%,6m+,38.9%,No
+480,Sliding Window Median,https://leetcode.com/problems/sliding-window-median/,Hard,8.0%,6m+,38.9%,No
 799,Champagne Tower,https://leetcode.com/problems/champagne-tower/,Medium,,,,No
 509,Fibonacci Number,https://leetcode.com/problems/fibonacci-number/,Easy,75.0%,6m,73.9%,No
 1004,Max Consecutive Ones III,https://leetcode.com/problems/max-consecutive-ones-iii/,Medium,,,,No

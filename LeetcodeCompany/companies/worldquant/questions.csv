@@ -3,7 +3,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
 123,Best Time to Buy and Sell Stock III,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/,Hard,,,,No
 134,Gas Station,https://leetcode.com/problems/gas-station/,Medium,,,,No
-253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,5.1%,6m+,52.5%,Yes
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,5.0%,6m+,52.5%,Yes
 283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Easy,,,,No
 295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,87.5%,6m+,54.2%,No
 494,Target Sum,https://leetcode.com/problems/target-sum/,Medium,,,,No

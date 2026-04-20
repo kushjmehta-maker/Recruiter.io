@@ -1,8 +1,8 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,6.0%,6m,51.1%,No
 70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
-71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,7.6%,"6m,6m+",50.0%,No
-243,Shortest Word Distance,https://leetcode.com/problems/shortest-word-distance/,Easy,6.5%,6m,66.2%,Yes
+71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,7.7%,"6m,6m+",50.0%,No
+243,Shortest Word Distance,https://leetcode.com/problems/shortest-word-distance/,Easy,6.6%,6m,66.2%,Yes
 359,Logger Rate Limiter,https://leetcode.com/problems/logger-rate-limiter/,Easy,7.8%,6m+,76.8%,Yes
 470,Implement Rand10() Using Rand7(),https://leetcode.com/problems/implement-rand10-using-rand7/,Medium,,,,No
 1731,The Number of Employees Which Report to Each Employee,https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/,Easy,,,,No

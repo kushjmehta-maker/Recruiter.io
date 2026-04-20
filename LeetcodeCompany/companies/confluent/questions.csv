@@ -1,14 +1,14 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 10,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,Hard,62.5%,6m+,30.4%,No
-36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,5.7%,"6m,6m+",64.1%,No
-37,Sudoku Solver,https://leetcode.com/problems/sudoku-solver/,Hard,6.1%,"3m,6m,6m+",65.4%,No
-39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,2.3%,6m+,76.1%,No
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,6.2%,"6m,6m+",64.1%,No
+37,Sudoku Solver,https://leetcode.com/problems/sudoku-solver/,Hard,6.5%,"3m,6m,6m+",65.4%,No
+39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,2.7%,6m+,76.1%,No
 40,Combination Sum II,https://leetcode.com/problems/combination-sum-ii/,Medium,,,,No
 44,Wildcard Matching,https://leetcode.com/problems/wildcard-matching/,Hard,,,,No
 70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,,,,No
 76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,,,,No
 94,Binary Tree Inorder Traversal,https://leetcode.com/problems/binary-tree-inorder-traversal/,Easy,,,,No
-146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,7.1%,6m+,46.8%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,7.5%,6m+,46.8%,No
 206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No
 297,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,Hard,,,,No
 322,Coin Change,https://leetcode.com/problems/coin-change/,Medium,,,,No

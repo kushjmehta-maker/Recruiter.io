@@ -6,8 +6,8 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 64,Minimum Path Sum,https://leetcode.com/problems/minimum-path-sum/,Medium,,,,No
 72,Edit Distance,https://leetcode.com/problems/edit-distance/,Medium,,,,No
 121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,6.4%,"6m,6m+",56.4%,No
-149,Max Points on a Line,https://leetcode.com/problems/max-points-on-a-line/,Hard,3.9%,6m+,30.2%,No
-227,Basic Calculator II,https://leetcode.com/problems/basic-calculator-ii/,Medium,7.9%,6m+,46.6%,No
+149,Max Points on a Line,https://leetcode.com/problems/max-points-on-a-line/,Hard,4.0%,6m+,30.2%,No
+227,Basic Calculator II,https://leetcode.com/problems/basic-calculator-ii/,Medium,7.8%,6m+,46.6%,No
 278,First Bad Version,https://leetcode.com/problems/first-bad-version/,Easy,,,,No
 393,UTF-8 Validation,https://leetcode.com/problems/utf-8-validation/,Medium,,,,No
 443,String Compression,https://leetcode.com/problems/string-compression/,Medium,62.5%,6m+,59.5%,No

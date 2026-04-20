@@ -1,6 +1,6 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,,,,No
-42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,3.7%,6m+,66.8%,No
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,3.6%,6m+,66.8%,No
 44,Wildcard Matching,https://leetcode.com/problems/wildcard-matching/,Hard,,,,No
 45,Jump Game II,https://leetcode.com/problems/jump-game-ii/,Medium,,,,No
 48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
@@ -9,9 +9,9 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,50.0%,,56.1%,No
 55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,,,,No
 62,Unique Paths,https://leetcode.com/problems/unique-paths/,Medium,,,,No
-70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,1.9%,"30d,3m,6m",53.9%,No
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,1.8%,"30d,3m,6m",53.9%,No
 87,Scramble String,https://leetcode.com/problems/scramble-string/,Hard,,,,No
-99,Recover Binary Search Tree,https://leetcode.com/problems/recover-binary-search-tree/,Medium,6.5%,6m,58.7%,No
+99,Recover Binary Search Tree,https://leetcode.com/problems/recover-binary-search-tree/,Medium,6.4%,6m,58.7%,No
 106,Construct Binary Tree from Inorder and Postorder Traversal,https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/,Medium,,,,No
 114,Flatten Binary Tree to Linked List,https://leetcode.com/problems/flatten-binary-tree-to-linked-list/,Medium,,,,No
 121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,,,,No
@@ -30,7 +30,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 416,Partition Equal Subset Sum,https://leetcode.com/problems/partition-equal-subset-sum/,Medium,,,,No
 567,Permutation in String,https://leetcode.com/problems/permutation-in-string/,Medium,,,,No
 621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,,,,No
-668,Kth Smallest Number in Multiplication Table,https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/,Hard,5.5%,6m+,53.8%,No
+668,Kth Smallest Number in Multiplication Table,https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/,Hard,5.4%,6m+,53.8%,No
 698,Partition to K Equal Sum Subsets,https://leetcode.com/problems/partition-to-k-equal-sum-subsets/,Medium,,,,No
 763,Partition Labels,https://leetcode.com/problems/partition-labels/,Medium,,,,No
 796,Rotate String,https://leetcode.com/problems/rotate-string/,Easy,,,,No

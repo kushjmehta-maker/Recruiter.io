@@ -3,7 +3,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,4.5%,6m+,47.9%,No
 4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,,,,No
 13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,,,,No
-22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,4.1%,6m+,78.2%,No
+22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,4.2%,6m+,78.2%,No
 23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,,,,No
 49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,3.7%,"6m,6m+",72.2%,No
 88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,3.5%,6m+,54.4%,No

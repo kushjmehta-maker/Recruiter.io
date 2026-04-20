@@ -1,9 +1,9 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
 15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
-18,4Sum,https://leetcode.com/problems/4sum/,Medium,1.4%,6m+,40.0%,No
+18,4Sum,https://leetcode.com/problems/4sum/,Medium,1.5%,6m+,40.0%,No
 22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,,,,No
-31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,4.1%,6m+,44.7%,No
+31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,4.2%,6m+,44.7%,No
 42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No
 50,"Pow(x, n)",https://leetcode.com/problems/powx-n/,Medium,,,,No
 56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
@@ -21,8 +21,8 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
 253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,,,,Yes
 269,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,Hard,,,,Yes
-276,Paint Fence,https://leetcode.com/problems/paint-fence/,Medium,3.8%,,,Yes
-301,Remove Invalid Parentheses,https://leetcode.com/problems/remove-invalid-parentheses/,Hard,3.7%,6m+,49.8%,No
+276,Paint Fence,https://leetcode.com/problems/paint-fence/,Medium,4.0%,,,Yes
+301,Remove Invalid Parentheses,https://leetcode.com/problems/remove-invalid-parentheses/,Hard,3.8%,6m+,49.8%,No
 323,Number of Connected Components in an Undirected Graph,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/,Medium,,,,Yes
 380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,50.0%,6m+,55.3%,No
 389,Find the Difference,https://leetcode.com/problems/find-the-difference/,Easy,,,,No
@@ -34,12 +34,12 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 583,Delete Operation for Two Strings,https://leetcode.com/problems/delete-operation-for-two-strings/,Medium,,,,No
 588,Design In-Memory File System,https://leetcode.com/problems/design-in-memory-file-system/,Hard,,,,Yes
 609,Find Duplicate File in System,https://leetcode.com/problems/find-duplicate-file-in-system/,Medium,,,,No
-621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,4.6%,6m+,62.6%,No
+621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,4.7%,6m+,62.6%,No
 628,Maximum Product of Three Numbers,https://leetcode.com/problems/maximum-product-of-three-numbers/,Easy,,,,No
 678,Valid Parenthesis String,https://leetcode.com/problems/valid-parenthesis-string/,Medium,,,,No
 695,Max Area of Island,https://leetcode.com/problems/max-area-of-island/,Medium,,,,No
 715,Range Module,https://leetcode.com/problems/range-module/,Hard,,,,No
-723,Candy Crush,https://leetcode.com/problems/candy-crush/,Medium,3.0%,6m+,77.3%,Yes
+723,Candy Crush,https://leetcode.com/problems/candy-crush/,Medium,3.1%,6m+,77.3%,Yes
 745,Prefix and Suffix Search,https://leetcode.com/problems/prefix-and-suffix-search/,Hard,37.5%,6m+,40.8%,No
 761,Special Binary String,https://leetcode.com/problems/special-binary-string/,Hard,37.5%,,76.2%,No
 700,Search in a Binary Search Tree,https://leetcode.com/problems/search-in-a-binary-search-tree/,Easy,,,,No

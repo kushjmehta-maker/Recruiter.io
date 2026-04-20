@@ -4,7 +4,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,87.5%,6m+,60.2%,No
 14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
 67,Add Binary,https://leetcode.com/problems/add-binary/,Easy,,,,No
-121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,3.1%,6m+,56.4%,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,3.2%,6m+,56.4%,No
 185,Department Top Three Salaries,https://leetcode.com/problems/department-top-three-salaries/,Hard,,,,No
 191,Number of 1 Bits,https://leetcode.com/problems/number-of-1-bits/,Easy,,,,No
 242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,,,,No

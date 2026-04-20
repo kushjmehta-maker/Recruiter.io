@@ -27,6 +27,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 330,Patching Array,https://leetcode.com/problems/patching-array/,Hard,,,,No
 337,House Robber III,https://leetcode.com/problems/house-robber-iii/,Medium,,,,No
 362,Design Hit Counter,https://leetcode.com/problems/design-hit-counter/,Medium,,,,Yes
+394,Decode String,https://leetcode.com/problems/decode-string/,Medium,,,,No
 399,Evaluate Division,https://leetcode.com/problems/evaluate-division/,Medium,87.5%,,64.0%,No
 410,Split Array Largest Sum,https://leetcode.com/problems/split-array-largest-sum/,Hard,,,,No
 493,Reverse Pairs,https://leetcode.com/problems/reverse-pairs/,Hard,,,,No

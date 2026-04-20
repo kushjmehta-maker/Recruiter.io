@@ -4,7 +4,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
 146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,100.0%,6m+,46.8%,No
 347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,,,,No
-359,Logger Rate Limiter,https://leetcode.com/problems/logger-rate-limiter/,Easy,5.1%,6m+,76.8%,Yes
+359,Logger Rate Limiter,https://leetcode.com/problems/logger-rate-limiter/,Easy,5.0%,6m+,76.8%,Yes
 362,Design Hit Counter,https://leetcode.com/problems/design-hit-counter/,Medium,,,,Yes
 380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,,,,No
 535,Encode and Decode TinyURL,https://leetcode.com/problems/encode-and-decode-tinyurl/,Medium,,,,No

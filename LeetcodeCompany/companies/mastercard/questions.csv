@@ -3,10 +3,10 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
 3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
 5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,75.0%,6m+,37.3%,No
-11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,2.0%,6m+,59.5%,No
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,2.1%,6m+,59.5%,No
 13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,,,,No
 14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,,,,No
-20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,3.5%,"6m,6m+",43.7%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,3.6%,"6m,6m+",43.7%,No
 27,Remove Element,https://leetcode.com/problems/remove-element/,Easy,,,,No
 33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
 42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,,,,No

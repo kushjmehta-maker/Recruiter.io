@@ -13,7 +13,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 39,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,,,,No
 42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,75.0%,,66.8%,No
 46,Permutations,https://leetcode.com/problems/permutations/,Medium,,,,No
-49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,2.9%,,72.2%,No
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,3.0%,,72.2%,No
 56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
 61,Rotate List,https://leetcode.com/problems/rotate-list/,Medium,,,,No
 62,Unique Paths,https://leetcode.com/problems/unique-paths/,Medium,,,,No
@@ -46,7 +46,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 349,Intersection of Two Arrays,https://leetcode.com/problems/intersection-of-two-arrays/,Easy,,,,No
 496,Next Greater Element I,https://leetcode.com/problems/next-greater-element-i/,Easy,,,,No
 502,IPO,https://leetcode.com/problems/ipo/,Hard,,,,No
-503,Next Greater Element II,https://leetcode.com/problems/next-greater-element-ii/,Medium,2.8%,,67.9%,No
+503,Next Greater Element II,https://leetcode.com/problems/next-greater-element-ii/,Medium,2.9%,,67.9%,No
 532,K-diff Pairs in an Array,https://leetcode.com/problems/k-diff-pairs-in-an-array/,Medium,,,,No
 560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
 661,Image Smoother,https://leetcode.com/problems/image-smoother/,Easy,,,,No

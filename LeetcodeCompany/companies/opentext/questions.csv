@@ -1,6 +1,6 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
-3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,0.2%,6m+,38.5%,No
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,0.1%,6m+,38.5%,No
 5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,87.5%,6m+,37.3%,No
 14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,62.5%,,47.1%,No
 15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No

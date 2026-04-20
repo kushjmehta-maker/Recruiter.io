@@ -2,7 +2,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
 5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,100.0%,6m+,37.3%,No
 11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,100.0%,6m+,59.5%,No
-12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,3.1%,"3m,6m,6m+",70.4%,No
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,Medium,3.2%,"3m,6m,6m+",70.4%,No
 13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Easy,100.0%,6m+,66.2%,No
 20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
 22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,,,,No
@@ -26,7 +26,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 312,Burst Balloons,https://leetcode.com/problems/burst-balloons/,Hard,100.0%,6m+,62.9%,No
 317,Shortest Distance from All Buildings,https://leetcode.com/problems/shortest-distance-from-all-buildings/,Hard,,,,Yes
 354,Russian Doll Envelopes,https://leetcode.com/problems/russian-doll-envelopes/,Hard,,,,No
-424,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Medium,1.1%,6m+,59.0%,No
+424,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Medium,1.2%,6m+,59.0%,No
 502,IPO,https://leetcode.com/problems/ipo/,Hard,,,,No
 518,Coin Change II,https://leetcode.com/problems/coin-change-ii/,Medium,,,,No
 560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No

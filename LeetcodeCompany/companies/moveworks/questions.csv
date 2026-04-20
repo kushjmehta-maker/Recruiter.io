@@ -1,6 +1,6 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,1.8%,6m+,51.1%,No
-68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,4.2%,6m+,50.4%,No
+68,Text Justification,https://leetcode.com/problems/text-justification/,Hard,4.1%,6m+,50.4%,No
 76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,,,,No
 139,Word Break,https://leetcode.com/problems/word-break/,Medium,,,,No
 140,Word Break II,https://leetcode.com/problems/word-break-ii/,Hard,3.5%,"6m,6m+",55.1%,No

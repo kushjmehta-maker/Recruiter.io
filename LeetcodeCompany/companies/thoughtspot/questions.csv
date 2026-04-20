@@ -3,8 +3,8 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,,,,No
 41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/,Hard,,,,No
 72,Edit Distance,https://leetcode.com/problems/edit-distance/,Medium,,,,No
-76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,3.5%,6m+,46.9%,No
-84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,2.2%,,49.3%,No
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,3.4%,6m+,46.9%,No
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,2.3%,,49.3%,No
 97,Interleaving String,https://leetcode.com/problems/interleaving-string/,Medium,75.0%,6m+,43.5%,No
 103,Binary Tree Zigzag Level Order Traversal,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/,Medium,,,,No
 128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,,,,No

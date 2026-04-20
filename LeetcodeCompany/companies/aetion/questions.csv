@@ -2,7 +2,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,,,,No
 20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,,,,No
 198,House Robber,https://leetcode.com/problems/house-robber/,Medium,,,,No
-413,Arithmetic Slices,https://leetcode.com/problems/arithmetic-slices/,Medium,4.6%,6m+,64.8%,No
+413,Arithmetic Slices,https://leetcode.com/problems/arithmetic-slices/,Medium,4.7%,6m+,64.8%,No
 419,Battleships in a Board,https://leetcode.com/problems/battleships-in-a-board/,Medium,,,,No
 459,Repeated Substring Pattern,https://leetcode.com/problems/repeated-substring-pattern/,Easy,,,,No
 1691,Maximum Height by Stacking Cuboids ,https://leetcode.com/problems/maximum-height-by-stacking-cuboids/,Hard,,,,No

@@ -5,10 +5,10 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 91,Decode Ways,https://leetcode.com/problems/decode-ways/,Medium,,,,No
 139,Word Break,https://leetcode.com/problems/word-break/,Medium,,,,No
 211,Design Add and Search Words Data Structure,https://leetcode.com/problems/design-add-and-search-words-data-structure/,Medium,,,,No
-253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,4.3%,6m,52.5%,Yes
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,4.4%,6m,52.5%,Yes
 329,Longest Increasing Path in a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,Hard,,,,No
 332,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,Hard,3.4%,,44.3%,No
-394,Decode String,https://leetcode.com/problems/decode-string/,Medium,4.1%,6m+,62.2%,No
+394,Decode String,https://leetcode.com/problems/decode-string/,Medium,4.2%,6m+,62.2%,No
 435,Non-overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/,Medium,,,,No
 572,Subtree of Another Tree,https://leetcode.com/problems/subtree-of-another-tree/,Easy,87.5%,6m+,51.2%,No
 729,My Calendar I,https://leetcode.com/problems/my-calendar-i/,Medium,,,,No

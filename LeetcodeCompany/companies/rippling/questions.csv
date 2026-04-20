@@ -1,7 +1,7 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,,,,No
 3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,,,,No
-4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,6.8%,"3m,6m,6m+",45.9%,No
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,6.9%,"3m,6m,6m+",45.9%,No
 11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,,,,No
 15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
 21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,3.2%,6m,67.9%,No
@@ -14,7 +14,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 58,Length of Last Word,https://leetcode.com/problems/length-of-last-word/,Easy,,,,No
 76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,,,,No
 78,Subsets,https://leetcode.com/problems/subsets/,Medium,,,,No
-146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.2%,6m,46.8%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.1%,6m,46.8%,No
 200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
 228,Summary Ranges,https://leetcode.com/problems/summary-ranges/,Easy,,,,No
 236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Medium,,,,No
@@ -27,13 +27,13 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,2.6%,6m,65.8%,No
 355,Design Twitter,https://leetcode.com/problems/design-twitter/,Medium,,,,No
 362,Design Hit Counter,https://leetcode.com/problems/design-hit-counter/,Medium,,,,Yes
-380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,3.2%,6m+,55.3%,No
-399,Evaluate Division,https://leetcode.com/problems/evaluate-division/,Medium,6.3%,6m+,64.0%,No
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,3.1%,6m+,55.3%,No
+399,Evaluate Division,https://leetcode.com/problems/evaluate-division/,Medium,6.2%,6m+,64.0%,No
 434,Number of Segments in a String,https://leetcode.com/problems/number-of-segments-in-a-string/,Easy,,,,No
-460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,3.8%,6m+,48.6%,No
-465,Optimal Account Balancing,https://leetcode.com/problems/optimal-account-balancing/,Hard,6.8%,6m+,50.3%,Yes
+460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Hard,3.7%,6m+,48.6%,No
+465,Optimal Account Balancing,https://leetcode.com/problems/optimal-account-balancing/,Hard,6.6%,6m+,50.3%,Yes
 560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,,,,No
-631,Design Excel Sum Formula,https://leetcode.com/problems/design-excel-sum-formula/,Hard,10.9%,6m+,39.8%,Yes
+631,Design Excel Sum Formula,https://leetcode.com/problems/design-excel-sum-formula/,Hard,11.0%,6m+,39.8%,Yes
 690,Employee Importance,https://leetcode.com/problems/employee-importance/,Medium,,,,No
 692,Top K Frequent Words,https://leetcode.com/problems/top-k-frequent-words/,Medium,50.0%,,60.0%,No
 721,Accounts Merge,https://leetcode.com/problems/accounts-merge/,Medium,62.5%,6m+,60.9%,No

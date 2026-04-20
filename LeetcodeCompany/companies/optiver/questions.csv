@@ -8,7 +8,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 92,Reverse Linked List II,https://leetcode.com/problems/reverse-linked-list-ii/,Medium,,,,No
 121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,100.0%,6m+,56.4%,No
 122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,2.2%,,70.7%,No
-146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,4.6%,"6m,6m+",46.8%,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,4.5%,"6m,6m+",46.8%,No
 188,Best Time to Buy and Sell Stock IV,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/,Hard,,,,No
 210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,,,,No
 213,House Robber II,https://leetcode.com/problems/house-robber-ii/,Medium,,,,No

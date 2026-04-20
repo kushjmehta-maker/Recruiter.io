@@ -10,7 +10,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 346,Moving Average from Data Stream,https://leetcode.com/problems/moving-average-from-data-stream/,Easy,,,,Yes
 453,Minimum Moves to Equal Array Elements,https://leetcode.com/problems/minimum-moves-to-equal-array-elements/,Medium,,6m+,58.5%,No
 480,Sliding Window Median,https://leetcode.com/problems/sliding-window-median/,Hard,,,,No
-563,Binary Tree Tilt,https://leetcode.com/problems/binary-tree-tilt/,Easy,2.9%,6m+,65.3%,No
+563,Binary Tree Tilt,https://leetcode.com/problems/binary-tree-tilt/,Easy,2.6%,6m+,65.3%,No
 852,Peak Index in a Mountain Array,https://leetcode.com/problems/peak-index-in-a-mountain-array/,Medium,,,,No
 985,Sum of Even Numbers After Queries,https://leetcode.com/problems/sum-of-even-numbers-after-queries/,Medium,87.5%,6m+,68.8%,No
 987,Vertical Order Traversal of a Binary Tree,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/,Hard,,,,No

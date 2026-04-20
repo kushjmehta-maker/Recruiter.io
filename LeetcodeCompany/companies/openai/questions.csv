@@ -5,7 +5,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 32,Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses/,Hard,,,,No
 42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,50.0%,,66.8%,No
 56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
-71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,5.6%,6m+,50.0%,No
+71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,5.7%,6m+,50.0%,No
 84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,,,,No
 87,Scramble String,https://leetcode.com/problems/scramble-string/,Hard,,,,No
 111,Minimum Depth of Binary Tree,https://leetcode.com/problems/minimum-depth-of-binary-tree/,Easy,,,,No
@@ -23,7 +23,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 329,Longest Increasing Path in a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,Hard,,,,No
 339,Nested List Weight Sum,https://leetcode.com/problems/nested-list-weight-sum/,Medium,,,,Yes
 341,Flatten Nested List Iterator,https://leetcode.com/problems/flatten-nested-list-iterator/,Medium,8.2%,6m+,65.6%,No
-362,Design Hit Counter,https://leetcode.com/problems/design-hit-counter/,Medium,4.5%,,,Yes
+362,Design Hit Counter,https://leetcode.com/problems/design-hit-counter/,Medium,4.4%,,,Yes
 407,Trapping Rain Water II,https://leetcode.com/problems/trapping-rain-water-ii/,Hard,,,,No
 412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
 454,4Sum II,https://leetcode.com/problems/4sum-ii/,Medium,,,,No
@@ -32,7 +32,8 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 501,Find Mode in Binary Search Tree,https://leetcode.com/problems/find-mode-in-binary-search-tree/,Easy,,,,No
 541,Reverse String II,https://leetcode.com/problems/reverse-string-ii/,Easy,,,,No
 588,Design In-Memory File System,https://leetcode.com/problems/design-in-memory-file-system/,Hard,,,,Yes
-631,Design Excel Sum Formula,https://leetcode.com/problems/design-excel-sum-formula/,Hard,8.8%,6m+,39.8%,Yes
+595,Big Countries,https://leetcode.com/problems/big-countries/,Easy,,,,No
+631,Design Excel Sum Formula,https://leetcode.com/problems/design-excel-sum-formula/,Hard,9.0%,6m+,39.8%,Yes
 636,Exclusive Time of Functions,https://leetcode.com/problems/exclusive-time-of-functions/,Medium,,,,No
 676,Implement Magic Dictionary,https://leetcode.com/problems/implement-magic-dictionary/,Medium,,,,No
 733,Flood Fill,https://leetcode.com/problems/flood-fill/,Easy,50.0%,6m+,67.8%,No
@@ -62,3 +63,4 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 3377,Digit Operations to Make Two Integers Equal,https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/,Medium,,,,No
 3484,Design Spreadsheet,https://leetcode.com/problems/design-spreadsheet/,Medium,50.0%,,74.3%,No
 3657,Find Loyal Customers,https://leetcode.com/problems/find-loyal-customers/,Medium,,,,No
+3905,Multi Source Flood Fill,https://leetcode.com/problems/multi-source-flood-fill/,Medium,,,,No

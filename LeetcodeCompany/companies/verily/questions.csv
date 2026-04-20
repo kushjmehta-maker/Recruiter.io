@@ -3,7 +3,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,87.5%,6m+,72.2%,No
 55,Jump Game,https://leetcode.com/problems/jump-game/,Medium,100.0%,6m+,40.5%,No
 56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,,,,No
-146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.2%,,,No
+146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,2.1%,,,No
 202,Happy Number,https://leetcode.com/problems/happy-number/,Easy,100.0%,6m+,59.2%,No
 206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,,,,No
 215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,87.5%,6m+,68.8%,No

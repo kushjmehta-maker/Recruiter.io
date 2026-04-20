@@ -5,8 +5,8 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 15,3Sum,https://leetcode.com/problems/3sum/,Medium,,,,No
 22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,,,,No
 26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,,,,No
-31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,1.2%,6m+,44.7%,No
-34,Find First and Last Position of Element in Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Medium,0.8%,6m+,48.3%,No
+31,Next Permutation,https://leetcode.com/problems/next-permutation/,Medium,1.3%,6m+,44.7%,No
+34,Find First and Last Position of Element in Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Medium,0.9%,6m+,48.3%,No
 48,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,,,,No
 49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
 88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Easy,,,,No

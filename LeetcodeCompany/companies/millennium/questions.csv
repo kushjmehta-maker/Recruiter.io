@@ -1,13 +1,13 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,75.0%,,59.5%,No
-20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,2.4%,6m+,43.7%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,2.5%,6m+,43.7%,No
 26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,,,,No
 49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
 51,N-Queens,https://leetcode.com/problems/n-queens/,Hard,,,,No
 56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,2.5%,6m+,51.1%,No
 67,Add Binary,https://leetcode.com/problems/add-binary/,Easy,,,,No
 98,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/,Medium,2.0%,6m,35.3%,No
-121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,3.4%,6m+,56.4%,No
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,3.5%,6m+,56.4%,No
 134,Gas Station,https://leetcode.com/problems/gas-station/,Medium,,,,No
 139,Word Break,https://leetcode.com/problems/word-break/,Medium,2.5%,6m+,49.1%,No
 140,Word Break II,https://leetcode.com/problems/word-break-ii/,Hard,,,,No
@@ -23,7 +23,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 359,Logger Rate Limiter,https://leetcode.com/problems/logger-rate-limiter/,Easy,,,,Yes
 380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Medium,,,,No
 412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/,Easy,,,,No
-437,Path Sum III,https://leetcode.com/problems/path-sum-iii/,Medium,3.7%,6m+,46.3%,No
+437,Path Sum III,https://leetcode.com/problems/path-sum-iii/,Medium,3.6%,6m+,46.3%,No
 515,Find Largest Value in Each Tree Row,https://leetcode.com/problems/find-largest-value-in-each-tree-row/,Medium,,,,No
 647,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,Medium,,,,No
 680,Valid Palindrome II,https://leetcode.com/problems/valid-palindrome-ii/,Easy,,,,No

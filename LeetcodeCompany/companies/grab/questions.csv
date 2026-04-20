@@ -1,9 +1,9 @@
 ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
-1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,3.5%,6m+,57.1%,No
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,3.7%,6m+,57.1%,No
 3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,75.0%,6m+,38.5%,No
 5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,75.0%,6m+,37.3%,No
 9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Easy,,,,No
-20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,2.1%,6m+,43.7%,No
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,2.3%,6m+,43.7%,No
 23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,,,,No
 26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,,,,No
 28,Find the Index of the First Occurrence in a String,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/,Easy,,,,No
@@ -13,7 +13,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,,,,No
 53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,,,,No
 63,Unique Paths II,https://leetcode.com/problems/unique-paths-ii/,Medium,,,,No
-71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,3.9%,6m+,50.0%,No
+71,Simplify Path,https://leetcode.com/problems/simplify-path/,Medium,4.1%,6m+,50.0%,No
 79,Word Search,https://leetcode.com/problems/word-search/,Medium,,,,No
 113,Path Sum II,https://leetcode.com/problems/path-sum-ii/,Medium,,,,No
 122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,,,,No
@@ -21,7 +21,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,75.0%,6m+,46.8%,No
 165,Compare Version Numbers,https://leetcode.com/problems/compare-version-numbers/,Medium,,,,No
 167,Two Sum II - Input Array Is Sorted,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,Medium,,,,No
-198,House Robber,https://leetcode.com/problems/house-robber/,Medium,2.4%,6m+,52.9%,No
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,2.6%,6m+,52.9%,No
 200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,,,,No
 207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,,,,No
 215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
@@ -33,11 +33,11 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 459,Repeated Substring Pattern,https://leetcode.com/problems/repeated-substring-pattern/,Easy,,,,No
 475,Heaters,https://leetcode.com/problems/heaters/,Medium,,,,No
 554,Brick Wall,https://leetcode.com/problems/brick-wall/,Medium,,,,No
-560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,1.9%,6m+,46.8%,No
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Medium,2.1%,6m+,46.8%,No
 593,Valid Square,https://leetcode.com/problems/valid-square/,Medium,,,,No
 605,Can Place Flowers,https://leetcode.com/problems/can-place-flowers/,Easy,,,,No
-721,Accounts Merge,https://leetcode.com/problems/accounts-merge/,Medium,5.3%,6m+,60.9%,No
-739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,2.0%,6m+,68.3%,No
+721,Accounts Merge,https://leetcode.com/problems/accounts-merge/,Medium,5.4%,6m+,60.9%,No
+739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,2.2%,6m+,68.3%,No
 700,Search in a Binary Search Tree,https://leetcode.com/problems/search-in-a-binary-search-tree/,Easy,,,,No
 781,Rabbits in Forest,https://leetcode.com/problems/rabbits-in-forest/,Medium,,,,No
 983,Minimum Cost For Tickets,https://leetcode.com/problems/minimum-cost-for-tickets/,Medium,75.0%,6m+,67.4%,No

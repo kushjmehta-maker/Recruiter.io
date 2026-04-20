@@ -11,7 +11,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,0.8%,6m+,43.7%,No
 21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,,,,No
 29,Divide Two Integers,https://leetcode.com/problems/divide-two-integers/,Medium,,,,No
-33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,3.2%,6m+,44.1%,No
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,3.1%,6m+,44.1%,No
 38,Count and Say,https://leetcode.com/problems/count-and-say/,Medium,,,,No
 40,Combination Sum II,https://leetcode.com/problems/combination-sum-ii/,Medium,,,,No
 42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,1.9%,6m,66.8%,No
@@ -28,7 +28,7 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,75.0%,6m+,56.4%,No
 122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Medium,1.2%,6m+,70.7%,No
 123,Best Time to Buy and Sell Stock III,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/,Hard,,,,No
-128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,1.1%,,47.0%,No
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,1.2%,,47.0%,No
 142,Linked List Cycle II,https://leetcode.com/problems/linked-list-cycle-ii/,Medium,100.0%,6m+,57.2%,No
 146,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,,,,No
 151,Reverse Words in a String,https://leetcode.com/problems/reverse-words-in-a-string/,Medium,75.0%,6m+,55.5%,No
@@ -40,13 +40,13 @@ ID,Title,URL,Difficulty,Frequency Score,Recency,Acceptance %,Premium
 196,Delete Duplicate Emails,https://leetcode.com/problems/delete-duplicate-emails/,Easy,,,,No
 202,Happy Number,https://leetcode.com/problems/happy-number/,Easy,,,,No
 204,Count Primes,https://leetcode.com/problems/count-primes/,Medium,,,,No
-206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,2.3%,6m,80.2%,No
+206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,2.2%,6m,80.2%,No
 215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,,,,No
 239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,,,,No
-264,Ugly Number II,https://leetcode.com/problems/ugly-number-ii/,Medium,1.2%,,,No
+264,Ugly Number II,https://leetcode.com/problems/ugly-number-ii/,Medium,1.3%,,,No
 274,H-Index,https://leetcode.com/problems/h-index/,Medium,,,,No
 287,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,Medium,,,,No
-312,Burst Balloons,https://leetcode.com/problems/burst-balloons/,Hard,0.9%,6m,62.9%,No
+312,Burst Balloons,https://leetcode.com/problems/burst-balloons/,Hard,0.8%,6m,62.9%,No
 316,Remove Duplicate Letters,https://leetcode.com/problems/remove-duplicate-letters/,Medium,3.0%,6m,52.8%,No
 340,Longest Substring with At Most K Distinct Characters,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/,Medium,,,,Yes
 349,Intersection of Two Arrays,https://leetcode.com/problems/intersection-of-two-arrays/,Easy,,,,No
