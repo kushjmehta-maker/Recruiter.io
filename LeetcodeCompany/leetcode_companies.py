@@ -6,6 +6,7 @@ Enriches data with frequency scores (API) and acceptance/recency (Java CSV merge
 Outputs HTML, Markdown, and JSON reports.
 """
 
+import argparse
 import csv
 import json
 import urllib.request
@@ -824,11 +825,70 @@ def generate_company_csvs(all_data):
     print(f"  Saved: {companies_dir}/ ({len(all_data)} company folders)")
 
 
+# ── Incremental Mode ────────────────────────────────────────────────────────
+def load_existing_json():
+    """Load previously saved JSON data to support incremental scraping."""
+    json_path = os.path.join(OUTPUT_DIR, "leetcode_company_questions.json")
+    if not os.path.exists(json_path):
+        return {}
+    try:
+        with open(json_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        print(f"  Loaded existing data: {len(data)} companies from {json_path}")
+        return data
+    except (json.JSONDecodeError, IOError) as e:
+        print(f"  Warning: Could not load existing JSON ({e}). Running full scrape.")
+        return {}
+
+
+def detect_changed_companies(companies, existing_data):
+    """Compare live questionCount vs stored data to find companies needing re-fetch.
+
+    Returns (to_fetch, unchanged) where to_fetch is the list of company dicts
+    that need scraping and unchanged is a dict of company data to carry forward.
+    """
+    # Build lookup: slug -> (company_name, stored questionCount)
+    stored_lookup = {}
+    for name, cd in existing_data.items():
+        slug = cd.get("slug", "")
+        stored_count = cd.get("questionCount", len(cd.get("questions", [])))
+        stored_lookup[slug] = (name, stored_count)
+
+    to_fetch = []
+    unchanged = {}  # name -> company data (carried forward as-is)
+
+    for company in companies:
+        slug = company["slug"]
+        name = company["name"]
+        live_count = company.get("questionCount", 0)
+
+        if slug in stored_lookup:
+            stored_name, stored_count = stored_lookup[slug]
+            if live_count == stored_count:
+                # No change — carry forward existing data
+                unchanged[stored_name] = existing_data[stored_name]
+                continue
+
+        # New company or questionCount changed
+        to_fetch.append(company)
+
+    return to_fetch, unchanged
+
+
 # ── Main ────────────────────────────────────────────────────────────────────
 def main():
+    parser = argparse.ArgumentParser(description="LeetCode Company-Wise Questions Scraper")
+    parser.add_argument(
+        "--full", action="store_true",
+        help="Force a full re-scrape of all companies (default: incremental)"
+    )
+    args = parser.parse_args()
+
     print("=" * 60)
     print("  LeetCode Company-Wise Questions Scraper v3")
     print("  (companyTag API + frequency enrichment + CSV merge)")
+    mode_label = "FULL" if args.full else "INCREMENTAL"
+    print(f"  Mode: {mode_label}")
     print("=" * 60)
     print()
 
@@ -844,63 +904,100 @@ def main():
     # Step 1: Fetch all companies
     companies = fetch_all_companies()
 
-    # Step 2: Load checkpoint if resuming
+    # Step 1b: Incremental mode — detect which companies actually changed
+    existing_data = {}
+    unchanged_data = {}
+    if not args.full:
+        existing_data = load_existing_json()
+        if existing_data:
+            companies_to_fetch, unchanged_data = detect_changed_companies(companies, existing_data)
+            print(f"  Incremental: {len(unchanged_data)} unchanged, "
+                  f"{len(companies_to_fetch)} to fetch "
+                  f"({len(companies) - len(unchanged_data) - len(companies_to_fetch)} new)\n")
+            companies = companies_to_fetch
+        else:
+            print("  No existing data found. Running full scrape.\n")
+
+    # Step 2: Load checkpoint if resuming an interrupted run
     all_data, completed_slugs = load_checkpoint()
     skipped = 0
     failed = []
     total = len(companies)
 
-    start_time = time.time()
-
-    for i, company in enumerate(companies, 1):
-        name = company["name"]
-        slug = company["slug"]
-        expected = company.get("questionCount", 0)
-
-        if slug in completed_slugs:
-            skipped += 1
-            continue
-
-        done = len(all_data)
-        remaining = total - i
-        elapsed = time.time() - start_time
-        actual_fetched = max(done - skipped, 1)
-        rate = actual_fetched / elapsed if elapsed > 0 and actual_fetched > 0 else 0
-        eta = f" | ETA: {remaining / rate / 60:.0f}min" if rate > 0.01 else ""
-
-        sys.stdout.write(
-            f"\r  [{i}/{total}] {name:<35} "
-            f"(expected: {expected:>4}, done: {done}, failed: {len(failed)}{eta})  "
-        )
-        sys.stdout.flush()
-
-        questions, freq_map = fetch_company_questions(slug)
-        if questions is not None:
+    if total == 0:
+        print("  All companies up to date — nothing to fetch.")
+        # Still carry forward unchanged data for report regeneration
+        all_data = {}
+        for name, cd in unchanged_data.items():
             all_data[name] = {
-                "slug": slug,
-                "questions": questions,
-                "frequencies": freq_map or {},
+                "slug": cd["slug"],
+                "questionCount": cd.get("questionCount", len(cd.get("questions", []))),
+                "questions": cd.get("questions", []),
+                "frequencies": cd.get("frequencies", {}),
             }
-            completed_slugs.add(slug)
-        else:
-            failed.append(name)
-            print(f"\n  [FAILED] {name}")
+    else:
+        start_time = time.time()
 
-        rate_limiter.company_done()
+        for i, company in enumerate(companies, 1):
+            name = company["name"]
+            slug = company["slug"]
+            expected = company.get("questionCount", 0)
 
-        if len(all_data) % BATCH_SIZE == 0:
-            save_checkpoint(all_data, completed_slugs)
+            if slug in completed_slugs:
+                skipped += 1
+                continue
 
-    save_checkpoint(all_data, completed_slugs)
+            done = len(all_data)
+            remaining = total - i
+            elapsed = time.time() - start_time
+            actual_fetched = max(done - skipped, 1)
+            rate = actual_fetched / elapsed if elapsed > 0 and actual_fetched > 0 else 0
+            eta = f" | ETA: {remaining / rate / 60:.0f}min" if rate > 0.01 else ""
 
-    elapsed_total = time.time() - start_time
-    print(f"\n\nCompleted in {elapsed_total / 60:.1f} minutes.")
-    print(f"  Fetched: {len(all_data)} companies")
-    if skipped:
-        print(f"  Resumed: {skipped} companies from checkpoint")
-    if failed:
-        print(f"  Failed:  {len(failed)} companies: {', '.join(failed[:10])}")
-    print(f"  Total API calls: {rate_limiter.request_count}")
+            sys.stdout.write(
+                f"\r  [{i}/{total}] {name:<35} "
+                f"(expected: {expected:>4}, done: {done}, failed: {len(failed)}{eta})  "
+            )
+            sys.stdout.flush()
+
+            questions, freq_map = fetch_company_questions(slug)
+            if questions is not None:
+                all_data[name] = {
+                    "slug": slug,
+                    "questionCount": expected,
+                    "questions": questions,
+                    "frequencies": freq_map or {},
+                }
+                completed_slugs.add(slug)
+            else:
+                failed.append(name)
+                print(f"\n  [FAILED] {name}")
+
+            rate_limiter.company_done()
+
+            if len(all_data) % BATCH_SIZE == 0:
+                save_checkpoint(all_data, completed_slugs)
+
+        save_checkpoint(all_data, completed_slugs)
+
+        elapsed_total = time.time() - start_time
+        print(f"\n\nCompleted in {elapsed_total / 60:.1f} minutes.")
+        print(f"  Fetched: {len(all_data)} companies")
+        if skipped:
+            print(f"  Resumed: {skipped} companies from checkpoint")
+        if failed:
+            print(f"  Failed:  {len(failed)} companies: {', '.join(failed[:10])}")
+        print(f"  Total API calls: {rate_limiter.request_count}")
+
+        # Merge unchanged data back into all_data
+        for name, cd in unchanged_data.items():
+            if name not in all_data:
+                all_data[name] = {
+                    "slug": cd["slug"],
+                    "questionCount": cd.get("questionCount", len(cd.get("questions", []))),
+                    "questions": cd.get("questions", []),
+                    "frequencies": cd.get("frequencies", {}),
+                }
 
     # Step 3: Merge Java CSV data
     print("\nMerging Java scraper CSV data...")
@@ -937,6 +1034,7 @@ def main():
     for name, cd in all_data.items():
         json_out[name] = {
             "slug": cd["slug"],
+            "questionCount": cd.get("questionCount", len(cd["questions"])),
             "questions": cd["questions"],
         }
     json_path = os.path.join(OUTPUT_DIR, "leetcode_company_questions.json")
