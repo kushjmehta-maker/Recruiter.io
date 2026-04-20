@@ -13,6 +13,7 @@ const { crawlGreenhouse } = require('../backend/crawlers/greenhouse');
 const { crawlWorkday } = require('../backend/crawlers/workday');
 const { crawlLever } = require('../backend/crawlers/lever');
 const { crawlApifyGeneric } = require('../backend/crawlers/apify-generic');
+const { crawlGoogleJobs, buildSearchQueries } = require('../backend/crawlers/google-jobs');
 const { companies } = require('../backend/config/companies');
 
 const crawlerMap = {
@@ -23,6 +24,21 @@ const crawlerMap = {
 };
 
 async function testSingleCompany(key) {
+  // Special case: test Google Jobs crawler
+  if (key === 'google-jobs') {
+    await connectDB();
+    console.log('\n═══ Testing Google Jobs Discovery Crawler ═══');
+    try {
+      const queries = await buildSearchQueries();
+      console.log('Search queries:', JSON.stringify(queries, null, 2));
+      const result = await crawlGoogleJobs();
+      console.log('Result:', JSON.stringify(result, null, 2));
+    } catch (err) {
+      console.error('Google Jobs crawl failed:', err.message);
+    }
+    process.exit(0);
+  }
+
   const config = companies[key];
   if (!config) {
     console.error(`Unknown company key: "${key}". Valid keys: ${Object.keys(companies).join(', ')}`);

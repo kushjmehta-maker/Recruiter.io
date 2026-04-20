@@ -354,6 +354,10 @@ function createJobCard(job) {
     ? timeAgo(new Date(job.postedAt))
     : 'Date unknown';
 
+  const salary = job.metadata?.salary || '';
+  const postedVia = job.metadata?.postedVia || '';
+  const source = job.atsType === 'google-jobs' ? 'Google Jobs' : '';
+
   card.innerHTML = `
     <div class="job-card-header">
       <div>
@@ -364,7 +368,10 @@ function createJobCard(job) {
     </div>
     <div class="job-meta">
       <span class="job-meta-item">📅 ${postedDate}</span>
+      ${salary ? `<span class="job-meta-item">💰 ${escapeHtml(salary)}</span>` : ''}
       ${job.metadata?.workplaceType ? `<span class="job-meta-item">🏢 ${escapeHtml(job.metadata.workplaceType)}</span>` : ''}
+      ${postedVia ? `<span class="job-meta-item">📌 via ${escapeHtml(postedVia)}</span>` : ''}
+      ${source ? `<span class="job-meta-item source-badge">🌐 ${source}</span>` : ''}
       ${job.recruiter?.email ? `<span class="job-meta-item">👤 Recruiter found</span>` : ''}
     </div>
   `;
@@ -381,9 +388,20 @@ function showJobDetail(job) {
   else if (score >= 50) badgeClass = 'relevance-mid';
   else if (score > 0) badgeClass = 'relevance-low';
 
+  const detailSalary = job.metadata?.salary || '';
+  const detailPostedVia = job.metadata?.postedVia || '';
+  const detailSource = job.atsType === 'google-jobs' ? 'Google Jobs' : job.atsType;
+
   container.innerHTML = `
     <div class="detail-title">${escapeHtml(job.title)}</div>
     <div class="detail-company">${escapeHtml(job.companyDisplayName)} · ${escapeHtml(job.location || 'N/A')}</div>
+
+    ${detailSalary || detailPostedVia ? `
+    <div class="detail-section detail-meta-grid">
+      ${detailSalary ? `<div class="detail-meta-item"><span class="detail-meta-label">💰 Salary</span><span>${escapeHtml(detailSalary)}</span></div>` : ''}
+      ${detailPostedVia ? `<div class="detail-meta-item"><span class="detail-meta-label">📌 Posted via</span><span>${escapeHtml(detailPostedVia)}</span></div>` : ''}
+      <div class="detail-meta-item"><span class="detail-meta-label">🔗 Source</span><span>${escapeHtml(detailSource)}</span></div>
+    </div>` : ''}
 
     <div class="detail-section">
       <h3>Relevance</h3>

@@ -312,9 +312,23 @@ app.http('jobDetail', {
     // Handle sub-routes that Azure Functions incorrectly routes here
     if (id === 'companies') {
       if (!checkAuth(request)) return cors(json({ error: 'Invalid or missing API key' }, 401));
+      await connectDB();
       const list = Object.entries(companies).map(([key, c]) => ({
         key, displayName: c.displayName, atsType: c.ats,
       }));
+      // Include companies discovered via Google Jobs not in our config
+      try {
+        const googleJobsCompanies = await Job.aggregate([
+          { $match: { atsType: 'google-jobs', isActive: true } },
+          { $group: { _id: '$company', displayName: { $first: '$companyDisplayName' }, count: { $sum: 1 } } },
+        ]);
+        const configuredKeys = new Set(Object.keys(companies));
+        for (const gc of googleJobsCompanies) {
+          if (!configuredKeys.has(gc._id)) {
+            list.push({ key: gc._id, displayName: gc.displayName, atsType: 'google-jobs', jobCount: gc.count });
+          }
+        }
+      } catch (_) { /* non-critical */ }
       return cors(json({ companies: list }));
     }
 
@@ -331,10 +345,16 @@ app.http('jobDetail', {
         const last24h = new Date();
         last24h.setHours(last24h.getHours() - 24);
         const newLast24h = await Job.countDocuments({ discoveredAt: { $gte: last24h } });
+        const sourceCounts = await Job.aggregate([
+          { $match: { isActive: true } },
+          { $group: { _id: '$atsType', count: { $sum: 1 } } },
+          { $sort: { count: -1 } },
+        ]);
         return cors(json({
           totalActiveJobs: totalJobs,
           newJobsLast24h: newLast24h,
           companyCounts: companyCounts.map((c) => ({ company: c._id, count: c.count })),
+          sourceCounts: sourceCounts.map((s) => ({ source: s._id, count: s.count })),
         }));
       } catch (err) {
         return cors(json({ error: err.message }, 500));

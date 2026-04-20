@@ -125,13 +125,36 @@ router.get('/', async (req, res) => {
   }
 });
 
-// GET /api/jobs/companies — List all tracked companies
-router.get('/companies', (req, res) => {
+// GET /api/jobs/companies — List all tracked companies (including Google Jobs discoveries)
+router.get('/companies', async (req, res) => {
   const list = Object.entries(companies).map(([key, c]) => ({
     key,
     displayName: c.displayName,
     atsType: c.ats,
   }));
+
+  // Also include companies discovered via Google Jobs that aren't in our config
+  try {
+    const googleJobsCompanies = await Job.aggregate([
+      { $match: { atsType: 'google-jobs', isActive: true } },
+      { $group: { _id: '$company', displayName: { $first: '$companyDisplayName' }, count: { $sum: 1 } } },
+    ]);
+
+    const configuredKeys = new Set(Object.keys(companies));
+    for (const gc of googleJobsCompanies) {
+      if (!configuredKeys.has(gc._id)) {
+        list.push({
+          key: gc._id,
+          displayName: gc.displayName,
+          atsType: 'google-jobs',
+          jobCount: gc.count,
+        });
+      }
+    }
+  } catch (_) {
+    // Non-critical — return configured companies even if aggregation fails
+  }
+
   res.json({ companies: list });
 });
 
@@ -145,6 +168,13 @@ router.get('/stats', async (req, res) => {
       { $sort: { count: -1 } },
     ]);
 
+    // Stats by source type
+    const sourceCounts = await Job.aggregate([
+      { $match: { isActive: true } },
+      { $group: { _id: '$atsType', count: { $sum: 1 } } },
+      { $sort: { count: -1 } },
+    ]);
+
     const last24h = new Date();
     last24h.setHours(last24h.getHours() - 24);
     const newLast24h = await Job.countDocuments({
@@ -155,6 +185,7 @@ router.get('/stats', async (req, res) => {
       totalActiveJobs: totalJobs,
       newJobsLast24h: newLast24h,
       companyCounts: companyCounts.map((c) => ({ company: c._id, count: c.count })),
+      sourceCounts: sourceCounts.map((s) => ({ source: s._id, count: s.count })),
     });
   } catch (err) {
     res.status(500).json({ error: err.message });

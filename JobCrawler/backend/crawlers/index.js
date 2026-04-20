@@ -4,6 +4,7 @@ const { crawlGreenhouse } = require('./greenhouse');
 const { crawlWorkday } = require('./workday');
 const { crawlLever } = require('./lever');
 const { crawlApifyGeneric } = require('./apify-generic');
+const { crawlGoogleJobs } = require('./google-jobs');
 const { extractRecruiter } = require('./recruiter-extractor');
 const { scoreJobsForUser } = require('../services/relevance-scorer');
 const { sendAlertForUser } = require('../services/email-service');
@@ -196,6 +197,30 @@ async function runCrawl(options = {}) {
         timestamp: new Date(),
       });
     }
+  }
+
+  // Phase 3: Google Jobs supplementary crawl — runs on EVERY crawl.
+  // Uses Google's aggregation to catch additional listings for our configured
+  // companies from LinkedIn, Glassdoor, ZipRecruiter, etc.
+  try {
+    logger.info('[Orchestrator] Starting Google Jobs supplementary phase');
+    const googleResult = await crawlGoogleJobs();
+    totalNew += googleResult.newJobs;
+    totalUpdated += googleResult.updatedJobs;
+
+    if (googleResult.newJobIds?.length) {
+      await enrichRecruiters(googleResult.newJobIds);
+      await scoreAndAlertForNewJobs(googleResult.newJobIds);
+    }
+
+    logger.info(`[Orchestrator] Google Jobs: ${googleResult.newJobs} new, ${googleResult.updatedJobs} updated`);
+  } catch (err) {
+    logger.error('[Orchestrator] Google Jobs phase failed', { error: err.message });
+    crawlRun.crawlErrors.push({
+      company: 'google-jobs',
+      error: err.message || 'Unknown error',
+      timestamp: new Date(),
+    });
   }
 
   // Finalize crawl run

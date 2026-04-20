@@ -18,7 +18,7 @@ const jobSchema = new mongoose.Schema({
   externalId: { type: String, required: true },
   company: { type: String, required: true },
   companyDisplayName: { type: String, required: true },
-  atsType: { type: String, enum: ['greenhouse', 'workday', 'lever', 'custom'], required: true },
+  atsType: { type: String, enum: ['greenhouse', 'workday', 'lever', 'custom', 'google-jobs'], required: true },
   title: { type: String, required: true },
   description: { type: String, default: '' },
   descriptionHtml: { type: String, default: '' },
@@ -45,5 +45,7 @@ jobSchema.index({ discoveredAt: -1 });
 jobSchema.index({ 'relevanceScores.userId': 1, 'relevanceScores.score': -1 });
 // Filter active jobs
 jobSchema.index({ isActive: 1 });
+// Google Jobs discovery queries (batch dedup lookups)
+jobSchema.index({ atsType: 1, company: 1 });
 
 module.exports = mongoose.model('Job', jobSchema);
