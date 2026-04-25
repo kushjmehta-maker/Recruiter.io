@@ -1,6 +1,6 @@
 # LeetCode Company-Wise Questions
 
-> **43 Companies** | **97 Total Questions** | Generated on April 24, 2026
+> **43 Companies** | **97 Total Questions** | Generated on April 25, 2026
 
 ---
 
@@ -24,13 +24,13 @@
 | 14 | [Coveo](#coveo) | 0 | 1 | 1 | 2 |
 | 15 | [Wealthfront](#wealthfront) | 0 | 1 | 0 | 1 |
 | 16 | [ForUsAll](#forusall) | 0 | 0 | 1 | 1 |
-| 17 | [JD.com](#jd.com) | 0 | 0 | 1 | 1 |
-| 18 | [Strava](#strava) | 0 | 1 | 0 | 1 |
-| 19 | [Zappos](#zappos) | 1 | 0 | 0 | 1 |
-| 20 | [Gilt Groupe](#gilt-groupe) | 0 | 1 | 0 | 1 |
-| 21 | [Helix](#helix) | 1 | 0 | 0 | 1 |
-| 22 | [Jingchi](#jingchi) | 0 | 0 | 1 | 1 |
-| 23 | [Poynt](#poynt) | 0 | 1 | 0 | 1 |
+| 17 | [Strava](#strava) | 0 | 1 | 0 | 1 |
+| 18 | [Zappos](#zappos) | 1 | 0 | 0 | 1 |
+| 19 | [Gilt Groupe](#gilt-groupe) | 0 | 1 | 0 | 1 |
+| 20 | [Helix](#helix) | 1 | 0 | 0 | 1 |
+| 21 | [Jingchi](#jingchi) | 0 | 0 | 1 | 1 |
+| 22 | [Poynt](#poynt) | 0 | 1 | 0 | 1 |
+| 23 | [JD.com](#jd.com) | 0 | 0 | 1 | 1 |
 | 24 | [Ultraleap](#ultraleap) | 0 | 1 | 0 | 1 |
 | 25 | [DailyHunt](#dailyhunt) | 1 | 0 | 0 | 1 |
 | 26 | [TA Digital](#ta-digital) | 0 | 0 | 1 | 1 |
@@ -268,16 +268,6 @@
 
 ---
 
-## JD.com
-
-> 🟢 Easy: 0 | 🟡 Medium: 0 | 🔴 Hard: 1 | Total: 1
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [2999. Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers/) | 🔴 Hard | 100.0% | 6m+ | 46.3% |
-
----
-
 ## Strava
 
 > 🟢 Easy: 0 | 🟡 Medium: 1 | 🔴 Hard: 0 | Total: 1
@@ -335,6 +325,16 @@
 | # | Problem | Difficulty | Freq | Recency | Acceptance |
 |---|---------|------------|------|---------|------------|
 | 1 | [655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree/) | 🟡 Medium | 5.7% | 6m+ | 66.4% |
+
+---
+
+## JD.com
+
+> 🟢 Easy: 0 | 🟡 Medium: 0 | 🔴 Hard: 1 | Total: 1
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [2999. Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers/) | 🔴 Hard | 100.0% | 6m+ | 46.3% |
 
 ---
 
