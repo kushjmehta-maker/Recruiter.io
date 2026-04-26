@@ -1,6 +1,6 @@
 # LeetCode Company-Wise Questions
 
-> **43 Companies** | **97 Total Questions** | Generated on April 25, 2026
+> **42 Companies** | **95 Total Questions** | Generated on April 26, 2026
 
 ---
 
@@ -11,8 +11,8 @@
 | 1 | [Zenefits](#zenefits) | 5 | 11 | 5 | 21 |
 | 2 | [Pocket Gems](#pocket-gems) | 1 | 10 | 4 | 15 |
 | 3 | [Wish](#wish) | 0 | 4 | 1 | 5 |
-| 4 | [Works Applications](#works-applications) | 0 | 2 | 2 | 4 |
-| 5 | [TuSimple](#tusimple) | 0 | 2 | 2 | 4 |
+| 4 | [TuSimple](#tusimple) | 0 | 2 | 2 | 4 |
+| 5 | [Works Applications](#works-applications) | 0 | 2 | 2 | 4 |
 | 6 | [Blend](#blend) | 0 | 3 | 0 | 3 |
 | 7 | [Pure](#pure) | 0 | 2 | 0 | 2 |
 | 8 | [NetEase](#netease) | 0 | 1 | 1 | 2 |
@@ -21,36 +21,35 @@
 | 11 | [Cerner](#cerner) | 1 | 1 | 0 | 2 |
 | 12 | [Analytics quotient](#analytics-quotient) | 2 | 0 | 0 | 2 |
 | 13 | [Cockroach Labs](#cockroach-labs) | 0 | 1 | 1 | 2 |
-| 14 | [Coveo](#coveo) | 0 | 1 | 1 | 2 |
-| 15 | [Wealthfront](#wealthfront) | 0 | 1 | 0 | 1 |
-| 16 | [ForUsAll](#forusall) | 0 | 0 | 1 | 1 |
-| 17 | [Strava](#strava) | 0 | 1 | 0 | 1 |
-| 18 | [Zappos](#zappos) | 1 | 0 | 0 | 1 |
-| 19 | [Gilt Groupe](#gilt-groupe) | 0 | 1 | 0 | 1 |
-| 20 | [Helix](#helix) | 1 | 0 | 0 | 1 |
-| 21 | [Jingchi](#jingchi) | 0 | 0 | 1 | 1 |
-| 22 | [Poynt](#poynt) | 0 | 1 | 0 | 1 |
-| 23 | [JD.com](#jd.com) | 0 | 0 | 1 | 1 |
-| 24 | [Ultraleap](#ultraleap) | 0 | 1 | 0 | 1 |
-| 25 | [DailyHunt](#dailyhunt) | 1 | 0 | 0 | 1 |
-| 26 | [TA Digital](#ta-digital) | 0 | 0 | 1 | 1 |
-| 27 | [MishiPay](#mishipay) | 0 | 0 | 1 | 1 |
-| 28 | [MachineZone](#machinezone) | 0 | 0 | 1 | 1 |
-| 29 | [Ascend](#ascend) | 0 | 1 | 0 | 1 |
-| 30 | [Polar](#polar) | 0 | 1 | 0 | 1 |
-| 31 | [Fidessa](#fidessa) | 1 | 0 | 0 | 1 |
-| 32 | [DJI](#dji) | 1 | 0 | 0 | 1 |
-| 33 | [Lendingkart Technologies](#lendingkart-technologies) | 0 | 1 | 0 | 1 |
-| 34 | [Amplitude](#amplitude) | 0 | 1 | 0 | 1 |
-| 35 | [lacework](#lacework) | 0 | 1 | 0 | 1 |
-| 36 | [NerdWallet](#nerdwallet) | 1 | 0 | 0 | 1 |
-| 37 | [Liberty Mutual](#liberty-mutual) | 0 | 0 | 1 | 1 |
-| 38 | [Acorns](#acorns) | 0 | 1 | 0 | 1 |
-| 39 | [PayPal Honey](#paypal-honey) | 0 | 1 | 0 | 1 |
-| 40 | [Clutter](#clutter) | 0 | 1 | 0 | 1 |
-| 41 | [Netcracker Technology](#netcracker-technology) | 0 | 1 | 0 | 1 |
-| 42 | [eLitmus](#elitmus) | 1 | 0 | 0 | 1 |
-| 43 | [Dassault Sysètmes](#dassault-sysètmes) | 0 | 1 | 0 | 1 |
+| 14 | [Wealthfront](#wealthfront) | 0 | 1 | 0 | 1 |
+| 15 | [ForUsAll](#forusall) | 0 | 0 | 1 | 1 |
+| 16 | [Strava](#strava) | 0 | 1 | 0 | 1 |
+| 17 | [Zappos](#zappos) | 1 | 0 | 0 | 1 |
+| 18 | [Gilt Groupe](#gilt-groupe) | 0 | 1 | 0 | 1 |
+| 19 | [Helix](#helix) | 1 | 0 | 0 | 1 |
+| 20 | [Jingchi](#jingchi) | 0 | 0 | 1 | 1 |
+| 21 | [Poynt](#poynt) | 0 | 1 | 0 | 1 |
+| 22 | [JD.com](#jd.com) | 0 | 0 | 1 | 1 |
+| 23 | [Ultraleap](#ultraleap) | 0 | 1 | 0 | 1 |
+| 24 | [DailyHunt](#dailyhunt) | 1 | 0 | 0 | 1 |
+| 25 | [TA Digital](#ta-digital) | 0 | 0 | 1 | 1 |
+| 26 | [MishiPay](#mishipay) | 0 | 0 | 1 | 1 |
+| 27 | [MachineZone](#machinezone) | 0 | 0 | 1 | 1 |
+| 28 | [Ascend](#ascend) | 0 | 1 | 0 | 1 |
+| 29 | [Polar](#polar) | 0 | 1 | 0 | 1 |
+| 30 | [Fidessa](#fidessa) | 1 | 0 | 0 | 1 |
+| 31 | [DJI](#dji) | 1 | 0 | 0 | 1 |
+| 32 | [Lendingkart Technologies](#lendingkart-technologies) | 0 | 1 | 0 | 1 |
+| 33 | [Amplitude](#amplitude) | 0 | 1 | 0 | 1 |
+| 34 | [lacework](#lacework) | 0 | 1 | 0 | 1 |
+| 35 | [NerdWallet](#nerdwallet) | 1 | 0 | 0 | 1 |
+| 36 | [Liberty Mutual](#liberty-mutual) | 0 | 0 | 1 | 1 |
+| 37 | [Acorns](#acorns) | 0 | 1 | 0 | 1 |
+| 38 | [PayPal Honey](#paypal-honey) | 0 | 1 | 0 | 1 |
+| 39 | [Clutter](#clutter) | 0 | 1 | 0 | 1 |
+| 40 | [Netcracker Technology](#netcracker-technology) | 0 | 1 | 0 | 1 |
+| 41 | [eLitmus](#elitmus) | 1 | 0 | 0 | 1 |
+| 42 | [Dassault Sysètmes](#dassault-sysètmes) | 0 | 1 | 0 | 1 |
 
 ---
 
@@ -122,19 +121,6 @@
 
 ---
 
-## Works Applications
-
-> 🟢 Easy: 0 | 🟡 Medium: 2 | 🔴 Hard: 2 | Total: 4
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | 2.0% | 6m+ | 38.6% |
-| 2 | [179. Largest Number](https://leetcode.com/problems/largest-number/) | 🟡 Medium | 4.0% | 6m+ | 42.6% |
-| 3 | [629. K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/) | 🔴 Hard | - | 6m+ | 49.0% |
-| 4 | [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) | 🔴 Hard | - | 6m+ | 41.4% |
-
----
-
 ## TuSimple
 
 > 🟢 Easy: 0 | 🟡 Medium: 2 | 🔴 Hard: 2 | Total: 4
@@ -145,6 +131,19 @@
 | 2 | [2151. Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/) | 🔴 Hard | 100.0% | 6m+ | 52.2% |
 | 3 | [2585. Number of Ways to Earn Points](https://leetcode.com/problems/number-of-ways-to-earn-points/) | 🔴 Hard | 100.0% | 6m+ | 59.5% |
 | 4 | [2539. Count the Number of Good Subsequences](https://leetcode.com/problems/count-the-number-of-good-subsequences/) | 🟡 Medium | 100.0% | 6m+ | 48.3% |
+
+---
+
+## Works Applications
+
+> 🟢 Easy: 0 | 🟡 Medium: 2 | 🔴 Hard: 2 | Total: 4
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | 2.0% | 6m+ | 38.6% |
+| 2 | [179. Largest Number](https://leetcode.com/problems/largest-number/) | 🟡 Medium | 4.0% | 6m+ | 42.6% |
+| 3 | [629. K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/) | 🔴 Hard | - | 6m+ | 49.0% |
+| 4 | [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) | 🔴 Hard | - | 6m+ | 41.4% |
 
 ---
 
@@ -234,17 +233,6 @@
 |---|---------|------------|------|---------|------------|
 | 1 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | 🔴 Hard | 62.5% | - | 30.4% |
 | 2 | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | 🟡 Medium | 100.0% | 6m,6m+ | 49.7% |
-
----
-
-## Coveo
-
-> 🟢 Easy: 0 | 🟡 Medium: 1 | 🔴 Hard: 1 | Total: 2
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | 100.0% | 6m+ | 59.5% |
-| 2 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | 87.5% | 6m+ | 66.8% |
 
 ---
 

@@ -822,6 +822,60 @@
       }
     ]
   },
+  "TuSimple": {
+    "slug": "tusimple",
+    "questionCount": 4,
+    "questions": [
+      {
+        "title": "Intervals Between Identical Elements",
+        "titleSlug": "intervals-between-identical-elements",
+        "difficulty": "Medium",
+        "questionFrontendId": "2121",
+        "isPaidOnly": false,
+        "acceptance_pct": "45.5%",
+        "recency_buckets": [
+          "more-than-six-months"
+        ],
+        "java_freq_pct": "100.0%"
+      },
+      {
+        "title": "Maximum Good People Based on Statements",
+        "titleSlug": "maximum-good-people-based-on-statements",
+        "difficulty": "Hard",
+        "questionFrontendId": "2151",
+        "isPaidOnly": false,
+        "acceptance_pct": "52.2%",
+        "recency_buckets": [
+          "more-than-six-months"
+        ],
+        "java_freq_pct": "100.0%"
+      },
+      {
+        "title": "Number of Ways to Earn Points",
+        "titleSlug": "number-of-ways-to-earn-points",
+        "difficulty": "Hard",
+        "questionFrontendId": "2585",
+        "isPaidOnly": false,
+        "acceptance_pct": "59.5%",
+        "recency_buckets": [
+          "more-than-six-months"
+        ],
+        "java_freq_pct": "100.0%"
+      },
+      {
+        "title": "Count the Number of Good Subsequences",
+        "titleSlug": "count-the-number-of-good-subsequences",
+        "difficulty": "Medium",
+        "questionFrontendId": "2539",
+        "isPaidOnly": true,
+        "acceptance_pct": "48.3%",
+        "recency_buckets": [
+          "more-than-six-months"
+        ],
+        "java_freq_pct": "100.0%"
+      }
+    ]
+  },
   "Works Applications": {
     "slug": "works-applications",
     "questionCount": 4,
@@ -909,60 +963,6 @@
         "recency_buckets": [
           "more-than-six-months"
         ]
-      }
-    ]
-  },
-  "TuSimple": {
-    "slug": "tusimple",
-    "questionCount": 4,
-    "questions": [
-      {
-        "title": "Intervals Between Identical Elements",
-        "titleSlug": "intervals-between-identical-elements",
-        "difficulty": "Medium",
-        "questionFrontendId": "2121",
-        "isPaidOnly": false,
-        "acceptance_pct": "45.5%",
-        "recency_buckets": [
-          "more-than-six-months"
-        ],
-        "java_freq_pct": "100.0%"
-      },
-      {
-        "title": "Maximum Good People Based on Statements",
-        "titleSlug": "maximum-good-people-based-on-statements",
-        "difficulty": "Hard",
-        "questionFrontendId": "2151",
-        "isPaidOnly": false,
-        "acceptance_pct": "52.2%",
-        "recency_buckets": [
-          "more-than-six-months"
-        ],
-        "java_freq_pct": "100.0%"
-      },
-      {
-        "title": "Number of Ways to Earn Points",
-        "titleSlug": "number-of-ways-to-earn-points",
-        "difficulty": "Hard",
-        "questionFrontendId": "2585",
-        "isPaidOnly": false,
-        "acceptance_pct": "59.5%",
-        "recency_buckets": [
-          "more-than-six-months"
-        ],
-        "java_freq_pct": "100.0%"
-      },
-      {
-        "title": "Count the Number of Good Subsequences",
-        "titleSlug": "count-the-number-of-good-subsequences",
-        "difficulty": "Medium",
-        "questionFrontendId": "2539",
-        "isPaidOnly": true,
-        "acceptance_pct": "48.3%",
-        "recency_buckets": [
-          "more-than-six-months"
-        ],
-        "java_freq_pct": "100.0%"
       }
     ]
   },
@@ -1236,36 +1236,6 @@
           "more-than-six-months"
         ],
         "java_freq_pct": "100.0%"
-      }
-    ]
-  },
-  "Coveo": {
-    "slug": "coveo",
-    "questionCount": 2,
-    "questions": [
-      {
-        "title": "Container With Most Water",
-        "titleSlug": "container-with-most-water",
-        "difficulty": "Medium",
-        "questionFrontendId": "11",
-        "isPaidOnly": false,
-        "acceptance_pct": "59.5%",
-        "recency_buckets": [
-          "more-than-six-months"
-        ],
-        "java_freq_pct": "100.0%"
-      },
-      {
-        "title": "Trapping Rain Water",
-        "titleSlug": "trapping-rain-water",
-        "difficulty": "Hard",
-        "questionFrontendId": "42",
-        "isPaidOnly": false,
-        "acceptance_pct": "66.8%",
-        "recency_buckets": [
-          "more-than-six-months"
-        ],
-        "java_freq_pct": "87.5%"
       }
     ]
   },
