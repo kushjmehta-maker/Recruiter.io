@@ -1,6 +1,6 @@
 # LeetCode Company-Wise Questions
 
-> **42 Companies** | **95 Total Questions** | Generated on April 28, 2026
+> **42 Companies** | **95 Total Questions** | Generated on April 29, 2026
 
 ---
 
@@ -21,11 +21,11 @@
 | 11 | [Cerner](#cerner) | 1 | 1 | 0 | 2 |
 | 12 | [Analytics quotient](#analytics-quotient) | 2 | 0 | 0 | 2 |
 | 13 | [Cockroach Labs](#cockroach-labs) | 0 | 1 | 1 | 2 |
-| 14 | [Wealthfront](#wealthfront) | 0 | 1 | 0 | 1 |
-| 15 | [ForUsAll](#forusall) | 0 | 0 | 1 | 1 |
-| 16 | [Strava](#strava) | 0 | 1 | 0 | 1 |
-| 17 | [Zappos](#zappos) | 1 | 0 | 0 | 1 |
-| 18 | [Gilt Groupe](#gilt-groupe) | 0 | 1 | 0 | 1 |
+| 14 | [ForUsAll](#forusall) | 0 | 0 | 1 | 1 |
+| 15 | [Wealthfront](#wealthfront) | 0 | 1 | 0 | 1 |
+| 16 | [Zappos](#zappos) | 1 | 0 | 0 | 1 |
+| 17 | [Gilt Groupe](#gilt-groupe) | 0 | 1 | 0 | 1 |
+| 18 | [Strava](#strava) | 0 | 1 | 0 | 1 |
 | 19 | [Helix](#helix) | 1 | 0 | 0 | 1 |
 | 20 | [Jingchi](#jingchi) | 0 | 0 | 1 | 1 |
 | 21 | [Poynt](#poynt) | 0 | 1 | 0 | 1 |
@@ -236,16 +236,6 @@
 
 ---
 
-## Wealthfront
-
-> 🟢 Easy: 0 | 🟡 Medium: 1 | 🔴 Hard: 0 | Total: 1
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [2186. Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | 🟡 Medium | 100.0% | 6m+ | 73.0% |
-
----
-
 ## ForUsAll
 
 > 🟢 Easy: 0 | 🟡 Medium: 0 | 🔴 Hard: 1 | Total: 1
@@ -256,13 +246,13 @@
 
 ---
 
-## Strava
+## Wealthfront
 
 > 🟢 Easy: 0 | 🟡 Medium: 1 | 🔴 Hard: 0 | Total: 1
 
 | # | Problem | Difficulty | Freq | Recency | Acceptance |
 |---|---------|------------|------|---------|------------|
-| 1 | [1990. Count the Number of Experiments](https://leetcode.com/problems/count-the-number-of-experiments/) | 🟡 Medium | 100.0% | 6m+ | 48.8% |
+| 1 | [2186. Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | 🟡 Medium | 100.0% | 6m+ | 73.0% |
 
 ---
 
@@ -283,6 +273,16 @@
 | # | Problem | Difficulty | Freq | Recency | Acceptance |
 |---|---------|------------|------|---------|------------|
 | 1 | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | 🟡 Medium | - | 6m+ | 64.1% |
+
+---
+
+## Strava
+
+> 🟢 Easy: 0 | 🟡 Medium: 1 | 🔴 Hard: 0 | Total: 1
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [1990. Count the Number of Experiments](https://leetcode.com/problems/count-the-number-of-experiments/) | 🟡 Medium | 100.0% | 6m+ | 48.8% |
 
 ---
 
