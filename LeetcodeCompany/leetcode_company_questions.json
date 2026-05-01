@@ -1239,24 +1239,6 @@
       }
     ]
   },
-  "Wealthfront": {
-    "slug": "wealthfront",
-    "questionCount": 1,
-    "questions": [
-      {
-        "title": "Minimum Number of Steps to Make Two Strings Anagram II",
-        "titleSlug": "minimum-number-of-steps-to-make-two-strings-anagram-ii",
-        "difficulty": "Medium",
-        "questionFrontendId": "2186",
-        "isPaidOnly": false,
-        "acceptance_pct": "73.0%",
-        "recency_buckets": [
-          "more-than-six-months"
-        ],
-        "java_freq_pct": "100.0%"
-      }
-    ]
-  },
   "ForUsAll": {
     "slug": "forusall",
     "questionCount": 1,
@@ -1268,6 +1250,24 @@
         "questionFrontendId": "828",
         "isPaidOnly": false,
         "acceptance_pct": "53.5%",
+        "recency_buckets": [
+          "more-than-six-months"
+        ],
+        "java_freq_pct": "100.0%"
+      }
+    ]
+  },
+  "Wealthfront": {
+    "slug": "wealthfront",
+    "questionCount": 1,
+    "questions": [
+      {
+        "title": "Minimum Number of Steps to Make Two Strings Anagram II",
+        "titleSlug": "minimum-number-of-steps-to-make-two-strings-anagram-ii",
+        "difficulty": "Medium",
+        "questionFrontendId": "2186",
+        "isPaidOnly": false,
+        "acceptance_pct": "73.0%",
         "recency_buckets": [
           "more-than-six-months"
         ],
@@ -1625,24 +1625,6 @@
         "isPaidOnly": true,
         "acceptance_pct": "40.0%",
         "recency_buckets": [],
-        "java_freq_pct": "100.0%"
-      }
-    ]
-  },
-  "lacework": {
-    "slug": "lacework",
-    "questionCount": 1,
-    "questions": [
-      {
-        "title": "Add Bold Tag in String",
-        "titleSlug": "add-bold-tag-in-string",
-        "difficulty": "Medium",
-        "questionFrontendId": "616",
-        "isPaidOnly": true,
-        "acceptance_pct": "51.4%",
-        "recency_buckets": [
-          "more-than-six-months"
-        ],
         "java_freq_pct": "100.0%"
       }
     ]

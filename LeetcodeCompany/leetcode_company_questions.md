@@ -1,6 +1,6 @@
 # LeetCode Company-Wise Questions
 
-> **42 Companies** | **95 Total Questions** | Generated on April 30, 2026
+> **41 Companies** | **94 Total Questions** | Generated on May 01, 2026
 
 ---
 
@@ -21,8 +21,8 @@
 | 11 | [Cerner](#cerner) | 1 | 1 | 0 | 2 |
 | 12 | [Analytics quotient](#analytics-quotient) | 2 | 0 | 0 | 2 |
 | 13 | [Cockroach Labs](#cockroach-labs) | 0 | 1 | 1 | 2 |
-| 14 | [Wealthfront](#wealthfront) | 0 | 1 | 0 | 1 |
-| 15 | [ForUsAll](#forusall) | 0 | 0 | 1 | 1 |
+| 14 | [ForUsAll](#forusall) | 0 | 0 | 1 | 1 |
+| 15 | [Wealthfront](#wealthfront) | 0 | 1 | 0 | 1 |
 | 16 | [Zappos](#zappos) | 1 | 0 | 0 | 1 |
 | 17 | [Gilt Groupe](#gilt-groupe) | 0 | 1 | 0 | 1 |
 | 18 | [Helix](#helix) | 1 | 0 | 0 | 1 |
@@ -41,15 +41,14 @@
 | 31 | [DJI](#dji) | 1 | 0 | 0 | 1 |
 | 32 | [Lendingkart Technologies](#lendingkart-technologies) | 0 | 1 | 0 | 1 |
 | 33 | [Amplitude](#amplitude) | 0 | 1 | 0 | 1 |
-| 34 | [lacework](#lacework) | 0 | 1 | 0 | 1 |
-| 35 | [NerdWallet](#nerdwallet) | 1 | 0 | 0 | 1 |
-| 36 | [Liberty Mutual](#liberty-mutual) | 0 | 0 | 1 | 1 |
-| 37 | [Acorns](#acorns) | 0 | 1 | 0 | 1 |
-| 38 | [PayPal Honey](#paypal-honey) | 0 | 1 | 0 | 1 |
-| 39 | [Clutter](#clutter) | 0 | 1 | 0 | 1 |
-| 40 | [Netcracker Technology](#netcracker-technology) | 0 | 1 | 0 | 1 |
-| 41 | [eLitmus](#elitmus) | 1 | 0 | 0 | 1 |
-| 42 | [Dassault Sysètmes](#dassault-sysètmes) | 0 | 1 | 0 | 1 |
+| 34 | [NerdWallet](#nerdwallet) | 1 | 0 | 0 | 1 |
+| 35 | [Liberty Mutual](#liberty-mutual) | 0 | 0 | 1 | 1 |
+| 36 | [Acorns](#acorns) | 0 | 1 | 0 | 1 |
+| 37 | [PayPal Honey](#paypal-honey) | 0 | 1 | 0 | 1 |
+| 38 | [Clutter](#clutter) | 0 | 1 | 0 | 1 |
+| 39 | [Netcracker Technology](#netcracker-technology) | 0 | 1 | 0 | 1 |
+| 40 | [eLitmus](#elitmus) | 1 | 0 | 0 | 1 |
+| 41 | [Dassault Sysètmes](#dassault-sysètmes) | 0 | 1 | 0 | 1 |
 
 ---
 
@@ -236,16 +235,6 @@
 
 ---
 
-## Wealthfront
-
-> 🟢 Easy: 0 | 🟡 Medium: 1 | 🔴 Hard: 0 | Total: 1
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [2186. Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | 🟡 Medium | 100.0% | 6m+ | 73.0% |
-
----
-
 ## ForUsAll
 
 > 🟢 Easy: 0 | 🟡 Medium: 0 | 🔴 Hard: 1 | Total: 1
@@ -253,6 +242,16 @@
 | # | Problem | Difficulty | Freq | Recency | Acceptance |
 |---|---------|------------|------|---------|------------|
 | 1 | [828. Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/) | 🔴 Hard | 100.0% | 6m+ | 53.5% |
+
+---
+
+## Wealthfront
+
+> 🟢 Easy: 0 | 🟡 Medium: 1 | 🔴 Hard: 0 | Total: 1
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [2186. Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | 🟡 Medium | 100.0% | 6m+ | 73.0% |
 
 ---
 
@@ -433,16 +432,6 @@
 | # | Problem | Difficulty | Freq | Recency | Acceptance |
 |---|---------|------------|------|---------|------------|
 | 1 | [353. Design Snake Game](https://leetcode.com/problems/design-snake-game/) | 🟡 Medium | 100.0% | - | 40.0% |
-
----
-
-## lacework
-
-> 🟢 Easy: 0 | 🟡 Medium: 1 | 🔴 Hard: 0 | Total: 1
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [616. Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) | 🟡 Medium | 100.0% | 6m+ | 51.4% |
 
 ---
 
