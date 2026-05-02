@@ -1,6 +1,6 @@
 # LeetCode Company-Wise Questions
 
-> **41 Companies** | **94 Total Questions** | Generated on May 01, 2026
+> **41 Companies** | **94 Total Questions** | Generated on May 02, 2026
 
 ---
 
@@ -21,15 +21,15 @@
 | 11 | [Cerner](#cerner) | 1 | 1 | 0 | 2 |
 | 12 | [Analytics quotient](#analytics-quotient) | 2 | 0 | 0 | 2 |
 | 13 | [Cockroach Labs](#cockroach-labs) | 0 | 1 | 1 | 2 |
-| 14 | [ForUsAll](#forusall) | 0 | 0 | 1 | 1 |
-| 15 | [Wealthfront](#wealthfront) | 0 | 1 | 0 | 1 |
-| 16 | [Zappos](#zappos) | 1 | 0 | 0 | 1 |
-| 17 | [Gilt Groupe](#gilt-groupe) | 0 | 1 | 0 | 1 |
-| 18 | [Helix](#helix) | 1 | 0 | 0 | 1 |
-| 19 | [Jingchi](#jingchi) | 0 | 0 | 1 | 1 |
-| 20 | [Poynt](#poynt) | 0 | 1 | 0 | 1 |
-| 21 | [JD.com](#jd.com) | 0 | 0 | 1 | 1 |
-| 22 | [Strava](#strava) | 0 | 1 | 0 | 1 |
+| 14 | [Wealthfront](#wealthfront) | 0 | 1 | 0 | 1 |
+| 15 | [ForUsAll](#forusall) | 0 | 0 | 1 | 1 |
+| 16 | [Strava](#strava) | 0 | 1 | 0 | 1 |
+| 17 | [Zappos](#zappos) | 1 | 0 | 0 | 1 |
+| 18 | [Gilt Groupe](#gilt-groupe) | 0 | 1 | 0 | 1 |
+| 19 | [Helix](#helix) | 1 | 0 | 0 | 1 |
+| 20 | [Jingchi](#jingchi) | 0 | 0 | 1 | 1 |
+| 21 | [Poynt](#poynt) | 0 | 1 | 0 | 1 |
+| 22 | [JD.com](#jd.com) | 0 | 0 | 1 | 1 |
 | 23 | [Ultraleap](#ultraleap) | 0 | 1 | 0 | 1 |
 | 24 | [DailyHunt](#dailyhunt) | 1 | 0 | 0 | 1 |
 | 25 | [TA Digital](#ta-digital) | 0 | 0 | 1 | 1 |
@@ -235,6 +235,16 @@
 
 ---
 
+## Wealthfront
+
+> 🟢 Easy: 0 | 🟡 Medium: 1 | 🔴 Hard: 0 | Total: 1
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [2186. Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | 🟡 Medium | 100.0% | 6m+ | 73.0% |
+
+---
+
 ## ForUsAll
 
 > 🟢 Easy: 0 | 🟡 Medium: 0 | 🔴 Hard: 1 | Total: 1
@@ -245,13 +255,13 @@
 
 ---
 
-## Wealthfront
+## Strava
 
 > 🟢 Easy: 0 | 🟡 Medium: 1 | 🔴 Hard: 0 | Total: 1
 
 | # | Problem | Difficulty | Freq | Recency | Acceptance |
 |---|---------|------------|------|---------|------------|
-| 1 | [2186. Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | 🟡 Medium | 100.0% | 6m+ | 73.0% |
+| 1 | [1990. Count the Number of Experiments](https://leetcode.com/problems/count-the-number-of-experiments/) | 🟡 Medium | 100.0% | 6m+ | 48.8% |
 
 ---
 
@@ -312,16 +322,6 @@
 | # | Problem | Difficulty | Freq | Recency | Acceptance |
 |---|---------|------------|------|---------|------------|
 | 1 | [2999. Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers/) | 🔴 Hard | 100.0% | 6m+ | 46.3% |
-
----
-
-## Strava
-
-> 🟢 Easy: 0 | 🟡 Medium: 1 | 🔴 Hard: 0 | Total: 1
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [1990. Count the Number of Experiments](https://leetcode.com/problems/count-the-number-of-experiments/) | 🟡 Medium | 100.0% | 6m+ | 48.8% |
 
 ---
 

@@ -1239,6 +1239,24 @@
       }
     ]
   },
+  "Wealthfront": {
+    "slug": "wealthfront",
+    "questionCount": 1,
+    "questions": [
+      {
+        "title": "Minimum Number of Steps to Make Two Strings Anagram II",
+        "titleSlug": "minimum-number-of-steps-to-make-two-strings-anagram-ii",
+        "difficulty": "Medium",
+        "questionFrontendId": "2186",
+        "isPaidOnly": false,
+        "acceptance_pct": "73.0%",
+        "recency_buckets": [
+          "more-than-six-months"
+        ],
+        "java_freq_pct": "100.0%"
+      }
+    ]
+  },
   "ForUsAll": {
     "slug": "forusall",
     "questionCount": 1,
@@ -1257,17 +1275,17 @@
       }
     ]
   },
-  "Wealthfront": {
-    "slug": "wealthfront",
+  "Strava": {
+    "slug": "strava",
     "questionCount": 1,
     "questions": [
       {
-        "title": "Minimum Number of Steps to Make Two Strings Anagram II",
-        "titleSlug": "minimum-number-of-steps-to-make-two-strings-anagram-ii",
+        "title": "Count the Number of Experiments",
+        "titleSlug": "count-the-number-of-experiments",
         "difficulty": "Medium",
-        "questionFrontendId": "2186",
-        "isPaidOnly": false,
-        "acceptance_pct": "73.0%",
+        "questionFrontendId": "1990",
+        "isPaidOnly": true,
+        "acceptance_pct": "48.8%",
         "recency_buckets": [
           "more-than-six-months"
         ],
@@ -1412,24 +1430,6 @@
         "questionFrontendId": "2999",
         "isPaidOnly": false,
         "acceptance_pct": "46.3%",
-        "recency_buckets": [
-          "more-than-six-months"
-        ],
-        "java_freq_pct": "100.0%"
-      }
-    ]
-  },
-  "Strava": {
-    "slug": "strava",
-    "questionCount": 1,
-    "questions": [
-      {
-        "title": "Count the Number of Experiments",
-        "titleSlug": "count-the-number-of-experiments",
-        "difficulty": "Medium",
-        "questionFrontendId": "1990",
-        "isPaidOnly": true,
-        "acceptance_pct": "48.8%",
         "recency_buckets": [
           "more-than-six-months"
         ],
