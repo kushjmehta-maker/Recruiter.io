@@ -1275,6 +1275,33 @@
       }
     ]
   },
+  "Helix": {
+    "slug": "helix",
+    "questionCount": 1,
+    "questions": [
+      {
+        "title": "Count Binary Substrings",
+        "titleSlug": "count-binary-substrings",
+        "difficulty": "Easy",
+        "questionFrontendId": "696",
+        "isPaidOnly": false,
+        "freq_scores": {
+          "count_30d": 0,
+          "count_3m": 0,
+          "count_6m": 0,
+          "count_all": 0,
+          "freq_score_30d": 0,
+          "freq_score_3m": 0,
+          "freq_score_6m": 0,
+          "freq_score_all": 0
+        },
+        "acceptance_pct": "70.2%",
+        "recency_buckets": [
+          "more-than-six-months"
+        ]
+      }
+    ]
+  },
   "Strava": {
     "slug": "strava",
     "questionCount": 1,
@@ -1341,33 +1368,6 @@
           "freq_score_all": 0
         },
         "acceptance_pct": "64.1%",
-        "recency_buckets": [
-          "more-than-six-months"
-        ]
-      }
-    ]
-  },
-  "Helix": {
-    "slug": "helix",
-    "questionCount": 1,
-    "questions": [
-      {
-        "title": "Count Binary Substrings",
-        "titleSlug": "count-binary-substrings",
-        "difficulty": "Easy",
-        "questionFrontendId": "696",
-        "isPaidOnly": false,
-        "freq_scores": {
-          "count_30d": 0,
-          "count_3m": 0,
-          "count_6m": 0,
-          "count_all": 0,
-          "freq_score_30d": 0,
-          "freq_score_3m": 0,
-          "freq_score_6m": 0,
-          "freq_score_all": 0
-        },
-        "acceptance_pct": "70.2%",
         "recency_buckets": [
           "more-than-six-months"
         ]

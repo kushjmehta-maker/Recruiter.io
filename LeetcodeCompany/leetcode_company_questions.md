@@ -1,6 +1,6 @@
 # LeetCode Company-Wise Questions
 
-> **41 Companies** | **94 Total Questions** | Generated on May 03, 2026
+> **41 Companies** | **94 Total Questions** | Generated on May 04, 2026
 
 ---
 
@@ -23,10 +23,10 @@
 | 13 | [Cockroach Labs](#cockroach-labs) | 0 | 1 | 1 | 2 |
 | 14 | [Wealthfront](#wealthfront) | 0 | 1 | 0 | 1 |
 | 15 | [ForUsAll](#forusall) | 0 | 0 | 1 | 1 |
-| 16 | [Strava](#strava) | 0 | 1 | 0 | 1 |
-| 17 | [Zappos](#zappos) | 1 | 0 | 0 | 1 |
-| 18 | [Gilt Groupe](#gilt-groupe) | 0 | 1 | 0 | 1 |
-| 19 | [Helix](#helix) | 1 | 0 | 0 | 1 |
+| 16 | [Helix](#helix) | 1 | 0 | 0 | 1 |
+| 17 | [Strava](#strava) | 0 | 1 | 0 | 1 |
+| 18 | [Zappos](#zappos) | 1 | 0 | 0 | 1 |
+| 19 | [Gilt Groupe](#gilt-groupe) | 0 | 1 | 0 | 1 |
 | 20 | [Jingchi](#jingchi) | 0 | 0 | 1 | 1 |
 | 21 | [Poynt](#poynt) | 0 | 1 | 0 | 1 |
 | 22 | [JD.com](#jd.com) | 0 | 0 | 1 | 1 |
@@ -255,6 +255,16 @@
 
 ---
 
+## Helix
+
+> 🟢 Easy: 1 | 🟡 Medium: 0 | 🔴 Hard: 0 | Total: 1
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | 🟢 Easy | - | 6m+ | 70.2% |
+
+---
+
 ## Strava
 
 > 🟢 Easy: 0 | 🟡 Medium: 1 | 🔴 Hard: 0 | Total: 1
@@ -282,16 +292,6 @@
 | # | Problem | Difficulty | Freq | Recency | Acceptance |
 |---|---------|------------|------|---------|------------|
 | 1 | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | 🟡 Medium | - | 6m+ | 64.1% |
-
----
-
-## Helix
-
-> 🟢 Easy: 1 | 🟡 Medium: 0 | 🔴 Hard: 0 | Total: 1
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | 🟢 Easy | - | 6m+ | 70.2% |
 
 ---
 
