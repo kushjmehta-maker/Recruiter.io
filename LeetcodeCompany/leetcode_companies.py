@@ -21,11 +21,11 @@ from datetime import datetime
 # Read from environment variables (for CI/CD), fall back to hardcoded (local dev)
 LEETCODE_SESSION = os.environ.get(
     "LEETCODE_SESSION",
-    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfYXV0aF91c2VyX2lkIjoiMTkwMjU3NCIsIl9hdXRoX3VzZXJfYmFja2VuZCI6ImFsbGF1dGguYWNjb3VudC5hdXRoX2JhY2tlbmRzLkF1dGhlbnRpY2F0aW9uQmFja2VuZCIsIl9hdXRoX3VzZXJfaGFzaCI6ImY3YjQ4ZGZlZTgxYzFiOTk5ZjgyMDJjNzdhNjk4YTAyZTc2Y2Y4NjNlNjk3YjI4MTFmMTQ3MjRkMGZkYmMwNjUiLCJzZXNzaW9uX3V1aWQiOiJiMzdiZDhmNCIsImlkIjoxOTAyNTc0LCJlbWFpbCI6InNhdXJhYmhiaDIxQGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiYmhhZ3ZhdHVsYSIsInVzZXJfc2x1ZyI6ImJoYWd2YXR1bGEiLCJhdmF0YXIiOiJodHRwczovL2Fzc2V0cy5sZWV0Y29kZS5jb20vdXNlcnMvYmhhZ3ZhdHVsYS9hdmF0YXJfMTU5MDkxMzQ3Mi5wbmciLCJyZWZyZXNoZWRfYXQiOjE3NzY1MTA4MDMsImlwIjoiMjQwNToyMDE6YzAzYzo3OTo2NDE0OmI2ZTY6NDllZDpiMzlmIiwiaWRlbnRpdHkiOiI5NThkNWU1M2RiYTdlMGFmODEyZWEwZWUwZTRlODI5MyIsImRldmljZV93aXRoX2lwIjpbIjNiMTZiNmMxNGFhMzEwYTgwYjlmNTgzODU0ZmNkMGE3IiwiMjQwNToyMDE6YzAzYzo3OTo2NDE0OmI2ZTY6NDllZDpiMzlmIl0sIl9zZXNzaW9uX2V4cGlyeSI6MTIwOTYwMH0.6Zdq4DEVEVeCuDUW3sCo_Sbjf25RPnZHs2xIqAgDOlQ"
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfYXV0aF91c2VyX2lkIjoiMTkwMjU3NCIsIl9hdXRoX3VzZXJfYmFja2VuZCI6ImFsbGF1dGguYWNjb3VudC5hdXRoX2JhY2tlbmRzLkF1dGhlbnRpY2F0aW9uQmFja2VuZCIsIl9hdXRoX3VzZXJfaGFzaCI6ImY3YjQ4ZGZlZTgxYzFiOTk5ZjgyMDJjNzdhNjk4YTAyZTc2Y2Y4NjNlNjk3YjI4MTFmMTQ3MjRkMGZkYmMwNjUiLCJzZXNzaW9uX3V1aWQiOiJjMjQ0OGQ5NSIsImlkIjoxOTAyNTc0LCJlbWFpbCI6InNhdXJhYmhiaDIxQGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiYmhhZ3ZhdHVsYSIsInVzZXJfc2x1ZyI6ImJoYWd2YXR1bGEiLCJhdmF0YXIiOiJodHRwczovL2Fzc2V0cy5sZWV0Y29kZS5jb20vdXNlcnMvYmhhZ3ZhdHVsYS9hdmF0YXJfMTU5MDkxMzQ3Mi5wbmciLCJyZWZyZXNoZWRfYXQiOjE3NzgwNjQ2NzAsImlwIjoiNDkuNDMuMjI1LjUyIiwiaWRlbnRpdHkiOiJlNGUxNTg3YjZlNjBiYWI5YmNlYjdlZjU0NjYwYTIyNiIsImRldmljZV93aXRoX2lwIjpbIjY5ZTE3N2YwYTEwMTYxZGExOWQ4OWI5YzAxYzM1NWY1IiwiNDkuNDMuMjI1LjUyIl0sIl9zZXNzaW9uX2V4cGlyeSI6MTIwOTYwMH0.q963AgylvtcaWKe-WMKORrH79HbWz-LYfypm1n7f_QI"
 )
 CSRF_TOKEN = os.environ.get(
     "LEETCODE_CSRF",
-    "kGiU3XyL1jjEg8NfK5Xiskmy7c0oeHZy"
+    "CVKcsKoeSB0uyPHkvoEfmdMp7FXt7jID"
 )
 
 GRAPHQL_URL = "https://leetcode.com/graphql"
@@ -846,6 +846,8 @@ def detect_changed_companies(companies, existing_data):
 
     Returns (to_fetch, unchanged) where to_fetch is the list of company dicts
     that need scraping and unchanged is a dict of company data to carry forward.
+    Companies present in stored data but absent from the live list are also
+    carried forward — we never drop history just because the live API omitted them.
     """
     # Build lookup: slug -> (company_name, stored questionCount)
     stored_lookup = {}
@@ -856,11 +858,13 @@ def detect_changed_companies(companies, existing_data):
 
     to_fetch = []
     unchanged = {}  # name -> company data (carried forward as-is)
+    live_slugs = set()
 
     for company in companies:
         slug = company["slug"]
         name = company["name"]
         live_count = company.get("questionCount", 0)
+        live_slugs.add(slug)
 
         if slug in stored_lookup:
             stored_name, stored_count = stored_lookup[slug]
@@ -871,6 +875,17 @@ def detect_changed_companies(companies, existing_data):
 
         # New company or questionCount changed
         to_fetch.append(company)
+
+    # Carry forward any stored companies that are missing from the live list.
+    # This protects against partial API responses silently truncating our data.
+    missing_from_live = 0
+    for name, cd in existing_data.items():
+        slug = cd.get("slug", "")
+        if slug and slug not in live_slugs and name not in unchanged:
+            unchanged[name] = cd
+            missing_from_live += 1
+    if missing_from_live:
+        print(f"  Note: {missing_from_live} stored companies missing from live list — preserved as-is.")
 
     return to_fetch, unchanged
 
@@ -971,7 +986,12 @@ def main():
                 completed_slugs.add(slug)
             else:
                 failed.append(name)
-                print(f"\n  [FAILED] {name}")
+                # Preserve previously stored data on fetch failure so we never lose history
+                if name in existing_data:
+                    all_data[name] = existing_data[name]
+                    print(f"\n  [FAILED] {name} — kept previous data ({len(existing_data[name].get('questions', []))} qs)")
+                else:
+                    print(f"\n  [FAILED] {name}")
 
             rate_limiter.company_done()
 
