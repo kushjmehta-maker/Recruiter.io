@@ -1,0 +1,184 @@
+# LinkedIn Job Finder targets
+# Edit this file to control what the daily run searches for.
+# Reload effect: read on every `linkedin-finder daily` run.
+
+user:
+  first_name: Kush
+  # resume_filename is auto-detected if absent (first file in resumes/ that isn't README.md)
+  # resume_filename: resume.pdf
+
+search:
+  # Roles to search for. Each is run independently against each location.
+  roles:
+    - "Software Engineer"
+    - "Backend Engineer"
+    - "Full Stack Engineer"
+    - "Prompt Engineer"
+    - "ML Engineer"
+  # LinkedIn-style locations. "India" matches all India postings; specific cities work too.
+  # NOTE: total queries = roles x locations x companies-filter-pass. Keep both lists tight
+  # so the daily run finishes in a few minutes and stays under JobSpy's rate limits.
+  locations:
+    - "India"
+    - "Bengaluru, Karnataka, India"
+    - "Singapore"
+    - "Tokyo, Japan"
+    - "London, United Kingdom"
+    - "Berlin, Germany"
+    - "Remote"
+  # JobSpy hours_old. 24 = postings within last day.
+  hours_old: 24
+  # Skip postings below this base salary. Null disables the filter.
+  # Salaries vary widely across India / SG / EU; default off so we don't drop relevant rows.
+  salary_floor_usd: null
+
+companies:
+  # Tier-1 = your explicitly preferred companies. They get HIGH priority in
+  # job_tracker.csv and outreach drafts run for them first within the daily cap.
+  tier1:
+    # Big tech (global)
+    - "Google"
+    - "Microsoft"
+    - "Amazon"
+    - "Apple"
+    - "Meta"
+    - "Netflix"
+    - "Uber"
+    - "Airbnb"
+    - "Atlassian"
+    - "Salesforce"
+    - "LinkedIn"
+    - "Adobe"
+    - "Intuit"
+    - "HubSpot"
+    - "ServiceNow"
+    - "SAP"
+    - "VMware"
+    - "Zoom"
+    # Fintech / payments
+    - "Stripe"
+    - "PayPal"
+    - "Razorpay"
+    - "PhonePe"
+    - "CRED"
+    - "Juspay"
+    - "Zeta"
+    - "Pine Labs"
+    # Cloud / data / dev infra
+    - "Nutanix"
+    - "Snowflake"
+    - "Databricks"
+    - "HashiCorp"
+    - "Cloudflare"
+    - "Twilio"
+    - "Okta"
+    # Hardware / silicon
+    - "NVIDIA"
+    - "Qualcomm"
+    - "Intel"
+    - "AMD"
+    - "Texas Instruments"
+    - "Micron Technology"
+    # India unicorns / consumer
+    - "Flipkart"
+    - "Meesho"
+    - "Swiggy"
+    - "Zomato"
+    - "Dream11"
+    - "Freshworks"
+    - "Zoho"
+    - "BrowserStack"
+    - "Postman"
+    - "ShareChat"
+    - "Upstox"
+
+  # Tier-2 = additional global companies worth applying to. Same pipeline, lower
+  # priority sort. Add or remove freely.
+  tier2:
+    # AI labs / frontier model companies
+    - "Anthropic"
+    - "OpenAI"
+    - "Mistral AI"
+    - "Cohere"
+    - "Hugging Face"
+    - "Perplexity"
+    - "xAI"
+    - "Inflection AI"
+    - "Character.AI"
+    - "Scale AI"
+    - "DeepMind"
+    # Modern dev tools / SaaS
+    - "Notion"
+    - "Vercel"
+    - "Linear"
+    - "Ramp"
+    - "Figma"
+    - "Canva"
+    - "GitHub"
+    - "GitLab"
+    - "Datadog"
+    - "MongoDB"
+    - "Confluent"
+    - "Elastic"
+    - "Grafana Labs"
+    - "PlanetScale"
+    - "Supabase"
+    - "Replit"
+    - "Render"
+    - "Fly.io"
+    - "Plaid"
+    - "Brex"
+    - "Mercury"
+    - "Rippling"
+    - "Deel"
+    - "Lattice"
+    - "Webflow"
+    - "Retool"
+    - "Vanta"
+    # Asia / EU additions
+    - "Grab"
+    - "Sea (Garena/Shopee)"
+    - "GoTo (Gojek)"
+    - "Rakuten"
+    - "Mercari"
+    - "LINE"
+    - "Spotify"
+    - "Klarna"
+    - "Revolut"
+    - "Wise"
+    - "N26"
+    - "Adyen"
+    - "Bolt"
+    - "Booking.com"
+    - "Delivery Hero"
+    - "Zalando"
+    - "Just Eat Takeaway"
+
+# NOTE on careers-page URLs / ATS: the daily runner uses LinkedIn (via JobSpy)
+# as its source of truth for new postings. ATS-direct (Greenhouse / Lever /
+# Workday) scraping is intentionally not wired up yet. If you want me to add
+# a Greenhouse / Lever ingest pass that complements LinkedIn, just ask.
+
+filters:
+  must_haves:
+    - "mid-level IC role"
+  dealbreakers:
+    - "crypto"
+    - "ad-tech"
+    - "consulting"
+    - "staffing"
+
+outreach:
+  # Hard caps to avoid LinkedIn flagging activity.
+  daily_contact_cap: 50
+  per_company_contact_cap: 8
+  # Recruiter cache TTL in days. We won't re-search People for the same company until it expires.
+  recruiter_cache_days: 7
+
+posts:
+  # Discover hiring-manager posts (people announcing openings via LinkedIn posts,
+  # not formal job listings). Runs one Posts search per role keyword and filters
+  # to posts mentioning a target company. Requires the logged-in Playwright session.
+  enabled: true
+  # Cap posts scraped per role search to keep the run fast.
+  max_results_per_role: 30
