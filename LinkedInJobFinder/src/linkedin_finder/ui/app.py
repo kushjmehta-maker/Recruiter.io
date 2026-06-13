@@ -8,6 +8,11 @@ Tabs:
 - Targets: visual editor for config/targets.yaml.
 - Settings: API key status, last run log, "Run daily now".
 
+Runs in two modes (toggle: LINKEDIN_FINDER_REMOTE=1):
+- Local (default): read/write the on-disk SQLite + CSV + drafts.
+- Remote (Azure App Service): pull state from Blob to /tmp at every rerun;
+  hide all mutating widgets and show a read-only banner.
+
 Launch: `linkedin-finder ui` (or `streamlit run src/linkedin_finder/ui/app.py`).
 """
 from __future__ import annotations
@@ -22,13 +27,20 @@ from pathlib import Path
 import streamlit as st
 import yaml
 
-from linkedin_finder import db
+from linkedin_finder import blob_reader, db
 from linkedin_finder.config import load_config
 from linkedin_finder.csv_mirror import write_csv
 from linkedin_finder.resume import find_resume
 
 st.set_page_config(page_title="LinkedIn Job Finder", layout="wide")
 cfg = load_config()
+
+if cfg.remote_mode:
+    try:
+        blob_reader.ensure_local_copy(cfg)
+    except Exception as e:
+        st.error(f"Failed to sync state from Azure Blob: {e}")
+    st.info("Read-only view (cloud mirror). Send / edit from the Mac app.")
 
 
 def _profile_id_from_url(url: str) -> str:
@@ -86,27 +98,29 @@ with tabs[0]:
                     value=r["body"],
                     height=140,
                     key=f"body_{r['id']}",
+                    disabled=cfg.remote_mode,
                 )
-                action_cols = st.columns(4)
-                if action_cols[0].button("Save edits", key=f"save_{r['id']}"):
-                    with db.connect(cfg.db_path) as conn:
-                        db.update_draft_body(conn, r["id"], edited)
-                    st.success("Saved")
-                if action_cols[1].button("Mark sent", key=f"sent_{r['id']}"):
-                    with db.connect(cfg.db_path) as conn:
-                        db.update_draft_status(conn, r["id"], "Sent")
-                        db.update_job_status(conn, r["job_id"], "Applied", datetime.utcnow().date().isoformat())
-                        write_csv(conn, cfg.csv_path, cfg.tier1_companies)
-                    st.success("Marked sent + job set to Applied")
-                    st.rerun()
-                if action_cols[2].button("Dismiss", key=f"dismiss_{r['id']}"):
-                    with db.connect(cfg.db_path) as conn:
-                        db.update_draft_status(conn, r["id"], "Dismissed")
-                    st.rerun()
-                if action_cols[3].button("Snooze 7d", key=f"snooze_{r['id']}"):
-                    with db.connect(cfg.db_path) as conn:
-                        db.update_draft_status(conn, r["id"], "Snoozed")
-                    st.rerun()
+                if not cfg.remote_mode:
+                    action_cols = st.columns(4)
+                    if action_cols[0].button("Save edits", key=f"save_{r['id']}"):
+                        with db.connect(cfg.db_path) as conn:
+                            db.update_draft_body(conn, r["id"], edited)
+                        st.success("Saved")
+                    if action_cols[1].button("Mark sent", key=f"sent_{r['id']}"):
+                        with db.connect(cfg.db_path) as conn:
+                            db.update_draft_status(conn, r["id"], "Sent")
+                            db.update_job_status(conn, r["job_id"], "Applied", datetime.utcnow().date().isoformat())
+                            write_csv(conn, cfg.csv_path, cfg.tier1_companies, cfg.tier2_companies, cfg.tier3_companies)
+                        st.success("Marked sent + job set to Applied")
+                        st.rerun()
+                    if action_cols[2].button("Dismiss", key=f"dismiss_{r['id']}"):
+                        with db.connect(cfg.db_path) as conn:
+                            db.update_draft_status(conn, r["id"], "Dismissed")
+                        st.rerun()
+                    if action_cols[3].button("Snooze 7d", key=f"snooze_{r['id']}"):
+                        with db.connect(cfg.db_path) as conn:
+                            db.update_draft_status(conn, r["id"], "Snoozed")
+                        st.rerun()
 
 # ---- All Jobs -----------------------------------------------------------
 with tabs[1]:
@@ -162,38 +176,44 @@ with tabs[2]:
 # ---- Resume -------------------------------------------------------------
 with tabs[3]:
     st.header("Resume")
-    resume = find_resume(cfg.resumes_dir, cfg.resume_filename)
-    if resume:
-        st.success(f"Loaded: {resume.path.name}")
-        st.write(f"**Detected name:** {resume.name or '(could not detect)'}")
-        with st.expander("Preview text", expanded=False):
-            st.text(resume.text[:4000])
+    if cfg.remote_mode:
+        st.caption("(remote: managed on Mac)")
     else:
-        st.warning("No resume found in resumes/")
+        resume = find_resume(cfg.resumes_dir, cfg.resume_filename)
+        if resume:
+            st.success(f"Loaded: {resume.path.name}")
+            st.write(f"**Detected name:** {resume.name or '(could not detect)'}")
+            with st.expander("Preview text", expanded=False):
+                st.text(resume.text[:4000])
+        else:
+            st.warning("No resume found in resumes/")
 
-    uploaded = st.file_uploader(
-        "Upload a new resume (.pdf, .docx, .md, .tex)",
-        type=["pdf", "docx", "md", "tex", "txt"],
-    )
-    if uploaded is not None:
-        target = cfg.resumes_dir / uploaded.name
-        target.write_bytes(uploaded.getbuffer())
-        st.success(f"Saved to {target}")
-        st.rerun()
+        uploaded = st.file_uploader(
+            "Upload a new resume (.pdf, .docx, .md, .tex)",
+            type=["pdf", "docx", "md", "tex", "txt"],
+        )
+        if uploaded is not None:
+            target = cfg.resumes_dir / uploaded.name
+            target.write_bytes(uploaded.getbuffer())
+            st.success(f"Saved to {target}")
+            st.rerun()
 
 # ---- Targets ------------------------------------------------------------
 with tabs[4]:
     st.header("Targets (config/targets.yaml)")
     targets_path = cfg.project_root / "config" / "targets.yaml"
     raw = targets_path.read_text()
-    edited = st.text_area("YAML", value=raw, height=500)
-    if st.button("Save targets.yaml"):
-        try:
-            yaml.safe_load(edited)  # validate
-            targets_path.write_text(edited)
-            st.success("Saved. Reload the page to apply.")
-        except yaml.YAMLError as e:
-            st.error(f"Invalid YAML: {e}")
+    if cfg.remote_mode:
+        st.code(raw, language="yaml")
+    else:
+        edited = st.text_area("YAML", value=raw, height=500)
+        if st.button("Save targets.yaml"):
+            try:
+                yaml.safe_load(edited)  # validate
+                targets_path.write_text(edited)
+                st.success("Saved. Reload the page to apply.")
+            except yaml.YAMLError as e:
+                st.error(f"Invalid YAML: {e}")
 
 # ---- Settings -----------------------------------------------------------
 with tabs[5]:
@@ -216,18 +236,19 @@ with tabs[5]:
             f"Missing in .env: {', '.join(missing)}. Ranking + drafting will use fallback templates."
         )
 
-    st.subheader("Run daily now")
-    if st.button("Run daily pipeline now"):
-        with st.spinner("Running... this can take 1-3 minutes"):
-            from linkedin_finder.daily import run_daily
-            summary = run_daily(headless=True)
-        st.success(
-            f"new_jobs={summary.new_jobs} qualified={summary.qualified_jobs} "
-            f"contacts={summary.new_contacts} drafts={summary.new_drafts} errors={len(summary.errors)}"
-        )
-        if summary.errors:
-            for e in summary.errors:
-                st.error(e)
+    if not cfg.remote_mode:
+        st.subheader("Run daily now")
+        if st.button("Run daily pipeline now"):
+            with st.spinner("Running... this can take 1-3 minutes"):
+                from linkedin_finder.daily import run_daily
+                summary = run_daily(headless=True)
+            st.success(
+                f"new_jobs={summary.new_jobs} qualified={summary.qualified_jobs} "
+                f"contacts={summary.new_contacts} drafts={summary.new_drafts} errors={len(summary.errors)}"
+            )
+            if summary.errors:
+                for e in summary.errors:
+                    st.error(e)
 
     st.subheader("Last run log")
     if cfg.log_path.exists():
@@ -237,15 +258,23 @@ with tabs[5]:
     else:
         st.info("No log yet.")
 
-    st.subheader("Schedule (macOS launchd)")
-    plist_path = Path.home() / "Library" / "LaunchAgents" / "io.recruiter.linkedinfinder.plist"
-    if plist_path.exists():
-        st.success(f"Installed at {plist_path}")
-        if st.button("Uninstall schedule"):
-            subprocess.run(["bash", str(cfg.project_root / "scripts" / "uninstall_launchd.sh")], check=False)
-            st.rerun()
-    else:
-        st.info("Not installed.")
-        if st.button("Install schedule"):
-            subprocess.run(["bash", str(cfg.project_root / "scripts" / "install_launchd.sh")], check=False)
-            st.rerun()
+    if not cfg.remote_mode:
+        st.subheader("Schedule (macOS launchd)")
+        plist_path = Path.home() / "Library" / "LaunchAgents" / "io.recruiter.linkedinfinder.plist"
+        if plist_path.exists():
+            st.success(f"Installed at {plist_path}")
+            if st.button("Uninstall schedule"):
+                subprocess.run(["bash", str(cfg.project_root / "scripts" / "uninstall_launchd.sh")], check=False)
+                st.rerun()
+        else:
+            st.info("Not installed.")
+            if st.button("Install schedule"):
+                subprocess.run(["bash", str(cfg.project_root / "scripts" / "install_launchd.sh")], check=False)
+                st.rerun()
+
+    if cfg.remote_mode:
+        st.subheader("Cloud mirror")
+        st.caption(
+            f"Reading from Blob: {cfg.blob_account_url} (containers: "
+            f"{cfg.blob_state_container}, {cfg.blob_drafts_container})"
+        )

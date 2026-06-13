@@ -9,7 +9,7 @@ A local Python tool that, every morning, finds new LinkedIn job openings at comp
 ## What it does, every day
 
 1. Hits LinkedIn's public jobs feed (no login) and grabs every posting in the last 24 hours that matches your roles and locations.
-2. Filters that list down to your target companies (tier-1 + tier-2 lists you define).
+2. Filters that list down to your target companies (tier-1 / tier-2 / tier-3 lists you define).
 3. Logs into LinkedIn through a persistent Chrome profile and searches for **hiring posts** — people announcing openings in their feed, not through the formal Jobs board.
 4. Asks an LLM to score every job against your resume (0–10) and drops anything below 5 or anything that hits a dealbreaker keyword.
 5. For each qualifying company, finds the top recruiters / talent acquisition people, then drafts a personalized 2–3 sentence outreach for each (job, contact) pair.
@@ -123,14 +123,21 @@ search:
   hours_old: 24                   # only jobs posted in last N hours
 
 companies:
-  tier1:                          # priority companies — drafted first
+  tier1:                          # priority companies — drafted first, marked HIGH in CSV
     - "Stripe"
     - "Anthropic"
-  tier2:                          # also-rans — same pipeline, lower priority sort
+  tier2:                          # same pipeline, marked MEDIUM in CSV
     - "Notion"
     - "Linear"
+  tier3:                          # wider net, marked LOW in CSV (sorts last)
+    - "Salesforce"
+    - "SAP"
 
 filters:
+  must_haves:                     # positive signals for the ranker (level/YoE hints)
+    - "SDE-2"
+    - "Senior Software Engineer"
+    - "3+ years"
   dealbreakers:                   # any job whose description contains these is dropped
     - "crypto"
     - "consulting"
@@ -191,6 +198,52 @@ If you're on Linux, set up the equivalent in cron or systemd timers — point it
 
 ---
 
+## Cloud mirror (optional, view drafts from your phone)
+
+LinkedIn cookies are tied to the IP that issued them, so the pipeline has to keep running on your Mac. But you can mirror the *state* (jobs, drafts, contacts) to Azure Blob and host a read-only Streamlit view on an App Service, fronted by your Microsoft account. Cost: ~$15/month, covered by an Azure free credit.
+
+What you get: open a URL on your phone, sign in with the same Microsoft account you use everywhere else, see today's drafts and the full jobs/contacts tables. All editing and sending still happens on the Mac.
+
+Setup (~10 minutes, requires `az login` and an active Azure subscription):
+
+```bash
+pip install -e .[cloud]
+az login
+APP_NAME=your-dns-unique-name bash infra/deploy.sh
+```
+
+The script creates a resource group, deploys `infra/main.bicep` (Storage + App Service Plan B1 + App Service + Easy Auth restricted to your Entra ID), zips the source, and uploads it. At the end it prints two things:
+
+1. The App Service URL (sign in with your Microsoft account).
+2. The `BLOB_*` env vars to add to your local `.env`.
+
+### Blob auth under launchd
+
+The local pipeline uses `DefaultAzureCredential` to write to Blob. Under launchd, the `az login` token cache isn't available, so add a **service principal** scoped to the storage account and put its creds in `.env` — `EnvironmentCredential` picks them up automatically:
+
+```bash
+# create SP scoped to the storage account only (least privilege)
+SA_ID=$(az storage account show -n <storage-account> --query id -o tsv)
+az ad sp create-for-rbac \
+  --name linkedinfinder-blob-writer \
+  --role "Storage Blob Data Contributor" \
+  --scopes "$SA_ID"
+```
+
+Paste the returned `tenant`, `appId`, `password` into `.env` as `AZURE_TENANT_ID`, `AZURE_CLIENT_ID`, `AZURE_CLIENT_SECRET`. Now the 08:30 launchd run can write to Blob without a logged-in shell.
+
+After you paste those into `.env` and re-run `linkedin-finder daily`, the tail of `data/last_run.log` should show `blob_sync: uploaded 3 state files, N drafts`. Refresh the App Service URL: same drafts, same Today tab, but every write button is hidden with a "Read-only view" banner.
+
+To make the Mac wake reliably for the 08:30 schedule, add a `pmset` rule:
+
+```bash
+sudo pmset repeat wakeorpoweron MTWRFSU 08:25:00
+```
+
+To tear it all down: `az group delete -n <APP_NAME>-rg --yes`.
+
+---
+
 ## Folder layout
 
 ```
@@ -203,6 +256,7 @@ LinkedInJobFinder/
 ├── data/last_run.log             append-only run log surfaced in the UI
 ├── job_tracker.csv               16-column CSV mirror, friendly for spreadsheets
 ├── src/linkedin_finder/          the package
+├── infra/                        Bicep + deploy scripts for optional Azure mirror
 └── scripts/                      launchd install/uninstall
 ```
 

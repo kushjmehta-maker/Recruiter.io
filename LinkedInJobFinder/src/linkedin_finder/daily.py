@@ -19,7 +19,7 @@ from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
 
-from . import db
+from . import blob_sync, db
 from .config import Config, load_config
 from .csv_mirror import write_csv
 from .discovery import jobs as jobs_mod
@@ -166,7 +166,7 @@ def run_daily(headless: bool = True) -> RunSummary:
 
         if not new_job_ids:
             log.info("No new jobs; skipping ranking + outreach.")
-            write_csv(conn, cfg.csv_path, cfg.tier1_companies)
+            write_csv(conn, cfg.csv_path, cfg.tier1_companies, cfg.tier2_companies, cfg.tier3_companies)
             return summary
 
         rank_input = [
@@ -209,7 +209,7 @@ def run_daily(headless: bool = True) -> RunSummary:
         log.info("Qualified jobs after scoring: %d", summary.qualified_jobs)
 
         if not qualified:
-            write_csv(conn, cfg.csv_path, cfg.tier1_companies)
+            write_csv(conn, cfg.csv_path, cfg.tier1_companies, cfg.tier2_companies, cfg.tier3_companies)
             return summary
 
         try:
@@ -221,7 +221,7 @@ def run_daily(headless: bool = True) -> RunSummary:
                         log.error(msg)
                         summary.errors.append(msg)
                         page.close()
-                        write_csv(conn, cfg.csv_path, cfg.tier1_companies)
+                        write_csv(conn, cfg.csv_path, cfg.tier1_companies, cfg.tier2_companies, cfg.tier3_companies)
                         return summary
                 finally:
                     page.close()
@@ -294,8 +294,14 @@ def run_daily(headless: bool = True) -> RunSummary:
         purged = db.purge_older_than(conn, cfg.retention_days)
         if any(purged.values()):
             log.info("Purged rows older than %dd: %s", cfg.retention_days, purged)
-        write_csv(conn, cfg.csv_path, cfg.tier1_companies)
+        write_csv(conn, cfg.csv_path, cfg.tier1_companies, cfg.tier2_companies, cfg.tier3_companies)
     _purge_draft_files(cfg.drafts_dir, cfg.retention_days)
+
+    try:
+        blob_sync.sync_to_blob(cfg)
+    except Exception as e:
+        log.warning("blob mirror sync failed: %s", e)
+        summary.errors.append(f"blob sync: {e}")
 
     _macos_notify(
         title="LinkedIn Job Finder",

@@ -20,6 +20,7 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = ["pytest>=8.0", "pytest-mock>=3.12"]
+cloud = ["azure-storage-blob>=12.20", "azure-identity>=1.17"]
 
 [project.scripts]
 linkedin-finder = "linkedin_finder.cli:app"

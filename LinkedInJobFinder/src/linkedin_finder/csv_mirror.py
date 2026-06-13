@@ -19,9 +19,19 @@ COLUMNS = [
 ]
 
 
-def _priority_for(score: float | None, tier1: list[str], company: str) -> str:
+def _priority_for(
+    score: float | None,
+    tier1: list[str],
+    tier2: list[str],
+    tier3: list[str],
+    company: str,
+) -> str:
     if company in tier1:
         return "HIGH"
+    if company in tier2:
+        return "MEDIUM"
+    if company in tier3:
+        return "LOW"
     if score is None:
         return "MEDIUM"
     if score >= 8:
@@ -31,17 +41,35 @@ def _priority_for(score: float | None, tier1: list[str], company: str) -> str:
     return "LOW"
 
 
-def write_csv(conn: sqlite3.Connection, csv_path: Path, tier1_companies: list[str]) -> int:
+_PRIORITY_RANK = {"HIGH": 0, "MEDIUM": 1, "LOW": 2}
+
+
+def write_csv(
+    conn: sqlite3.Connection,
+    csv_path: Path,
+    tier1_companies: list[str],
+    tier2_companies: list[str] | None = None,
+    tier3_companies: list[str] | None = None,
+) -> int:
+    tier2_companies = tier2_companies or []
+    tier3_companies = tier3_companies or []
     rows = conn.execute(
         "SELECT * FROM jobs ORDER BY discovered_at DESC"
     ).fetchall()
     csv_path.parent.mkdir(parents=True, exist_ok=True)
+    ranked = []
+    for r in rows:
+        priority = _priority_for(
+            r["fit_score"], tier1_companies, tier2_companies, tier3_companies, r["company"]
+        )
+        ranked.append((_PRIORITY_RANK[priority], priority, r))
+    ranked.sort(key=lambda x: x[0])
     with csv_path.open("w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         writer.writerow(COLUMNS)
-        for r in rows:
+        for _, priority, r in ranked:
             writer.writerow([
-                _priority_for(r["fit_score"], tier1_companies, r["company"]),
+                priority,
                 r["company"] or "",
                 r["role"] or "",
                 r["location"] or "",
