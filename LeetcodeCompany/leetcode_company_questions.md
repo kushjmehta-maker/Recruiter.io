@@ -1,6 +1,6 @@
 # LeetCode Company-Wise Questions
 
-> **662 Companies** | **38,469 Total Questions** | Generated on October 14, 2026
+> **662 Companies** | **38,469 Total Questions** | Generated on October 15, 2026
 
 ---
 
@@ -41,11 +41,11 @@
 | 31 | [Citadel](#citadel) | 14 | 134 | 65 | 213 |
 | 32 | [Nutanix](#nutanix) | 14 | 111 | 34 | 159 |
 | 33 | [DoorDash](#doordash) | 13 | 85 | 37 | 135 |
-| 34 | [Expedia](#expedia) | 35 | 108 | 25 | 168 |
-| 35 | [eBay](#ebay) | 24 | 120 | 31 | 175 |
+| 34 | [eBay](#ebay) | 24 | 120 | 31 | 175 |
+| 35 | [Expedia](#expedia) | 35 | 108 | 25 | 168 |
 | 36 | [ServiceNow](#servicenow) | 33 | 143 | 28 | 204 |
-| 37 | [Capital One](#capital-one) | 34 | 73 | 27 | 134 |
-| 38 | [Airbnb](#airbnb) | 19 | 61 | 30 | 110 |
+| 37 | [Airbnb](#airbnb) | 19 | 61 | 30 | 110 |
+| 38 | [Capital One](#capital-one) | 34 | 73 | 27 | 134 |
 | 39 | [ByteDance](#bytedance) | 30 | 133 | 27 | 190 |
 | 40 | [Morgan Stanley](#morgan-stanley) | 41 | 100 | 21 | 162 |
 | 41 | [Roblox](#roblox) | 17 | 86 | 28 | 131 |
@@ -79,15 +79,15 @@
 | 69 | [Zomato](#zomato) | 23 | 62 | 31 | 116 |
 | 70 | [Netflix](#netflix) | 29 | 58 | 12 | 99 |
 | 71 | [Rippling](#rippling) | 10 | 39 | 22 | 71 |
-| 72 | [Docusign](#docusign) | 16 | 68 | 17 | 101 |
-| 73 | [Squarepoint Capital](#squarepoint-capital) | 13 | 50 | 25 | 88 |
-| 74 | [Tekion](#tekion) | 9 | 76 | 17 | 102 |
-| 75 | [HashedIn](#hashedin) | 22 | 64 | 33 | 119 |
-| 76 | [Palantir](#palantir) | 17 | 48 | 16 | 81 |
-| 77 | [Waymo](#waymo) | 6 | 51 | 24 | 81 |
-| 78 | [American Express](#american-express) | 31 | 58 | 16 | 105 |
-| 79 | [Yelp](#yelp) | 12 | 15 | 6 | 33 |
-| 80 | [Zeta Global](#zeta-global) | 12 | 82 | 29 | 123 |
+| 72 | [Squarepoint Capital](#squarepoint-capital) | 13 | 50 | 25 | 88 |
+| 73 | [Palantir](#palantir) | 17 | 48 | 16 | 81 |
+| 74 | [Docusign](#docusign) | 16 | 68 | 17 | 101 |
+| 75 | [Waymo](#waymo) | 6 | 51 | 24 | 81 |
+| 76 | [American Express](#american-express) | 31 | 58 | 16 | 105 |
+| 77 | [Tekion](#tekion) | 9 | 76 | 17 | 102 |
+| 78 | [Yelp](#yelp) | 12 | 15 | 6 | 33 |
+| 79 | [Zeta Global](#zeta-global) | 12 | 82 | 29 | 123 |
+| 80 | [HashedIn](#hashedin) | 22 | 64 | 33 | 119 |
 | 81 | [MathWorks](#mathworks) | 18 | 52 | 18 | 88 |
 | 82 | [Grammarly](#grammarly) | 18 | 30 | 9 | 57 |
 | 83 | [Lyft](#lyft) | 3 | 37 | 8 | 48 |
@@ -102,12 +102,12 @@
 | 92 | [Deutsche Bank](#deutsche-bank) | 23 | 36 | 12 | 71 |
 | 93 | [Barclays](#barclays) | 23 | 41 | 7 | 71 |
 | 94 | [Juspay](#juspay) | 22 | 64 | 20 | 106 |
-| 95 | [Tinkoff](#tinkoff) | 27 | 40 | 3 | 70 |
-| 96 | [Quora](#quora) | 7 | 14 | 6 | 27 |
+| 95 | [Quora](#quora) | 7 | 14 | 6 | 27 |
+| 96 | [Tinkoff](#tinkoff) | 27 | 40 | 3 | 70 |
 | 97 | [Akuna Capital](#akuna-capital) | 11 | 18 | 11 | 40 |
 | 98 | [AMD](#amd) | 28 | 34 | 4 | 66 |
-| 99 | [Roku](#roku) | 8 | 50 | 17 | 75 |
-| 100 | [Wipro](#wipro) | 48 | 53 | 2 | 103 |
+| 99 | [Wipro](#wipro) | 48 | 53 | 2 | 103 |
+| 100 | [Roku](#roku) | 8 | 50 | 17 | 75 |
 | 101 | [BNY Mellon](#bny-mellon) | 14 | 46 | 20 | 80 |
 | 102 | [OpenAI](#openai) | 16 | 33 | 14 | 63 |
 | 103 | [Booking.com](#booking.com) | 8 | 38 | 7 | 53 |
@@ -128,13 +128,13 @@
 | 118 | [ZScaler](#zscaler) | 17 | 36 | 14 | 67 |
 | 119 | [Spotify](#spotify) | 14 | 16 | 6 | 36 |
 | 120 | [Akamai](#akamai) | 17 | 37 | 9 | 63 |
-| 121 | [MakeMyTrip](#makemytrip) | 12 | 63 | 14 | 89 |
-| 122 | [Sigmoid](#sigmoid) | 16 | 41 | 6 | 63 |
-| 123 | [Jane Street](#jane-street) | 20 | 35 | 16 | 71 |
-| 124 | [Mastercard](#mastercard) | 18 | 29 | 8 | 55 |
-| 125 | [General Motors](#general-motors) | 4 | 19 | 7 | 30 |
-| 126 | [Dell](#dell) | 25 | 35 | 6 | 66 |
-| 127 | [Arcesium](#arcesium) | 11 | 48 | 16 | 75 |
+| 121 | [Sigmoid](#sigmoid) | 16 | 41 | 6 | 63 |
+| 122 | [Jane Street](#jane-street) | 20 | 35 | 16 | 71 |
+| 123 | [Mastercard](#mastercard) | 18 | 29 | 8 | 55 |
+| 124 | [General Motors](#general-motors) | 4 | 19 | 7 | 30 |
+| 125 | [Dell](#dell) | 25 | 35 | 6 | 66 |
+| 126 | [Arcesium](#arcesium) | 11 | 48 | 16 | 75 |
+| 127 | [MakeMyTrip](#makemytrip) | 12 | 63 | 14 | 89 |
 | 128 | [SoFi](#sofi) | 8 | 38 | 15 | 61 |
 | 129 | [Zopsmart](#zopsmart) | 12 | 33 | 5 | 50 |
 | 130 | [Moloco](#moloco) | 3 | 29 | 11 | 43 |
@@ -159,90 +159,90 @@
 | 149 | [Nokia](#nokia) | 16 | 23 | 8 | 47 |
 | 150 | [DP world](#dp-world) | 4 | 37 | 19 | 60 |
 | 151 | [razorpay](#razorpay) | 6 | 28 | 11 | 45 |
-| 152 | [Baidu](#baidu) | 1 | 11 | 6 | 18 |
-| 153 | [Dream11](#dream11) | 8 | 46 | 9 | 63 |
-| 154 | [UKG](#ukg) | 14 | 24 | 6 | 44 |
-| 155 | [Wissen Technology](#wissen-technology) | 2 | 8 | 0 | 10 |
-| 156 | [Whatnot](#whatnot) | 6 | 16 | 0 | 22 |
-| 157 | [Affirm](#affirm) | 12 | 18 | 4 | 34 |
-| 158 | [Karat](#karat) | 9 | 18 | 2 | 29 |
-| 159 | [SIG](#sig) | 6 | 19 | 9 | 34 |
-| 160 | [LTIMindtree](#ltimindtree) | 20 | 19 | 2 | 41 |
-| 161 | [FreshWorks](#freshworks) | 12 | 33 | 5 | 50 |
-| 162 | [PayPay](#paypay) | 9 | 27 | 6 | 42 |
-| 163 | [Publicis Sapient](#publicis-sapient) | 14 | 28 | 3 | 45 |
-| 164 | [Aurora](#aurora) | 3 | 19 | 6 | 28 |
-| 165 | [Hubspot](#hubspot) | 7 | 14 | 7 | 28 |
-| 166 | [WeRide](#weride) | 2 | 16 | 10 | 28 |
-| 167 | [Fractal Analytics](#fractal-analytics) | 11 | 15 | 6 | 32 |
-| 168 | [Motive](#motive) | 7 | 26 | 4 | 37 |
-| 169 | [Criteo](#criteo) | 9 | 7 | 0 | 16 |
-| 170 | [Applied Intuition](#applied-intuition) | 3 | 22 | 8 | 33 |
-| 171 | [Mitsogo](#mitsogo) | 7 | 16 | 3 | 26 |
-| 172 | [Revolut](#revolut) | 8 | 15 | 0 | 23 |
-| 173 | [Splunk](#splunk) | 9 | 43 | 9 | 61 |
+| 152 | [Dream11](#dream11) | 8 | 46 | 9 | 63 |
+| 153 | [UKG](#ukg) | 14 | 24 | 6 | 44 |
+| 154 | [Wissen Technology](#wissen-technology) | 2 | 8 | 0 | 10 |
+| 155 | [Whatnot](#whatnot) | 6 | 16 | 0 | 22 |
+| 156 | [Affirm](#affirm) | 12 | 18 | 4 | 34 |
+| 157 | [Karat](#karat) | 9 | 18 | 2 | 29 |
+| 158 | [SIG](#sig) | 6 | 19 | 9 | 34 |
+| 159 | [LTIMindtree](#ltimindtree) | 20 | 19 | 2 | 41 |
+| 160 | [FreshWorks](#freshworks) | 12 | 33 | 5 | 50 |
+| 161 | [PayPay](#paypay) | 9 | 27 | 6 | 42 |
+| 162 | [Aurora](#aurora) | 3 | 19 | 6 | 28 |
+| 163 | [Hubspot](#hubspot) | 7 | 14 | 7 | 28 |
+| 164 | [WeRide](#weride) | 2 | 16 | 10 | 28 |
+| 165 | [Fractal Analytics](#fractal-analytics) | 11 | 15 | 6 | 32 |
+| 166 | [Motive](#motive) | 7 | 26 | 4 | 37 |
+| 167 | [Baidu](#baidu) | 1 | 11 | 6 | 18 |
+| 168 | [Criteo](#criteo) | 9 | 7 | 0 | 16 |
+| 169 | [Applied Intuition](#applied-intuition) | 3 | 22 | 8 | 33 |
+| 170 | [Mitsogo](#mitsogo) | 7 | 16 | 3 | 26 |
+| 171 | [Revolut](#revolut) | 8 | 15 | 0 | 23 |
+| 172 | [Splunk](#splunk) | 9 | 43 | 9 | 61 |
+| 173 | [Disney](#disney) | 16 | 28 | 3 | 47 |
 | 174 | [Confluent](#confluent) | 6 | 20 | 13 | 39 |
-| 175 | [Disney](#disney) | 16 | 28 | 3 | 47 |
-| 176 | [Virtu Financial](#virtu-financial) | 6 | 5 | 0 | 11 |
-| 177 | [Instacart](#instacart) | 10 | 27 | 5 | 42 |
+| 175 | [Virtu Financial](#virtu-financial) | 6 | 5 | 0 | 11 |
+| 176 | [Instacart](#instacart) | 10 | 27 | 5 | 42 |
+| 177 | [Publicis Sapient](#publicis-sapient) | 14 | 28 | 3 | 45 |
 | 178 | [Coursera](#coursera) | 4 | 7 | 5 | 16 |
 | 179 | [Kotak Mahindra Bank](#kotak-mahindra-bank) | 4 | 11 | 2 | 17 |
-| 180 | [Pure Storage](#pure-storage) | 7 | 12 | 2 | 21 |
-| 181 | [Axon](#axon) | 11 | 20 | 5 | 36 |
-| 182 | [Rivian](#rivian) | 11 | 22 | 4 | 37 |
-| 183 | [Teradata](#teradata) | 3 | 11 | 8 | 22 |
-| 184 | [Rakuten](#rakuten) | 9 | 29 | 6 | 44 |
-| 185 | [KLA](#kla) | 7 | 11 | 7 | 25 |
+| 180 | [AT&T](#atandt) | 5 | 20 | 1 | 26 |
+| 181 | [Pure Storage](#pure-storage) | 7 | 12 | 2 | 21 |
+| 182 | [Axon](#axon) | 11 | 20 | 5 | 36 |
+| 183 | [Rivian](#rivian) | 11 | 22 | 4 | 37 |
+| 184 | [Teradata](#teradata) | 3 | 11 | 8 | 22 |
+| 185 | [Rakuten](#rakuten) | 9 | 29 | 6 | 44 |
 | 186 | [Avito](#avito) | 15 | 11 | 3 | 29 |
 | 187 | [Nagarro](#nagarro) | 14 | 29 | 2 | 45 |
-| 188 | [Microstrategy](#microstrategy) | 8 | 13 | 1 | 22 |
-| 189 | [Directi](#directi) | 3 | 10 | 5 | 18 |
-| 190 | [spinny](#spinny) | 1 | 20 | 2 | 23 |
-| 191 | [oyo](#oyo) | 8 | 26 | 6 | 40 |
-| 192 | [Optiver](#optiver) | 9 | 31 | 5 | 45 |
-| 193 | [AT&T](#atandt) | 5 | 20 | 1 | 26 |
-| 194 | [Audible](#audible) | 5 | 12 | 1 | 18 |
-| 195 | [Twitch](#twitch) | 10 | 11 | 1 | 22 |
-| 196 | [Shopee](#shopee) | 13 | 25 | 5 | 43 |
-| 197 | [Compass](#compass) | 4 | 12 | 4 | 20 |
-| 198 | [Box](#box) | 8 | 10 | 3 | 21 |
-| 199 | [Citigroup](#citigroup) | 9 | 14 | 4 | 27 |
-| 200 | [Pwc](#pwc) | 18 | 16 | 2 | 36 |
-| 201 | [HSBC](#hsbc) | 16 | 18 | 1 | 35 |
-| 202 | [Info Edge](#info-edge) | 8 | 34 | 6 | 48 |
+| 188 | [KLA](#kla) | 7 | 11 | 7 | 25 |
+| 189 | [Microstrategy](#microstrategy) | 8 | 13 | 1 | 22 |
+| 190 | [Directi](#directi) | 3 | 10 | 5 | 18 |
+| 191 | [spinny](#spinny) | 1 | 20 | 2 | 23 |
+| 192 | [oyo](#oyo) | 8 | 26 | 6 | 40 |
+| 193 | [Optiver](#optiver) | 9 | 31 | 5 | 45 |
+| 194 | [Twitch](#twitch) | 10 | 11 | 1 | 22 |
+| 195 | [Shopee](#shopee) | 13 | 25 | 5 | 43 |
+| 196 | [Compass](#compass) | 4 | 12 | 4 | 20 |
+| 197 | [Box](#box) | 8 | 10 | 3 | 21 |
+| 198 | [Citigroup](#citigroup) | 9 | 14 | 4 | 27 |
+| 199 | [Pwc](#pwc) | 18 | 16 | 2 | 36 |
+| 200 | [HSBC](#hsbc) | 16 | 18 | 1 | 35 |
+| 201 | [Info Edge](#info-edge) | 8 | 34 | 6 | 48 |
+| 202 | [Netskope](#netskope) | 2 | 15 | 5 | 22 |
 | 203 | [Groww](#groww) | 3 | 26 | 7 | 36 |
-| 204 | [Netskope](#netskope) | 2 | 15 | 5 | 22 |
-| 205 | [persistent systems](#persistent-systems) | 14 | 14 | 2 | 30 |
+| 204 | [persistent systems](#persistent-systems) | 14 | 14 | 2 | 30 |
+| 205 | [Flexport](#flexport) | 3 | 22 | 1 | 26 |
 | 206 | [opentext](#opentext) | 16 | 18 | 1 | 35 |
-| 207 | [Flexport](#flexport) | 3 | 22 | 1 | 26 |
-| 208 | [CleverTap](#clevertap) | 1 | 6 | 1 | 8 |
-| 209 | [Lime](#lime) | 2 | 14 | 5 | 21 |
+| 207 | [CleverTap](#clevertap) | 1 | 6 | 1 | 8 |
+| 208 | [Lime](#lime) | 2 | 14 | 5 | 21 |
+| 209 | [Udemy](#udemy) | 6 | 3 | 1 | 10 |
 | 210 | [Dunzo](#dunzo) | 1 | 5 | 3 | 9 |
 | 211 | [Wise](#wise) | 4 | 10 | 3 | 17 |
 | 212 | [micro1](#micro1) | 2 | 6 | 1 | 9 |
-| 213 | [Udemy](#udemy) | 6 | 3 | 1 | 10 |
+| 213 | [Audible](#audible) | 5 | 12 | 1 | 18 |
 | 214 | [Target](#target) | 10 | 22 | 7 | 39 |
 | 215 | [Zoox](#zoox) | 4 | 14 | 1 | 19 |
-| 216 | [Optum](#optum) | 13 | 18 | 2 | 33 |
-| 217 | [Point72](#point72) | 7 | 14 | 4 | 25 |
+| 216 | [Point72](#point72) | 7 | 14 | 4 | 25 |
+| 217 | [Optum](#optum) | 13 | 18 | 2 | 33 |
 | 218 | [Moveworks](#moveworks) | 1 | 8 | 6 | 15 |
 | 219 | [Upstart](#upstart) | 9 | 13 | 1 | 23 |
-| 220 | [Comcast](#comcast) | 22 | 17 | 2 | 41 |
-| 221 | [Cashfree](#cashfree) | 3 | 14 | 3 | 20 |
-| 222 | [Ripple](#ripple) | 3 | 24 | 5 | 32 |
-| 223 | [Nike](#nike) | 8 | 18 | 4 | 30 |
-| 224 | [GoDaddy](#godaddy) | 12 | 12 | 4 | 28 |
-| 225 | [Virtusa](#virtusa) | 18 | 22 | 3 | 43 |
+| 220 | [Ripple](#ripple) | 3 | 24 | 5 | 32 |
+| 221 | [Comcast](#comcast) | 22 | 17 | 2 | 41 |
+| 222 | [GoDaddy](#godaddy) | 12 | 12 | 4 | 28 |
+| 223 | [Cashfree](#cashfree) | 3 | 14 | 3 | 20 |
+| 224 | [Virtusa](#virtusa) | 18 | 22 | 3 | 43 |
+| 225 | [Nike](#nike) | 8 | 18 | 4 | 30 |
 | 226 | [Trilogy](#trilogy) | 1 | 12 | 13 | 26 |
 | 227 | [LiveRamp](#liveramp) | 2 | 11 | 0 | 13 |
-| 228 | [Guidewire](#guidewire) | 2 | 18 | 2 | 22 |
-| 229 | [FactSet](#factset) | 17 | 34 | 8 | 59 |
-| 230 | [Cadence](#cadence) | 9 | 20 | 6 | 35 |
-| 231 | [Airtel](#airtel) | 5 | 26 | 3 | 34 |
-| 232 | [Faire](#faire) | 2 | 6 | 6 | 14 |
-| 233 | [The Trade Desk](#the-trade-desk) | 2 | 18 | 11 | 31 |
-| 234 | [Mercari](#mercari) | 3 | 8 | 1 | 12 |
-| 235 | [Lucid](#lucid) | 6 | 19 | 2 | 27 |
+| 228 | [Mercari](#mercari) | 3 | 8 | 1 | 12 |
+| 229 | [Lucid](#lucid) | 6 | 19 | 2 | 27 |
+| 230 | [FactSet](#factset) | 17 | 34 | 8 | 59 |
+| 231 | [Cadence](#cadence) | 9 | 20 | 6 | 35 |
+| 232 | [Airtel](#airtel) | 5 | 26 | 3 | 34 |
+| 233 | [Guidewire](#guidewire) | 2 | 18 | 2 | 22 |
+| 234 | [Faire](#faire) | 2 | 6 | 6 | 14 |
+| 235 | [The Trade Desk](#the-trade-desk) | 2 | 18 | 11 | 31 |
 | 236 | [6sense](#6sense) | 1 | 17 | 3 | 21 |
 | 237 | [Hive](#hive) | 4 | 13 | 6 | 23 |
 | 238 | [Quince](#quince) | 2 | 20 | 3 | 25 |
@@ -252,32 +252,32 @@
 | 242 | [Cyntexa](#cyntexa) | 1 | 7 | 3 | 11 |
 | 243 | [Verizon](#verizon) | 9 | 14 | 2 | 25 |
 | 244 | [Rokt](#rokt) | 2 | 4 | 4 | 10 |
-| 245 | [Duolingo](#duolingo) | 1 | 13 | 2 | 16 |
-| 246 | [Alibaba](#alibaba) | 4 | 20 | 7 | 31 |
+| 245 | [Alibaba](#alibaba) | 4 | 20 | 7 | 31 |
+| 246 | [Duolingo](#duolingo) | 1 | 13 | 2 | 16 |
 | 247 | [Indeed](#indeed) | 6 | 8 | 6 | 20 |
 | 248 | [IMC](#imc) | 3 | 16 | 8 | 27 |
 | 249 | [Cohesity](#cohesity) | 8 | 26 | 10 | 44 |
 | 250 | [Fidelity](#fidelity) | 22 | 24 | 7 | 53 |
 | 251 | [Workday](#workday) | 12 | 29 | 7 | 48 |
-| 252 | [Remitly](#remitly) | 3 | 14 | 1 | 18 |
-| 253 | [Tripadvisor](#tripadvisor) | 9 | 7 | 1 | 17 |
+| 252 | [Tripadvisor](#tripadvisor) | 9 | 7 | 1 | 17 |
+| 253 | [Remitly](#remitly) | 3 | 14 | 1 | 18 |
 | 254 | [Verily](#verily) | 7 | 17 | 5 | 29 |
-| 255 | [Github](#github) | 3 | 7 | 3 | 13 |
-| 256 | [Qualtrics](#qualtrics) | 13 | 21 | 4 | 38 |
-| 257 | [Sony](#sony) | 10 | 11 | 2 | 23 |
-| 258 | [ZS Associates](#zs-associates) | 13 | 24 | 3 | 40 |
+| 255 | [ZS Associates](#zs-associates) | 13 | 24 | 3 | 40 |
+| 256 | [Github](#github) | 3 | 7 | 3 | 13 |
+| 257 | [Qualtrics](#qualtrics) | 13 | 21 | 4 | 38 |
+| 258 | [Sony](#sony) | 10 | 11 | 2 | 23 |
 | 259 | [Toast](#toast) | 4 | 8 | 0 | 12 |
-| 260 | [Gusto](#gusto) | 3 | 7 | 3 | 13 |
-| 261 | [Chewy](#chewy) | 4 | 13 | 0 | 17 |
+| 260 | [Asana](#asana) | 4 | 5 | 2 | 11 |
+| 261 | [Gusto](#gusto) | 3 | 7 | 3 | 13 |
 | 262 | [Squarespace](#squarespace) | 4 | 4 | 0 | 8 |
 | 263 | [VMware](#vmware) | 6 | 27 | 6 | 39 |
-| 264 | [HP](#hp) | 5 | 7 | 0 | 12 |
-| 265 | [Hulu](#hulu) | 0 | 4 | 3 | 7 |
-| 266 | [Asana](#asana) | 4 | 5 | 2 | 11 |
+| 264 | [Chewy](#chewy) | 4 | 13 | 0 | 17 |
+| 265 | [HP](#hp) | 5 | 7 | 0 | 12 |
+| 266 | [athenahealth](#athenahealth) | 12 | 28 | 7 | 47 |
 | 267 | [Lowe's](#lowe's) | 5 | 8 | 4 | 17 |
-| 268 | [athenahealth](#athenahealth) | 12 | 28 | 7 | 47 |
-| 269 | [Altimetrik](#altimetrik) | 13 | 19 | 3 | 35 |
-| 270 | [Bolt](#bolt) | 6 | 4 | 1 | 11 |
+| 268 | [Altimetrik](#altimetrik) | 13 | 19 | 3 | 35 |
+| 269 | [Bolt](#bolt) | 6 | 4 | 1 | 11 |
+| 270 | [Hulu](#hulu) | 0 | 4 | 3 | 7 |
 | 271 | [Warnermedia](#warnermedia) | 7 | 17 | 4 | 28 |
 | 272 | [HTC](#htc) | 6 | 1 | 1 | 8 |
 | 273 | [KLA Tencor](#kla-tencor) | 1 | 8 | 5 | 14 |
@@ -293,25 +293,25 @@
 | 283 | [GSN Games](#gsn-games) | 2 | 3 | 1 | 6 |
 | 284 | [Harness](#harness) | 0 | 15 | 9 | 24 |
 | 285 | [Reddit](#reddit) | 4 | 12 | 5 | 21 |
-| 286 | [WorldQuant](#worldquant) | 2 | 5 | 7 | 14 |
-| 287 | [Tower Research Capital](#tower-research-capital) | 2 | 11 | 2 | 15 |
-| 288 | [Shopify](#shopify) | 12 | 17 | 7 | 36 |
-| 289 | [Riot Games](#riot-games) | 2 | 7 | 1 | 10 |
+| 286 | [Tower Research Capital](#tower-research-capital) | 2 | 11 | 2 | 15 |
+| 287 | [Riot Games](#riot-games) | 2 | 7 | 1 | 10 |
+| 288 | [WorldQuant](#worldquant) | 2 | 5 | 7 | 14 |
+| 289 | [Shopify](#shopify) | 12 | 17 | 7 | 36 |
 | 290 | [Oscar Health](#oscar-health) | 2 | 4 | 1 | 7 |
 | 291 | [Garmin](#garmin) | 15 | 4 | 1 | 20 |
 | 292 | [Zoom](#zoom) | 3 | 12 | 3 | 18 |
 | 293 | [Pony.ai](#pony.ai) | 0 | 6 | 6 | 12 |
-| 294 | [Nykaa](#nykaa) | 2 | 22 | 3 | 27 |
-| 295 | [Jio](#jio) | 15 | 23 | 4 | 42 |
-| 296 | [Fortinet](#fortinet) | 7 | 12 | 7 | 26 |
-| 297 | [UBS](#ubs) | 12 | 19 | 5 | 36 |
-| 298 | [Innovaccer](#innovaccer) | 9 | 15 | 6 | 30 |
+| 294 | [Fortinet](#fortinet) | 7 | 12 | 7 | 26 |
+| 295 | [Nykaa](#nykaa) | 2 | 22 | 3 | 27 |
+| 296 | [UBS](#ubs) | 12 | 19 | 5 | 36 |
+| 297 | [Innovaccer](#innovaccer) | 9 | 15 | 6 | 30 |
+| 298 | [Jio](#jio) | 15 | 23 | 4 | 42 |
 | 299 | [Patreon](#patreon) | 4 | 4 | 0 | 8 |
-| 300 | [Airbus SE](#airbus-se) | 5 | 13 | 2 | 20 |
-| 301 | [Poshmark](#poshmark) | 0 | 9 | 2 | 11 |
-| 302 | [Careem](#careem) | 6 | 16 | 3 | 25 |
-| 303 | [Valve](#valve) | 3 | 4 | 0 | 7 |
-| 304 | [Citrix](#citrix) | 2 | 12 | 1 | 15 |
+| 300 | [Valve](#valve) | 3 | 4 | 0 | 7 |
+| 301 | [Citrix](#citrix) | 2 | 12 | 1 | 15 |
+| 302 | [Poshmark](#poshmark) | 0 | 9 | 2 | 11 |
+| 303 | [Airbus SE](#airbus-se) | 5 | 13 | 2 | 20 |
+| 304 | [Careem](#careem) | 6 | 16 | 3 | 25 |
 | 305 | [Mindtickle](#mindtickle) | 2 | 18 | 5 | 25 |
 | 306 | [blinkit](#blinkit) | 0 | 16 | 3 | 19 |
 | 307 | [UST](#ust) | 8 | 11 | 0 | 19 |
@@ -325,45 +325,45 @@
 | 315 | [Ramp](#ramp) | 0 | 5 | 1 | 6 |
 | 316 | [Liftoff](#liftoff) | 0 | 4 | 1 | 5 |
 | 317 | [TomTom](#tomtom) | 1 | 6 | 0 | 7 |
-| 318 | [DRW](#drw) | 4 | 10 | 5 | 19 |
-| 319 | [HPE](#hpe) | 14 | 18 | 4 | 36 |
-| 320 | [Chime](#chime) | 4 | 10 | 3 | 17 |
-| 321 | [Bank of America](#bank-of-america) | 14 | 9 | 6 | 29 |
-| 322 | [AQR Capital Management](#aqr-capital-management) | 7 | 23 | 6 | 36 |
-| 323 | [Tencent](#tencent) | 6 | 21 | 8 | 35 |
-| 324 | [Honeywell](#honeywell) | 4 | 7 | 3 | 14 |
-| 325 | [Samsara](#samsara) | 2 | 8 | 2 | 12 |
-| 326 | [Toptal](#toptal) | 2 | 2 | 2 | 6 |
-| 327 | [Deliveroo](#deliveroo) | 4 | 5 | 5 | 14 |
-| 328 | [Nextdoor](#nextdoor) | 2 | 14 | 3 | 19 |
-| 329 | [Nordstrom](#nordstrom) | 6 | 21 | 1 | 28 |
+| 318 | [Trexquant](#trexquant) | 2 | 21 | 1 | 24 |
+| 319 | [DRW](#drw) | 4 | 10 | 5 | 19 |
+| 320 | [HPE](#hpe) | 14 | 18 | 4 | 36 |
+| 321 | [Chime](#chime) | 4 | 10 | 3 | 17 |
+| 322 | [Tencent](#tencent) | 6 | 21 | 8 | 35 |
+| 323 | [Bank of America](#bank-of-america) | 14 | 9 | 6 | 29 |
+| 324 | [Samsara](#samsara) | 2 | 8 | 2 | 12 |
+| 325 | [Nextdoor](#nextdoor) | 2 | 14 | 3 | 19 |
+| 326 | [Honeywell](#honeywell) | 4 | 7 | 3 | 14 |
+| 327 | [Toptal](#toptal) | 2 | 2 | 2 | 6 |
+| 328 | [Deliveroo](#deliveroo) | 4 | 5 | 5 | 14 |
+| 329 | [AQR Capital Management](#aqr-capital-management) | 7 | 23 | 6 | 36 |
 | 330 | [Tinder](#tinder) | 2 | 3 | 6 | 11 |
 | 331 | [GE Healthcare](#ge-healthcare) | 4 | 14 | 2 | 20 |
-| 332 | [ThoughtWorks](#thoughtworks) | 8 | 8 | 7 | 23 |
-| 333 | [ciena](#ciena) | 2 | 15 | 0 | 17 |
-| 334 | [Texas Instruments](#texas-instruments) | 12 | 23 | 7 | 42 |
-| 335 | [Ericsson](#ericsson) | 8 | 5 | 1 | 14 |
-| 336 | [LINE](#line) | 0 | 5 | 3 | 8 |
-| 337 | [Activision](#activision) | 6 | 13 | 3 | 22 |
+| 332 | [Nordstrom](#nordstrom) | 6 | 21 | 1 | 28 |
+| 333 | [ThoughtWorks](#thoughtworks) | 8 | 8 | 7 | 23 |
+| 334 | [ciena](#ciena) | 2 | 15 | 0 | 17 |
+| 335 | [Texas Instruments](#texas-instruments) | 12 | 23 | 7 | 42 |
+| 336 | [Ericsson](#ericsson) | 8 | 5 | 1 | 14 |
+| 337 | [LINE](#line) | 0 | 5 | 3 | 8 |
 | 338 | [Tiger Analytics](#tiger-analytics) | 9 | 9 | 3 | 21 |
 | 339 | [NCR](#ncr) | 2 | 9 | 1 | 12 |
-| 340 | [Philips](#philips) | 6 | 6 | 2 | 14 |
-| 341 | [Navi](#navi) | 0 | 11 | 7 | 18 |
+| 340 | [Navi](#navi) | 0 | 11 | 7 | 18 |
+| 341 | [Activision](#activision) | 6 | 13 | 3 | 22 |
 | 342 | [GE Digital](#ge-digital) | 2 | 5 | 1 | 8 |
 | 343 | [Garena](#garena) | 4 | 5 | 3 | 12 |
 | 344 | [Commvault](#commvault) | 2 | 17 | 2 | 21 |
-| 345 | [Redfin](#redfin) | 1 | 5 | 0 | 6 |
-| 346 | [Gameskraft](#gameskraft) | 1 | 21 | 16 | 38 |
-| 347 | [Postmates](#postmates) | 2 | 2 | 0 | 4 |
-| 348 | [carwale](#carwale) | 6 | 18 | 1 | 25 |
-| 349 | [Nielsen](#nielsen) | 7 | 24 | 6 | 37 |
-| 350 | [MindTree](#mindtree) | 10 | 9 | 0 | 19 |
-| 351 | [EY](#ey) | 11 | 11 | 3 | 25 |
-| 352 | [Larsen & Toubro](#larsen-and-toubro) | 4 | 3 | 0 | 7 |
-| 353 | [Clari](#clari) | 1 | 10 | 1 | 12 |
-| 354 | [fourkites](#fourkites) | 2 | 7 | 1 | 10 |
-| 355 | [Delhivery](#delhivery) | 5 | 17 | 2 | 24 |
-| 356 | [HiLabs](#hilabs) | 3 | 8 | 9 | 20 |
+| 345 | [Philips](#philips) | 6 | 6 | 2 | 14 |
+| 346 | [Redfin](#redfin) | 1 | 5 | 0 | 6 |
+| 347 | [Gameskraft](#gameskraft) | 1 | 21 | 16 | 38 |
+| 348 | [Postmates](#postmates) | 2 | 2 | 0 | 4 |
+| 349 | [carwale](#carwale) | 6 | 18 | 1 | 25 |
+| 350 | [Nielsen](#nielsen) | 7 | 24 | 6 | 37 |
+| 351 | [MindTree](#mindtree) | 10 | 9 | 0 | 19 |
+| 352 | [EY](#ey) | 11 | 11 | 3 | 25 |
+| 353 | [Larsen & Toubro](#larsen-and-toubro) | 4 | 3 | 0 | 7 |
+| 354 | [Clari](#clari) | 1 | 10 | 1 | 12 |
+| 355 | [fourkites](#fourkites) | 2 | 7 | 1 | 10 |
+| 356 | [Delhivery](#delhivery) | 5 | 17 | 2 | 24 |
 | 357 | [Odoo](#odoo) | 8 | 12 | 1 | 21 |
 | 358 | [Airwallex](#airwallex) | 1 | 12 | 2 | 15 |
 | 359 | [StackAdapt](#stackadapt) | 2 | 16 | 2 | 20 |
@@ -374,56 +374,56 @@
 | 364 | [Navan](#navan) | 3 | 9 | 3 | 15 |
 | 365 | [Aon](#aon) | 3 | 3 | 1 | 7 |
 | 366 | [CME Group](#cme-group) | 4 | 7 | 2 | 13 |
-| 367 | [Trexquant](#trexquant) | 2 | 21 | 1 | 24 |
-| 368 | [Jump Trading](#jump-trading) | 3 | 8 | 6 | 17 |
-| 369 | [Cruise](#cruise) | 1 | 6 | 2 | 9 |
-| 370 | [McKinsey](#mckinsey) | 7 | 14 | 2 | 23 |
-| 371 | [RBC](#rbc) | 4 | 13 | 2 | 19 |
-| 372 | [Tesco](#tesco) | 2 | 6 | 1 | 9 |
-| 373 | [Cloudera](#cloudera) | 6 | 12 | 1 | 19 |
-| 374 | [Zalando](#zalando) | 5 | 12 | 2 | 19 |
-| 375 | [Hotstar](#hotstar) | 2 | 11 | 3 | 16 |
-| 376 | [Zynga](#zynga) | 6 | 13 | 1 | 20 |
-| 377 | [OLX](#olx) | 6 | 8 | 3 | 17 |
-| 378 | [instabase](#instabase) | 3 | 5 | 4 | 12 |
-| 379 | [BlackStone](#blackstone) | 7 | 6 | 4 | 17 |
-| 380 | [KPMG](#kpmg) | 6 | 6 | 1 | 13 |
-| 381 | [Societe Generale](#societe-generale) | 9 | 13 | 2 | 24 |
-| 382 | [AppDynamics](#appdynamics) | 1 | 5 | 0 | 6 |
-| 383 | [ADP](#adp) | 7 | 6 | 1 | 14 |
-| 384 | [Niantic](#niantic) | 4 | 18 | 0 | 22 |
-| 385 | [Freecharge](#freecharge) | 6 | 15 | 5 | 26 |
-| 386 | [CRED](#cred) | 5 | 13 | 3 | 21 |
-| 387 | [McDonalds](#mcdonalds) | 8 | 5 | 3 | 16 |
-| 388 | [Gartner](#gartner) | 3 | 6 | 0 | 9 |
-| 389 | [Unity](#unity) | 2 | 5 | 0 | 7 |
-| 390 | [Canonical](#canonical) | 6 | 8 | 2 | 16 |
-| 391 | [F5](#f5) | 8 | 9 | 2 | 19 |
-| 392 | [Thomson Reuters](#thomson-reuters) | 5 | 4 | 1 | 10 |
-| 393 | [Peloton](#peloton) | 2 | 4 | 1 | 7 |
-| 394 | [Houzz](#houzz) | 2 | 0 | 2 | 4 |
-| 395 | [Livspace](#livspace) | 1 | 5 | 1 | 7 |
-| 396 | [ShareChat](#sharechat) | 3 | 9 | 5 | 17 |
-| 397 | [Viasat](#viasat) | 4 | 2 | 0 | 6 |
-| 398 | [FPT](#fpt) | 15 | 8 | 5 | 28 |
-| 399 | [Chargebee](#chargebee) | 5 | 12 | 2 | 19 |
-| 400 | [Zendesk](#zendesk) | 4 | 2 | 0 | 6 |
+| 367 | [Jump Trading](#jump-trading) | 3 | 8 | 6 | 17 |
+| 368 | [Cruise](#cruise) | 1 | 6 | 2 | 9 |
+| 369 | [McKinsey](#mckinsey) | 7 | 14 | 2 | 23 |
+| 370 | [RBC](#rbc) | 4 | 13 | 2 | 19 |
+| 371 | [Tesco](#tesco) | 2 | 6 | 1 | 9 |
+| 372 | [Cloudera](#cloudera) | 6 | 12 | 1 | 19 |
+| 373 | [Zalando](#zalando) | 5 | 12 | 2 | 19 |
+| 374 | [Societe Generale](#societe-generale) | 9 | 13 | 2 | 24 |
+| 375 | [Zynga](#zynga) | 6 | 13 | 1 | 20 |
+| 376 | [OLX](#olx) | 6 | 8 | 3 | 17 |
+| 377 | [BlackStone](#blackstone) | 7 | 6 | 4 | 17 |
+| 378 | [KPMG](#kpmg) | 6 | 6 | 1 | 13 |
+| 379 | [AppDynamics](#appdynamics) | 1 | 5 | 0 | 6 |
+| 380 | [Hotstar](#hotstar) | 2 | 11 | 3 | 16 |
+| 381 | [Gartner](#gartner) | 3 | 6 | 0 | 9 |
+| 382 | [Niantic](#niantic) | 4 | 18 | 0 | 22 |
+| 383 | [Freecharge](#freecharge) | 6 | 15 | 5 | 26 |
+| 384 | [CRED](#cred) | 5 | 13 | 3 | 21 |
+| 385 | [McDonalds](#mcdonalds) | 8 | 5 | 3 | 16 |
+| 386 | [instabase](#instabase) | 3 | 5 | 4 | 12 |
+| 387 | [ADP](#adp) | 7 | 6 | 1 | 14 |
+| 388 | [Canonical](#canonical) | 6 | 8 | 2 | 16 |
+| 389 | [F5](#f5) | 8 | 9 | 2 | 19 |
+| 390 | [Thomson Reuters](#thomson-reuters) | 5 | 4 | 1 | 10 |
+| 391 | [Peloton](#peloton) | 2 | 4 | 1 | 7 |
+| 392 | [Unity](#unity) | 2 | 5 | 0 | 7 |
+| 393 | [Houzz](#houzz) | 2 | 0 | 2 | 4 |
+| 394 | [Livspace](#livspace) | 1 | 5 | 1 | 7 |
+| 395 | [ShareChat](#sharechat) | 3 | 9 | 5 | 17 |
+| 396 | [Viasat](#viasat) | 4 | 2 | 0 | 6 |
+| 397 | [FPT](#fpt) | 15 | 8 | 5 | 28 |
+| 398 | [Chargebee](#chargebee) | 5 | 12 | 2 | 19 |
+| 399 | [Zendesk](#zendesk) | 4 | 2 | 0 | 6 |
+| 400 | [PubMatic](#pubmatic) | 4 | 3 | 3 | 10 |
 | 401 | [Schlumberger](#schlumberger) | 3 | 10 | 0 | 13 |
-| 402 | [Grubhub](#grubhub) | 1 | 7 | 0 | 8 |
-| 403 | [Groupon](#groupon) | 1 | 9 | 0 | 10 |
-| 404 | [Blend](#blend) | 0 | 3 | 0 | 3 |
-| 405 | [GoTo](#goto) | 2 | 7 | 1 | 10 |
-| 406 | [Sumo Logic](#sumo-logic) | 2 | 15 | 3 | 20 |
-| 407 | [observe.ai](#observe.ai) | 4 | 4 | 3 | 11 |
-| 408 | [Dataminr](#dataminr) | 2 | 5 | 2 | 9 |
-| 409 | [JTG](#jtg) | 3 | 15 | 2 | 20 |
+| 402 | [Groupon](#groupon) | 1 | 9 | 0 | 10 |
+| 403 | [Blend](#blend) | 0 | 3 | 0 | 3 |
+| 404 | [GoTo](#goto) | 2 | 7 | 1 | 10 |
+| 405 | [Sumo Logic](#sumo-logic) | 2 | 15 | 3 | 20 |
+| 406 | [observe.ai](#observe.ai) | 4 | 4 | 3 | 11 |
+| 407 | [Dataminr](#dataminr) | 2 | 5 | 2 | 9 |
+| 408 | [JTG](#jtg) | 3 | 15 | 2 | 20 |
+| 409 | [HiLabs](#hilabs) | 3 | 8 | 9 | 20 |
 | 410 | [Chubb](#chubb) | 8 | 9 | 3 | 20 |
 | 411 | [SoundHound](#soundhound) | 2 | 6 | 2 | 10 |
 | 412 | [Netsuite](#netsuite) | 3 | 0 | 0 | 3 |
-| 413 | [PubMatic](#pubmatic) | 4 | 3 | 3 | 10 |
-| 414 | [Otter.ai](#otter.ai) | 1 | 18 | 3 | 22 |
-| 415 | [ThousandEyes](#thousandeyes) | 1 | 11 | 4 | 16 |
-| 416 | [Gopuff](#gopuff) | 0 | 2 | 2 | 4 |
+| 413 | [Otter.ai](#otter.ai) | 1 | 18 | 3 | 22 |
+| 414 | [ThousandEyes](#thousandeyes) | 1 | 11 | 4 | 16 |
+| 415 | [Gopuff](#gopuff) | 0 | 2 | 2 | 4 |
+| 416 | [Grubhub](#grubhub) | 1 | 7 | 0 | 8 |
 | 417 | [Turvo](#turvo) | 2 | 3 | 2 | 7 |
 | 418 | [Kakao](#kakao) | 1 | 5 | 1 | 7 |
 | 419 | [Exl](#exl) | 8 | 3 | 2 | 13 |
@@ -465,38 +465,38 @@
 | 455 | [Synopsys](#synopsys) | 5 | 18 | 1 | 24 |
 | 456 | [Luxoft](#luxoft) | 12 | 6 | 0 | 18 |
 | 457 | [Starbucks](#starbucks) | 5 | 4 | 0 | 9 |
-| 458 | [SOTI](#soti) | 4 | 13 | 4 | 21 |
-| 459 | [Slice](#slice) | 3 | 14 | 6 | 23 |
-| 460 | [Wayve](#wayve) | 1 | 3 | 0 | 4 |
-| 461 | [Pure](#pure) | 0 | 2 | 0 | 2 |
-| 462 | [PayU](#payu) | 6 | 19 | 2 | 27 |
-| 463 | [Etsy](#etsy) | 4 | 2 | 1 | 7 |
-| 464 | [Lenskart](#lenskart) | 3 | 7 | 1 | 11 |
-| 465 | [Smartsheet](#smartsheet) | 2 | 8 | 0 | 10 |
-| 466 | [Quantcast](#quantcast) | 2 | 4 | 0 | 6 |
-| 467 | [Discord](#discord) | 2 | 1 | 2 | 5 |
-| 468 | [Cleartrip](#cleartrip) | 0 | 11 | 1 | 12 |
-| 469 | [Thumbtack](#thumbtack) | 0 | 3 | 0 | 3 |
-| 470 | [General Electric](#general-electric) | 2 | 1 | 2 | 5 |
-| 471 | [Flatiron Health](#flatiron-health) | 1 | 5 | 0 | 6 |
+| 458 | [Wayve](#wayve) | 1 | 3 | 0 | 4 |
+| 459 | [SOTI](#soti) | 4 | 13 | 4 | 21 |
+| 460 | [Etsy](#etsy) | 4 | 2 | 1 | 7 |
+| 461 | [Thumbtack](#thumbtack) | 0 | 3 | 0 | 3 |
+| 462 | [Pure](#pure) | 0 | 2 | 0 | 2 |
+| 463 | [PayU](#payu) | 6 | 19 | 2 | 27 |
+| 464 | [Slice](#slice) | 3 | 14 | 6 | 23 |
+| 465 | [Lenskart](#lenskart) | 3 | 7 | 1 | 11 |
+| 466 | [Smartsheet](#smartsheet) | 2 | 8 | 0 | 10 |
+| 467 | [Quantcast](#quantcast) | 2 | 4 | 0 | 6 |
+| 468 | [Discord](#discord) | 2 | 1 | 2 | 5 |
+| 469 | [CureFit](#curefit) | 4 | 9 | 3 | 16 |
+| 470 | [Cleartrip](#cleartrip) | 0 | 11 | 1 | 12 |
+| 471 | [General Electric](#general-electric) | 2 | 1 | 2 | 5 |
 | 472 | [Braze](#braze) | 6 | 3 | 0 | 9 |
-| 473 | [National Instruments](#national-instruments) | 4 | 8 | 6 | 18 |
-| 474 | [CVENT](#cvent) | 7 | 13 | 5 | 25 |
-| 475 | [IIT Bombay](#iit-bombay) | 2 | 3 | 0 | 5 |
-| 476 | [Avalara](#avalara) | 1 | 10 | 4 | 15 |
-| 477 | [Aetion](#aetion) | 2 | 5 | 1 | 8 |
-| 478 | [Code Studio](#code-studio) | 3 | 3 | 1 | 7 |
-| 479 | [redbus](#redbus) | 2 | 5 | 1 | 8 |
-| 480 | [Western Digital](#western-digital) | 2 | 3 | 1 | 6 |
-| 481 | [Affinity](#affinity) | 2 | 1 | 1 | 4 |
-| 482 | [Tableau](#tableau) | 1 | 2 | 0 | 3 |
-| 483 | [HBO](#hbo) | 0 | 3 | 1 | 4 |
-| 484 | [Meituan](#meituan) | 2 | 3 | 0 | 5 |
-| 485 | [Symantec](#symantec) | 1 | 1 | 0 | 2 |
-| 486 | [Amadeus](#amadeus) | 11 | 22 | 2 | 35 |
-| 487 | [FAST](#fast) | 1 | 4 | 0 | 5 |
-| 488 | [Drawbridge](#drawbridge) | 0 | 1 | 1 | 2 |
-| 489 | [CureFit](#curefit) | 4 | 9 | 3 | 16 |
+| 473 | [FAST](#fast) | 1 | 4 | 0 | 5 |
+| 474 | [National Instruments](#national-instruments) | 4 | 8 | 6 | 18 |
+| 475 | [Flatiron Health](#flatiron-health) | 1 | 5 | 0 | 6 |
+| 476 | [CVENT](#cvent) | 7 | 13 | 5 | 25 |
+| 477 | [IIT Bombay](#iit-bombay) | 2 | 3 | 0 | 5 |
+| 478 | [Avalara](#avalara) | 1 | 10 | 4 | 15 |
+| 479 | [Aetion](#aetion) | 2 | 5 | 1 | 8 |
+| 480 | [redbus](#redbus) | 2 | 5 | 1 | 8 |
+| 481 | [Western Digital](#western-digital) | 2 | 3 | 1 | 6 |
+| 482 | [Affinity](#affinity) | 2 | 1 | 1 | 4 |
+| 483 | [Tableau](#tableau) | 1 | 2 | 0 | 3 |
+| 484 | [HBO](#hbo) | 0 | 3 | 1 | 4 |
+| 485 | [Meituan](#meituan) | 2 | 3 | 0 | 5 |
+| 486 | [Symantec](#symantec) | 1 | 1 | 0 | 2 |
+| 487 | [Amadeus](#amadeus) | 11 | 22 | 2 | 35 |
+| 488 | [Reliance Retails](#reliance-retails) | 4 | 1 | 2 | 7 |
+| 489 | [Drawbridge](#drawbridge) | 0 | 1 | 1 | 2 |
 | 490 | [Druva](#druva) | 2 | 10 | 0 | 12 |
 | 491 | [Zeta Suite](#zeta-suite) | 6 | 5 | 2 | 13 |
 | 492 | [Veritas](#veritas) | 0 | 2 | 0 | 2 |
@@ -514,24 +514,24 @@
 | 504 | [OKX](#okx) | 4 | 14 | 1 | 19 |
 | 505 | [Alphonso](#alphonso) | 5 | 2 | 1 | 8 |
 | 506 | [BNP Paribas](#bnp-paribas) | 6 | 3 | 3 | 12 |
-| 507 | [Murex](#murex) | 2 | 4 | 0 | 6 |
-| 508 | [McAfee](#mcafee) | 5 | 3 | 0 | 8 |
-| 509 | [Quantiphi](#quantiphi) | 6 | 8 | 0 | 14 |
-| 510 | [SIXT](#sixt) | 1 | 6 | 1 | 8 |
-| 511 | [TripActions](#tripactions) | 2 | 0 | 1 | 3 |
-| 512 | [NextJump](#nextjump) | 1 | 1 | 0 | 2 |
-| 513 | [Yugabyte](#yugabyte) | 0 | 8 | 3 | 11 |
-| 514 | [Mphasis](#mphasis) | 4 | 2 | 1 | 7 |
-| 515 | [Fleetx](#fleetx) | 1 | 3 | 0 | 4 |
-| 516 | [Accelya](#accelya) | 8 | 5 | 2 | 15 |
-| 517 | [Hopper](#hopper) | 1 | 2 | 2 | 5 |
-| 518 | [Radius](#radius) | 1 | 1 | 0 | 2 |
-| 519 | [TIAA](#tiaa) | 3 | 0 | 0 | 3 |
-| 520 | [Syfe](#syfe) | 3 | 7 | 0 | 10 |
-| 521 | [ShopUp](#shopup) | 1 | 3 | 2 | 6 |
-| 522 | [Reliance Retails](#reliance-retails) | 4 | 1 | 2 | 7 |
-| 523 | [1Kosmos](#1kosmos) | 1 | 4 | 0 | 5 |
-| 524 | [BT Group](#bt-group) | 2 | 3 | 0 | 5 |
+| 507 | [Code Studio](#code-studio) | 3 | 3 | 1 | 7 |
+| 508 | [Murex](#murex) | 2 | 4 | 0 | 6 |
+| 509 | [McAfee](#mcafee) | 5 | 3 | 0 | 8 |
+| 510 | [Quantiphi](#quantiphi) | 6 | 8 | 0 | 14 |
+| 511 | [SIXT](#sixt) | 1 | 6 | 1 | 8 |
+| 512 | [TripActions](#tripactions) | 2 | 0 | 1 | 3 |
+| 513 | [NextJump](#nextjump) | 1 | 1 | 0 | 2 |
+| 514 | [BT Group](#bt-group) | 2 | 3 | 0 | 5 |
+| 515 | [Yugabyte](#yugabyte) | 0 | 8 | 3 | 11 |
+| 516 | [Mphasis](#mphasis) | 4 | 2 | 1 | 7 |
+| 517 | [Fleetx](#fleetx) | 1 | 3 | 0 | 4 |
+| 518 | [Accelya](#accelya) | 8 | 5 | 2 | 15 |
+| 519 | [Hopper](#hopper) | 1 | 2 | 2 | 5 |
+| 520 | [Radius](#radius) | 1 | 1 | 0 | 2 |
+| 521 | [TIAA](#tiaa) | 3 | 0 | 0 | 3 |
+| 522 | [Syfe](#syfe) | 3 | 7 | 0 | 10 |
+| 523 | [ShopUp](#shopup) | 1 | 3 | 2 | 6 |
+| 524 | [1Kosmos](#1kosmos) | 1 | 4 | 0 | 5 |
 | 525 | [RetailMeNot](#retailmenot) | 0 | 2 | 0 | 2 |
 | 526 | [Blue Origin](#blue-origin) | 4 | 3 | 0 | 7 |
 | 527 | [Impetus](#impetus) | 4 | 4 | 0 | 8 |
@@ -597,11 +597,11 @@
 | 587 | [Zappos](#zappos) | 1 | 0 | 0 | 1 |
 | 588 | [Gilt Groupe](#gilt-groupe) | 0 | 1 | 0 | 1 |
 | 589 | [ForUsAll](#forusall) | 0 | 0 | 1 | 1 |
-| 590 | [Strava](#strava) | 0 | 1 | 0 | 1 |
-| 591 | [Helix](#helix) | 1 | 0 | 0 | 1 |
-| 592 | [Jingchi](#jingchi) | 0 | 0 | 1 | 1 |
-| 593 | [Poynt](#poynt) | 0 | 1 | 0 | 1 |
-| 594 | [JD.com](#jd.com) | 0 | 0 | 1 | 1 |
+| 590 | [Helix](#helix) | 1 | 0 | 0 | 1 |
+| 591 | [Jingchi](#jingchi) | 0 | 0 | 1 | 1 |
+| 592 | [Poynt](#poynt) | 0 | 1 | 0 | 1 |
+| 593 | [JD.com](#jd.com) | 0 | 0 | 1 | 1 |
+| 594 | [Strava](#strava) | 0 | 1 | 0 | 1 |
 | 595 | [DailyHunt](#dailyhunt) | 1 | 0 | 0 | 1 |
 | 596 | [Ultraleap](#ultraleap) | 0 | 1 | 0 | 1 |
 | 597 | [TA Digital](#ta-digital) | 0 | 0 | 1 | 1 |
@@ -22067,183 +22067,6 @@
 
 ---
 
-## Expedia
-
-> 🟢 Easy: 35 | 🟡 Medium: 108 | 🔴 Hard: 25 | Total: 168
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | 62.5% | 6m+ | 57.1% |
-| 2 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | - | - | - |
-| 3 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 75.0% | 6m+ | 38.5% |
-| 4 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | - | - | - |
-| 5 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | - | - | - |
-| 6 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | 1.6% | 6m+ | 59.5% |
-| 7 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | 4.2% | 6m+ | 66.2% |
-| 8 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | - | - | - |
-| 9 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | 50.0% | - | 65.5% |
-| 10 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | 7.2% | 6m+ | 43.7% |
-| 11 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | - | - | - |
-| 12 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | 3.7% | 6m+ | 78.2% |
-| 13 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard | - | - | - |
-| 14 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | 2.5% | 6m+ | 46.2% |
-| 15 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | - | - | - |
-| 16 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | 🔴 Hard | - | - | - |
-| 17 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | - | - | - |
-| 18 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | 🟡 Medium | 5.2% | 30d,3m,6m | 62.3% |
-| 19 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 Medium | - | - | - |
-| 20 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | 4.5% | 6m+ | 66.8% |
-| 21 | [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | - | - | - |
-| 22 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | 5.2% | 6m+ | 72.2% |
-| 23 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | 5.4% | 6m+ | 51.1% |
-| 24 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | - | - | - |
-| 25 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 Medium | 62.5% | 6m+ | 62.4% |
-| 26 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | - | - | - |
-| 27 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | - | - | - |
-| 28 | [87. Scramble String](https://leetcode.com/problems/scramble-string/) | 🔴 Hard | - | - | - |
-| 29 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | - | - | - |
-| 30 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | 🟡 Medium | - | - | - |
-| 31 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 Medium | - | - | - |
-| 32 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | 🟡 Medium | - | - | - |
-| 33 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 🟢 Easy | - | - | - |
-| 34 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | 62.5% | 6m+ | 56.4% |
-| 35 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 Medium | - | - | - |
-| 36 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | 🔴 Hard | - | - | - |
-| 37 | [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | 🔴 Hard | - | - | - |
-| 38 | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | 🔴 Hard | 87.5% | 6m | 44.9% |
-| 39 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | - | - | - |
-| 40 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | 🟡 Medium | - | - | - |
-| 41 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | 🟡 Medium | - | - | - |
-| 42 | [135. Candy](https://leetcode.com/problems/candy/) | 🔴 Hard | - | - | - |
-| 43 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 5.9% | 6m+ | 46.8% |
-| 44 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 Medium | - | - | - |
-| 45 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | - | - | - |
-| 46 | [164. Maximum Gap](https://leetcode.com/problems/maximum-gap/) | 🟡 Medium | - | - | - |
-| 47 | [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | 🟢 Easy | - | - | - |
-| 48 | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/) | 🟢 Easy | - | - | - |
-| 49 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | 4.9% | 6m+ | 52.9% |
-| 50 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | 6.7% | 6m | 63.8% |
-| 51 | [204. Count Primes](https://leetcode.com/problems/count-primes/) | 🟡 Medium | - | - | - |
-| 52 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | - | - | - |
-| 53 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | - | - | - |
-| 54 | [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | 🟡 Medium | - | - | - |
-| 55 | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | 🟡 Medium | 3.5% | - | - |
-| 56 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | 4.0% | - | 76.5% |
-| 57 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | - | - | - |
-| 58 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | - | - | - |
-| 59 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 🔴 Hard | 3.7% | 6m | 48.4% |
-| 60 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 🟡 Medium | - | - | - |
-| 61 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | 🟡 Medium | - | - | - |
-| 62 | [255. Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) | 🟡 Medium | 6.2% | - | 51.7% |
-| 63 | [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | 🟡 Medium | - | - | - |
-| 64 | [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | 🔴 Hard | - | - | - |
-| 65 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | - | - | - |
-| 66 | [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | 🟡 Medium | 6.5% | 6m+ | 52.8% |
-| 67 | [336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | 🔴 Hard | - | - | - |
-| 68 | [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | 🟡 Medium | - | - | - |
-| 69 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | 🟡 Medium | - | - | - |
-| 70 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | 🟢 Easy | - | - | - |
-| 71 | [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | - | - | - |
-| 72 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | 🟢 Easy | - | - | - |
-| 73 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | 🟡 Medium | - | - | - |
-| 74 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 🟡 Medium | - | - | - |
-| 75 | [443. String Compression](https://leetcode.com/problems/string-compression/) | 🟡 Medium | 7.6% | 6m+ | 59.5% |
-| 76 | [494. Target Sum](https://leetcode.com/problems/target-sum/) | 🟡 Medium | - | - | - |
-| 77 | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | 🟡 Medium | - | - | - |
-| 78 | [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | 🟡 Medium | - | - | - |
-| 79 | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | 🟡 Medium | 4.4% | 6m+ | 56.7% |
-| 80 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | 🟡 Medium | - | - | - |
-| 81 | [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/) | 🟡 Medium | - | - | - |
-| 82 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | 🟡 Medium | 4.9% | - | - |
-| 83 | [697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | 🟢 Easy | 62.5% | 6m+ | 58.2% |
-| 84 | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | - | - | - |
-| 85 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | 🟢 Easy | 5.9% | 6m | 62.1% |
-| 86 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | 🟡 Medium | - | - | - |
-| 87 | [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) | 🟡 Medium | 50.0% | - | 56.8% |
-| 88 | [768. Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | 🔴 Hard | - | - | - |
-| 89 | [780. Reaching Points](https://leetcode.com/problems/reaching-points/) | 🔴 Hard | - | - | - |
-| 90 | [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | 🟡 Medium | 50.0% | - | 41.4% |
-| 91 | [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | 🟡 Medium | - | - | - |
-| 92 | [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | 🔴 Hard | - | - | - |
-| 93 | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | 🟡 Medium | - | - | - |
-| 94 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | - | - | - |
-| 95 | [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | 🔴 Hard | - | - | - |
-| 96 | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | 🟡 Medium | - | - | - |
-| 97 | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | 🟡 Medium | - | - | - |
-| 98 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | - | - | - |
-| 99 | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | 🟡 Medium | - | - | - |
-| 100 | [923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | 🟡 Medium | - | - | - |
-| 101 | [926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | 🟡 Medium | 62.5% | 6m+ | 61.8% |
-| 102 | [942. DI String Match](https://leetcode.com/problems/di-string-match/) | 🟢 Easy | - | - | - |
-| 103 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 🟡 Medium | - | - | - |
-| 104 | [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | 🟡 Medium | - | - | - |
-| 105 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | 50.0% | - | 58.1% |
-| 106 | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | 75.0% | 6m+ | 67.3% |
-| 107 | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | 🟡 Medium | - | - | - |
-| 108 | [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | 🟢 Easy | - | - | - |
-| 109 | [1101. The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/) | 🟡 Medium | 62.5% | 6m+ | 65.9% |
-| 110 | [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | 🟡 Medium | - | - | - |
-| 111 | [1151. Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/) | 🟡 Medium | 62.5% | 6m+ | 61.2% |
-| 112 | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | 🟢 Easy | - | - | - |
-| 113 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | 🟢 Easy | - | - | - |
-| 114 | [1049. Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/) | 🟡 Medium | - | - | - |
-| 115 | [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | 🟡 Medium | - | - | - |
-| 116 | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | 🟡 Medium | - | - | - |
-| 117 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | - | - | - |
-| 118 | [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | 🟡 Medium | 62.5% | 6m+ | 51.6% |
-| 119 | [1507. Reformat Date](https://leetcode.com/problems/reformat-date/) | 🟢 Easy | - | - | - |
-| 120 | [1944. Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | 🔴 Hard | 87.5% | 6m+ | 72.3% |
-| 121 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | 🟢 Easy | - | - | - |
-| 122 | [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | 🟡 Medium | - | - | - |
-| 123 | [2204. Distance to a Cycle in Undirected Graph](https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph/) | 🔴 Hard | - | - | - |
-| 124 | [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | 🟡 Medium | 75.0% | 6m+ | 65.4% |
-| 125 | [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | 🔴 Hard | - | - | - |
-| 126 | [1321. Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | 🟡 Medium | - | - | - |
-| 127 | [1373. Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | 🔴 Hard | - | - | - |
-| 128 | [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | 🟡 Medium | - | - | - |
-| 129 | [1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | 🟢 Easy | 50.0% | - | 64.6% |
-| 130 | [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | 🟡 Medium | 50.0% | - | 57.2% |
-| 131 | [1451. Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | 🟡 Medium | 62.5% | 6m+ | 66.9% |
-| 132 | [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | 🟢 Easy | - | - | - |
-| 133 | [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | 🟡 Medium | - | - | - |
-| 134 | [1492. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | 🟡 Medium | 75.0% | 6m+ | 70.2% |
-| 135 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | - | - | - |
-| 136 | [1481. Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | 🟡 Medium | 62.5% | 6m+ | 63.7% |
-| 137 | [1488. Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | 🟡 Medium | - | - | - |
-| 138 | [1497. Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | 🟡 Medium | - | - | - |
-| 139 | [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | 🟢 Easy | - | - | - |
-| 140 | [1560. Most Visited Sector in  a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/) | 🟢 Easy | 62.5% | 6m+ | 59.8% |
-| 141 | [1611. Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | 🔴 Hard | 62.5% | 6m+ | 78.4% |
-| 142 | [1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | 🟡 Medium | - | - | - |
-| 143 | [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) | 🟡 Medium | 100.0% | 6m | 65.5% |
-| 144 | [1963. Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | 🟡 Medium | 75.0% | 6m+ | 78.1% |
-| 145 | [2006. Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | 🟢 Easy | 62.5% | 6m+ | 85.3% |
-| 146 | [2008. Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/) | 🟡 Medium | - | - | - |
-| 147 | [2016. Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | 🟢 Easy | - | - | - |
-| 148 | [2062. Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/) | 🟢 Easy | 62.5% | 6m+ | 72.8% |
-| 149 | [2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/) | 🔴 Hard | - | - | - |
-| 150 | [2116. Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/) | 🟡 Medium | 3.8% | - | - |
-| 151 | [2168. Unique Substrings With Equal Digit Frequency](https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/) | 🟡 Medium | 62.5% | 6m+ | 64.5% |
-| 152 | [2195. Append K Integers With Minimal Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum/) | 🟡 Medium | - | - | - |
-| 153 | [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | 🟡 Medium | - | - | - |
-| 154 | [2366. Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/) | 🔴 Hard | 62.5% | 6m+ | 53.2% |
-| 155 | [2491. Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | 🟡 Medium | 62.5% | 6m+ | 68.9% |
-| 156 | [2589. Minimum Time to Complete All Tasks](https://leetcode.com/problems/minimum-time-to-complete-all-tasks/) | 🔴 Hard | - | - | - |
-| 157 | [2533. Number of Good Binary Strings](https://leetcode.com/problems/number-of-good-binary-strings/) | 🟡 Medium | 62.5% | 6m+ | 52.7% |
-| 158 | [2643. Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/) | 🟢 Easy | - | - | - |
-| 159 | [2861. Maximum Number of Alloys](https://leetcode.com/problems/maximum-number-of-alloys/) | 🟡 Medium | - | - | - |
-| 160 | [2943. Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/) | 🟡 Medium | - | - | - |
-| 161 | [2975. Maximum Square Area by Removing Fences From a Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) | 🟡 Medium | - | - | - |
-| 162 | [3035. Maximum Palindromes After Operations](https://leetcode.com/problems/maximum-palindromes-after-operations/) | 🟡 Medium | 100.0% | 6m | 45.6% |
-| 163 | [3136. Valid Word](https://leetcode.com/problems/valid-word/) | 🟢 Easy | 62.5% | 6m+ | 50.9% |
-| 164 | [3168. Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/) | 🟢 Easy | 75.0% | 6m+ | 79.2% |
-| 165 | [3163. String Compression III](https://leetcode.com/problems/string-compression-iii/) | 🟡 Medium | - | - | - |
-| 166 | [3183. The Number of Ways to Make the Sum](https://leetcode.com/problems/the-number-of-ways-to-make-the-sum/) | 🟡 Medium | - | - | - |
-| 167 | [3478. Choose K Elements With Maximum Sum](https://leetcode.com/problems/choose-k-elements-with-maximum-sum/) | 🟡 Medium | - | - | - |
-| 168 | [3447. Assign Elements to Groups with Constraints](https://leetcode.com/problems/assign-elements-to-groups-with-constraints/) | 🟡 Medium | - | - | - |
-
----
-
 ## eBay
 
 > 🟢 Easy: 24 | 🟡 Medium: 120 | 🔴 Hard: 31 | Total: 175
@@ -22425,6 +22248,183 @@
 | 173 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | 🟢 Easy | - | - | - |
 | 174 | [3161. Block Placement Queries](https://leetcode.com/problems/block-placement-queries/) | 🔴 Hard | - | - | - |
 | 175 | [3522. Calculate Score After Performing Instructions](https://leetcode.com/problems/calculate-score-after-performing-instructions/) | 🟡 Medium | - | - | - |
+
+---
+
+## Expedia
+
+> 🟢 Easy: 35 | 🟡 Medium: 108 | 🔴 Hard: 25 | Total: 168
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | 62.5% | 6m+ | 57.1% |
+| 2 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | - | - | - |
+| 3 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 75.0% | 6m+ | 38.5% |
+| 4 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | - | - | - |
+| 5 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | - | - | - |
+| 6 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | 1.6% | 6m+ | 59.5% |
+| 7 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | 4.2% | 6m+ | 66.2% |
+| 8 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | - | - | - |
+| 9 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | 50.0% | - | 65.5% |
+| 10 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | 7.2% | 6m+ | 43.7% |
+| 11 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | - | - | - |
+| 12 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | 3.7% | 6m+ | 78.2% |
+| 13 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard | - | - | - |
+| 14 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | 2.5% | 6m+ | 46.2% |
+| 15 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | - | - | - |
+| 16 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | 🔴 Hard | - | - | - |
+| 17 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | - | - | - |
+| 18 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | 🟡 Medium | 5.2% | 30d,3m,6m | 62.3% |
+| 19 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 Medium | - | - | - |
+| 20 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | 4.5% | 6m+ | 66.8% |
+| 21 | [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | - | - | - |
+| 22 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | 5.2% | 6m+ | 72.2% |
+| 23 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | 5.4% | 6m+ | 51.1% |
+| 24 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | - | - | - |
+| 25 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 Medium | 62.5% | 6m+ | 62.4% |
+| 26 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | - | - | - |
+| 27 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | - | - | - |
+| 28 | [87. Scramble String](https://leetcode.com/problems/scramble-string/) | 🔴 Hard | - | - | - |
+| 29 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | - | - | - |
+| 30 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | 🟡 Medium | - | - | - |
+| 31 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 Medium | - | - | - |
+| 32 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | 🟡 Medium | - | - | - |
+| 33 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 🟢 Easy | - | - | - |
+| 34 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | 62.5% | 6m+ | 56.4% |
+| 35 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 Medium | - | - | - |
+| 36 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | 🔴 Hard | - | - | - |
+| 37 | [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | 🔴 Hard | - | - | - |
+| 38 | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | 🔴 Hard | 87.5% | 6m | 44.9% |
+| 39 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | - | - | - |
+| 40 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | 🟡 Medium | - | - | - |
+| 41 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | 🟡 Medium | - | - | - |
+| 42 | [135. Candy](https://leetcode.com/problems/candy/) | 🔴 Hard | - | - | - |
+| 43 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 5.9% | 6m+ | 46.8% |
+| 44 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 Medium | - | - | - |
+| 45 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | - | - | - |
+| 46 | [164. Maximum Gap](https://leetcode.com/problems/maximum-gap/) | 🟡 Medium | - | - | - |
+| 47 | [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | 🟢 Easy | - | - | - |
+| 48 | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/) | 🟢 Easy | - | - | - |
+| 49 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | 4.9% | 6m+ | 52.9% |
+| 50 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | 6.7% | 6m | 63.8% |
+| 51 | [204. Count Primes](https://leetcode.com/problems/count-primes/) | 🟡 Medium | - | - | - |
+| 52 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | - | - | - |
+| 53 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | - | - | - |
+| 54 | [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | 🟡 Medium | - | - | - |
+| 55 | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | 🟡 Medium | 3.5% | - | - |
+| 56 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | 4.0% | - | 76.5% |
+| 57 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | - | - | - |
+| 58 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | - | - | - |
+| 59 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 🔴 Hard | 3.7% | 6m | 48.4% |
+| 60 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 🟡 Medium | - | - | - |
+| 61 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | 🟡 Medium | - | - | - |
+| 62 | [255. Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) | 🟡 Medium | 6.2% | - | 51.7% |
+| 63 | [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | 🟡 Medium | - | - | - |
+| 64 | [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | 🔴 Hard | - | - | - |
+| 65 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | - | - | - |
+| 66 | [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | 🟡 Medium | 6.5% | 6m+ | 52.8% |
+| 67 | [336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | 🔴 Hard | - | - | - |
+| 68 | [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | 🟡 Medium | - | - | - |
+| 69 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | 🟡 Medium | - | - | - |
+| 70 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | 🟢 Easy | - | - | - |
+| 71 | [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | - | - | - |
+| 72 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | 🟢 Easy | - | - | - |
+| 73 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | 🟡 Medium | - | - | - |
+| 74 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 🟡 Medium | - | - | - |
+| 75 | [443. String Compression](https://leetcode.com/problems/string-compression/) | 🟡 Medium | 7.6% | 6m+ | 59.5% |
+| 76 | [494. Target Sum](https://leetcode.com/problems/target-sum/) | 🟡 Medium | - | - | - |
+| 77 | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | 🟡 Medium | - | - | - |
+| 78 | [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | 🟡 Medium | - | - | - |
+| 79 | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | 🟡 Medium | 4.4% | 6m+ | 56.7% |
+| 80 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | 🟡 Medium | - | - | - |
+| 81 | [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/) | 🟡 Medium | - | - | - |
+| 82 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | 🟡 Medium | 4.9% | - | - |
+| 83 | [697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | 🟢 Easy | 62.5% | 6m+ | 58.2% |
+| 84 | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | - | - | - |
+| 85 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | 🟢 Easy | 5.9% | 6m | 62.1% |
+| 86 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | 🟡 Medium | - | - | - |
+| 87 | [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) | 🟡 Medium | 50.0% | - | 56.8% |
+| 88 | [768. Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | 🔴 Hard | - | - | - |
+| 89 | [780. Reaching Points](https://leetcode.com/problems/reaching-points/) | 🔴 Hard | - | - | - |
+| 90 | [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | 🟡 Medium | 50.0% | - | 41.4% |
+| 91 | [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | 🟡 Medium | - | - | - |
+| 92 | [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | 🔴 Hard | - | - | - |
+| 93 | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | 🟡 Medium | - | - | - |
+| 94 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | - | - | - |
+| 95 | [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | 🔴 Hard | - | - | - |
+| 96 | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | 🟡 Medium | - | - | - |
+| 97 | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | 🟡 Medium | - | - | - |
+| 98 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | - | - | - |
+| 99 | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | 🟡 Medium | - | - | - |
+| 100 | [923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | 🟡 Medium | - | - | - |
+| 101 | [926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | 🟡 Medium | 62.5% | 6m+ | 61.8% |
+| 102 | [942. DI String Match](https://leetcode.com/problems/di-string-match/) | 🟢 Easy | - | - | - |
+| 103 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 🟡 Medium | - | - | - |
+| 104 | [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | 🟡 Medium | - | - | - |
+| 105 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | 50.0% | - | 58.1% |
+| 106 | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | 75.0% | 6m+ | 67.3% |
+| 107 | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | 🟡 Medium | - | - | - |
+| 108 | [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | 🟢 Easy | - | - | - |
+| 109 | [1101. The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/) | 🟡 Medium | 62.5% | 6m+ | 65.9% |
+| 110 | [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | 🟡 Medium | - | - | - |
+| 111 | [1151. Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/) | 🟡 Medium | 62.5% | 6m+ | 61.2% |
+| 112 | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | 🟢 Easy | - | - | - |
+| 113 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | 🟢 Easy | - | - | - |
+| 114 | [1049. Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/) | 🟡 Medium | - | - | - |
+| 115 | [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | 🟡 Medium | - | - | - |
+| 116 | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | 🟡 Medium | - | - | - |
+| 117 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | - | - | - |
+| 118 | [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | 🟡 Medium | 62.5% | 6m+ | 51.6% |
+| 119 | [1507. Reformat Date](https://leetcode.com/problems/reformat-date/) | 🟢 Easy | - | - | - |
+| 120 | [1944. Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | 🔴 Hard | 87.5% | 6m+ | 72.3% |
+| 121 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | 🟢 Easy | - | - | - |
+| 122 | [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | 🟡 Medium | - | - | - |
+| 123 | [2204. Distance to a Cycle in Undirected Graph](https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph/) | 🔴 Hard | - | - | - |
+| 124 | [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | 🟡 Medium | 75.0% | 6m+ | 65.4% |
+| 125 | [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | 🔴 Hard | - | - | - |
+| 126 | [1321. Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | 🟡 Medium | - | - | - |
+| 127 | [1373. Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | 🔴 Hard | - | - | - |
+| 128 | [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | 🟡 Medium | - | - | - |
+| 129 | [1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | 🟢 Easy | 50.0% | - | 64.6% |
+| 130 | [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | 🟡 Medium | 50.0% | - | 57.2% |
+| 131 | [1451. Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | 🟡 Medium | 62.5% | 6m+ | 66.9% |
+| 132 | [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | 🟢 Easy | - | - | - |
+| 133 | [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | 🟡 Medium | - | - | - |
+| 134 | [1492. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | 🟡 Medium | 75.0% | 6m+ | 70.2% |
+| 135 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | - | - | - |
+| 136 | [1481. Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | 🟡 Medium | 62.5% | 6m+ | 63.7% |
+| 137 | [1488. Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | 🟡 Medium | - | - | - |
+| 138 | [1497. Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | 🟡 Medium | - | - | - |
+| 139 | [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | 🟢 Easy | - | - | - |
+| 140 | [1560. Most Visited Sector in  a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/) | 🟢 Easy | 62.5% | 6m+ | 59.8% |
+| 141 | [1611. Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | 🔴 Hard | 62.5% | 6m+ | 78.4% |
+| 142 | [1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | 🟡 Medium | - | - | - |
+| 143 | [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) | 🟡 Medium | 100.0% | 6m | 65.5% |
+| 144 | [1963. Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | 🟡 Medium | 75.0% | 6m+ | 78.1% |
+| 145 | [2006. Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | 🟢 Easy | 62.5% | 6m+ | 85.3% |
+| 146 | [2008. Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/) | 🟡 Medium | - | - | - |
+| 147 | [2016. Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | 🟢 Easy | - | - | - |
+| 148 | [2062. Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/) | 🟢 Easy | 62.5% | 6m+ | 72.8% |
+| 149 | [2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/) | 🔴 Hard | - | - | - |
+| 150 | [2116. Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/) | 🟡 Medium | 3.8% | - | - |
+| 151 | [2168. Unique Substrings With Equal Digit Frequency](https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/) | 🟡 Medium | 62.5% | 6m+ | 64.5% |
+| 152 | [2195. Append K Integers With Minimal Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum/) | 🟡 Medium | - | - | - |
+| 153 | [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | 🟡 Medium | - | - | - |
+| 154 | [2366. Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/) | 🔴 Hard | 62.5% | 6m+ | 53.2% |
+| 155 | [2491. Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | 🟡 Medium | 62.5% | 6m+ | 68.9% |
+| 156 | [2589. Minimum Time to Complete All Tasks](https://leetcode.com/problems/minimum-time-to-complete-all-tasks/) | 🔴 Hard | - | - | - |
+| 157 | [2533. Number of Good Binary Strings](https://leetcode.com/problems/number-of-good-binary-strings/) | 🟡 Medium | 62.5% | 6m+ | 52.7% |
+| 158 | [2643. Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/) | 🟢 Easy | - | - | - |
+| 159 | [2861. Maximum Number of Alloys](https://leetcode.com/problems/maximum-number-of-alloys/) | 🟡 Medium | - | - | - |
+| 160 | [2943. Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/) | 🟡 Medium | - | - | - |
+| 161 | [2975. Maximum Square Area by Removing Fences From a Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) | 🟡 Medium | - | - | - |
+| 162 | [3035. Maximum Palindromes After Operations](https://leetcode.com/problems/maximum-palindromes-after-operations/) | 🟡 Medium | 100.0% | 6m | 45.6% |
+| 163 | [3136. Valid Word](https://leetcode.com/problems/valid-word/) | 🟢 Easy | 62.5% | 6m+ | 50.9% |
+| 164 | [3168. Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/) | 🟢 Easy | 75.0% | 6m+ | 79.2% |
+| 165 | [3163. String Compression III](https://leetcode.com/problems/string-compression-iii/) | 🟡 Medium | - | - | - |
+| 166 | [3183. The Number of Ways to Make the Sum](https://leetcode.com/problems/the-number-of-ways-to-make-the-sum/) | 🟡 Medium | - | - | - |
+| 167 | [3478. Choose K Elements With Maximum Sum](https://leetcode.com/problems/choose-k-elements-with-maximum-sum/) | 🟡 Medium | - | - | - |
+| 168 | [3447. Assign Elements to Groups with Constraints](https://leetcode.com/problems/assign-elements-to-groups-with-constraints/) | 🟡 Medium | - | - | - |
 
 ---
 
@@ -22641,6 +22641,125 @@
 
 ---
 
+## Airbnb
+
+> 🟢 Easy: 19 | 🟡 Medium: 61 | 🔴 Hard: 30 | Total: 110
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | 6.2% | 6m+ | 57.1% |
+| 2 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | 4.8% | 6m+ | 47.9% |
+| 3 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 37.5% | 6m+ | 38.5% |
+| 4 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | 🔴 Hard | 4.9% | 6m+ | 30.4% |
+| 5 | [18. 4Sum](https://leetcode.com/problems/4sum/) | 🟡 Medium | - | - | - |
+| 6 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | 2.9% | 6m+ | 43.7% |
+| 7 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard | 2.4% | 6m+ | 58.8% |
+| 8 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | - | - | - |
+| 9 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 Medium | 8.7% | 6m+ | 76.1% |
+| 10 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | 7.0% | 6m+ | 66.8% |
+| 11 | [46. Permutations](https://leetcode.com/problems/permutations/) | 🟡 Medium | - | - | - |
+| 12 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | - | - | - |
+| 13 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | 37.5% | 6m+ | 53.0% |
+| 14 | [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | 🔴 Hard | - | - | - |
+| 15 | [61. Rotate List](https://leetcode.com/problems/rotate-list/) | 🟡 Medium | - | - | - |
+| 16 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 Hard | 9.2% | 6m,6m+ | 50.4% |
+| 17 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | 🟡 Medium | - | - | - |
+| 18 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | 7.1% | 6m+ | 46.9% |
+| 19 | [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | 🟢 Easy | 2.9% | 6m+ | 75.2% |
+| 20 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | 🟡 Medium | - | - | - |
+| 21 | [136. Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | 2.7% | 6m+ | 77.3% |
+| 22 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | - | - | - |
+| 23 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 Medium | - | - | - |
+| 24 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 🟢 Easy | 5.0% | 6m+ | 63.2% |
+| 25 | [166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | 🟡 Medium | - | - | - |
+| 26 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | 🟢 Easy | 2.7% | 6m+ | 67.7% |
+| 27 | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/) | 🟢 Easy | - | - | - |
+| 28 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | 3.9% | 6m+ | 52.9% |
+| 29 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | - | - | - |
+| 30 | [202. Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | 2.6% | 6m+ | 59.2% |
+| 31 | [212. Word Search II](https://leetcode.com/problems/word-search-ii/) | 🔴 Hard | 6.4% | 6m+ | 38.1% |
+| 32 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | 1.2% | 6m+ | 64.1% |
+| 33 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | 🟢 Easy | 3.6% | 6m+ | 50.8% |
+| 34 | [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | 🔴 Hard | 4.1% | 6m+ | 24.4% |
+| 35 | [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | 🟡 Medium | 2.9% | 6m+ | 50.0% |
+| 36 | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | 🟡 Medium | - | 6m+ | 46.6% |
+| 37 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 🟢 Easy | - | - | - |
+| 38 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | 37.5% | 6m+ | 68.7% |
+| 39 | [251. Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/) | 🟡 Medium | 14.2% | 6m,6m+ | 50.4% |
+| 40 | [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | 🔴 Hard | 11.9% | 6m,6m+ | 37.1% |
+| 41 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 🔴 Hard | - | - | - |
+| 42 | [296. Best Meeting Point](https://leetcode.com/problems/best-meeting-point/) | 🔴 Hard | - | - | - |
+| 43 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | 5.7% | - | 47.9% |
+| 44 | [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | 🔴 Hard | - | - | - |
+| 45 | [336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | 🔴 Hard | 13.5% | 6m+ | 36.9% |
+| 46 | [337. House Robber III](https://leetcode.com/problems/house-robber-iii/) | 🟡 Medium | - | - | - |
+| 47 | [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | 🟡 Medium | 37.5% | 6m+ | 65.6% |
+| 48 | [348. Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | 🟡 Medium | 6.4% | 6m+ | 58.7% |
+| 49 | [385. Mini Parser](https://leetcode.com/problems/mini-parser/) | 🟡 Medium | 4.1% | 6m+ | 42.0% |
+| 50 | [400. Nth Digit](https://leetcode.com/problems/nth-digit/) | 🟡 Medium | 37.5% | 6m+ | 37.1% |
+| 51 | [415. Add Strings](https://leetcode.com/problems/add-strings/) | 🟢 Easy | - | 6m+ | 52.1% |
+| 52 | [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | 🔴 Hard | 50.0% | 6m+ | 44.1% |
+| 53 | [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/) | 🟢 Easy | - | - | - |
+| 54 | [556. Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | 🟡 Medium | - | - | - |
+| 55 | [569. Median Employee Salary](https://leetcode.com/problems/median-employee-salary/) | 🔴 Hard | - | - | - |
+| 56 | [588. Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/) | 🔴 Hard | - | - | - |
+| 57 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | 🟢 Easy | 37.5% | 6m+ | 29.0% |
+| 58 | [631. Design Excel Sum Formula](https://leetcode.com/problems/design-excel-sum-formula/) | 🔴 Hard | 8.0% | 3m,6m,6m+ | 39.8% |
+| 59 | [638. Shopping Offers](https://leetcode.com/problems/shopping-offers/) | 🟡 Medium | 6.4% | 3m,6m,6m+ | 52.2% |
+| 60 | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | 🟡 Medium | - | - | - |
+| 61 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | 🟢 Easy | - | - | - |
+| 62 | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | 3.7% | 6m+ | 53.9% |
+| 63 | [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/) | 🟡 Medium | 4.6% | 3m,6m | 60.9% |
+| 64 | [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | 🟡 Medium | - | - | - |
+| 65 | [727. Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/) | 🔴 Hard | 8.2% | - | 43.8% |
+| 66 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | - | - | - |
+| 67 | [751. IP to CIDR](https://leetcode.com/problems/ip-to-cidr/) | 🟡 Medium | 37.5% | 6m+ | 53.7% |
+| 68 | [755. Pour Water](https://leetcode.com/problems/pour-water/) | 🟡 Medium | 75.0% | 6m+ | 48.5% |
+| 69 | [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/) | 🟡 Medium | 12.7% | 6m+ | 60.6% |
+| 70 | [759. Employee Free Time](https://leetcode.com/problems/employee-free-time/) | 🔴 Hard | 37.5% | 6m+ | 72.8% |
+| 71 | [773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | 🔴 Hard | 62.5% | 6m+ | 74.1% |
+| 72 | [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | 🟡 Medium | 10.7% | 6m+ | 41.4% |
+| 73 | [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | 🔴 Hard | 37.5% | 6m+ | 56.3% |
+| 74 | [829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | 🔴 Hard | - | - | - |
+| 75 | [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | 🟡 Medium | 37.5% | - | 54.0% |
+| 76 | [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | 🟡 Medium | - | - | - |
+| 77 | [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/) | 🟢 Easy | - | - | - |
+| 78 | [864. Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/) | 🔴 Hard | 62.5% | 6m+ | 54.3% |
+| 79 | [868. Binary Gap](https://leetcode.com/problems/binary-gap/) | 🟢 Easy | - | - | - |
+| 80 | [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | 🟡 Medium | - | - | - |
+| 81 | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | 🟡 Medium | - | - | - |
+| 82 | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | 🟡 Medium | - | - | - |
+| 83 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 🟡 Medium | - | - | - |
+| 84 | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | 🟡 Medium | 37.5% | 6m+ | 49.7% |
+| 85 | [1058. Minimize Rounding Error to Meet Target](https://leetcode.com/problems/minimize-rounding-error-to-meet-target/) | 🟡 Medium | 37.5% | 6m+ | 45.8% |
+| 86 | [1017. Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/) | 🟡 Medium | 37.5% | 6m+ | 61.8% |
+| 87 | [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | 🟡 Medium | 37.5% | 6m+ | 56.4% |
+| 88 | [1166. Design File System](https://leetcode.com/problems/design-file-system/) | 🟡 Medium | 37.5% | 6m+ | 65.1% |
+| 89 | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | 🟡 Medium | 37.5% | 6m+ | 51.1% |
+| 90 | [1257. Smallest Common Region](https://leetcode.com/problems/smallest-common-region/) | 🟡 Medium | 75.0% | 6m+ | 68.3% |
+| 91 | [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) | 🔴 Hard | 9.6% | - | - |
+| 92 | [1944. Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | 🔴 Hard | - | - | - |
+| 93 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | 🟢 Easy | - | - | - |
+| 94 | [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | 🔴 Hard | 100.0% | 30d,3m,6m,6m+ | 54.6% |
+| 95 | [2189. Number of Ways to Build House of Cards](https://leetcode.com/problems/number-of-ways-to-build-house-of-cards/) | 🟡 Medium | 37.5% | 6m+ | 62.6% |
+| 96 | [1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | 🔴 Hard | 37.5% | 6m+ | 72.4% |
+| 97 | [1298. Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | 🔴 Hard | 87.5% | 30d,3m,6m,6m+ | 67.9% |
+| 98 | [1373. Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | 🔴 Hard | - | - | - |
+| 99 | [1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | 🟢 Easy | - | - | - |
+| 100 | [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | 🟡 Medium | 37.5% | 6m+ | 81.5% |
+| 101 | [1554. Strings Differ by One Character](https://leetcode.com/problems/strings-differ-by-one-character/) | 🟡 Medium | 37.5% | 6m+ | 40.1% |
+| 102 | [1928. Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/) | 🔴 Hard | - | - | - |
+| 103 | [1907. Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | 🟡 Medium | - | - | - |
+| 104 | [2008. Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/) | 🟡 Medium | - | - | - |
+| 105 | [2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | 🟡 Medium | 75.0% | 6m+ | 69.8% |
+| 106 | [2375. Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/) | 🟡 Medium | - | - | - |
+| 107 | [2406. Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | 🟡 Medium | - | - | - |
+| 108 | [2523. Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | 🟡 Medium | - | - | - |
+| 109 | [2623. Memoize](https://leetcode.com/problems/memoize/) | 🟡 Medium | - | - | - |
+| 110 | [3076. Shortest Uncommon Substring in an Array](https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/) | 🟡 Medium | 62.5% | 6m+ | 50.0% |
+
+---
+
 ## Capital One
 
 > 🟢 Easy: 34 | 🟡 Medium: 73 | 🔴 Hard: 27 | Total: 134
@@ -22781,125 +22900,6 @@
 | 132 | [3354. Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/) | 🟢 Easy | - | - | - |
 | 133 | [3433. Count Mentions Per User](https://leetcode.com/problems/count-mentions-per-user/) | 🟡 Medium | - | - | - |
 | 134 | [3651. Minimum Cost Path with Teleportations](https://leetcode.com/problems/minimum-cost-path-with-teleportations/) | 🔴 Hard | - | - | - |
-
----
-
-## Airbnb
-
-> 🟢 Easy: 19 | 🟡 Medium: 61 | 🔴 Hard: 30 | Total: 110
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | 6.2% | 6m+ | 57.1% |
-| 2 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | 4.8% | 6m+ | 47.9% |
-| 3 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 37.5% | 6m+ | 38.5% |
-| 4 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | 🔴 Hard | 4.9% | 6m+ | 30.4% |
-| 5 | [18. 4Sum](https://leetcode.com/problems/4sum/) | 🟡 Medium | - | - | - |
-| 6 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | 2.9% | 6m+ | 43.7% |
-| 7 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard | 2.4% | 6m+ | 58.8% |
-| 8 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | - | - | - |
-| 9 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 Medium | 8.7% | 6m+ | 76.1% |
-| 10 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | 7.0% | 6m+ | 66.8% |
-| 11 | [46. Permutations](https://leetcode.com/problems/permutations/) | 🟡 Medium | - | - | - |
-| 12 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | - | - | - |
-| 13 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | 37.5% | 6m+ | 53.0% |
-| 14 | [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | 🔴 Hard | - | - | - |
-| 15 | [61. Rotate List](https://leetcode.com/problems/rotate-list/) | 🟡 Medium | - | - | - |
-| 16 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 Hard | 9.2% | 6m,6m+ | 50.4% |
-| 17 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | 🟡 Medium | - | - | - |
-| 18 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | 7.1% | 6m+ | 46.9% |
-| 19 | [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | 🟢 Easy | 2.9% | 6m+ | 75.2% |
-| 20 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | 🟡 Medium | - | - | - |
-| 21 | [136. Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | 2.7% | 6m+ | 77.3% |
-| 22 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | - | - | - |
-| 23 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 Medium | - | - | - |
-| 24 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 🟢 Easy | 5.0% | 6m+ | 63.2% |
-| 25 | [166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | 🟡 Medium | - | - | - |
-| 26 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | 🟢 Easy | 2.7% | 6m+ | 67.7% |
-| 27 | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/) | 🟢 Easy | - | - | - |
-| 28 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | 3.9% | 6m+ | 52.9% |
-| 29 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | - | - | - |
-| 30 | [202. Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | 2.6% | 6m+ | 59.2% |
-| 31 | [212. Word Search II](https://leetcode.com/problems/word-search-ii/) | 🔴 Hard | 6.4% | 6m+ | 38.1% |
-| 32 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | 1.2% | 6m+ | 64.1% |
-| 33 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | 🟢 Easy | 3.6% | 6m+ | 50.8% |
-| 34 | [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | 🔴 Hard | 4.1% | 6m+ | 24.4% |
-| 35 | [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | 🟡 Medium | 2.9% | 6m+ | 50.0% |
-| 36 | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | 🟡 Medium | - | 6m+ | 46.6% |
-| 37 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 🟢 Easy | - | - | - |
-| 38 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | 37.5% | 6m+ | 68.7% |
-| 39 | [251. Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/) | 🟡 Medium | 14.2% | 6m,6m+ | 50.4% |
-| 40 | [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | 🔴 Hard | 11.9% | 6m,6m+ | 37.1% |
-| 41 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 🔴 Hard | - | - | - |
-| 42 | [296. Best Meeting Point](https://leetcode.com/problems/best-meeting-point/) | 🔴 Hard | - | - | - |
-| 43 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | 5.7% | - | 47.9% |
-| 44 | [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | 🔴 Hard | - | - | - |
-| 45 | [336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | 🔴 Hard | 13.5% | 6m+ | 36.9% |
-| 46 | [337. House Robber III](https://leetcode.com/problems/house-robber-iii/) | 🟡 Medium | - | - | - |
-| 47 | [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | 🟡 Medium | 37.5% | 6m+ | 65.6% |
-| 48 | [348. Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | 🟡 Medium | 6.4% | 6m+ | 58.7% |
-| 49 | [385. Mini Parser](https://leetcode.com/problems/mini-parser/) | 🟡 Medium | 4.1% | 6m+ | 42.0% |
-| 50 | [400. Nth Digit](https://leetcode.com/problems/nth-digit/) | 🟡 Medium | 37.5% | 6m+ | 37.1% |
-| 51 | [415. Add Strings](https://leetcode.com/problems/add-strings/) | 🟢 Easy | - | 6m+ | 52.1% |
-| 52 | [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | 🔴 Hard | 50.0% | 6m+ | 44.1% |
-| 53 | [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/) | 🟢 Easy | - | - | - |
-| 54 | [556. Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | 🟡 Medium | - | - | - |
-| 55 | [569. Median Employee Salary](https://leetcode.com/problems/median-employee-salary/) | 🔴 Hard | - | - | - |
-| 56 | [588. Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/) | 🔴 Hard | - | - | - |
-| 57 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | 🟢 Easy | 37.5% | 6m+ | 29.0% |
-| 58 | [631. Design Excel Sum Formula](https://leetcode.com/problems/design-excel-sum-formula/) | 🔴 Hard | 8.0% | 3m,6m,6m+ | 39.8% |
-| 59 | [638. Shopping Offers](https://leetcode.com/problems/shopping-offers/) | 🟡 Medium | 6.4% | 3m,6m,6m+ | 52.2% |
-| 60 | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | 🟡 Medium | - | - | - |
-| 61 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | 🟢 Easy | - | - | - |
-| 62 | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | 3.7% | 6m+ | 53.9% |
-| 63 | [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/) | 🟡 Medium | 4.6% | 3m,6m | 60.9% |
-| 64 | [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | 🟡 Medium | - | - | - |
-| 65 | [727. Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/) | 🔴 Hard | 8.2% | - | 43.8% |
-| 66 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | - | - | - |
-| 67 | [751. IP to CIDR](https://leetcode.com/problems/ip-to-cidr/) | 🟡 Medium | 37.5% | 6m+ | 53.7% |
-| 68 | [755. Pour Water](https://leetcode.com/problems/pour-water/) | 🟡 Medium | 75.0% | 6m+ | 48.5% |
-| 69 | [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/) | 🟡 Medium | 12.7% | 6m+ | 60.6% |
-| 70 | [759. Employee Free Time](https://leetcode.com/problems/employee-free-time/) | 🔴 Hard | 37.5% | 6m+ | 72.8% |
-| 71 | [773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | 🔴 Hard | 62.5% | 6m+ | 74.1% |
-| 72 | [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | 🟡 Medium | 10.7% | 6m+ | 41.4% |
-| 73 | [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | 🔴 Hard | 37.5% | 6m+ | 56.3% |
-| 74 | [829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | 🔴 Hard | - | - | - |
-| 75 | [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | 🟡 Medium | 37.5% | - | 54.0% |
-| 76 | [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | 🟡 Medium | - | - | - |
-| 77 | [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/) | 🟢 Easy | - | - | - |
-| 78 | [864. Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/) | 🔴 Hard | 62.5% | 6m+ | 54.3% |
-| 79 | [868. Binary Gap](https://leetcode.com/problems/binary-gap/) | 🟢 Easy | - | - | - |
-| 80 | [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | 🟡 Medium | - | - | - |
-| 81 | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | 🟡 Medium | - | - | - |
-| 82 | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | 🟡 Medium | - | - | - |
-| 83 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 🟡 Medium | - | - | - |
-| 84 | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | 🟡 Medium | 37.5% | 6m+ | 49.7% |
-| 85 | [1058. Minimize Rounding Error to Meet Target](https://leetcode.com/problems/minimize-rounding-error-to-meet-target/) | 🟡 Medium | 37.5% | 6m+ | 45.8% |
-| 86 | [1017. Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/) | 🟡 Medium | 37.5% | 6m+ | 61.8% |
-| 87 | [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | 🟡 Medium | 37.5% | 6m+ | 56.4% |
-| 88 | [1166. Design File System](https://leetcode.com/problems/design-file-system/) | 🟡 Medium | 37.5% | 6m+ | 65.1% |
-| 89 | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | 🟡 Medium | 37.5% | 6m+ | 51.1% |
-| 90 | [1257. Smallest Common Region](https://leetcode.com/problems/smallest-common-region/) | 🟡 Medium | 75.0% | 6m+ | 68.3% |
-| 91 | [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) | 🔴 Hard | 9.6% | - | - |
-| 92 | [1944. Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | 🔴 Hard | - | - | - |
-| 93 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | 🟢 Easy | - | - | - |
-| 94 | [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | 🔴 Hard | 100.0% | 30d,3m,6m,6m+ | 54.6% |
-| 95 | [2189. Number of Ways to Build House of Cards](https://leetcode.com/problems/number-of-ways-to-build-house-of-cards/) | 🟡 Medium | 37.5% | 6m+ | 62.6% |
-| 96 | [1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | 🔴 Hard | 37.5% | 6m+ | 72.4% |
-| 97 | [1298. Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | 🔴 Hard | 87.5% | 30d,3m,6m,6m+ | 67.9% |
-| 98 | [1373. Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | 🔴 Hard | - | - | - |
-| 99 | [1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | 🟢 Easy | - | - | - |
-| 100 | [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | 🟡 Medium | 37.5% | 6m+ | 81.5% |
-| 101 | [1554. Strings Differ by One Character](https://leetcode.com/problems/strings-differ-by-one-character/) | 🟡 Medium | 37.5% | 6m+ | 40.1% |
-| 102 | [1928. Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/) | 🔴 Hard | - | - | - |
-| 103 | [1907. Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | 🟡 Medium | - | - | - |
-| 104 | [2008. Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/) | 🟡 Medium | - | - | - |
-| 105 | [2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | 🟡 Medium | 75.0% | 6m+ | 69.8% |
-| 106 | [2375. Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/) | 🟡 Medium | - | - | - |
-| 107 | [2406. Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | 🟡 Medium | - | - | - |
-| 108 | [2523. Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | 🟡 Medium | - | - | - |
-| 109 | [2623. Memoize](https://leetcode.com/problems/memoize/) | 🟡 Medium | - | - | - |
-| 110 | [3076. Shortest Uncommon Substring in an Array](https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/) | 🟡 Medium | 62.5% | 6m+ | 50.0% |
 
 ---
 
@@ -27323,6 +27323,193 @@
 
 ---
 
+## Squarepoint Capital
+
+> 🟢 Easy: 13 | 🟡 Medium: 50 | 🔴 Hard: 25 | Total: 88
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
+| 2 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | - | - | - |
+| 3 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | - | - | - |
+| 4 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | - | - | - |
+| 5 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | - | - | - |
+| 6 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | 3.5% | - | 66.8% |
+| 7 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | 1.7% | 6m+ | 72.2% |
+| 8 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | 3.4% | 6m+ | 53.0% |
+| 9 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | - | - | - |
+| 10 | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | 🟡 Medium | - | - | - |
+| 11 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 🟡 Medium | 2.5% | 6m+ | 67.8% |
+| 12 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | 🟡 Medium | - | - | - |
+| 13 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | 🟢 Easy | - | - | - |
+| 14 | [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | 🔴 Hard | - | - | - |
+| 15 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | 3.7% | 6m+ | 56.4% |
+| 16 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | 🔴 Hard | - | - | - |
+| 17 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 3.5% | 6m+ | 46.8% |
+| 18 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | 3.0% | 6m+ | 63.8% |
+| 19 | [204. Count Primes](https://leetcode.com/problems/count-primes/) | 🟡 Medium | - | - | - |
+| 20 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | 62.5% | 6m+ | 68.8% |
+| 21 | [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | 🟡 Medium | - | - | - |
+| 22 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | 🔴 Hard | 4.8% | 6m | 46.5% |
+| 23 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | - | - | - |
+| 24 | [259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) | 🟡 Medium | - | - | - |
+| 25 | [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | 🟡 Medium | - | - | - |
+| 26 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 🔴 Hard | - | - | - |
+| 27 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | 3.0% | 6m+ | 59.0% |
+| 28 | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | 🟡 Medium | - | - | - |
+| 29 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | 62.5% | - | 47.9% |
+| 30 | [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | 🟡 Medium | - | - | - |
+| 31 | [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | 🟡 Medium | - | - | - |
+| 32 | [370. Range Addition](https://leetcode.com/problems/range-addition/) | 🟡 Medium | - | - | - |
+| 33 | [403. Frog Jump](https://leetcode.com/problems/frog-jump/) | 🔴 Hard | 75.0% | 6m+ | 47.1% |
+| 34 | [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | 🔴 Hard | - | - | - |
+| 35 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | - | - | - |
+| 36 | [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | 🟡 Medium | - | - | - |
+| 37 | [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | 🟡 Medium | - | - | - |
+| 38 | [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | 🟡 Medium | - | - | - |
+| 39 | [679. 24 Game](https://leetcode.com/problems/24-game/) | 🔴 Hard | - | - | - |
+| 40 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | 🟡 Medium | - | - | - |
+| 41 | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | 5.5% | 6m+ | 53.9% |
+| 42 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | 🟢 Easy | - | - | - |
+| 43 | [765. Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | 🔴 Hard | 75.0% | 6m | 59.2% |
+| 44 | [780. Reaching Points](https://leetcode.com/problems/reaching-points/) | 🔴 Hard | - | - | - |
+| 45 | [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | 🟢 Easy | - | - | - |
+| 46 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | 🟢 Easy | - | - | - |
+| 47 | [870. Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | 🟡 Medium | - | - | - |
+| 48 | [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | 🟡 Medium | - | - | - |
+| 49 | [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | 🔴 Hard | - | - | - |
+| 50 | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | - | - | - |
+| 51 | [1119. Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | 🟢 Easy | - | - | - |
+| 52 | [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | 🟡 Medium | - | - | - |
+| 53 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | 🟢 Easy | - | - | - |
+| 54 | [1223. Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/) | 🔴 Hard | - | - | - |
+| 55 | [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | 🟡 Medium | - | - | - |
+| 56 | [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | 🟡 Medium | 100.0% | 6m+ | 65.2% |
+| 57 | [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | 🟡 Medium | - | - | - |
+| 58 | [1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | 🔴 Hard | - | - | - |
+| 59 | [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | 🔴 Hard | - | - | - |
+| 60 | [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | 🔴 Hard | - | - | - |
+| 61 | [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | 🔴 Hard | - | - | - |
+| 62 | [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | 🟢 Easy | - | - | - |
+| 63 | [1560. Most Visited Sector in  a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/) | 🟢 Easy | - | - | - |
+| 64 | [1606. Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | 🔴 Hard | - | - | - |
+| 65 | [1605. Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | 🟡 Medium | 62.5% | 6m+ | 82.7% |
+| 66 | [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | 🟢 Easy | - | - | - |
+| 67 | [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | 🟡 Medium | 75.0% | 6m | 82.8% |
+| 68 | [1745. Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv/) | 🔴 Hard | - | - | - |
+| 69 | [1755. Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/) | 🔴 Hard | - | - | - |
+| 70 | [1824. Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/) | 🟡 Medium | 62.5% | - | 51.5% |
+| 71 | [1840. Maximum Building Height](https://leetcode.com/problems/maximum-building-height/) | 🔴 Hard | - | - | - |
+| 72 | [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | 🟢 Easy | - | - | - |
+| 73 | [2296. Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/) | 🔴 Hard | - | - | - |
+| 74 | [2291. Maximum Profit From Trading Stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks/) | 🟡 Medium | - | - | - |
+| 75 | [2361. Minimum Costs Using the Train Line](https://leetcode.com/problems/minimum-costs-using-the-train-line/) | 🔴 Hard | - | - | - |
+| 76 | [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | 🔴 Hard | - | - | - |
+| 77 | [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | 🟡 Medium | 75.0% | 6m | 59.0% |
+| 78 | [2530. Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | 🟡 Medium | - | - | - |
+| 79 | [2533. Number of Good Binary Strings](https://leetcode.com/problems/number-of-good-binary-strings/) | 🟡 Medium | - | - | - |
+| 80 | [2719. Count of Integers](https://leetcode.com/problems/count-of-integers/) | 🔴 Hard | - | - | - |
+| 81 | [2771. Longest Non-decreasing Subarray From Two Arrays](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/) | 🟡 Medium | 75.0% | 6m | 31.0% |
+| 82 | [2791. Count Paths That Can Form a Palindrome in a Tree](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/) | 🔴 Hard | - | - | - |
+| 83 | [2918. Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | 🟡 Medium | 75.0% | 6m | 50.2% |
+| 84 | [2939. Maximum Xor Product](https://leetcode.com/problems/maximum-xor-product/) | 🟡 Medium | 100.0% | 6m | 29.5% |
+| 85 | [3035. Maximum Palindromes After Operations](https://leetcode.com/problems/maximum-palindromes-after-operations/) | 🟡 Medium | 75.0% | 6m | 45.6% |
+| 86 | [3306. Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | 🟡 Medium | - | - | - |
+| 87 | [3404. Count Special Subsequences](https://leetcode.com/problems/count-special-subsequences/) | 🟡 Medium | - | - | - |
+| 88 | [3649. Number of Perfect Pairs](https://leetcode.com/problems/number-of-perfect-pairs/) | 🟡 Medium | 87.5% | 6m | 33.3% |
+
+---
+
+## Palantir
+
+> 🟢 Easy: 17 | 🟡 Medium: 48 | 🔴 Hard: 16 | Total: 81
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
+| 2 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
+| 3 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | - | - | - |
+| 4 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | - | - | - |
+| 5 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | - | - | - |
+| 6 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | - | - | - |
+| 7 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard | - | - | - |
+| 8 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | - | - | - |
+| 9 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | - | - | - |
+| 10 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | - | - | - |
+| 11 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 Hard | - | - | - |
+| 12 | [79. Word Search](https://leetcode.com/problems/word-search/) | 🟡 Medium | - | - | - |
+| 13 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 🟢 Easy | - | - | - |
+| 14 | [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | 🔴 Hard | - | - | - |
+| 15 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
+| 16 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | 🔴 Hard | - | - | - |
+| 17 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | - | - | - |
+| 18 | [136. Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | - | - | - |
+| 19 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | - | - | - |
+| 20 | [148. Sort List](https://leetcode.com/problems/sort-list/) | 🟡 Medium | - | - | - |
+| 21 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | - | - | - |
+| 22 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | 🟡 Medium | - | - | - |
+| 23 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | - | - | - |
+| 24 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | 🟢 Easy | - | - | - |
+| 25 | [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | 🔴 Hard | - | - | - |
+| 26 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 🟢 Easy | - | - | - |
+| 27 | [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/) | 🟢 Easy | - | - | - |
+| 28 | [243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | 🟢 Easy | - | - | - |
+| 29 | [244. Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/) | 🟡 Medium | - | - | - |
+| 30 | [245. Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/) | 🟡 Medium | - | - | - |
+| 31 | [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | 🔴 Hard | - | - | - |
+| 32 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | - | - | - |
+| 33 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | - | - | - |
+| 34 | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | 🟢 Easy | - | - | - |
+| 35 | [325. Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | 🟡 Medium | - | - | - |
+| 36 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | 🟡 Medium | - | - | - |
+| 37 | [393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | 🟡 Medium | - | - | - |
+| 38 | [407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | 🔴 Hard | - | - | - |
+| 39 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | 🟡 Medium | - | - | - |
+| 40 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 🟡 Medium | - | - | - |
+| 41 | [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | 🔴 Hard | - | - | - |
+| 42 | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | 🟡 Medium | - | - | - |
+| 43 | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | 🟡 Medium | - | - | - |
+| 44 | [443. String Compression](https://leetcode.com/problems/string-compression/) | 🟡 Medium | - | - | - |
+| 45 | [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | 🔴 Hard | - | - | - |
+| 46 | [539. Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | 🟡 Medium | - | - | - |
+| 47 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | 🟢 Easy | - | - | - |
+| 48 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | - | - | - |
+| 49 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | 🟡 Medium | - | - | - |
+| 50 | [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | 🟡 Medium | - | - | - |
+| 51 | [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/) | 🟡 Medium | - | - | - |
+| 52 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | - | - | - |
+| 53 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | 🟢 Easy | - | - | - |
+| 54 | [759. Employee Free Time](https://leetcode.com/problems/employee-free-time/) | 🔴 Hard | - | - | - |
+| 55 | [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | 🟡 Medium | - | - | - |
+| 56 | [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | 🟡 Medium | - | - | - |
+| 57 | [489. Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) | 🔴 Hard | - | - | - |
+| 58 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | - | - | - |
+| 59 | [940. Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | 🔴 Hard | - | - | - |
+| 60 | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | 🟡 Medium | - | - | - |
+| 61 | [1109. Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | 🟡 Medium | - | - | - |
+| 62 | [1169. Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | 🟡 Medium | - | - | - |
+| 63 | [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | 🟡 Medium | - | - | - |
+| 64 | [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | 🟢 Easy | - | - | - |
+| 65 | [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | 🟡 Medium | - | - | - |
+| 66 | [2312. Selling Pieces of Wood](https://leetcode.com/problems/selling-pieces-of-wood/) | 🔴 Hard | - | - | - |
+| 67 | [2192. All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | 🟡 Medium | - | - | - |
+| 68 | [1419. Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) | 🟡 Medium | - | - | - |
+| 69 | [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/) | 🔴 Hard | - | - | - |
+| 70 | [2231. Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/) | 🟢 Easy | - | - | - |
+| 71 | [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | 🟡 Medium | - | - | - |
+| 72 | [2539. Count the Number of Good Subsequences](https://leetcode.com/problems/count-the-number-of-good-subsequences/) | 🟡 Medium | - | - | - |
+| 73 | [2860. Happy Students](https://leetcode.com/problems/happy-students/) | 🟡 Medium | - | - | - |
+| 74 | [2957. Remove Adjacent Almost-Equal Characters](https://leetcode.com/problems/remove-adjacent-almost-equal-characters/) | 🟡 Medium | - | - | - |
+| 75 | [3006. Find Beautiful Indices in the Given Array I](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/) | 🟡 Medium | - | - | - |
+| 76 | [2964. Number of Divisible Triplet Sums](https://leetcode.com/problems/number-of-divisible-triplet-sums/) | 🟡 Medium | - | - | - |
+| 77 | [3008. Find Beautiful Indices in the Given Array II](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/) | 🔴 Hard | - | - | - |
+| 78 | [3035. Maximum Palindromes After Operations](https://leetcode.com/problems/maximum-palindromes-after-operations/) | 🟡 Medium | - | - | - |
+| 79 | [3093. Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/) | 🔴 Hard | - | - | - |
+| 80 | [3163. String Compression III](https://leetcode.com/problems/string-compression-iii/) | 🟡 Medium | - | - | - |
+| 81 | [3650. Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/) | 🟡 Medium | - | - | - |
+
+---
+
 ## Docusign
 
 > 🟢 Easy: 16 | 🟡 Medium: 68 | 🔴 Hard: 17 | Total: 101
@@ -27430,432 +27617,6 @@
 | 99 | [2815. Max Pair Sum in an Array](https://leetcode.com/problems/max-pair-sum-in-an-array/) | 🟢 Easy | - | - | - |
 | 100 | [3588. Find Maximum Area of a Triangle](https://leetcode.com/problems/find-maximum-area-of-a-triangle/) | 🟡 Medium | 100.0% | 6m+ | 29.0% |
 | 101 | [3883. Count Non Decreasing Arrays With Given Digit Sums](https://leetcode.com/problems/count-non-decreasing-arrays-with-given-digit-sums/) | 🔴 Hard | - | - | - |
-
----
-
-## Squarepoint Capital
-
-> 🟢 Easy: 13 | 🟡 Medium: 50 | 🔴 Hard: 25 | Total: 88
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
-| 2 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | - | - | - |
-| 3 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | - | - | - |
-| 4 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | - | - | - |
-| 5 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | - | - | - |
-| 6 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | 3.5% | - | 66.8% |
-| 7 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | 1.7% | 6m+ | 72.2% |
-| 8 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | 3.4% | 6m+ | 53.0% |
-| 9 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | - | - | - |
-| 10 | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | 🟡 Medium | - | - | - |
-| 11 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 🟡 Medium | 2.5% | 6m+ | 67.8% |
-| 12 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | 🟡 Medium | - | - | - |
-| 13 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | 🟢 Easy | - | - | - |
-| 14 | [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | 🔴 Hard | - | - | - |
-| 15 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | 3.7% | 6m+ | 56.4% |
-| 16 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | 🔴 Hard | - | - | - |
-| 17 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 3.5% | 6m+ | 46.8% |
-| 18 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | 3.0% | 6m+ | 63.8% |
-| 19 | [204. Count Primes](https://leetcode.com/problems/count-primes/) | 🟡 Medium | - | - | - |
-| 20 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | 62.5% | 6m+ | 68.8% |
-| 21 | [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | 🟡 Medium | - | - | - |
-| 22 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | 🔴 Hard | 4.8% | 6m | 46.5% |
-| 23 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | - | - | - |
-| 24 | [259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) | 🟡 Medium | - | - | - |
-| 25 | [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | 🟡 Medium | - | - | - |
-| 26 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 🔴 Hard | - | - | - |
-| 27 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | 3.0% | 6m+ | 59.0% |
-| 28 | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | 🟡 Medium | - | - | - |
-| 29 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | 62.5% | - | 47.9% |
-| 30 | [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | 🟡 Medium | - | - | - |
-| 31 | [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | 🟡 Medium | - | - | - |
-| 32 | [370. Range Addition](https://leetcode.com/problems/range-addition/) | 🟡 Medium | - | - | - |
-| 33 | [403. Frog Jump](https://leetcode.com/problems/frog-jump/) | 🔴 Hard | 75.0% | 6m+ | 47.1% |
-| 34 | [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | 🔴 Hard | - | - | - |
-| 35 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | - | - | - |
-| 36 | [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | 🟡 Medium | - | - | - |
-| 37 | [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | 🟡 Medium | - | - | - |
-| 38 | [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | 🟡 Medium | - | - | - |
-| 39 | [679. 24 Game](https://leetcode.com/problems/24-game/) | 🔴 Hard | - | - | - |
-| 40 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | 🟡 Medium | - | - | - |
-| 41 | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | 5.5% | 6m+ | 53.9% |
-| 42 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | 🟢 Easy | - | - | - |
-| 43 | [765. Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | 🔴 Hard | 75.0% | 6m | 59.2% |
-| 44 | [780. Reaching Points](https://leetcode.com/problems/reaching-points/) | 🔴 Hard | - | - | - |
-| 45 | [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | 🟢 Easy | - | - | - |
-| 46 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | 🟢 Easy | - | - | - |
-| 47 | [870. Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | 🟡 Medium | - | - | - |
-| 48 | [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | 🟡 Medium | - | - | - |
-| 49 | [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | 🔴 Hard | - | - | - |
-| 50 | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | - | - | - |
-| 51 | [1119. Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | 🟢 Easy | - | - | - |
-| 52 | [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | 🟡 Medium | - | - | - |
-| 53 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | 🟢 Easy | - | - | - |
-| 54 | [1223. Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/) | 🔴 Hard | - | - | - |
-| 55 | [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | 🟡 Medium | - | - | - |
-| 56 | [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | 🟡 Medium | 100.0% | 6m+ | 65.2% |
-| 57 | [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | 🟡 Medium | - | - | - |
-| 58 | [1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | 🔴 Hard | - | - | - |
-| 59 | [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | 🔴 Hard | - | - | - |
-| 60 | [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | 🔴 Hard | - | - | - |
-| 61 | [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | 🔴 Hard | - | - | - |
-| 62 | [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | 🟢 Easy | - | - | - |
-| 63 | [1560. Most Visited Sector in  a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/) | 🟢 Easy | - | - | - |
-| 64 | [1606. Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | 🔴 Hard | - | - | - |
-| 65 | [1605. Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | 🟡 Medium | 62.5% | 6m+ | 82.7% |
-| 66 | [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | 🟢 Easy | - | - | - |
-| 67 | [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | 🟡 Medium | 75.0% | 6m | 82.8% |
-| 68 | [1745. Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv/) | 🔴 Hard | - | - | - |
-| 69 | [1755. Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/) | 🔴 Hard | - | - | - |
-| 70 | [1824. Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/) | 🟡 Medium | 62.5% | - | 51.5% |
-| 71 | [1840. Maximum Building Height](https://leetcode.com/problems/maximum-building-height/) | 🔴 Hard | - | - | - |
-| 72 | [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | 🟢 Easy | - | - | - |
-| 73 | [2296. Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/) | 🔴 Hard | - | - | - |
-| 74 | [2291. Maximum Profit From Trading Stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks/) | 🟡 Medium | - | - | - |
-| 75 | [2361. Minimum Costs Using the Train Line](https://leetcode.com/problems/minimum-costs-using-the-train-line/) | 🔴 Hard | - | - | - |
-| 76 | [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | 🔴 Hard | - | - | - |
-| 77 | [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | 🟡 Medium | 75.0% | 6m | 59.0% |
-| 78 | [2530. Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | 🟡 Medium | - | - | - |
-| 79 | [2533. Number of Good Binary Strings](https://leetcode.com/problems/number-of-good-binary-strings/) | 🟡 Medium | - | - | - |
-| 80 | [2719. Count of Integers](https://leetcode.com/problems/count-of-integers/) | 🔴 Hard | - | - | - |
-| 81 | [2771. Longest Non-decreasing Subarray From Two Arrays](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/) | 🟡 Medium | 75.0% | 6m | 31.0% |
-| 82 | [2791. Count Paths That Can Form a Palindrome in a Tree](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/) | 🔴 Hard | - | - | - |
-| 83 | [2918. Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | 🟡 Medium | 75.0% | 6m | 50.2% |
-| 84 | [2939. Maximum Xor Product](https://leetcode.com/problems/maximum-xor-product/) | 🟡 Medium | 100.0% | 6m | 29.5% |
-| 85 | [3035. Maximum Palindromes After Operations](https://leetcode.com/problems/maximum-palindromes-after-operations/) | 🟡 Medium | 75.0% | 6m | 45.6% |
-| 86 | [3306. Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | 🟡 Medium | - | - | - |
-| 87 | [3404. Count Special Subsequences](https://leetcode.com/problems/count-special-subsequences/) | 🟡 Medium | - | - | - |
-| 88 | [3649. Number of Perfect Pairs](https://leetcode.com/problems/number-of-perfect-pairs/) | 🟡 Medium | 87.5% | 6m | 33.3% |
-
----
-
-## Tekion
-
-> 🟢 Easy: 9 | 🟡 Medium: 76 | 🔴 Hard: 17 | Total: 102
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | 87.5% | 6m+ | 57.1% |
-| 2 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
-| 3 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 🔴 Hard | - | - | - |
-| 4 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | - | - | - |
-| 5 | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | 🟡 Medium | - | - | - |
-| 6 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | 75.0% | 6m+ | 59.5% |
-| 7 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | - | - | - |
-| 8 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | - | - | - |
-| 9 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard | - | - | - |
-| 10 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | 75.0% | 6m+ | 48.3% |
-| 11 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🔴 Hard | - | - | - |
-| 12 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | 2.4% | 6m+ | 66.8% |
-| 13 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | 🟡 Medium | - | - | - |
-| 14 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | 1.0% | 6m+ | 53.0% |
-| 15 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | - | - | - |
-| 16 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | - | - | - |
-| 17 | [78. Subsets](https://leetcode.com/problems/subsets/) | 🟡 Medium | - | - | - |
-| 18 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | - | - | - |
-| 19 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 Medium | - | - | - |
-| 20 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | 🔴 Hard | 2.1% | 6m+ | 53.1% |
-| 21 | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | 🔴 Hard | 1.0% | 6m+ | 44.9% |
-| 22 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | 🟡 Medium | - | - | - |
-| 23 | [139. Word Break](https://leetcode.com/problems/word-break/) | 🟡 Medium | 62.5% | - | 49.1% |
-| 24 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | - | - | - |
-| 25 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | 🟡 Medium | - | - | - |
-| 26 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | - | - | - |
-| 27 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | 75.0% | 6m+ | 46.8% |
-| 28 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | - | - | - |
-| 29 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | - | - | - |
-| 30 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | 🟡 Medium | - | - | - |
-| 31 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | - | - | - |
-| 32 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | 1.3% | 6m+ | 68.6% |
-| 33 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | 🟡 Medium | 75.0% | 6m+ | 52.5% |
-| 34 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 🔴 Hard | - | - | - |
-| 35 | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | 🟡 Medium | - | - | - |
-| 36 | [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | 🔴 Hard | - | - | - |
-| 37 | [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | 🟡 Medium | - | - | - |
-| 38 | [337. House Robber III](https://leetcode.com/problems/house-robber-iii/) | 🟡 Medium | - | - | - |
-| 39 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | - | - | - |
-| 40 | [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | 🟡 Medium | - | - | - |
-| 41 | [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | 🟡 Medium | - | - | - |
-| 42 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | 🟡 Medium | - | - | - |
-| 43 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | 🟢 Easy | 0.6% | 6m+ | 48.8% |
-| 44 | [394. Decode String](https://leetcode.com/problems/decode-string/) | 🟡 Medium | - | - | - |
-| 45 | [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) | 🟡 Medium | - | - | - |
-| 46 | [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | 2.8% | 6m+ | 59.8% |
-| 47 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | 🟡 Medium | - | - | - |
-| 48 | [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | 🔴 Hard | - | - | - |
-| 49 | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | 🟡 Medium | - | - | - |
-| 50 | [490. The Maze](https://leetcode.com/problems/the-maze/) | 🟡 Medium | - | - | - |
-| 51 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | - | - | - |
-| 52 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | 🟡 Medium | - | - | - |
-| 53 | [556. Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | 🟡 Medium | - | - | - |
-| 54 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | - | - | - |
-| 55 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | 🟡 Medium | - | - | - |
-| 56 | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) | 🟡 Medium | - | - | - |
-| 57 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | 🟡 Medium | - | - | - |
-| 58 | [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | 🟡 Medium | 75.0% | 6m+ | 39.8% |
-| 59 | [691. Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/) | 🔴 Hard | - | - | - |
-| 60 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | 🟡 Medium | - | - | - |
-| 61 | [698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | 🟡 Medium | - | - | - |
-| 62 | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | 75.0% | 6m+ | 53.9% |
-| 63 | [719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | 🔴 Hard | - | - | - |
-| 64 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | 🟡 Medium | - | - | - |
-| 65 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | 0.6% | 6m+ | 68.3% |
-| 66 | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | 🟡 Medium | - | - | - |
-| 67 | [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) | 🟡 Medium | - | - | - |
-| 68 | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | 🟡 Medium | - | - | - |
-| 69 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | - | - | - |
-| 70 | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | 🟡 Medium | - | - | - |
-| 71 | [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | 🟡 Medium | 100.0% | 6m+ | 62.7% |
-| 72 | [967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | 🟡 Medium | - | - | - |
-| 73 | [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | 🔴 Hard | - | - | - |
-| 74 | [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | 🟢 Easy | - | - | - |
-| 75 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | 87.5% | 6m+ | 58.1% |
-| 76 | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | - | - | - |
-| 77 | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | 🟡 Medium | - | - | - |
-| 78 | [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | 🟡 Medium | 87.5% | 6m+ | 62.8% |
-| 79 | [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | 🟡 Medium | - | - | - |
-| 80 | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | 🟡 Medium | - | - | - |
-| 81 | [1105. Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/) | 🟡 Medium | - | - | - |
-| 82 | [1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | 🟡 Medium | - | - | - |
-| 83 | [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | 🟡 Medium | - | - | - |
-| 84 | [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | 🟡 Medium | - | - | - |
-| 85 | [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | 🟡 Medium | - | - | - |
-| 86 | [1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | 🟡 Medium | 75.0% | 6m+ | 62.9% |
-| 87 | [1366. Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/) | 🟡 Medium | 100.0% | 6m | 60.0% |
-| 88 | [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | 🟡 Medium | - | - | - |
-| 89 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | 🟢 Easy | - | - | - |
-| 90 | [1574. Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/) | 🟡 Medium | - | - | - |
-| 91 | [1594. Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | 🟡 Medium | - | - | - |
-| 92 | [1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | 🟡 Medium | - | - | - |
-| 93 | [1712. Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | 🟡 Medium | 75.0% | 6m+ | 34.1% |
-| 94 | [2211. Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/) | 🟡 Medium | - | - | - |
-| 95 | [2354. Number of Excellent Pairs](https://leetcode.com/problems/number-of-excellent-pairs/) | 🔴 Hard | - | - | - |
-| 96 | [2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/) | 🟡 Medium | - | - | - |
-| 97 | [2593. Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) | 🟡 Medium | - | - | - |
-| 98 | [2918. Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | 🟡 Medium | - | - | - |
-| 99 | [2954. Count the Number of Infection Sequences](https://leetcode.com/problems/count-the-number-of-infection-sequences/) | 🔴 Hard | 75.0% | 6m+ | 37.2% |
-| 100 | [3148. Maximum Difference Score in a Grid](https://leetcode.com/problems/maximum-difference-score-in-a-grid/) | 🟡 Medium | - | - | - |
-| 101 | [3229. Minimum Operations to Make Array Equal to Target](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/) | 🔴 Hard | - | - | - |
-| 102 | [3272. Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/) | 🔴 Hard | - | - | - |
-
----
-
-## HashedIn
-
-> 🟢 Easy: 22 | 🟡 Medium: 64 | 🔴 Hard: 33 | Total: 119
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | 62.5% | 6m+ | 57.1% |
-| 2 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 2.2% | 3m,6m | 38.5% |
-| 3 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 🔴 Hard | - | - | - |
-| 4 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | 2.5% | 6m,6m+ | 37.3% |
-| 5 | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | 🟡 Medium | - | - | - |
-| 6 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | 2.2% | 6m+ | 59.5% |
-| 7 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | 75.0% | 6m+ | 47.1% |
-| 8 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | - | - | - |
-| 9 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | - | - | - |
-| 10 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard | - | - | - |
-| 11 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | - | - | - |
-| 12 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | 1.9% | 6m+ | 44.7% |
-| 13 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | 🔴 Hard | - | - | - |
-| 14 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | - | - | - |
-| 15 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🔴 Hard | - | - | - |
-| 16 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | 2.7% | 6m+ | 66.8% |
-| 17 | [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) | 🟡 Medium | - | - | - |
-| 18 | [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | - | - | - |
-| 19 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | 🟡 Medium | 3.1% | 6m+ | 42.5% |
-| 20 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | 4.6% | 6m+ | 72.2% |
-| 21 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | 62.5% | 6m+ | 53.0% |
-| 22 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | 3.3% | 6m+ | 40.5% |
-| 23 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | - | - | - |
-| 24 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | 🟡 Medium | 2.3% | 6m+ | 60.1% |
-| 25 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 Medium | - | - | - |
-| 26 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | - | - | - |
-| 27 | [78. Subsets](https://leetcode.com/problems/subsets/) | 🟡 Medium | - | - | - |
-| 28 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | 🟡 Medium | - | - | - |
-| 29 | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | 🟡 Medium | - | - | - |
-| 30 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🔴 Hard | - | - | - |
-| 31 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | - | - | - |
-| 32 | [87. Scramble String](https://leetcode.com/problems/scramble-string/) | 🔴 Hard | - | - | - |
-| 33 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | - | - | - |
-| 34 | [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | 🟡 Medium | - | - | - |
-| 35 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | 🟡 Medium | - | - | - |
-| 36 | [120. Triangle](https://leetcode.com/problems/triangle/) | 🟡 Medium | 62.5% | - | 59.8% |
-| 37 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | 62.5% | 6m+ | 56.4% |
-| 38 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | 🔴 Hard | - | - | - |
-| 39 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | 🔴 Hard | - | - | - |
-| 40 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | 1.2% | - | - |
-| 41 | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | 🔴 Hard | - | - | - |
-| 42 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | 🟡 Medium | - | - | - |
-| 43 | [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | 🔴 Hard | - | - | - |
-| 44 | [135. Candy](https://leetcode.com/problems/candy/) | 🔴 Hard | - | - | - |
-| 45 | [136. Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | - | - | - |
-| 46 | [139. Word Break](https://leetcode.com/problems/word-break/) | 🟡 Medium | - | - | - |
-| 47 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 Medium | 75.0% | 6m+ | 36.0% |
-| 48 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | - | - | - |
-| 49 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | - | - | - |
-| 50 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 🟢 Easy | - | - | - |
-| 51 | [179. Largest Number](https://leetcode.com/problems/largest-number/) | 🟡 Medium | - | - | - |
-| 52 | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | 🔴 Hard | 62.5% | - | 49.5% |
-| 53 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | - | - | - |
-| 54 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 🟡 Medium | - | - | - |
-| 55 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | 4.5% | 6m+ | 63.8% |
-| 56 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | 🟢 Easy | 2.1% | 6m+ | 48.0% |
-| 57 | [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/) | 🟢 Easy | - | - | - |
-| 58 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | - | - | - |
-| 59 | [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | 🔴 Hard | - | - | - |
-| 60 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | - | - | - |
-| 61 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | 🟡 Medium | - | - | - |
-| 62 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | 🟢 Easy | - | - | - |
-| 63 | [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | 🔴 Hard | - | - | - |
-| 64 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | 🟢 Easy | - | - | - |
-| 65 | [394. Decode String](https://leetcode.com/problems/decode-string/) | 🟡 Medium | 2.7% | 6m | 62.2% |
-| 66 | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | 🟡 Medium | - | - | - |
-| 67 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | 🟡 Medium | - | - | - |
-| 68 | [420. Strong Password Checker](https://leetcode.com/problems/strong-password-checker/) | 🔴 Hard | - | - | - |
-| 69 | [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | 🟡 Medium | - | - | - |
-| 70 | [453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | 🟡 Medium | - | - | - |
-| 71 | [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | 🔴 Hard | - | - | - |
-| 72 | [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | 🟡 Medium | 4.8% | 6m+ | 64.7% |
-| 73 | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | 🟢 Easy | - | - | - |
-| 74 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | - | - | - |
-| 75 | [626. Exchange Seats](https://leetcode.com/problems/exchange-seats/) | 🟡 Medium | - | - | - |
-| 76 | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | 🟢 Easy | - | - | - |
-| 77 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | 🟡 Medium | - | - | - |
-| 78 | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | 🟡 Medium | - | - | - |
-| 79 | [691. Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/) | 🔴 Hard | - | - | - |
-| 80 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | 🟡 Medium | - | - | - |
-| 81 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | 2.8% | - | 68.3% |
-| 82 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | 🟢 Easy | - | - | - |
-| 83 | [752. Open the Lock](https://leetcode.com/problems/open-the-lock/) | 🟡 Medium | - | - | - |
-| 84 | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | 🟢 Easy | - | - | - |
-| 85 | [810. Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/) | 🔴 Hard | 62.5% | 6m+ | 65.6% |
-| 86 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | 62.5% | 6m+ | 49.7% |
-| 87 | [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | 🟡 Medium | 87.5% | 6m | 56.0% |
-| 88 | [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | 🔴 Hard | 100.0% | 30d,3m,6m | 67.5% |
-| 89 | [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | 🟡 Medium | - | - | - |
-| 90 | [1025. Divisor Game](https://leetcode.com/problems/divisor-game/) | 🟢 Easy | - | - | - |
-| 91 | [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | 🟡 Medium | - | - | - |
-| 92 | [1234. Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) | 🟡 Medium | - | - | - |
-| 93 | [2193. Minimum Number of Moves to Make Palindrome](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/) | 🔴 Hard | - | - | - |
-| 94 | [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | 🔴 Hard | - | - | - |
-| 95 | [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | 🟡 Medium | - | - | - |
-| 96 | [1505. Minimum Possible Integer After at Most K Adjacent Swaps On Digits](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | 🔴 Hard | - | - | - |
-| 97 | [1518. Water Bottles](https://leetcode.com/problems/water-bottles/) | 🟢 Easy | - | - | - |
-| 98 | [1654. Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/) | 🟡 Medium | - | - | - |
-| 99 | [1694. Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | 🟢 Easy | - | - | - |
-| 100 | [2035. Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) | 🔴 Hard | - | - | - |
-| 101 | [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | - | - | - |
-| 102 | [2211. Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/) | 🟡 Medium | - | - | - |
-| 103 | [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | 🟡 Medium | - | - | - |
-| 104 | [2290. Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | 🔴 Hard | - | - | - |
-| 105 | [2448. Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/) | 🔴 Hard | 62.5% | 6m+ | 46.7% |
-| 106 | [2514. Count Anagrams](https://leetcode.com/problems/count-anagrams/) | 🔴 Hard | - | - | - |
-| 107 | [2583. Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | 🟡 Medium | - | - | - |
-| 108 | [2584. Split the Array to Make Coprime Products](https://leetcode.com/problems/split-the-array-to-make-coprime-products/) | 🔴 Hard | - | - | - |
-| 109 | [2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/) | 🟡 Medium | 75.0% | 6m+ | 59.6% |
-| 110 | [2659. Make Array Empty](https://leetcode.com/problems/make-array-empty/) | 🔴 Hard | - | - | - |
-| 111 | [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | 🟡 Medium | - | - | - |
-| 112 | [2999. Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers/) | 🔴 Hard | 87.5% | 6m+ | 46.3% |
-| 113 | [3012. Minimize Length of Array Using Operations](https://leetcode.com/problems/minimize-length-of-array-using-operations/) | 🟡 Medium | 87.5% | 6m+ | 35.7% |
-| 114 | [3051. Find Candidates for Data Scientist Position](https://leetcode.com/problems/find-candidates-for-data-scientist-position/) | 🟢 Easy | 100.0% | 6m+ | 74.8% |
-| 115 | [3052. Maximize Items](https://leetcode.com/problems/maximize-items/) | 🔴 Hard | 100.0% | 6m+ | 73.9% |
-| 116 | [2981. Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/) | 🟡 Medium | - | - | - |
-| 117 | [3143. Maximum Points Inside the Square](https://leetcode.com/problems/maximum-points-inside-the-square/) | 🟡 Medium | 62.5% | 6m+ | 39.1% |
-| 118 | [3200. Maximum Height of a Triangle](https://leetcode.com/problems/maximum-height-of-a-triangle/) | 🟢 Easy | - | - | - |
-| 119 | [3649. Number of Perfect Pairs](https://leetcode.com/problems/number-of-perfect-pairs/) | 🟡 Medium | - | - | - |
-
----
-
-## Palantir
-
-> 🟢 Easy: 17 | 🟡 Medium: 48 | 🔴 Hard: 16 | Total: 81
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
-| 2 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
-| 3 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | - | - | - |
-| 4 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | - | - | - |
-| 5 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | - | - | - |
-| 6 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | - | - | - |
-| 7 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard | - | - | - |
-| 8 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | - | - | - |
-| 9 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | - | - | - |
-| 10 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | - | - | - |
-| 11 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 Hard | - | - | - |
-| 12 | [79. Word Search](https://leetcode.com/problems/word-search/) | 🟡 Medium | - | - | - |
-| 13 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 🟢 Easy | - | - | - |
-| 14 | [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | 🔴 Hard | - | - | - |
-| 15 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
-| 16 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | 🔴 Hard | - | - | - |
-| 17 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | - | - | - |
-| 18 | [136. Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | - | - | - |
-| 19 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | - | - | - |
-| 20 | [148. Sort List](https://leetcode.com/problems/sort-list/) | 🟡 Medium | - | - | - |
-| 21 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | - | - | - |
-| 22 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | 🟡 Medium | - | - | - |
-| 23 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | - | - | - |
-| 24 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | 🟢 Easy | - | - | - |
-| 25 | [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | 🔴 Hard | - | - | - |
-| 26 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 🟢 Easy | - | - | - |
-| 27 | [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/) | 🟢 Easy | - | - | - |
-| 28 | [243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | 🟢 Easy | - | - | - |
-| 29 | [244. Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/) | 🟡 Medium | - | - | - |
-| 30 | [245. Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/) | 🟡 Medium | - | - | - |
-| 31 | [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | 🔴 Hard | - | - | - |
-| 32 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | - | - | - |
-| 33 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | - | - | - |
-| 34 | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | 🟢 Easy | - | - | - |
-| 35 | [325. Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | 🟡 Medium | - | - | - |
-| 36 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | 🟡 Medium | - | - | - |
-| 37 | [393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | 🟡 Medium | - | - | - |
-| 38 | [407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | 🔴 Hard | - | - | - |
-| 39 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | 🟡 Medium | - | - | - |
-| 40 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 🟡 Medium | - | - | - |
-| 41 | [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | 🔴 Hard | - | - | - |
-| 42 | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | 🟡 Medium | - | - | - |
-| 43 | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | 🟡 Medium | - | - | - |
-| 44 | [443. String Compression](https://leetcode.com/problems/string-compression/) | 🟡 Medium | - | - | - |
-| 45 | [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | 🔴 Hard | - | - | - |
-| 46 | [539. Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | 🟡 Medium | - | - | - |
-| 47 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | 🟢 Easy | - | - | - |
-| 48 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | - | - | - |
-| 49 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | 🟡 Medium | - | - | - |
-| 50 | [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | 🟡 Medium | - | - | - |
-| 51 | [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/) | 🟡 Medium | - | - | - |
-| 52 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | - | - | - |
-| 53 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | 🟢 Easy | - | - | - |
-| 54 | [759. Employee Free Time](https://leetcode.com/problems/employee-free-time/) | 🔴 Hard | - | - | - |
-| 55 | [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | 🟡 Medium | - | - | - |
-| 56 | [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | 🟡 Medium | - | - | - |
-| 57 | [489. Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) | 🔴 Hard | - | - | - |
-| 58 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | - | - | - |
-| 59 | [940. Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | 🔴 Hard | - | - | - |
-| 60 | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | 🟡 Medium | - | - | - |
-| 61 | [1109. Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | 🟡 Medium | - | - | - |
-| 62 | [1169. Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | 🟡 Medium | - | - | - |
-| 63 | [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | 🟡 Medium | - | - | - |
-| 64 | [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | 🟢 Easy | - | - | - |
-| 65 | [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | 🟡 Medium | - | - | - |
-| 66 | [2312. Selling Pieces of Wood](https://leetcode.com/problems/selling-pieces-of-wood/) | 🔴 Hard | - | - | - |
-| 67 | [2192. All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | 🟡 Medium | - | - | - |
-| 68 | [1419. Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) | 🟡 Medium | - | - | - |
-| 69 | [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/) | 🔴 Hard | - | - | - |
-| 70 | [2231. Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/) | 🟢 Easy | - | - | - |
-| 71 | [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | 🟡 Medium | - | - | - |
-| 72 | [2539. Count the Number of Good Subsequences](https://leetcode.com/problems/count-the-number-of-good-subsequences/) | 🟡 Medium | - | - | - |
-| 73 | [2860. Happy Students](https://leetcode.com/problems/happy-students/) | 🟡 Medium | - | - | - |
-| 74 | [2957. Remove Adjacent Almost-Equal Characters](https://leetcode.com/problems/remove-adjacent-almost-equal-characters/) | 🟡 Medium | - | - | - |
-| 75 | [3006. Find Beautiful Indices in the Given Array I](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/) | 🟡 Medium | - | - | - |
-| 76 | [2964. Number of Divisible Triplet Sums](https://leetcode.com/problems/number-of-divisible-triplet-sums/) | 🟡 Medium | - | - | - |
-| 77 | [3008. Find Beautiful Indices in the Given Array II](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/) | 🔴 Hard | - | - | - |
-| 78 | [3035. Maximum Palindromes After Operations](https://leetcode.com/problems/maximum-palindromes-after-operations/) | 🟡 Medium | - | - | - |
-| 79 | [3093. Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/) | 🔴 Hard | - | - | - |
-| 80 | [3163. String Compression III](https://leetcode.com/problems/string-compression-iii/) | 🟡 Medium | - | - | - |
-| 81 | [3650. Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/) | 🟡 Medium | - | - | - |
 
 ---
 
@@ -28063,6 +27824,117 @@
 
 ---
 
+## Tekion
+
+> 🟢 Easy: 9 | 🟡 Medium: 76 | 🔴 Hard: 17 | Total: 102
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | 87.5% | 6m+ | 57.1% |
+| 2 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
+| 3 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 🔴 Hard | - | - | - |
+| 4 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | - | - | - |
+| 5 | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | 🟡 Medium | - | - | - |
+| 6 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | 75.0% | 6m+ | 59.5% |
+| 7 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | - | - | - |
+| 8 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | - | - | - |
+| 9 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard | - | - | - |
+| 10 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | 75.0% | 6m+ | 48.3% |
+| 11 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🔴 Hard | - | - | - |
+| 12 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | 2.4% | 6m+ | 66.8% |
+| 13 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | 🟡 Medium | - | - | - |
+| 14 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | 1.0% | 6m+ | 53.0% |
+| 15 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | - | - | - |
+| 16 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | - | - | - |
+| 17 | [78. Subsets](https://leetcode.com/problems/subsets/) | 🟡 Medium | - | - | - |
+| 18 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | - | - | - |
+| 19 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 Medium | - | - | - |
+| 20 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | 🔴 Hard | 2.1% | 6m+ | 53.1% |
+| 21 | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | 🔴 Hard | 1.0% | 6m+ | 44.9% |
+| 22 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | 🟡 Medium | - | - | - |
+| 23 | [139. Word Break](https://leetcode.com/problems/word-break/) | 🟡 Medium | 62.5% | - | 49.1% |
+| 24 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | - | - | - |
+| 25 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | 🟡 Medium | - | - | - |
+| 26 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | - | - | - |
+| 27 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | 75.0% | 6m+ | 46.8% |
+| 28 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | - | - | - |
+| 29 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | - | - | - |
+| 30 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | 🟡 Medium | - | - | - |
+| 31 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | - | - | - |
+| 32 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | 1.3% | 6m+ | 68.6% |
+| 33 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | 🟡 Medium | 75.0% | 6m+ | 52.5% |
+| 34 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 🔴 Hard | - | - | - |
+| 35 | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | 🟡 Medium | - | - | - |
+| 36 | [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | 🔴 Hard | - | - | - |
+| 37 | [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | 🟡 Medium | - | - | - |
+| 38 | [337. House Robber III](https://leetcode.com/problems/house-robber-iii/) | 🟡 Medium | - | - | - |
+| 39 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | - | - | - |
+| 40 | [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | 🟡 Medium | - | - | - |
+| 41 | [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | 🟡 Medium | - | - | - |
+| 42 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | 🟡 Medium | - | - | - |
+| 43 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | 🟢 Easy | 0.6% | 6m+ | 48.8% |
+| 44 | [394. Decode String](https://leetcode.com/problems/decode-string/) | 🟡 Medium | - | - | - |
+| 45 | [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) | 🟡 Medium | - | - | - |
+| 46 | [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | 2.8% | 6m+ | 59.8% |
+| 47 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | 🟡 Medium | - | - | - |
+| 48 | [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | 🔴 Hard | - | - | - |
+| 49 | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | 🟡 Medium | - | - | - |
+| 50 | [490. The Maze](https://leetcode.com/problems/the-maze/) | 🟡 Medium | - | - | - |
+| 51 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | - | - | - |
+| 52 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | 🟡 Medium | - | - | - |
+| 53 | [556. Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | 🟡 Medium | - | - | - |
+| 54 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | - | - | - |
+| 55 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | 🟡 Medium | - | - | - |
+| 56 | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) | 🟡 Medium | - | - | - |
+| 57 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | 🟡 Medium | - | - | - |
+| 58 | [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | 🟡 Medium | 75.0% | 6m+ | 39.8% |
+| 59 | [691. Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/) | 🔴 Hard | - | - | - |
+| 60 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | 🟡 Medium | - | - | - |
+| 61 | [698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | 🟡 Medium | - | - | - |
+| 62 | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | 75.0% | 6m+ | 53.9% |
+| 63 | [719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | 🔴 Hard | - | - | - |
+| 64 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | 🟡 Medium | - | - | - |
+| 65 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | 0.6% | 6m+ | 68.3% |
+| 66 | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | 🟡 Medium | - | - | - |
+| 67 | [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) | 🟡 Medium | - | - | - |
+| 68 | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | 🟡 Medium | - | - | - |
+| 69 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | - | - | - |
+| 70 | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | 🟡 Medium | - | - | - |
+| 71 | [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | 🟡 Medium | 100.0% | 6m+ | 62.7% |
+| 72 | [967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | 🟡 Medium | - | - | - |
+| 73 | [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | 🔴 Hard | - | - | - |
+| 74 | [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | 🟢 Easy | - | - | - |
+| 75 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | 87.5% | 6m+ | 58.1% |
+| 76 | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | - | - | - |
+| 77 | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | 🟡 Medium | - | - | - |
+| 78 | [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | 🟡 Medium | 87.5% | 6m+ | 62.8% |
+| 79 | [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | 🟡 Medium | - | - | - |
+| 80 | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | 🟡 Medium | - | - | - |
+| 81 | [1105. Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/) | 🟡 Medium | - | - | - |
+| 82 | [1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | 🟡 Medium | - | - | - |
+| 83 | [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | 🟡 Medium | - | - | - |
+| 84 | [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | 🟡 Medium | - | - | - |
+| 85 | [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | 🟡 Medium | - | - | - |
+| 86 | [1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | 🟡 Medium | 75.0% | 6m+ | 62.9% |
+| 87 | [1366. Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/) | 🟡 Medium | 100.0% | 6m | 60.0% |
+| 88 | [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | 🟡 Medium | - | - | - |
+| 89 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | 🟢 Easy | - | - | - |
+| 90 | [1574. Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/) | 🟡 Medium | - | - | - |
+| 91 | [1594. Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | 🟡 Medium | - | - | - |
+| 92 | [1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | 🟡 Medium | - | - | - |
+| 93 | [1712. Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | 🟡 Medium | 75.0% | 6m+ | 34.1% |
+| 94 | [2211. Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/) | 🟡 Medium | - | - | - |
+| 95 | [2354. Number of Excellent Pairs](https://leetcode.com/problems/number-of-excellent-pairs/) | 🔴 Hard | - | - | - |
+| 96 | [2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/) | 🟡 Medium | - | - | - |
+| 97 | [2593. Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) | 🟡 Medium | - | - | - |
+| 98 | [2918. Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | 🟡 Medium | - | - | - |
+| 99 | [2954. Count the Number of Infection Sequences](https://leetcode.com/problems/count-the-number-of-infection-sequences/) | 🔴 Hard | 75.0% | 6m+ | 37.2% |
+| 100 | [3148. Maximum Difference Score in a Grid](https://leetcode.com/problems/maximum-difference-score-in-a-grid/) | 🟡 Medium | - | - | - |
+| 101 | [3229. Minimum Operations to Make Array Equal to Target](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/) | 🔴 Hard | - | - | - |
+| 102 | [3272. Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/) | 🔴 Hard | - | - | - |
+
+---
+
 ## Yelp
 
 > 🟢 Easy: 12 | 🟡 Medium: 15 | 🔴 Hard: 6 | Total: 33
@@ -28234,6 +28106,134 @@
 | 121 | [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/) | 🟡 Medium | - | - | - |
 | 122 | [3542. Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/) | 🟡 Medium | - | - | - |
 | 123 | [3607. Power Grid Maintenance](https://leetcode.com/problems/power-grid-maintenance/) | 🟡 Medium | 100.0% | 6m | 56.3% |
+
+---
+
+## HashedIn
+
+> 🟢 Easy: 22 | 🟡 Medium: 64 | 🔴 Hard: 33 | Total: 119
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | 62.5% | 6m+ | 57.1% |
+| 2 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 2.2% | 3m,6m | 38.5% |
+| 3 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 🔴 Hard | - | - | - |
+| 4 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | 2.5% | 6m,6m+ | 37.3% |
+| 5 | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | 🟡 Medium | - | - | - |
+| 6 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | 2.2% | 6m+ | 59.5% |
+| 7 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | 75.0% | 6m+ | 47.1% |
+| 8 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | - | - | - |
+| 9 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | - | - | - |
+| 10 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard | - | - | - |
+| 11 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | - | - | - |
+| 12 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | 1.9% | 6m+ | 44.7% |
+| 13 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | 🔴 Hard | - | - | - |
+| 14 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | - | - | - |
+| 15 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🔴 Hard | - | - | - |
+| 16 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | 2.7% | 6m+ | 66.8% |
+| 17 | [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) | 🟡 Medium | - | - | - |
+| 18 | [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | - | - | - |
+| 19 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | 🟡 Medium | 3.1% | 6m+ | 42.5% |
+| 20 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | 4.6% | 6m+ | 72.2% |
+| 21 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | 62.5% | 6m+ | 53.0% |
+| 22 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | 3.3% | 6m+ | 40.5% |
+| 23 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | - | - | - |
+| 24 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | 🟡 Medium | 2.3% | 6m+ | 60.1% |
+| 25 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 Medium | - | - | - |
+| 26 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | - | - | - |
+| 27 | [78. Subsets](https://leetcode.com/problems/subsets/) | 🟡 Medium | - | - | - |
+| 28 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | 🟡 Medium | - | - | - |
+| 29 | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | 🟡 Medium | - | - | - |
+| 30 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🔴 Hard | - | - | - |
+| 31 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | - | - | - |
+| 32 | [87. Scramble String](https://leetcode.com/problems/scramble-string/) | 🔴 Hard | - | - | - |
+| 33 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | - | - | - |
+| 34 | [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | 🟡 Medium | - | - | - |
+| 35 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | 🟡 Medium | - | - | - |
+| 36 | [120. Triangle](https://leetcode.com/problems/triangle/) | 🟡 Medium | 62.5% | - | 59.8% |
+| 37 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | 62.5% | 6m+ | 56.4% |
+| 38 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | 🔴 Hard | - | - | - |
+| 39 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | 🔴 Hard | - | - | - |
+| 40 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | 1.2% | - | - |
+| 41 | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | 🔴 Hard | - | - | - |
+| 42 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | 🟡 Medium | - | - | - |
+| 43 | [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | 🔴 Hard | - | - | - |
+| 44 | [135. Candy](https://leetcode.com/problems/candy/) | 🔴 Hard | - | - | - |
+| 45 | [136. Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | - | - | - |
+| 46 | [139. Word Break](https://leetcode.com/problems/word-break/) | 🟡 Medium | - | - | - |
+| 47 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 Medium | 75.0% | 6m+ | 36.0% |
+| 48 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | - | - | - |
+| 49 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | - | - | - |
+| 50 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 🟢 Easy | - | - | - |
+| 51 | [179. Largest Number](https://leetcode.com/problems/largest-number/) | 🟡 Medium | - | - | - |
+| 52 | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | 🔴 Hard | 62.5% | - | 49.5% |
+| 53 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | - | - | - |
+| 54 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 🟡 Medium | - | - | - |
+| 55 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | 4.5% | 6m+ | 63.8% |
+| 56 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | 🟢 Easy | 2.1% | 6m+ | 48.0% |
+| 57 | [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/) | 🟢 Easy | - | - | - |
+| 58 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | - | - | - |
+| 59 | [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | 🔴 Hard | - | - | - |
+| 60 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | - | - | - |
+| 61 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | 🟡 Medium | - | - | - |
+| 62 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | 🟢 Easy | - | - | - |
+| 63 | [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | 🔴 Hard | - | - | - |
+| 64 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | 🟢 Easy | - | - | - |
+| 65 | [394. Decode String](https://leetcode.com/problems/decode-string/) | 🟡 Medium | 2.7% | 6m | 62.2% |
+| 66 | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | 🟡 Medium | - | - | - |
+| 67 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | 🟡 Medium | - | - | - |
+| 68 | [420. Strong Password Checker](https://leetcode.com/problems/strong-password-checker/) | 🔴 Hard | - | - | - |
+| 69 | [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | 🟡 Medium | - | - | - |
+| 70 | [453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | 🟡 Medium | - | - | - |
+| 71 | [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | 🔴 Hard | - | - | - |
+| 72 | [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | 🟡 Medium | 4.8% | 6m+ | 64.7% |
+| 73 | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | 🟢 Easy | - | - | - |
+| 74 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | - | - | - |
+| 75 | [626. Exchange Seats](https://leetcode.com/problems/exchange-seats/) | 🟡 Medium | - | - | - |
+| 76 | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | 🟢 Easy | - | - | - |
+| 77 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | 🟡 Medium | - | - | - |
+| 78 | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | 🟡 Medium | - | - | - |
+| 79 | [691. Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/) | 🔴 Hard | - | - | - |
+| 80 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | 🟡 Medium | - | - | - |
+| 81 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | 2.8% | - | 68.3% |
+| 82 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | 🟢 Easy | - | - | - |
+| 83 | [752. Open the Lock](https://leetcode.com/problems/open-the-lock/) | 🟡 Medium | - | - | - |
+| 84 | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | 🟢 Easy | - | - | - |
+| 85 | [810. Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/) | 🔴 Hard | 62.5% | 6m+ | 65.6% |
+| 86 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | 62.5% | 6m+ | 49.7% |
+| 87 | [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | 🟡 Medium | 87.5% | 6m | 56.0% |
+| 88 | [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | 🔴 Hard | 100.0% | 30d,3m,6m | 67.5% |
+| 89 | [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | 🟡 Medium | - | - | - |
+| 90 | [1025. Divisor Game](https://leetcode.com/problems/divisor-game/) | 🟢 Easy | - | - | - |
+| 91 | [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | 🟡 Medium | - | - | - |
+| 92 | [1234. Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) | 🟡 Medium | - | - | - |
+| 93 | [2193. Minimum Number of Moves to Make Palindrome](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/) | 🔴 Hard | - | - | - |
+| 94 | [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | 🔴 Hard | - | - | - |
+| 95 | [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | 🟡 Medium | - | - | - |
+| 96 | [1505. Minimum Possible Integer After at Most K Adjacent Swaps On Digits](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | 🔴 Hard | - | - | - |
+| 97 | [1518. Water Bottles](https://leetcode.com/problems/water-bottles/) | 🟢 Easy | - | - | - |
+| 98 | [1654. Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/) | 🟡 Medium | - | - | - |
+| 99 | [1694. Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | 🟢 Easy | - | - | - |
+| 100 | [2035. Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) | 🔴 Hard | - | - | - |
+| 101 | [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | - | - | - |
+| 102 | [2211. Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/) | 🟡 Medium | - | - | - |
+| 103 | [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | 🟡 Medium | - | - | - |
+| 104 | [2290. Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | 🔴 Hard | - | - | - |
+| 105 | [2448. Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/) | 🔴 Hard | 62.5% | 6m+ | 46.7% |
+| 106 | [2514. Count Anagrams](https://leetcode.com/problems/count-anagrams/) | 🔴 Hard | - | - | - |
+| 107 | [2583. Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | 🟡 Medium | - | - | - |
+| 108 | [2584. Split the Array to Make Coprime Products](https://leetcode.com/problems/split-the-array-to-make-coprime-products/) | 🔴 Hard | - | - | - |
+| 109 | [2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/) | 🟡 Medium | 75.0% | 6m+ | 59.6% |
+| 110 | [2659. Make Array Empty](https://leetcode.com/problems/make-array-empty/) | 🔴 Hard | - | - | - |
+| 111 | [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | 🟡 Medium | - | - | - |
+| 112 | [2999. Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers/) | 🔴 Hard | 87.5% | 6m+ | 46.3% |
+| 113 | [3012. Minimize Length of Array Using Operations](https://leetcode.com/problems/minimize-length-of-array-using-operations/) | 🟡 Medium | 87.5% | 6m+ | 35.7% |
+| 114 | [3051. Find Candidates for Data Scientist Position](https://leetcode.com/problems/find-candidates-for-data-scientist-position/) | 🟢 Easy | 100.0% | 6m+ | 74.8% |
+| 115 | [3052. Maximize Items](https://leetcode.com/problems/maximize-items/) | 🔴 Hard | 100.0% | 6m+ | 73.9% |
+| 116 | [2981. Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/) | 🟡 Medium | - | - | - |
+| 117 | [3143. Maximum Points Inside the Square](https://leetcode.com/problems/maximum-points-inside-the-square/) | 🟡 Medium | 62.5% | 6m+ | 39.1% |
+| 118 | [3200. Maximum Height of a Triangle](https://leetcode.com/problems/maximum-height-of-a-triangle/) | 🟢 Easy | - | - | - |
+| 119 | [3649. Number of Perfect Pairs](https://leetcode.com/problems/number-of-perfect-pairs/) | 🟡 Medium | - | - | - |
 
 ---
 
@@ -29364,6 +29364,42 @@
 
 ---
 
+## Quora
+
+> 🟢 Easy: 7 | 🟡 Medium: 14 | 🔴 Hard: 6 | Total: 27
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | 5.3% | 6m+ | 47.1% |
+| 2 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | - | - | - |
+| 3 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 Hard | 5.2% | 6m+ | 50.4% |
+| 4 | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | 🔴 Hard | 7.9% | 6m+ | 60.3% |
+| 5 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | 🟡 Medium | 6.8% | 3m,6m,6m+ | 55.3% |
+| 6 | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | 🟡 Medium | - | - | - |
+| 7 | [449. Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | 🟡 Medium | - | - | - |
+| 8 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | 4.2% | 6m+ | 46.8% |
+| 9 | [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | 🟢 Easy | - | 6m+ | 49.5% |
+| 10 | [795. Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | 🟡 Medium | 62.5% | 6m+ | 54.7% |
+| 11 | [855. Exam Room](https://leetcode.com/problems/exam-room/) | 🟡 Medium | 62.5% | 6m+ | 43.2% |
+| 12 | [923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | 🟡 Medium | 62.5% | 6m+ | 46.2% |
+| 13 | [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | 🔴 Hard | - | - | - |
+| 14 | [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | 🔴 Hard | - | - | - |
+| 15 | [1256. Encode Number](https://leetcode.com/problems/encode-number/) | 🟡 Medium | 62.5% | 6m+ | 70.3% |
+| 16 | [1329. Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | 🟡 Medium | 62.5% | 6m+ | 83.2% |
+| 17 | [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | 🟢 Easy | 62.5% | 6m+ | 82.9% |
+| 18 | [2080. Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | 🟡 Medium | 62.5% | 6m+ | 42.1% |
+| 19 | [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | 🟢 Easy | 62.5% | 6m+ | 86.5% |
+| 20 | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | 🟢 Easy | 62.5% | 6m+ | 79.6% |
+| 21 | [2269. Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | 🟢 Easy | 62.5% | 6m+ | 63.0% |
+| 22 | [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) | 🔴 Hard | 100.0% | 6m+ | 36.8% |
+| 23 | [1740. Find Distance in a Binary Tree](https://leetcode.com/problems/find-distance-in-a-binary-tree/) | 🟡 Medium | - | - | - |
+| 24 | [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | 🟢 Easy | 62.5% | 6m+ | 76.5% |
+| 25 | [1878. Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | 🟡 Medium | 62.5% | 6m+ | 50.1% |
+| 26 | [1865. Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) | 🟡 Medium | 62.5% | 6m+ | 61.6% |
+| 27 | [3235. Check if the Rectangle Corner Is Reachable](https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/) | 🔴 Hard | - | - | - |
+
+---
+
 ## Tinkoff
 
 > 🟢 Easy: 27 | 🟡 Medium: 40 | 🔴 Hard: 3 | Total: 70
@@ -29440,42 +29476,6 @@
 | 68 | [2958. Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | 🟡 Medium | - | - | - |
 | 69 | [3178. Find the Child Who Has the Ball After K Seconds](https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/) | 🟢 Easy | - | - | - |
 | 70 | [3233. Find the Count of Numbers Which Are Not Special](https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special/) | 🟡 Medium | - | - | - |
-
----
-
-## Quora
-
-> 🟢 Easy: 7 | 🟡 Medium: 14 | 🔴 Hard: 6 | Total: 27
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | 5.3% | 6m+ | 47.1% |
-| 2 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | - | - | - |
-| 3 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 Hard | 5.2% | 6m+ | 50.4% |
-| 4 | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | 🔴 Hard | 7.9% | 6m+ | 60.3% |
-| 5 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | 🟡 Medium | 6.8% | 3m,6m,6m+ | 55.3% |
-| 6 | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | 🟡 Medium | - | - | - |
-| 7 | [449. Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | 🟡 Medium | - | - | - |
-| 8 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | 4.2% | 6m+ | 46.8% |
-| 9 | [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | 🟢 Easy | - | 6m+ | 49.5% |
-| 10 | [795. Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | 🟡 Medium | 62.5% | 6m+ | 54.7% |
-| 11 | [855. Exam Room](https://leetcode.com/problems/exam-room/) | 🟡 Medium | 62.5% | 6m+ | 43.2% |
-| 12 | [923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | 🟡 Medium | 62.5% | 6m+ | 46.2% |
-| 13 | [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | 🔴 Hard | - | - | - |
-| 14 | [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | 🔴 Hard | - | - | - |
-| 15 | [1256. Encode Number](https://leetcode.com/problems/encode-number/) | 🟡 Medium | 62.5% | 6m+ | 70.3% |
-| 16 | [1329. Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | 🟡 Medium | 62.5% | 6m+ | 83.2% |
-| 17 | [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | 🟢 Easy | 62.5% | 6m+ | 82.9% |
-| 18 | [2080. Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | 🟡 Medium | 62.5% | 6m+ | 42.1% |
-| 19 | [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | 🟢 Easy | 62.5% | 6m+ | 86.5% |
-| 20 | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | 🟢 Easy | 62.5% | 6m+ | 79.6% |
-| 21 | [2269. Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | 🟢 Easy | 62.5% | 6m+ | 63.0% |
-| 22 | [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) | 🔴 Hard | 100.0% | 6m+ | 36.8% |
-| 23 | [1740. Find Distance in a Binary Tree](https://leetcode.com/problems/find-distance-in-a-binary-tree/) | 🟡 Medium | - | - | - |
-| 24 | [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | 🟢 Easy | 62.5% | 6m+ | 76.5% |
-| 25 | [1878. Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | 🟡 Medium | 62.5% | 6m+ | 50.1% |
-| 26 | [1865. Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) | 🟡 Medium | 62.5% | 6m+ | 61.6% |
-| 27 | [3235. Check if the Rectangle Corner Is Reachable](https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/) | 🔴 Hard | - | - | - |
 
 ---
 
@@ -29603,90 +29603,6 @@
 
 ---
 
-## Roku
-
-> 🟢 Easy: 8 | 🟡 Medium: 50 | 🔴 Hard: 17 | Total: 75
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | - | - | - |
-| 2 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
-| 3 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | - | - | - |
-| 4 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | - | - | - |
-| 5 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | - | - | - |
-| 6 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | - | - | - |
-| 7 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | 🔴 Hard | - | - | - |
-| 8 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | 1.6% | - | 44.1% |
-| 9 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | - | - | - |
-| 10 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | 🔴 Hard | - | - | - |
-| 11 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
-| 12 | [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) | 🟡 Medium | 87.5% | 6m+ | 43.5% |
-| 13 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | - | - | - |
-| 14 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 Medium | - | - | - |
-| 15 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | - | - | - |
-| 16 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | - | - | - |
-| 17 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | - | - | - |
-| 18 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | - | - | - |
-| 19 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | - | - | - |
-| 20 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | - | - | - |
-| 21 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | 🟡 Medium | - | - | - |
-| 22 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | 🔴 Hard | - | - | - |
-| 23 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | - | - | - |
-| 24 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | 🟡 Medium | - | - | - |
-| 25 | [135. Candy](https://leetcode.com/problems/candy/) | 🔴 Hard | 2.9% | 6m+ | 47.9% |
-| 26 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 3.5% | 6m+ | 46.8% |
-| 27 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | - | - | - |
-| 28 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 Medium | - | - | - |
-| 29 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | - | - | - |
-| 30 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | - | - | - |
-| 31 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | 🟡 Medium | - | - | - |
-| 32 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | - | - | - |
-| 33 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | 🔴 Hard | - | - | - |
-| 34 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 🔴 Hard | - | - | - |
-| 35 | [314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | 🟡 Medium | - | - | - |
-| 36 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | - | - | - |
-| 37 | [337. House Robber III](https://leetcode.com/problems/house-robber-iii/) | 🟡 Medium | - | - | - |
-| 38 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | 3.1% | 6m+ | 65.8% |
-| 39 | [355. Design Twitter](https://leetcode.com/problems/design-twitter/) | 🟡 Medium | - | - | - |
-| 40 | [360. Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/) | 🟡 Medium | - | - | - |
-| 41 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | 🟢 Easy | - | - | - |
-| 42 | [394. Decode String](https://leetcode.com/problems/decode-string/) | 🟡 Medium | 4.8% | 6m+ | 62.2% |
-| 43 | [395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | 🟡 Medium | - | - | - |
-| 44 | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | 🟡 Medium | - | - | - |
-| 45 | [457. Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) | 🟡 Medium | - | - | - |
-| 46 | [601. Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | 🔴 Hard | - | - | - |
-| 47 | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | 🟢 Easy | 87.5% | 6m+ | 45.7% |
-| 48 | [642. Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | 🔴 Hard | - | - | - |
-| 49 | [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | 🟡 Medium | 87.5% | 6m+ | 39.8% |
-| 50 | [679. 24 Game](https://leetcode.com/problems/24-game/) | 🔴 Hard | 87.5% | 6m+ | 59.3% |
-| 51 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | 🟢 Easy | 87.5% | 6m+ | 44.0% |
-| 52 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | 🟡 Medium | 3.9% | 6m | 73.8% |
-| 53 | [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | 🟢 Easy | - | - | - |
-| 54 | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | - | - | - |
-| 55 | [716. Max Stack](https://leetcode.com/problems/max-stack/) | 🔴 Hard | - | - | - |
-| 56 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | 🟡 Medium | 75.0% | - | 47.1% |
-| 57 | [759. Employee Free Time](https://leetcode.com/problems/employee-free-time/) | 🔴 Hard | - | - | - |
-| 58 | [428. Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/) | 🔴 Hard | - | - | - |
-| 59 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | 🟢 Easy | 87.5% | 6m+ | 49.8% |
-| 60 | [864. Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/) | 🔴 Hard | 100.0% | 3m,6m,6m+ | 54.3% |
-| 61 | [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | 🟡 Medium | - | - | - |
-| 62 | [927. Three Equal Parts](https://leetcode.com/problems/three-equal-parts/) | 🔴 Hard | - | - | - |
-| 63 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 🟡 Medium | - | - | - |
-| 64 | [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | 🟡 Medium | 75.0% | - | 67.4% |
-| 65 | [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | 🔴 Hard | - | - | - |
-| 66 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | - | - | - |
-| 67 | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | 87.5% | 6m+ | 67.3% |
-| 68 | [1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | 🟡 Medium | - | - | - |
-| 69 | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | 🟡 Medium | - | - | - |
-| 70 | [1311. Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends/) | 🟡 Medium | - | - | - |
-| 71 | [1454. Active Users](https://leetcode.com/problems/active-users/) | 🟡 Medium | - | - | - |
-| 72 | [1593. Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | 🟡 Medium | - | - | - |
-| 73 | [1804. Implement Trie II (Prefix Tree)](https://leetcode.com/problems/implement-trie-ii-prefix-tree/) | 🟡 Medium | - | - | - |
-| 74 | [2747. Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | 🟡 Medium | - | - | - |
-| 75 | [3025. Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) | 🟡 Medium | - | - | - |
-
----
-
 ## Wipro
 
 > 🟢 Easy: 48 | 🟡 Medium: 53 | 🔴 Hard: 2 | Total: 103
@@ -29796,6 +29712,90 @@
 | 101 | [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | 🟢 Easy | - | - | - |
 | 102 | [3001. Minimum Moves to Capture The Queen](https://leetcode.com/problems/minimum-moves-to-capture-the-queen/) | 🟡 Medium | 100.0% | 6m+ | 22.3% |
 | 103 | [3290. Maximum Multiplication Score](https://leetcode.com/problems/maximum-multiplication-score/) | 🟡 Medium | - | - | - |
+
+---
+
+## Roku
+
+> 🟢 Easy: 8 | 🟡 Medium: 50 | 🔴 Hard: 17 | Total: 75
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | - | - | - |
+| 2 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
+| 3 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | - | - | - |
+| 4 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | - | - | - |
+| 5 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | - | - | - |
+| 6 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | - | - | - |
+| 7 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | 🔴 Hard | - | - | - |
+| 8 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | 1.6% | - | 44.1% |
+| 9 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | - | - | - |
+| 10 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | 🔴 Hard | - | - | - |
+| 11 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
+| 12 | [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) | 🟡 Medium | 87.5% | 6m+ | 43.5% |
+| 13 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | - | - | - |
+| 14 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 Medium | - | - | - |
+| 15 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | - | - | - |
+| 16 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | - | - | - |
+| 17 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | - | - | - |
+| 18 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | - | - | - |
+| 19 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | - | - | - |
+| 20 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | - | - | - |
+| 21 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | 🟡 Medium | - | - | - |
+| 22 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | 🔴 Hard | - | - | - |
+| 23 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | - | - | - |
+| 24 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | 🟡 Medium | - | - | - |
+| 25 | [135. Candy](https://leetcode.com/problems/candy/) | 🔴 Hard | 2.9% | 6m+ | 47.9% |
+| 26 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 3.5% | 6m+ | 46.8% |
+| 27 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | - | - | - |
+| 28 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 Medium | - | - | - |
+| 29 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | - | - | - |
+| 30 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | - | - | - |
+| 31 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | 🟡 Medium | - | - | - |
+| 32 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | - | - | - |
+| 33 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | 🔴 Hard | - | - | - |
+| 34 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 🔴 Hard | - | - | - |
+| 35 | [314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | 🟡 Medium | - | - | - |
+| 36 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | - | - | - |
+| 37 | [337. House Robber III](https://leetcode.com/problems/house-robber-iii/) | 🟡 Medium | - | - | - |
+| 38 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | 3.1% | 6m+ | 65.8% |
+| 39 | [355. Design Twitter](https://leetcode.com/problems/design-twitter/) | 🟡 Medium | - | - | - |
+| 40 | [360. Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/) | 🟡 Medium | - | - | - |
+| 41 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | 🟢 Easy | - | - | - |
+| 42 | [394. Decode String](https://leetcode.com/problems/decode-string/) | 🟡 Medium | 4.8% | 6m+ | 62.2% |
+| 43 | [395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | 🟡 Medium | - | - | - |
+| 44 | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | 🟡 Medium | - | - | - |
+| 45 | [457. Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) | 🟡 Medium | - | - | - |
+| 46 | [601. Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | 🔴 Hard | - | - | - |
+| 47 | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | 🟢 Easy | 87.5% | 6m+ | 45.7% |
+| 48 | [642. Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | 🔴 Hard | - | - | - |
+| 49 | [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | 🟡 Medium | 87.5% | 6m+ | 39.8% |
+| 50 | [679. 24 Game](https://leetcode.com/problems/24-game/) | 🔴 Hard | 87.5% | 6m+ | 59.3% |
+| 51 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | 🟢 Easy | 87.5% | 6m+ | 44.0% |
+| 52 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | 🟡 Medium | 3.9% | 6m | 73.8% |
+| 53 | [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | 🟢 Easy | - | - | - |
+| 54 | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | - | - | - |
+| 55 | [716. Max Stack](https://leetcode.com/problems/max-stack/) | 🔴 Hard | - | - | - |
+| 56 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | 🟡 Medium | 75.0% | - | 47.1% |
+| 57 | [759. Employee Free Time](https://leetcode.com/problems/employee-free-time/) | 🔴 Hard | - | - | - |
+| 58 | [428. Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/) | 🔴 Hard | - | - | - |
+| 59 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | 🟢 Easy | 87.5% | 6m+ | 49.8% |
+| 60 | [864. Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/) | 🔴 Hard | 100.0% | 3m,6m,6m+ | 54.3% |
+| 61 | [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | 🟡 Medium | - | - | - |
+| 62 | [927. Three Equal Parts](https://leetcode.com/problems/three-equal-parts/) | 🔴 Hard | - | - | - |
+| 63 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 🟡 Medium | - | - | - |
+| 64 | [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | 🟡 Medium | 75.0% | - | 67.4% |
+| 65 | [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | 🔴 Hard | - | - | - |
+| 66 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | - | - | - |
+| 67 | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | 87.5% | 6m+ | 67.3% |
+| 68 | [1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | 🟡 Medium | - | - | - |
+| 69 | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | 🟡 Medium | - | - | - |
+| 70 | [1311. Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends/) | 🟡 Medium | - | - | - |
+| 71 | [1454. Active Users](https://leetcode.com/problems/active-users/) | 🟡 Medium | - | - | - |
+| 72 | [1593. Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | 🟡 Medium | - | - | - |
+| 73 | [1804. Implement Trie II (Prefix Tree)](https://leetcode.com/problems/implement-trie-ii-prefix-tree/) | 🟡 Medium | - | - | - |
+| 74 | [2747. Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | 🟡 Medium | - | - | - |
+| 75 | [3025. Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) | 🟡 Medium | - | - | - |
 
 ---
 
@@ -31115,104 +31115,6 @@
 
 ---
 
-## MakeMyTrip
-
-> 🟢 Easy: 12 | 🟡 Medium: 63 | 🔴 Hard: 14 | Total: 89
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 1.3% | 6m+ | 38.5% |
-| 2 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | 75.0% | 6m+ | 37.3% |
-| 3 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | 🔴 Hard | - | - | - |
-| 4 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | - | - | - |
-| 5 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | - | - | - |
-| 6 | [18. 4Sum](https://leetcode.com/problems/4sum/) | 🟡 Medium | - | - | - |
-| 7 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | 2.6% | 6m+ | 78.2% |
-| 8 | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | 🔴 Hard | - | - | - |
-| 9 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | 🔴 Hard | 1.5% | 6m+ | 38.0% |
-| 10 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | - | - | - |
-| 11 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | - | - | - |
-| 12 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 Medium | - | - | - |
-| 13 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🔴 Hard | 4.5% | 6m+ | 42.4% |
-| 14 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | 4.0% | - | 66.8% |
-| 15 | [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) | 🟡 Medium | 75.0% | 6m+ | 43.5% |
-| 16 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | 🟡 Medium | 75.0% | 6m+ | 42.5% |
-| 17 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | 87.5% | 6m+ | 72.2% |
-| 18 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 Medium | - | - | - |
-| 19 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | - | - | - |
-| 20 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | - | - | - |
-| 21 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | 1.9% | 6m+ | 51.1% |
-| 22 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | - | - | - |
-| 23 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 🟡 Medium | - | - | - |
-| 24 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | 🟡 Medium | - | - | - |
-| 25 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | 0.7% | - | 69.1% |
-| 26 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | 3.1% | 6m+ | 46.9% |
-| 27 | [79. Word Search](https://leetcode.com/problems/word-search/) | 🟡 Medium | 75.0% | 6m+ | 46.8% |
-| 28 | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | 🟡 Medium | - | - | - |
-| 29 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | - | - | - |
-| 30 | [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | 🟡 Medium | - | - | - |
-| 31 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | 🟢 Easy | - | - | - |
-| 32 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
-| 33 | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | 🔴 Hard | 62.5% | - | 44.9% |
-| 34 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | 🟡 Medium | - | - | - |
-| 35 | [140. Word Break II](https://leetcode.com/problems/word-break-ii/) | 🔴 Hard | - | - | - |
-| 36 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | - | - | - |
-| 37 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 Medium | - | - | - |
-| 38 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 🔴 Hard | - | - | - |
-| 39 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | 75.0% | 6m+ | 57.7% |
-| 40 | [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | 🟢 Easy | - | - | - |
-| 41 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | 1.4% | - | 52.9% |
-| 42 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | 🟡 Medium | - | - | - |
-| 43 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | 🟡 Medium | 1.5% | - | - |
-| 44 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | 🟢 Easy | - | - | - |
-| 45 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 🟢 Easy | - | - | - |
-| 46 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | - | - | - |
-| 47 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 🔴 Hard | 75.0% | 6m+ | 48.4% |
-| 48 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 🟡 Medium | - | - | - |
-| 49 | [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | 🟡 Medium | - | - | - |
-| 50 | [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | 🔴 Hard | - | - | - |
-| 51 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | 🟡 Medium | - | - | - |
-| 52 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | 🟡 Medium | - | - | - |
-| 53 | [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) | 🟡 Medium | 2.4% | 6m+ | 64.0% |
-| 54 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | 🟢 Easy | - | - | - |
-| 55 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 🟡 Medium | - | - | - |
-| 56 | [494. Target Sum](https://leetcode.com/problems/target-sum/) | 🟡 Medium | - | - | - |
-| 57 | [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | 🟡 Medium | - | - | - |
-| 58 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | - | - | - |
-| 59 | [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | 🟡 Medium | - | - | - |
-| 60 | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | 🟡 Medium | - | - | - |
-| 61 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | 🟢 Easy | - | - | - |
-| 62 | [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | 🟡 Medium | 100.0% | 6m+ | 41.4% |
-| 63 | [888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | 🟢 Easy | - | - | - |
-| 64 | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | 🟡 Medium | - | - | - |
-| 65 | [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | 🟡 Medium | - | - | - |
-| 66 | [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | 🟡 Medium | 75.0% | 6m+ | 49.4% |
-| 67 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | - | - | - |
-| 68 | [979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | 🟡 Medium | - | - | - |
-| 69 | [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | 🟡 Medium | - | - | - |
-| 70 | [1315. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | 🟡 Medium | - | - | - |
-| 71 | [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | 🔴 Hard | - | - | - |
-| 72 | [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | 🟡 Medium | - | - | - |
-| 73 | [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | 🟡 Medium | - | - | - |
-| 74 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | - | - | - |
-| 75 | [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | 🟡 Medium | - | - | - |
-| 76 | [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | 🟢 Easy | - | - | - |
-| 77 | [1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | 🟡 Medium | - | - | - |
-| 78 | [1714. Sum Of Special Evenly-Spaced Elements In Array](https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/) | 🔴 Hard | 75.0% | 6m+ | 49.9% |
-| 79 | [1888. Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) | 🟡 Medium | - | - | - |
-| 80 | [1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | 🟡 Medium | - | - | - |
-| 81 | [1963. Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | 🟡 Medium | - | - | - |
-| 82 | [2086. Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | 🟡 Medium | - | - | - |
-| 83 | [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/) | 🟡 Medium | - | - | - |
-| 84 | [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | 🟡 Medium | - | - | - |
-| 85 | [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | - | - | - |
-| 86 | [2370. Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/) | 🟡 Medium | 75.0% | 6m+ | 46.7% |
-| 87 | [2368. Reachable Nodes With Restrictions](https://leetcode.com/problems/reachable-nodes-with-restrictions/) | 🟡 Medium | 75.0% | 6m+ | 60.2% |
-| 88 | [2608. Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/) | 🔴 Hard | - | - | - |
-| 89 | [2958. Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | 🟡 Medium | 75.0% | 6m+ | 56.4% |
-
----
-
 ## Sigmoid
 
 > 🟢 Easy: 16 | 🟡 Medium: 41 | 🔴 Hard: 6 | Total: 63
@@ -31624,6 +31526,104 @@
 | 73 | [3250. Find the Count of Monotonic Pairs I](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/) | 🔴 Hard | 75.0% | 6m+ | 47.5% |
 | 74 | [3251. Find the Count of Monotonic Pairs II](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii/) | 🔴 Hard | - | - | - |
 | 75 | [3410. Maximize Subarray Sum After Removing All Occurrences of One Element](https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/) | 🔴 Hard | - | - | - |
+
+---
+
+## MakeMyTrip
+
+> 🟢 Easy: 12 | 🟡 Medium: 63 | 🔴 Hard: 14 | Total: 89
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 1.3% | 6m+ | 38.5% |
+| 2 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | 75.0% | 6m+ | 37.3% |
+| 3 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | 🔴 Hard | - | - | - |
+| 4 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | - | - | - |
+| 5 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | - | - | - |
+| 6 | [18. 4Sum](https://leetcode.com/problems/4sum/) | 🟡 Medium | - | - | - |
+| 7 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | 2.6% | 6m+ | 78.2% |
+| 8 | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | 🔴 Hard | - | - | - |
+| 9 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | 🔴 Hard | 1.5% | 6m+ | 38.0% |
+| 10 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | - | - | - |
+| 11 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | - | - | - |
+| 12 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 Medium | - | - | - |
+| 13 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🔴 Hard | 4.5% | 6m+ | 42.4% |
+| 14 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | 4.0% | - | 66.8% |
+| 15 | [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) | 🟡 Medium | 75.0% | 6m+ | 43.5% |
+| 16 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | 🟡 Medium | 75.0% | 6m+ | 42.5% |
+| 17 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | 87.5% | 6m+ | 72.2% |
+| 18 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 Medium | - | - | - |
+| 19 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | - | - | - |
+| 20 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | - | - | - |
+| 21 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | 1.9% | 6m+ | 51.1% |
+| 22 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | - | - | - |
+| 23 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 🟡 Medium | - | - | - |
+| 24 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | 🟡 Medium | - | - | - |
+| 25 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | 0.7% | - | 69.1% |
+| 26 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | 3.1% | 6m+ | 46.9% |
+| 27 | [79. Word Search](https://leetcode.com/problems/word-search/) | 🟡 Medium | 75.0% | 6m+ | 46.8% |
+| 28 | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | 🟡 Medium | - | - | - |
+| 29 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | - | - | - |
+| 30 | [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | 🟡 Medium | - | - | - |
+| 31 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | 🟢 Easy | - | - | - |
+| 32 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
+| 33 | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | 🔴 Hard | 62.5% | - | 44.9% |
+| 34 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | 🟡 Medium | - | - | - |
+| 35 | [140. Word Break II](https://leetcode.com/problems/word-break-ii/) | 🔴 Hard | - | - | - |
+| 36 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | - | - | - |
+| 37 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 Medium | - | - | - |
+| 38 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 🔴 Hard | - | - | - |
+| 39 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | 75.0% | 6m+ | 57.7% |
+| 40 | [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | 🟢 Easy | - | - | - |
+| 41 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | 1.4% | - | 52.9% |
+| 42 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | 🟡 Medium | - | - | - |
+| 43 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | 🟡 Medium | 1.5% | - | - |
+| 44 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | 🟢 Easy | - | - | - |
+| 45 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 🟢 Easy | - | - | - |
+| 46 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | - | - | - |
+| 47 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 🔴 Hard | 75.0% | 6m+ | 48.4% |
+| 48 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 🟡 Medium | - | - | - |
+| 49 | [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | 🟡 Medium | - | - | - |
+| 50 | [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | 🔴 Hard | - | - | - |
+| 51 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | 🟡 Medium | - | - | - |
+| 52 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | 🟡 Medium | - | - | - |
+| 53 | [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) | 🟡 Medium | 2.4% | 6m+ | 64.0% |
+| 54 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | 🟢 Easy | - | - | - |
+| 55 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 🟡 Medium | - | - | - |
+| 56 | [494. Target Sum](https://leetcode.com/problems/target-sum/) | 🟡 Medium | - | - | - |
+| 57 | [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | 🟡 Medium | - | - | - |
+| 58 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | - | - | - |
+| 59 | [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | 🟡 Medium | - | - | - |
+| 60 | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | 🟡 Medium | - | - | - |
+| 61 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | 🟢 Easy | - | - | - |
+| 62 | [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | 🟡 Medium | 100.0% | 6m+ | 41.4% |
+| 63 | [888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | 🟢 Easy | - | - | - |
+| 64 | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | 🟡 Medium | - | - | - |
+| 65 | [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | 🟡 Medium | - | - | - |
+| 66 | [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | 🟡 Medium | 75.0% | 6m+ | 49.4% |
+| 67 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | - | - | - |
+| 68 | [979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | 🟡 Medium | - | - | - |
+| 69 | [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | 🟡 Medium | - | - | - |
+| 70 | [1315. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | 🟡 Medium | - | - | - |
+| 71 | [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | 🔴 Hard | - | - | - |
+| 72 | [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | 🟡 Medium | - | - | - |
+| 73 | [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | 🟡 Medium | - | - | - |
+| 74 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | - | - | - |
+| 75 | [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | 🟡 Medium | - | - | - |
+| 76 | [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | 🟢 Easy | - | - | - |
+| 77 | [1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | 🟡 Medium | - | - | - |
+| 78 | [1714. Sum Of Special Evenly-Spaced Elements In Array](https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/) | 🔴 Hard | 75.0% | 6m+ | 49.9% |
+| 79 | [1888. Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) | 🟡 Medium | - | - | - |
+| 80 | [1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | 🟡 Medium | - | - | - |
+| 81 | [1963. Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | 🟡 Medium | - | - | - |
+| 82 | [2086. Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | 🟡 Medium | - | - | - |
+| 83 | [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/) | 🟡 Medium | - | - | - |
+| 84 | [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | 🟡 Medium | - | - | - |
+| 85 | [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | - | - | - |
+| 86 | [2370. Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/) | 🟡 Medium | 75.0% | 6m+ | 46.7% |
+| 87 | [2368. Reachable Nodes With Restrictions](https://leetcode.com/problems/reachable-nodes-with-restrictions/) | 🟡 Medium | 75.0% | 6m+ | 60.2% |
+| 88 | [2608. Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/) | 🔴 Hard | - | - | - |
+| 89 | [2958. Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | 🟡 Medium | 75.0% | 6m+ | 56.4% |
 
 ---
 
@@ -32976,33 +32976,6 @@
 
 ---
 
-## Baidu
-
-> 🟢 Easy: 1 | 🟡 Medium: 11 | 🔴 Hard: 6 | Total: 18
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | - | - | - |
-| 2 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | - | - | - |
-| 3 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | - | - | - |
-| 4 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | - | - | - |
-| 5 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | 🟡 Medium | - | - | - |
-| 6 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | 🔴 Hard | 0.6% | 6m+ | 42.0% |
-| 7 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 🟡 Medium | 62.5% | - | 56.8% |
-| 8 | [395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | 🟡 Medium | - | 6m+ | 46.0% |
-| 9 | [397. Integer Replacement](https://leetcode.com/problems/integer-replacement/) | 🟡 Medium | - | 6m+ | 37.1% |
-| 10 | [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | 1.3% | 6m+ | 59.8% |
-| 11 | [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | 🟡 Medium | - | 6m+ | 64.8% |
-| 12 | [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | 🔴 Hard | - | 6m+ | 54.9% |
-| 13 | [488. Zuma Game](https://leetcode.com/problems/zuma-game/) | 🔴 Hard | - | 6m+ | 30.2% |
-| 14 | [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | 🟡 Medium | - | 6m+ | 48.4% |
-| 15 | [588. Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/) | 🔴 Hard | - | 6m+ | 48.4% |
-| 16 | [873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | 🟡 Medium | 100.0% | 6m+ | 57.5% |
-| 17 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | - | - | - |
-| 18 | [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | 🟢 Easy | - | - | - |
-
----
-
 ## Dream11
 
 > 🟢 Easy: 8 | 🟡 Medium: 46 | 🔴 Hard: 9 | Total: 63
@@ -33462,60 +33435,6 @@
 
 ---
 
-## Publicis Sapient
-
-> 🟢 Easy: 14 | 🟡 Medium: 28 | 🔴 Hard: 3 | Total: 45
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
-| 2 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | - | - | - |
-| 3 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 87.5% | 6m+ | 38.5% |
-| 4 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 🟡 Medium | - | - | - |
-| 5 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | - | - | - |
-| 6 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | 🟡 Medium | - | - | - |
-| 7 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | 87.5% | 6m+ | 47.1% |
-| 8 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | - | - | - |
-| 9 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | - | - | - |
-| 10 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | 4.6% | 6m+ | 66.8% |
-| 11 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | - | - | - |
-| 12 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | 75.0% | - | 72.2% |
-| 13 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | - | - | - |
-| 14 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | - | - | - |
-| 15 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | - | - | - |
-| 16 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 Medium | - | - | - |
-| 17 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 🟡 Medium | - | - | - |
-| 18 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
-| 19 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | - | - | - |
-| 20 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | - | - | - |
-| 21 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | - | - | - |
-| 22 | [184. Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | 🟡 Medium | - | - | - |
-| 23 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | - | - | - |
-| 24 | [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | 🟡 Medium | - | - | - |
-| 25 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | - | - | - |
-| 26 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | - | - | - |
-| 27 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | - | - | - |
-| 28 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 🟡 Medium | 2.2% | - | - |
-| 29 | [697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | 🟢 Easy | - | - | - |
-| 30 | [777. Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/) | 🟡 Medium | - | - | - |
-| 31 | [796. Rotate String](https://leetcode.com/problems/rotate-string/) | 🟢 Easy | - | - | - |
-| 32 | [829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | 🔴 Hard | - | - | - |
-| 33 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | - | - | - |
-| 34 | [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | 🟢 Easy | - | - | - |
-| 35 | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | 🟡 Medium | - | - | - |
-| 36 | [935. Knight Dialer](https://leetcode.com/problems/knight-dialer/) | 🟡 Medium | - | - | - |
-| 37 | [1068. Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | 🟢 Easy | - | - | - |
-| 38 | [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | 🟡 Medium | - | - | - |
-| 39 | [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | 🟡 Medium | - | - | - |
-| 40 | [1824. Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/) | 🟡 Medium | 100.0% | 6m | 51.5% |
-| 41 | [1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | 🟢 Easy | - | - | - |
-| 42 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | - | - | - |
-| 43 | [2142. The Number of Passengers in Each Bus I](https://leetcode.com/problems/the-number-of-passengers-in-each-bus-i/) | 🟡 Medium | - | - | - |
-| 44 | [3077. Maximum Strength of K Disjoint Subarrays](https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays/) | 🔴 Hard | - | - | - |
-| 45 | [3138. Minimum Length of Anagram Concatenation](https://leetcode.com/problems/minimum-length-of-anagram-concatenation/) | 🟡 Medium | - | - | - |
-
----
-
 ## Aurora
 
 > 🟢 Easy: 3 | 🟡 Medium: 19 | 🔴 Hard: 6 | Total: 28
@@ -33711,6 +33630,33 @@
 | 35 | [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | 🟡 Medium | - | - | - |
 | 36 | [2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/) | 🟡 Medium | - | - | - |
 | 37 | [2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/) | 🟡 Medium | - | - | - |
+
+---
+
+## Baidu
+
+> 🟢 Easy: 1 | 🟡 Medium: 11 | 🔴 Hard: 6 | Total: 18
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | - | - | - |
+| 2 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | - | - | - |
+| 3 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | - | - | - |
+| 4 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | - | - | - |
+| 5 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | 🟡 Medium | - | - | - |
+| 6 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | 🔴 Hard | 0.6% | 6m+ | 42.0% |
+| 7 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 🟡 Medium | 62.5% | - | 56.8% |
+| 8 | [395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | 🟡 Medium | - | 6m+ | 46.0% |
+| 9 | [397. Integer Replacement](https://leetcode.com/problems/integer-replacement/) | 🟡 Medium | - | 6m+ | 37.1% |
+| 10 | [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | 1.3% | 6m+ | 59.8% |
+| 11 | [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | 🟡 Medium | - | 6m+ | 64.8% |
+| 12 | [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | 🔴 Hard | - | 6m+ | 54.9% |
+| 13 | [488. Zuma Game](https://leetcode.com/problems/zuma-game/) | 🔴 Hard | - | 6m+ | 30.2% |
+| 14 | [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | 🟡 Medium | - | 6m+ | 48.4% |
+| 15 | [588. Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/) | 🔴 Hard | - | 6m+ | 48.4% |
+| 16 | [873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | 🟡 Medium | 100.0% | 6m+ | 57.5% |
+| 17 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | - | - | - |
+| 18 | [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | 🟢 Easy | - | - | - |
 
 ---
 
@@ -33918,54 +33864,6 @@
 
 ---
 
-## Confluent
-
-> 🟢 Easy: 6 | 🟡 Medium: 20 | 🔴 Hard: 13 | Total: 39
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | 🔴 Hard | 62.5% | 6m+ | 30.4% |
-| 2 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | 5.7% | 6m,6m+ | 64.1% |
-| 3 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | 🔴 Hard | 6.1% | 3m,6m,6m+ | 65.4% |
-| 4 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 Medium | 2.3% | 6m+ | 76.1% |
-| 5 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 🟡 Medium | - | - | - |
-| 6 | [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | - | - | - |
-| 7 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | - | - | - |
-| 8 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | - | - | - |
-| 9 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 🟢 Easy | - | - | - |
-| 10 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 7.1% | 6m+ | 46.8% |
-| 11 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | - | - | - |
-| 12 | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | 🔴 Hard | - | - | - |
-| 13 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | - | - | - |
-| 14 | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | 🟢 Easy | - | - | - |
-| 15 | [465. Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/) | 🔴 Hard | - | - | - |
-| 16 | [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/) | 🟡 Medium | - | - | - |
-| 17 | [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | 🔴 Hard | - | - | - |
-| 18 | [765. Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | 🔴 Hard | - | - | - |
-| 19 | [824. Goat Latin](https://leetcode.com/problems/goat-latin/) | 🟢 Easy | - | - | - |
-| 20 | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | 🟡 Medium | - | - | - |
-| 21 | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | 🟡 Medium | 100.0% | 6m+ | 49.7% |
-| 22 | [1034. Coloring A Border](https://leetcode.com/problems/coloring-a-border/) | 🟡 Medium | - | - | - |
-| 23 | [1944. Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | 🔴 Hard | - | - | - |
-| 24 | [1208. Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) | 🟡 Medium | - | - | - |
-| 25 | [1233. Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | 🟡 Medium | - | - | - |
-| 26 | [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) | 🟡 Medium | - | - | - |
-| 27 | [1797. Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager/) | 🟡 Medium | 100.0% | 3m,6m,6m+ | 58.4% |
-| 28 | [1851. Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | 🔴 Hard | - | - | - |
-| 29 | [2062. Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/) | 🟢 Easy | - | - | - |
-| 30 | [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | 🟡 Medium | - | - | - |
-| 31 | [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | 🟡 Medium | - | - | - |
-| 32 | [2488. Count Subarrays With Median K](https://leetcode.com/problems/count-subarrays-with-median-k/) | 🔴 Hard | - | - | - |
-| 33 | [2604. Minimum Time to Eat All Grains](https://leetcode.com/problems/minimum-time-to-eat-all-grains/) | 🔴 Hard | 62.5% | 6m+ | 40.5% |
-| 34 | [2623. Memoize](https://leetcode.com/problems/memoize/) | 🟡 Medium | - | - | - |
-| 35 | [2627. Debounce](https://leetcode.com/problems/debounce/) | 🟡 Medium | 62.5% | 6m+ | 91.8% |
-| 36 | [2622. Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/) | 🟡 Medium | 62.5% | - | 76.0% |
-| 37 | [2747. Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | 🟡 Medium | - | - | - |
-| 38 | [3356. Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/) | 🟡 Medium | - | - | - |
-| 39 | [3480. Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/) | 🔴 Hard | - | - | - |
-
----
-
 ## Disney
 
 > 🟢 Easy: 16 | 🟡 Medium: 28 | 🔴 Hard: 3 | Total: 47
@@ -34019,6 +33917,54 @@
 | 45 | [2621. Sleep](https://leetcode.com/problems/sleep/) | 🟢 Easy | - | - | - |
 | 46 | [2715. Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/) | 🟢 Easy | - | - | - |
 | 47 | [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | 🟡 Medium | - | - | - |
+
+---
+
+## Confluent
+
+> 🟢 Easy: 6 | 🟡 Medium: 20 | 🔴 Hard: 13 | Total: 39
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | 🔴 Hard | 62.5% | 6m+ | 30.4% |
+| 2 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | 5.7% | 6m,6m+ | 64.1% |
+| 3 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | 🔴 Hard | 6.1% | 3m,6m,6m+ | 65.4% |
+| 4 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 Medium | 2.3% | 6m+ | 76.1% |
+| 5 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 🟡 Medium | - | - | - |
+| 6 | [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | - | - | - |
+| 7 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | - | - | - |
+| 8 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | - | - | - |
+| 9 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 🟢 Easy | - | - | - |
+| 10 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 7.1% | 6m+ | 46.8% |
+| 11 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | - | - | - |
+| 12 | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | 🔴 Hard | - | - | - |
+| 13 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | - | - | - |
+| 14 | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | 🟢 Easy | - | - | - |
+| 15 | [465. Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/) | 🔴 Hard | - | - | - |
+| 16 | [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/) | 🟡 Medium | - | - | - |
+| 17 | [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | 🔴 Hard | - | - | - |
+| 18 | [765. Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | 🔴 Hard | - | - | - |
+| 19 | [824. Goat Latin](https://leetcode.com/problems/goat-latin/) | 🟢 Easy | - | - | - |
+| 20 | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | 🟡 Medium | - | - | - |
+| 21 | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | 🟡 Medium | 100.0% | 6m+ | 49.7% |
+| 22 | [1034. Coloring A Border](https://leetcode.com/problems/coloring-a-border/) | 🟡 Medium | - | - | - |
+| 23 | [1944. Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | 🔴 Hard | - | - | - |
+| 24 | [1208. Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) | 🟡 Medium | - | - | - |
+| 25 | [1233. Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | 🟡 Medium | - | - | - |
+| 26 | [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) | 🟡 Medium | - | - | - |
+| 27 | [1797. Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager/) | 🟡 Medium | 100.0% | 3m,6m,6m+ | 58.4% |
+| 28 | [1851. Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | 🔴 Hard | - | - | - |
+| 29 | [2062. Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/) | 🟢 Easy | - | - | - |
+| 30 | [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | 🟡 Medium | - | - | - |
+| 31 | [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | 🟡 Medium | - | - | - |
+| 32 | [2488. Count Subarrays With Median K](https://leetcode.com/problems/count-subarrays-with-median-k/) | 🔴 Hard | - | - | - |
+| 33 | [2604. Minimum Time to Eat All Grains](https://leetcode.com/problems/minimum-time-to-eat-all-grains/) | 🔴 Hard | 62.5% | 6m+ | 40.5% |
+| 34 | [2623. Memoize](https://leetcode.com/problems/memoize/) | 🟡 Medium | - | - | - |
+| 35 | [2627. Debounce](https://leetcode.com/problems/debounce/) | 🟡 Medium | 62.5% | 6m+ | 91.8% |
+| 36 | [2622. Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/) | 🟡 Medium | 62.5% | - | 76.0% |
+| 37 | [2747. Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | 🟡 Medium | - | - | - |
+| 38 | [3356. Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/) | 🟡 Medium | - | - | - |
+| 39 | [3480. Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/) | 🔴 Hard | - | - | - |
 
 ---
 
@@ -34093,6 +34039,60 @@
 
 ---
 
+## Publicis Sapient
+
+> 🟢 Easy: 14 | 🟡 Medium: 28 | 🔴 Hard: 3 | Total: 45
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
+| 2 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | - | - | - |
+| 3 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 87.5% | 6m+ | 38.5% |
+| 4 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 🟡 Medium | - | - | - |
+| 5 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | - | - | - |
+| 6 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | 🟡 Medium | - | - | - |
+| 7 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | 87.5% | 6m+ | 47.1% |
+| 8 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | - | - | - |
+| 9 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | - | - | - |
+| 10 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | 4.6% | 6m+ | 66.8% |
+| 11 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | - | - | - |
+| 12 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | 75.0% | - | 72.2% |
+| 13 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | - | - | - |
+| 14 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | - | - | - |
+| 15 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | - | - | - |
+| 16 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 Medium | - | - | - |
+| 17 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 🟡 Medium | - | - | - |
+| 18 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
+| 19 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | - | - | - |
+| 20 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | - | - | - |
+| 21 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | - | - | - |
+| 22 | [184. Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | 🟡 Medium | - | - | - |
+| 23 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | - | - | - |
+| 24 | [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | 🟡 Medium | - | - | - |
+| 25 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | - | - | - |
+| 26 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | - | - | - |
+| 27 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | - | - | - |
+| 28 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 🟡 Medium | 2.2% | - | - |
+| 29 | [697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | 🟢 Easy | - | - | - |
+| 30 | [777. Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/) | 🟡 Medium | - | - | - |
+| 31 | [796. Rotate String](https://leetcode.com/problems/rotate-string/) | 🟢 Easy | - | - | - |
+| 32 | [829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | 🔴 Hard | - | - | - |
+| 33 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | - | - | - |
+| 34 | [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | 🟢 Easy | - | - | - |
+| 35 | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | 🟡 Medium | - | - | - |
+| 36 | [935. Knight Dialer](https://leetcode.com/problems/knight-dialer/) | 🟡 Medium | - | - | - |
+| 37 | [1068. Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | 🟢 Easy | - | - | - |
+| 38 | [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | 🟡 Medium | - | - | - |
+| 39 | [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | 🟡 Medium | - | - | - |
+| 40 | [1824. Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/) | 🟡 Medium | 100.0% | 6m | 51.5% |
+| 41 | [1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | 🟢 Easy | - | - | - |
+| 42 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | - | - | - |
+| 43 | [2142. The Number of Passengers in Each Bus I](https://leetcode.com/problems/the-number-of-passengers-in-each-bus-i/) | 🟡 Medium | - | - | - |
+| 44 | [3077. Maximum Strength of K Disjoint Subarrays](https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays/) | 🔴 Hard | - | - | - |
+| 45 | [3138. Minimum Length of Anagram Concatenation](https://leetcode.com/problems/minimum-length-of-anagram-concatenation/) | 🟡 Medium | - | - | - |
+
+---
+
 ## Coursera
 
 > 🟢 Easy: 4 | 🟡 Medium: 7 | 🔴 Hard: 5 | Total: 16
@@ -34141,6 +34141,41 @@
 | 15 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | - | - | - |
 | 16 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | - | - | - |
 | 17 | [3122. Minimum Number of Operations to Satisfy Conditions](https://leetcode.com/problems/minimum-number-of-operations-to-satisfy-conditions/) | 🟡 Medium | - | - | - |
+
+---
+
+## AT&T
+
+> 🟢 Easy: 5 | 🟡 Medium: 20 | 🔴 Hard: 1 | Total: 26
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
+| 2 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | - | - | - |
+| 3 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | 🟡 Medium | - | - | - |
+| 4 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | - | - | - |
+| 5 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | - | - | - |
+| 6 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | - | - | - |
+| 7 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | - | - | - |
+| 8 | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | 🟡 Medium | - | - | - |
+| 9 | [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | 🟡 Medium | - | - | - |
+| 10 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | 🟢 Easy | - | - | - |
+| 11 | [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | 🟡 Medium | - | - | - |
+| 12 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | - | - | - |
+| 13 | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | 🟡 Medium | - | - | - |
+| 14 | [1052. Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | 🟡 Medium | - | - | - |
+| 15 | [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | 🟡 Medium | - | - | - |
+| 16 | [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | 🔴 Hard | - | - | - |
+| 17 | [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | 🟢 Easy | - | - | - |
+| 18 | [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | 🟢 Easy | - | - | - |
+| 19 | [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | 🟡 Medium | - | - | - |
+| 20 | [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | 🟡 Medium | - | - | - |
+| 21 | [2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | 🟡 Medium | - | - | - |
+| 22 | [2380. Time Needed to Rearrange a Binary String](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/) | 🟡 Medium | - | - | - |
+| 23 | [2461. Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | 🟡 Medium | - | - | - |
+| 24 | [2957. Remove Adjacent Almost-Equal Characters](https://leetcode.com/problems/remove-adjacent-almost-equal-characters/) | 🟡 Medium | - | - | - |
+| 25 | [2964. Number of Divisible Triplet Sums](https://leetcode.com/problems/number-of-divisible-triplet-sums/) | 🟡 Medium | - | - | - |
+| 26 | [3650. Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/) | 🟡 Medium | - | - | - |
 
 ---
 
@@ -34349,40 +34384,6 @@
 
 ---
 
-## KLA
-
-> 🟢 Easy: 7 | 🟡 Medium: 11 | 🔴 Hard: 7 | Total: 25
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | 75.0% | 6m+ | 57.1% |
-| 2 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | 🟡 Medium | - | - | - |
-| 3 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | - | - | - |
-| 4 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
-| 5 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🔴 Hard | - | - | - |
-| 6 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | 🟡 Medium | - | - | - |
-| 7 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 4.8% | 6m,6m+ | 46.8% |
-| 8 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | - | - | - |
-| 9 | [202. Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | - | - | - |
-| 10 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | 75.0% | 6m+ | 67.8% |
-| 11 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 🔴 Hard | 2.8% | 6m+ | 54.2% |
-| 12 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | 🟡 Medium | - | - | - |
-| 13 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | 🟢 Easy | - | - | - |
-| 14 | [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | 🔴 Hard | 3.8% | 6m+ | 48.6% |
-| 15 | [554. Brick Wall](https://leetcode.com/problems/brick-wall/) | 🟡 Medium | 6.8% | 6m | 56.0% |
-| 16 | [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/) | 🟡 Medium | - | - | - |
-| 17 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | 🟢 Easy | - | - | - |
-| 18 | [780. Reaching Points](https://leetcode.com/problems/reaching-points/) | 🔴 Hard | 75.0% | 6m+ | 34.2% |
-| 19 | [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | 🟢 Easy | - | - | - |
-| 20 | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | 🟡 Medium | - | - | - |
-| 21 | [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | 🔴 Hard | - | - | - |
-| 22 | [1884. Egg Drop With 2 Eggs and N Floors](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/) | 🟡 Medium | - | - | - |
-| 23 | [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | 🟡 Medium | - | - | - |
-| 24 | [2106. Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/) | 🔴 Hard | 87.5% | 6m,6m+ | 61.0% |
-| 25 | [3584. Maximum Product of First and Last Elements of a Subsequence](https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence/) | 🟡 Medium | 100.0% | 6m+ | 31.2% |
-
----
-
 ## Avito
 
 > 🟢 Easy: 15 | 🟡 Medium: 11 | 🔴 Hard: 3 | Total: 29
@@ -34472,6 +34473,40 @@
 | 43 | [2843.   Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) | 🟢 Easy | - | - | - |
 | 44 | [3199. Count Triplets with Even XOR Set Bits I](https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-i/) | 🟢 Easy | - | - | - |
 | 45 | [3852. Smallest Pair With Different Frequencies](https://leetcode.com/problems/smallest-pair-with-different-frequencies/) | 🟢 Easy | - | - | - |
+
+---
+
+## KLA
+
+> 🟢 Easy: 7 | 🟡 Medium: 11 | 🔴 Hard: 7 | Total: 25
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | 75.0% | 6m+ | 57.1% |
+| 2 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | 🟡 Medium | - | - | - |
+| 3 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | - | - | - |
+| 4 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
+| 5 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🔴 Hard | - | - | - |
+| 6 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | 🟡 Medium | - | - | - |
+| 7 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 4.8% | 6m,6m+ | 46.8% |
+| 8 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | - | - | - |
+| 9 | [202. Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | - | - | - |
+| 10 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | 75.0% | 6m+ | 67.8% |
+| 11 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 🔴 Hard | 2.8% | 6m+ | 54.2% |
+| 12 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | 🟡 Medium | - | - | - |
+| 13 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | 🟢 Easy | - | - | - |
+| 14 | [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | 🔴 Hard | 3.8% | 6m+ | 48.6% |
+| 15 | [554. Brick Wall](https://leetcode.com/problems/brick-wall/) | 🟡 Medium | 6.8% | 6m | 56.0% |
+| 16 | [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/) | 🟡 Medium | - | - | - |
+| 17 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | 🟢 Easy | - | - | - |
+| 18 | [780. Reaching Points](https://leetcode.com/problems/reaching-points/) | 🔴 Hard | 75.0% | 6m+ | 34.2% |
+| 19 | [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | 🟢 Easy | - | - | - |
+| 20 | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | 🟡 Medium | - | - | - |
+| 21 | [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | 🔴 Hard | - | - | - |
+| 22 | [1884. Egg Drop With 2 Eggs and N Floors](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/) | 🟡 Medium | - | - | - |
+| 23 | [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | 🟡 Medium | - | - | - |
+| 24 | [2106. Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/) | 🔴 Hard | 87.5% | 6m,6m+ | 61.0% |
+| 25 | [3584. Maximum Product of First and Last Elements of a Subsequence](https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence/) | 🟡 Medium | 100.0% | 6m+ | 31.2% |
 
 ---
 
@@ -34665,68 +34700,6 @@
 | 43 | [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/) | 🟢 Easy | - | - | - |
 | 44 | [2498. Frog Jump II](https://leetcode.com/problems/frog-jump-ii/) | 🟡 Medium | - | - | - |
 | 45 | [3822. Design Order Management System](https://leetcode.com/problems/design-order-management-system/) | 🟡 Medium | 87.5% | - | 82.1% |
-
----
-
-## AT&T
-
-> 🟢 Easy: 5 | 🟡 Medium: 20 | 🔴 Hard: 1 | Total: 26
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
-| 2 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | - | - | - |
-| 3 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | 🟡 Medium | - | - | - |
-| 4 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | - | - | - |
-| 5 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | - | - | - |
-| 6 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | - | - | - |
-| 7 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | - | - | - |
-| 8 | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | 🟡 Medium | - | - | - |
-| 9 | [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | 🟡 Medium | - | - | - |
-| 10 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | 🟢 Easy | - | - | - |
-| 11 | [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | 🟡 Medium | - | - | - |
-| 12 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | - | - | - |
-| 13 | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | 🟡 Medium | - | - | - |
-| 14 | [1052. Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | 🟡 Medium | - | - | - |
-| 15 | [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | 🟡 Medium | - | - | - |
-| 16 | [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | 🔴 Hard | - | - | - |
-| 17 | [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | 🟢 Easy | - | - | - |
-| 18 | [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | 🟢 Easy | - | - | - |
-| 19 | [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | 🟡 Medium | - | - | - |
-| 20 | [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | 🟡 Medium | - | - | - |
-| 21 | [2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | 🟡 Medium | - | - | - |
-| 22 | [2380. Time Needed to Rearrange a Binary String](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/) | 🟡 Medium | - | - | - |
-| 23 | [2461. Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | 🟡 Medium | - | - | - |
-| 24 | [2957. Remove Adjacent Almost-Equal Characters](https://leetcode.com/problems/remove-adjacent-almost-equal-characters/) | 🟡 Medium | - | - | - |
-| 25 | [2964. Number of Divisible Triplet Sums](https://leetcode.com/problems/number-of-divisible-triplet-sums/) | 🟡 Medium | - | - | - |
-| 26 | [3650. Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/) | 🟡 Medium | - | - | - |
-
----
-
-## Audible
-
-> 🟢 Easy: 5 | 🟡 Medium: 12 | 🔴 Hard: 1 | Total: 18
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
-| 2 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | - | - | - |
-| 3 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 🟡 Medium | - | - | - |
-| 4 | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | 🔴 Hard | - | - | - |
-| 5 | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | 🟡 Medium | - | - | - |
-| 6 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 🟢 Easy | - | - | - |
-| 7 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | - | - | - |
-| 8 | [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | 🟡 Medium | - | - | - |
-| 9 | [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/) | 🟡 Medium | - | - | - |
-| 10 | [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) | 🟡 Medium | 62.5% | - | 56.8% |
-| 11 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | - | - | - |
-| 12 | [1152. Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/) | 🟡 Medium | - | - | - |
-| 13 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | 🟢 Easy | 62.5% | - | 72.8% |
-| 14 | [1228. Missing Number In Arithmetic Progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression/) | 🟢 Easy | 100.0% | 6m+ | 52.2% |
-| 15 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | 🟢 Easy | 100.0% | 6m+ | 75.0% |
-| 16 | [1747. Leetflex Banned Accounts](https://leetcode.com/problems/leetflex-banned-accounts/) | 🟡 Medium | 100.0% | 6m+ | 61.8% |
-| 17 | [1817. Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/) | 🟡 Medium | - | - | - |
-| 18 | [3857. Minimum Cost to Split into Ones](https://leetcode.com/problems/minimum-cost-to-split-into-ones/) | 🟡 Medium | - | - | - |
 
 ---
 
@@ -35054,6 +35027,37 @@
 
 ---
 
+## Netskope
+
+> 🟢 Easy: 2 | 🟡 Medium: 15 | 🔴 Hard: 5 | Total: 22
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 1.6% | - | 38.5% |
+| 2 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | - | - | - |
+| 3 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | 🔴 Hard | - | - | - |
+| 4 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | 🟡 Medium | - | - | - |
+| 5 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | - | - | - |
+| 6 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | - | - | - |
+| 7 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard | 2.2% | - | 58.8% |
+| 8 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | - | - | - |
+| 9 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🔴 Hard | 100.0% | - | 42.4% |
+| 10 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | - | - | - |
+| 11 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 Medium | - | - | - |
+| 12 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 100.0% | 6m+ | 46.8% |
+| 13 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | - | - | - |
+| 14 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | - | - | - |
+| 15 | [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | 🔴 Hard | 4.5% | 6m+ | 48.6% |
+| 16 | [588. Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/) | 🔴 Hard | 100.0% | - | 48.4% |
+| 17 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | 🟡 Medium | 3.1% | 6m+ | 72.5% |
+| 18 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | - | - | - |
+| 19 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | - | - | - |
+| 20 | [1244. Design A Leaderboard](https://leetcode.com/problems/design-a-leaderboard/) | 🟡 Medium | - | - | - |
+| 21 | [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | 🟡 Medium | - | - | - |
+| 22 | [2502. Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator/) | 🟡 Medium | - | - | - |
+
+---
+
 ## Groww
 
 > 🟢 Easy: 3 | 🟡 Medium: 26 | 🔴 Hard: 7 | Total: 36
@@ -35099,37 +35103,6 @@
 
 ---
 
-## Netskope
-
-> 🟢 Easy: 2 | 🟡 Medium: 15 | 🔴 Hard: 5 | Total: 22
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 1.6% | - | 38.5% |
-| 2 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | - | - | - |
-| 3 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | 🔴 Hard | - | - | - |
-| 4 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | 🟡 Medium | - | - | - |
-| 5 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | - | - | - |
-| 6 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | - | - | - |
-| 7 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard | 2.2% | - | 58.8% |
-| 8 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | - | - | - |
-| 9 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🔴 Hard | 100.0% | - | 42.4% |
-| 10 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | - | - | - |
-| 11 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 Medium | - | - | - |
-| 12 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 100.0% | 6m+ | 46.8% |
-| 13 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | - | - | - |
-| 14 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | - | - | - |
-| 15 | [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | 🔴 Hard | 4.5% | 6m+ | 48.6% |
-| 16 | [588. Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/) | 🔴 Hard | 100.0% | - | 48.4% |
-| 17 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | 🟡 Medium | 3.1% | 6m+ | 72.5% |
-| 18 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | - | - | - |
-| 19 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | - | - | - |
-| 20 | [1244. Design A Leaderboard](https://leetcode.com/problems/design-a-leaderboard/) | 🟡 Medium | - | - | - |
-| 21 | [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | 🟡 Medium | - | - | - |
-| 22 | [2502. Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator/) | 🟡 Medium | - | - | - |
-
----
-
 ## persistent systems
 
 > 🟢 Easy: 14 | 🟡 Medium: 14 | 🔴 Hard: 2 | Total: 30
@@ -35166,6 +35139,41 @@
 | 28 | [2333. Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | 🟡 Medium | - | - | - |
 | 29 | [2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/) | 🟡 Medium | - | - | - |
 | 30 | [2461. Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | 🟡 Medium | - | - | - |
+
+---
+
+## Flexport
+
+> 🟢 Easy: 3 | 🟡 Medium: 22 | 🔴 Hard: 1 | Total: 26
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | - | - | - |
+| 2 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | 7.2% | 6m+ | 65.5% |
+| 3 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | - | - | - |
+| 4 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | 🟡 Medium | - | - | - |
+| 5 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | - | - | - |
+| 6 | [57. Insert Interval](https://leetcode.com/problems/insert-interval/) | 🟡 Medium | - | - | - |
+| 7 | [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | 🟡 Medium | - | - | - |
+| 8 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | 🟡 Medium | 100.0% | 6m+ | 64.7% |
+| 9 | [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | 🟡 Medium | - | - | - |
+| 10 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | 3.0% | 6m+ | 59.0% |
+| 11 | [394. Decode String](https://leetcode.com/problems/decode-string/) | 🟡 Medium | 100.0% | 6m+ | 62.2% |
+| 12 | [468. Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | 🟡 Medium | 62.5% | 6m+ | 28.2% |
+| 13 | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | 3.4% | 6m+ | 53.9% |
+| 14 | [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/) | 🟡 Medium | - | - | - |
+| 15 | [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | 🔴 Hard | - | - | - |
+| 16 | [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/) | 🟡 Medium | 6.3% | 6m+ | 58.2% |
+| 17 | [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) | 🟡 Medium | - | - | - |
+| 18 | [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | 🟡 Medium | 75.0% | 6m+ | 59.5% |
+| 19 | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | 🟡 Medium | 62.5% | 6m+ | 49.7% |
+| 20 | [1429. First Unique Number](https://leetcode.com/problems/first-unique-number/) | 🟡 Medium | - | - | - |
+| 21 | [1279. Traffic Light Controlled Intersection](https://leetcode.com/problems/traffic-light-controlled-intersection/) | 🟢 Easy | - | - | - |
+| 22 | [1436. Destination City](https://leetcode.com/problems/destination-city/) | 🟢 Easy | - | - | - |
+| 23 | [1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | 🟡 Medium | - | - | - |
+| 24 | [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | 🟢 Easy | - | - | - |
+| 25 | [2904. Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | 🟡 Medium | - | - | - |
+| 26 | [3635. Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/) | 🟡 Medium | - | - | - |
 
 ---
 
@@ -35213,41 +35221,6 @@
 
 ---
 
-## Flexport
-
-> 🟢 Easy: 3 | 🟡 Medium: 22 | 🔴 Hard: 1 | Total: 26
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | - | - | - |
-| 2 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | 7.2% | 6m+ | 65.5% |
-| 3 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | - | - | - |
-| 4 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | 🟡 Medium | - | - | - |
-| 5 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | - | - | - |
-| 6 | [57. Insert Interval](https://leetcode.com/problems/insert-interval/) | 🟡 Medium | - | - | - |
-| 7 | [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | 🟡 Medium | - | - | - |
-| 8 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | 🟡 Medium | 100.0% | 6m+ | 64.7% |
-| 9 | [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | 🟡 Medium | - | - | - |
-| 10 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | 3.0% | 6m+ | 59.0% |
-| 11 | [394. Decode String](https://leetcode.com/problems/decode-string/) | 🟡 Medium | 100.0% | 6m+ | 62.2% |
-| 12 | [468. Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | 🟡 Medium | 62.5% | 6m+ | 28.2% |
-| 13 | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | 3.4% | 6m+ | 53.9% |
-| 14 | [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/) | 🟡 Medium | - | - | - |
-| 15 | [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | 🔴 Hard | - | - | - |
-| 16 | [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/) | 🟡 Medium | 6.3% | 6m+ | 58.2% |
-| 17 | [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) | 🟡 Medium | - | - | - |
-| 18 | [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | 🟡 Medium | 75.0% | 6m+ | 59.5% |
-| 19 | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | 🟡 Medium | 62.5% | 6m+ | 49.7% |
-| 20 | [1429. First Unique Number](https://leetcode.com/problems/first-unique-number/) | 🟡 Medium | - | - | - |
-| 21 | [1279. Traffic Light Controlled Intersection](https://leetcode.com/problems/traffic-light-controlled-intersection/) | 🟢 Easy | - | - | - |
-| 22 | [1436. Destination City](https://leetcode.com/problems/destination-city/) | 🟢 Easy | - | - | - |
-| 23 | [1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | 🟡 Medium | - | - | - |
-| 24 | [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | 🟢 Easy | - | - | - |
-| 25 | [2904. Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | 🟡 Medium | - | - | - |
-| 26 | [3635. Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/) | 🟡 Medium | - | - | - |
-
----
-
 ## CleverTap
 
 > 🟢 Easy: 1 | 🟡 Medium: 6 | 🔴 Hard: 1 | Total: 8
@@ -35292,6 +35265,25 @@
 | 19 | [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) | 🔴 Hard | - | - | - |
 | 20 | [2458. Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | 🔴 Hard | - | - | - |
 | 21 | [2545. Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) | 🟡 Medium | 87.5% | 6m+ | 86.0% |
+
+---
+
+## Udemy
+
+> 🟢 Easy: 6 | 🟡 Medium: 3 | 🔴 Hard: 1 | Total: 10
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 🔴 Hard | 87.5% | 3m,6m | 45.9% |
+| 2 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | - | - | - |
+| 3 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | 87.5% | 3m,6m | 43.7% |
+| 4 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | 87.5% | 3m,6m | 67.9% |
+| 5 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | 100.0% | 3m,6m | 62.2% |
+| 6 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | 100.0% | 3m,6m | 64.1% |
+| 7 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | - | - | - |
+| 8 | [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | 🟡 Medium | 87.5% | 3m,6m | 51.2% |
+| 9 | [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | 🟢 Easy | - | - | - |
+| 10 | [3477. Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | 🟢 Easy | 100.0% | 3m,6m | 70.2% |
 
 ---
 
@@ -35357,22 +35349,30 @@
 
 ---
 
-## Udemy
+## Audible
 
-> 🟢 Easy: 6 | 🟡 Medium: 3 | 🔴 Hard: 1 | Total: 10
+> 🟢 Easy: 5 | 🟡 Medium: 12 | 🔴 Hard: 1 | Total: 18
 
 | # | Problem | Difficulty | Freq | Recency | Acceptance |
 |---|---------|------------|------|---------|------------|
-| 1 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 🔴 Hard | 87.5% | 3m,6m | 45.9% |
-| 2 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | - | - | - |
-| 3 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | 87.5% | 3m,6m | 43.7% |
-| 4 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | 87.5% | 3m,6m | 67.9% |
-| 5 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | 100.0% | 3m,6m | 62.2% |
-| 6 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | 100.0% | 3m,6m | 64.1% |
-| 7 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | - | - | - |
-| 8 | [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | 🟡 Medium | 87.5% | 3m,6m | 51.2% |
-| 9 | [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | 🟢 Easy | - | - | - |
-| 10 | [3477. Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | 🟢 Easy | 100.0% | 3m,6m | 70.2% |
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
+| 2 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | - | - | - |
+| 3 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 🟡 Medium | - | - | - |
+| 4 | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | 🔴 Hard | - | - | - |
+| 5 | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | 🟡 Medium | - | - | - |
+| 6 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 🟢 Easy | - | - | - |
+| 7 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | - | - | - |
+| 8 | [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | 🟡 Medium | - | - | - |
+| 9 | [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/) | 🟡 Medium | - | - | - |
+| 10 | [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) | 🟡 Medium | 62.5% | - | 56.8% |
+| 11 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | - | - | - |
+| 12 | [1152. Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/) | 🟡 Medium | - | - | - |
+| 13 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | 🟢 Easy | 62.5% | - | 72.8% |
+| 14 | [1228. Missing Number In Arithmetic Progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression/) | 🟢 Easy | 100.0% | 6m+ | 52.2% |
+| 15 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | 🟢 Easy | 100.0% | 6m+ | 75.0% |
+| 16 | [1747. Leetflex Banned Accounts](https://leetcode.com/problems/leetflex-banned-accounts/) | 🟡 Medium | 100.0% | 6m+ | 61.8% |
+| 17 | [1817. Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/) | 🟡 Medium | - | - | - |
+| 18 | [3857. Minimum Cost to Split into Ones](https://leetcode.com/problems/minimum-cost-to-split-into-ones/) | 🟡 Medium | - | - | - |
 
 ---
 
@@ -35452,6 +35452,40 @@
 
 ---
 
+## Point72
+
+> 🟢 Easy: 7 | 🟡 Medium: 14 | 🔴 Hard: 4 | Total: 25
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
+| 2 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
+| 3 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 🟡 Medium | - | - | - |
+| 4 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | - | - | - |
+| 5 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | - | - | - |
+| 6 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | - | - | - |
+| 7 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 🟡 Medium | - | - | - |
+| 8 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 🔴 Hard | - | - | - |
+| 9 | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | 🟡 Medium | - | - | - |
+| 10 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | 🟡 Medium | - | - | - |
+| 11 | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | 🟢 Easy | - | - | - |
+| 12 | [480. Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | 🔴 Hard | - | - | - |
+| 13 | [679. 24 Game](https://leetcode.com/problems/24-game/) | 🔴 Hard | - | - | - |
+| 14 | [870. Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | 🟡 Medium | - | - | - |
+| 15 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | - | - | - |
+| 16 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | 🟢 Easy | - | - | - |
+| 17 | [1294. Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country/) | 🟢 Easy | 100.0% | 6m+ | 67.0% |
+| 18 | [1321. Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | 🟡 Medium | 100.0% | 6m+ | 58.2% |
+| 19 | [1333. Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/) | 🟡 Medium | - | - | - |
+| 20 | [1378. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | 🟢 Easy | 100.0% | 6m+ | 83.5% |
+| 21 | [1407. Top Travellers](https://leetcode.com/problems/top-travellers/) | 🟢 Easy | 100.0% | 6m+ | 57.1% |
+| 22 | [1440. Evaluate Boolean Expression](https://leetcode.com/problems/evaluate-boolean-expression/) | 🟡 Medium | 100.0% | 6m+ | 71.8% |
+| 23 | [2680. Maximum OR](https://leetcode.com/problems/maximum-or/) | 🟡 Medium | - | - | - |
+| 24 | [2851. String Transformation](https://leetcode.com/problems/string-transformation/) | 🔴 Hard | - | - | - |
+| 25 | [2964. Number of Divisible Triplet Sums](https://leetcode.com/problems/number-of-divisible-triplet-sums/) | 🟡 Medium | - | - | - |
+
+---
+
 ## Optum
 
 > 🟢 Easy: 13 | 🟡 Medium: 18 | 🔴 Hard: 2 | Total: 33
@@ -35491,40 +35525,6 @@
 | 31 | [1979. Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | 🟢 Easy | - | - | - |
 | 32 | [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | 🟢 Easy | 87.5% | 6m+ | 86.5% |
 | 33 | [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | 🟡 Medium | - | - | - |
-
----
-
-## Point72
-
-> 🟢 Easy: 7 | 🟡 Medium: 14 | 🔴 Hard: 4 | Total: 25
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
-| 2 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
-| 3 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 🟡 Medium | - | - | - |
-| 4 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | - | - | - |
-| 5 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | - | - | - |
-| 6 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | - | - | - |
-| 7 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 🟡 Medium | - | - | - |
-| 8 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 🔴 Hard | - | - | - |
-| 9 | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | 🟡 Medium | - | - | - |
-| 10 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | 🟡 Medium | - | - | - |
-| 11 | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | 🟢 Easy | - | - | - |
-| 12 | [480. Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | 🔴 Hard | - | - | - |
-| 13 | [679. 24 Game](https://leetcode.com/problems/24-game/) | 🔴 Hard | - | - | - |
-| 14 | [870. Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | 🟡 Medium | - | - | - |
-| 15 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | - | - | - |
-| 16 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | 🟢 Easy | - | - | - |
-| 17 | [1294. Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country/) | 🟢 Easy | 100.0% | 6m+ | 67.0% |
-| 18 | [1321. Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | 🟡 Medium | 100.0% | 6m+ | 58.2% |
-| 19 | [1333. Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/) | 🟡 Medium | - | - | - |
-| 20 | [1378. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | 🟢 Easy | 100.0% | 6m+ | 83.5% |
-| 21 | [1407. Top Travellers](https://leetcode.com/problems/top-travellers/) | 🟢 Easy | 100.0% | 6m+ | 57.1% |
-| 22 | [1440. Evaluate Boolean Expression](https://leetcode.com/problems/evaluate-boolean-expression/) | 🟡 Medium | 100.0% | 6m+ | 71.8% |
-| 23 | [2680. Maximum OR](https://leetcode.com/problems/maximum-or/) | 🟡 Medium | - | - | - |
-| 24 | [2851. String Transformation](https://leetcode.com/problems/string-transformation/) | 🔴 Hard | - | - | - |
-| 25 | [2964. Number of Divisible Triplet Sums](https://leetcode.com/problems/number-of-divisible-triplet-sums/) | 🟡 Medium | - | - | - |
 
 ---
 
@@ -35584,6 +35584,47 @@
 
 ---
 
+## Ripple
+
+> 🟢 Easy: 3 | 🟡 Medium: 24 | 🔴 Hard: 5 | Total: 32
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | 🟡 Medium | - | - | - |
+| 2 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | - | - | - |
+| 3 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 Medium | - | - | - |
+| 4 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 🟡 Medium | - | - | - |
+| 5 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
+| 6 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | 87.5% | 6m+ | 72.2% |
+| 7 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | 87.5% | 6m+ | 53.0% |
+| 8 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | 3.0% | 6m+ | 51.1% |
+| 9 | [120. Triangle](https://leetcode.com/problems/triangle/) | 🟡 Medium | - | - | - |
+| 10 | [135. Candy](https://leetcode.com/problems/candy/) | 🔴 Hard | - | - | - |
+| 11 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | 🟡 Medium | - | - | - |
+| 12 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 87.5% | 6m+ | 46.8% |
+| 13 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | - | - | - |
+| 14 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | 🔴 Hard | 3.5% | 6m+ | 46.5% |
+| 15 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | - | - | - |
+| 16 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | 87.5% | 6m+ | 68.6% |
+| 17 | [443. String Compression](https://leetcode.com/problems/string-compression/) | 🟡 Medium | 3.7% | 6m+ | 59.5% |
+| 18 | [480. Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | 🔴 Hard | - | - | - |
+| 19 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | 1.8% | 6m+ | 46.8% |
+| 20 | [592. Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/) | 🟡 Medium | - | - | - |
+| 21 | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | - | - | - |
+| 22 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | - | - | - |
+| 23 | [772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) | 🔴 Hard | - | - | - |
+| 24 | [853. Car Fleet](https://leetcode.com/problems/car-fleet/) | 🟡 Medium | 100.0% | 6m | 54.7% |
+| 25 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | 87.5% | 6m+ | 49.7% |
+| 26 | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | 🟡 Medium | - | - | - |
+| 27 | [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | 🟡 Medium | - | - | - |
+| 28 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | 🟢 Easy | 87.5% | 6m+ | 72.8% |
+| 29 | [1068. Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | 🟢 Easy | 87.5% | 6m+ | 85.6% |
+| 30 | [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | 🟡 Medium | - | - | - |
+| 31 | [2034. Stock Price Fluctuation ](https://leetcode.com/problems/stock-price-fluctuation/) | 🟡 Medium | 87.5% | 6m+ | 48.9% |
+| 32 | [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | 🟡 Medium | - | - | - |
+
+---
+
 ## Comcast
 
 > 🟢 Easy: 22 | 🟡 Medium: 17 | 🔴 Hard: 2 | Total: 41
@@ -35634,115 +35675,6 @@
 
 ---
 
-## Cashfree
-
-> 🟢 Easy: 3 | 🟡 Medium: 14 | 🔴 Hard: 3 | Total: 20
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | 62.5% | - | 66.2% |
-| 2 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | - | - | - |
-| 3 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | - | - | - |
-| 4 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | 🟡 Medium | - | - | - |
-| 5 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
-| 6 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | - | - | - |
-| 7 | [263. Ugly Number](https://leetcode.com/problems/ugly-number/) | 🟢 Easy | - | - | - |
-| 8 | [494. Target Sum](https://leetcode.com/problems/target-sum/) | 🟡 Medium | - | - | - |
-| 9 | [588. Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/) | 🔴 Hard | - | - | - |
-| 10 | [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | 🟡 Medium | - | - | - |
-| 11 | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | 🟡 Medium | 100.0% | 6m+ | 49.4% |
-| 12 | [665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | 🟡 Medium | 0.7% | 6m+ | 25.4% |
-| 13 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | - | - | - |
-| 14 | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | 🟡 Medium | - | - | - |
-| 15 | [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | 🟡 Medium | 100.0% | 6m+ | 64.1% |
-| 16 | [1882. Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | 🟡 Medium | - | - | - |
-| 17 | [2272. Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/) | 🔴 Hard | - | - | - |
-| 18 | [2291. Maximum Profit From Trading Stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks/) | 🟡 Medium | - | - | - |
-| 19 | [2560. House Robber IV](https://leetcode.com/problems/house-robber-iv/) | 🟡 Medium | 100.0% | 6m+ | 64.8% |
-| 20 | [2858. Minimum Edge Reversals So Every Node Is Reachable](https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/) | 🔴 Hard | 100.0% | 6m | 57.2% |
-
----
-
-## Ripple
-
-> 🟢 Easy: 3 | 🟡 Medium: 24 | 🔴 Hard: 5 | Total: 32
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | 🟡 Medium | - | - | - |
-| 2 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | - | - | - |
-| 3 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 Medium | - | - | - |
-| 4 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 🟡 Medium | - | - | - |
-| 5 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
-| 6 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | 87.5% | 6m+ | 72.2% |
-| 7 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | 87.5% | 6m+ | 53.0% |
-| 8 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | 3.0% | 6m+ | 51.1% |
-| 9 | [120. Triangle](https://leetcode.com/problems/triangle/) | 🟡 Medium | - | - | - |
-| 10 | [135. Candy](https://leetcode.com/problems/candy/) | 🔴 Hard | - | - | - |
-| 11 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | 🟡 Medium | - | - | - |
-| 12 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 87.5% | 6m+ | 46.8% |
-| 13 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | - | - | - |
-| 14 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | 🔴 Hard | 3.5% | 6m+ | 46.5% |
-| 15 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | - | - | - |
-| 16 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | 87.5% | 6m+ | 68.6% |
-| 17 | [443. String Compression](https://leetcode.com/problems/string-compression/) | 🟡 Medium | 3.7% | 6m+ | 59.5% |
-| 18 | [480. Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | 🔴 Hard | - | - | - |
-| 19 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | 1.8% | 6m+ | 46.8% |
-| 20 | [592. Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/) | 🟡 Medium | - | - | - |
-| 21 | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | - | - | - |
-| 22 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | - | - | - |
-| 23 | [772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) | 🔴 Hard | - | - | - |
-| 24 | [853. Car Fleet](https://leetcode.com/problems/car-fleet/) | 🟡 Medium | 100.0% | 6m | 54.7% |
-| 25 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | 87.5% | 6m+ | 49.7% |
-| 26 | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | 🟡 Medium | - | - | - |
-| 27 | [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | 🟡 Medium | - | - | - |
-| 28 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | 🟢 Easy | 87.5% | 6m+ | 72.8% |
-| 29 | [1068. Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | 🟢 Easy | 87.5% | 6m+ | 85.6% |
-| 30 | [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | 🟡 Medium | - | - | - |
-| 31 | [2034. Stock Price Fluctuation ](https://leetcode.com/problems/stock-price-fluctuation/) | 🟡 Medium | 87.5% | 6m+ | 48.9% |
-| 32 | [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | 🟡 Medium | - | - | - |
-
----
-
-## Nike
-
-> 🟢 Easy: 8 | 🟡 Medium: 18 | 🔴 Hard: 4 | Total: 30
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
-| 2 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 87.5% | 6m+ | 38.5% |
-| 3 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | - | - | - |
-| 4 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | 87.5% | 6m+ | 43.7% |
-| 5 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | 87.5% | 6m+ | 44.7% |
-| 6 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | 🔴 Hard | 3.4% | 6m+ | 38.0% |
-| 7 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | - | - | - |
-| 8 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | - | - | - |
-| 9 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | 87.5% | 6m+ | 53.0% |
-| 10 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | 1.9% | 6m+ | 40.5% |
-| 11 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 Medium | 2.2% | 6m+ | 70.7% |
-| 12 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | - | - | - |
-| 13 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | 87.5% | 6m+ | 57.7% |
-| 14 | [202. Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | 4.8% | 6m+ | 59.2% |
-| 15 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | 🔴 Hard | - | - | - |
-| 16 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟡 Medium | - | - | - |
-| 17 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | - | - | - |
-| 18 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | - | - | - |
-| 19 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | 🟡 Medium | 2.3% | 6m | 64.0% |
-| 20 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | - | - | - |
-| 21 | [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | 🔴 Hard | - | - | - |
-| 22 | [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | 🟡 Medium | 87.5% | 6m+ | 67.0% |
-| 23 | [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | 🟡 Medium | - | - | - |
-| 24 | [586. Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | 🟢 Easy | - | - | - |
-| 25 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | 🟢 Easy | 87.5% | 6m+ | 29.0% |
-| 26 | [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | 🟡 Medium | - | - | - |
-| 27 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | - | - | - |
-| 28 | [1750. Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | 🟡 Medium | - | - | - |
-| 29 | [1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) | 🟡 Medium | - | - | - |
-| 30 | [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | 🔴 Hard | 87.5% | 6m+ | 64.8% |
-
----
-
 ## GoDaddy
 
 > 🟢 Easy: 12 | 🟡 Medium: 12 | 🔴 Hard: 4 | Total: 28
@@ -35777,6 +35709,35 @@
 | 26 | [1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | 🟢 Easy | - | - | - |
 | 27 | [1761. Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/) | 🔴 Hard | 87.5% | 6m+ | 44.2% |
 | 28 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | 🟢 Easy | - | - | - |
+
+---
+
+## Cashfree
+
+> 🟢 Easy: 3 | 🟡 Medium: 14 | 🔴 Hard: 3 | Total: 20
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | 62.5% | - | 66.2% |
+| 2 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | - | - | - |
+| 3 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | - | - | - |
+| 4 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | 🟡 Medium | - | - | - |
+| 5 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
+| 6 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | - | - | - |
+| 7 | [263. Ugly Number](https://leetcode.com/problems/ugly-number/) | 🟢 Easy | - | - | - |
+| 8 | [494. Target Sum](https://leetcode.com/problems/target-sum/) | 🟡 Medium | - | - | - |
+| 9 | [588. Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/) | 🔴 Hard | - | - | - |
+| 10 | [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | 🟡 Medium | - | - | - |
+| 11 | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | 🟡 Medium | 100.0% | 6m+ | 49.4% |
+| 12 | [665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | 🟡 Medium | 0.7% | 6m+ | 25.4% |
+| 13 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | - | - | - |
+| 14 | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | 🟡 Medium | - | - | - |
+| 15 | [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | 🟡 Medium | 100.0% | 6m+ | 64.1% |
+| 16 | [1882. Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | 🟡 Medium | - | - | - |
+| 17 | [2272. Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/) | 🔴 Hard | - | - | - |
+| 18 | [2291. Maximum Profit From Trading Stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks/) | 🟡 Medium | - | - | - |
+| 19 | [2560. House Robber IV](https://leetcode.com/problems/house-robber-iv/) | 🟡 Medium | 100.0% | 6m+ | 64.8% |
+| 20 | [2858. Minimum Edge Reversals So Every Node Is Reachable](https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/) | 🔴 Hard | 100.0% | 6m | 57.2% |
 
 ---
 
@@ -35829,6 +35790,45 @@
 | 41 | [3021. Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) | 🟡 Medium | - | - | - |
 | 42 | [3039. Apply Operations to Make String Empty](https://leetcode.com/problems/apply-operations-to-make-string-empty/) | 🟡 Medium | 87.5% | 6m+ | 57.3% |
 | 43 | [3718. Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | 🟢 Easy | - | - | - |
+
+---
+
+## Nike
+
+> 🟢 Easy: 8 | 🟡 Medium: 18 | 🔴 Hard: 4 | Total: 30
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
+| 2 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 87.5% | 6m+ | 38.5% |
+| 3 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | - | - | - |
+| 4 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | 87.5% | 6m+ | 43.7% |
+| 5 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | 87.5% | 6m+ | 44.7% |
+| 6 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | 🔴 Hard | 3.4% | 6m+ | 38.0% |
+| 7 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | - | - | - |
+| 8 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | - | - | - |
+| 9 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | 87.5% | 6m+ | 53.0% |
+| 10 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | 1.9% | 6m+ | 40.5% |
+| 11 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 Medium | 2.2% | 6m+ | 70.7% |
+| 12 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | - | - | - |
+| 13 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | 87.5% | 6m+ | 57.7% |
+| 14 | [202. Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | 4.8% | 6m+ | 59.2% |
+| 15 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | 🔴 Hard | - | - | - |
+| 16 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟡 Medium | - | - | - |
+| 17 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | - | - | - |
+| 18 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | - | - | - |
+| 19 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | 🟡 Medium | 2.3% | 6m | 64.0% |
+| 20 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | - | - | - |
+| 21 | [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | 🔴 Hard | - | - | - |
+| 22 | [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | 🟡 Medium | 87.5% | 6m+ | 67.0% |
+| 23 | [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | 🟡 Medium | - | - | - |
+| 24 | [586. Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | 🟢 Easy | - | - | - |
+| 25 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | 🟢 Easy | 87.5% | 6m+ | 29.0% |
+| 26 | [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | 🟡 Medium | - | - | - |
+| 27 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | - | - | - |
+| 28 | [1750. Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | 🟡 Medium | - | - | - |
+| 29 | [1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) | 🟡 Medium | - | - | - |
+| 30 | [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | 🔴 Hard | 87.5% | 6m+ | 64.8% |
 
 ---
 
@@ -35889,34 +35889,60 @@
 
 ---
 
-## Guidewire
+## Mercari
 
-> 🟢 Easy: 2 | 🟡 Medium: 18 | 🔴 Hard: 2 | Total: 22
+> 🟢 Easy: 3 | 🟡 Medium: 8 | 🔴 Hard: 1 | Total: 12
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | - | - | - |
+| 2 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | 🟡 Medium | - | - | - |
+| 3 | [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | 🟡 Medium | - | - | - |
+| 4 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | - | - | - |
+| 5 | [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/) | 🟢 Easy | 75.0% | 6m+ | 74.7% |
+| 6 | [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/) | 🟡 Medium | - | - | - |
+| 7 | [1403. Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | 🟢 Easy | 75.0% | 6m+ | 73.6% |
+| 8 | [1432. Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | 🟡 Medium | 75.0% | 6m+ | 48.8% |
+| 9 | [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | 🟢 Easy | 75.0% | 6m+ | 71.6% |
+| 10 | [1851. Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | 🔴 Hard | - | - | - |
+| 11 | [2598. Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) | 🟡 Medium | 100.0% | 6m+ | 55.9% |
+| 12 | [2779. Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) | 🟡 Medium | - | - | - |
+
+---
+
+## Lucid
+
+> 🟢 Easy: 6 | 🟡 Medium: 19 | 🔴 Hard: 2 | Total: 27
 
 | # | Problem | Difficulty | Freq | Recency | Acceptance |
 |---|---------|------------|------|---------|------------|
 | 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
-| 2 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | - | - | - |
-| 3 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
-| 4 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | - | - | - |
-| 5 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | - | - | - |
-| 6 | [284. Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | 🟡 Medium | - | - | - |
-| 7 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | - | - | - |
-| 8 | [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | 🟡 Medium | - | - | - |
-| 9 | [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | 🟡 Medium | - | - | - |
-| 10 | [1311. Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends/) | 🟡 Medium | 87.5% | 6m+ | 52.1% |
-| 11 | [1324. Print Words Vertically](https://leetcode.com/problems/print-words-vertically/) | 🟡 Medium | 87.5% | 6m+ | 67.4% |
-| 12 | [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | 🟡 Medium | - | - | - |
-| 13 | [1386. Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | 🟡 Medium | - | - | - |
-| 14 | [2009. Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | 🔴 Hard | - | - | - |
-| 15 | [2086. Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | 🟡 Medium | - | - | - |
-| 16 | [2115. Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | 🟡 Medium | - | - | - |
-| 17 | [2391. Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | 🟡 Medium | - | - | - |
-| 18 | [2471. Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | 🟡 Medium | 100.0% | 6m+ | 74.2% |
-| 19 | [2745. Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/) | 🟡 Medium | 100.0% | 6m+ | 54.6% |
-| 20 | [2850. Minimum Moves to Spread Stones Over Grid](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/) | 🟡 Medium | 7.7% | 6m+ | 45.3% |
-| 21 | [3366. Minimum Array Sum](https://leetcode.com/problems/minimum-array-sum/) | 🟡 Medium | - | - | - |
-| 22 | [3474. Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/) | 🔴 Hard | - | - | - |
+| 2 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 87.5% | 6m+ | 38.5% |
+| 3 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | 3.2% | 6m+ | 43.7% |
+| 4 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
+| 5 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | - | - | - |
+| 6 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | - | - | - |
+| 7 | [120. Triangle](https://leetcode.com/problems/triangle/) | 🟡 Medium | - | - | - |
+| 8 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | 🟡 Medium | - | - | - |
+| 9 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | 87.5% | 6m+ | 57.7% |
+| 10 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | - | - | - |
+| 11 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | 100.0% | 6m+ | 63.8% |
+| 12 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | - | - | - |
+| 13 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | - | - | - |
+| 14 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | 87.5% | 6m+ | 68.7% |
+| 15 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | - | - | - |
+| 16 | [490. The Maze](https://leetcode.com/problems/the-maze/) | 🟡 Medium | - | - | - |
+| 17 | [505. The Maze II](https://leetcode.com/problems/the-maze-ii/) | 🟡 Medium | - | - | - |
+| 18 | [723. Candy Crush](https://leetcode.com/problems/candy-crush/) | 🟡 Medium | - | - | - |
+| 19 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | - | - | - |
+| 20 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | 🟢 Easy | - | - | - |
+| 21 | [1226. The Dining Philosophers](https://leetcode.com/problems/the-dining-philosophers/) | 🟡 Medium | - | - | - |
+| 22 | [1742. Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | 🟢 Easy | 87.5% | 6m+ | 74.7% |
+| 23 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | 🟢 Easy | - | - | - |
+| 24 | [1814. Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | 🟡 Medium | - | - | - |
+| 25 | [2603. Collect Coins in a Tree](https://leetcode.com/problems/collect-coins-in-a-tree/) | 🔴 Hard | 87.5% | 6m+ | 39.6% |
+| 26 | [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | 🟡 Medium | - | - | - |
+| 27 | [3034. Number of Subarrays That Match a Pattern I](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i/) | 🟡 Medium | - | - | - |
 
 ---
 
@@ -36075,6 +36101,37 @@
 
 ---
 
+## Guidewire
+
+> 🟢 Easy: 2 | 🟡 Medium: 18 | 🔴 Hard: 2 | Total: 22
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
+| 2 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | - | - | - |
+| 3 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
+| 4 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | - | - | - |
+| 5 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | - | - | - |
+| 6 | [284. Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | 🟡 Medium | - | - | - |
+| 7 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | - | - | - |
+| 8 | [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | 🟡 Medium | - | - | - |
+| 9 | [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | 🟡 Medium | - | - | - |
+| 10 | [1311. Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends/) | 🟡 Medium | 87.5% | 6m+ | 52.1% |
+| 11 | [1324. Print Words Vertically](https://leetcode.com/problems/print-words-vertically/) | 🟡 Medium | 87.5% | 6m+ | 67.4% |
+| 12 | [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | 🟡 Medium | - | - | - |
+| 13 | [1386. Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | 🟡 Medium | - | - | - |
+| 14 | [2009. Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | 🔴 Hard | - | - | - |
+| 15 | [2086. Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | 🟡 Medium | - | - | - |
+| 16 | [2115. Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | 🟡 Medium | - | - | - |
+| 17 | [2391. Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | 🟡 Medium | - | - | - |
+| 18 | [2471. Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | 🟡 Medium | 100.0% | 6m+ | 74.2% |
+| 19 | [2745. Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/) | 🟡 Medium | 100.0% | 6m+ | 54.6% |
+| 20 | [2850. Minimum Moves to Spread Stones Over Grid](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/) | 🟡 Medium | 7.7% | 6m+ | 45.3% |
+| 21 | [3366. Minimum Array Sum](https://leetcode.com/problems/minimum-array-sum/) | 🟡 Medium | - | - | - |
+| 22 | [3474. Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/) | 🔴 Hard | - | - | - |
+
+---
+
 ## Faire
 
 > 🟢 Easy: 2 | 🟡 Medium: 6 | 🔴 Hard: 6 | Total: 14
@@ -36135,63 +36192,6 @@
 | 29 | [2694. Event Emitter](https://leetcode.com/problems/event-emitter/) | 🟡 Medium | - | - | - |
 | 30 | [3043. Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | 🟡 Medium | 87.5% | 6m+ | 57.0% |
 | 31 | [3071. Minimum Operations to Write the Letter Y on a Grid](https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid/) | 🟡 Medium | - | - | - |
-
----
-
-## Mercari
-
-> 🟢 Easy: 3 | 🟡 Medium: 8 | 🔴 Hard: 1 | Total: 12
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | - | - | - |
-| 2 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | 🟡 Medium | - | - | - |
-| 3 | [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | 🟡 Medium | - | - | - |
-| 4 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | - | - | - |
-| 5 | [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/) | 🟢 Easy | 75.0% | 6m+ | 74.7% |
-| 6 | [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/) | 🟡 Medium | - | - | - |
-| 7 | [1403. Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | 🟢 Easy | 75.0% | 6m+ | 73.6% |
-| 8 | [1432. Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | 🟡 Medium | 75.0% | 6m+ | 48.8% |
-| 9 | [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | 🟢 Easy | 75.0% | 6m+ | 71.6% |
-| 10 | [1851. Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | 🔴 Hard | - | - | - |
-| 11 | [2598. Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) | 🟡 Medium | 100.0% | 6m+ | 55.9% |
-| 12 | [2779. Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) | 🟡 Medium | - | - | - |
-
----
-
-## Lucid
-
-> 🟢 Easy: 6 | 🟡 Medium: 19 | 🔴 Hard: 2 | Total: 27
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
-| 2 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 87.5% | 6m+ | 38.5% |
-| 3 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | 3.2% | 6m+ | 43.7% |
-| 4 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
-| 5 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | - | - | - |
-| 6 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | - | - | - |
-| 7 | [120. Triangle](https://leetcode.com/problems/triangle/) | 🟡 Medium | - | - | - |
-| 8 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | 🟡 Medium | - | - | - |
-| 9 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | 87.5% | 6m+ | 57.7% |
-| 10 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | - | - | - |
-| 11 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | 100.0% | 6m+ | 63.8% |
-| 12 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | - | - | - |
-| 13 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | - | - | - |
-| 14 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | 87.5% | 6m+ | 68.7% |
-| 15 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | - | - | - |
-| 16 | [490. The Maze](https://leetcode.com/problems/the-maze/) | 🟡 Medium | - | - | - |
-| 17 | [505. The Maze II](https://leetcode.com/problems/the-maze-ii/) | 🟡 Medium | - | - | - |
-| 18 | [723. Candy Crush](https://leetcode.com/problems/candy-crush/) | 🟡 Medium | - | - | - |
-| 19 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | - | - | - |
-| 20 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | 🟢 Easy | - | - | - |
-| 21 | [1226. The Dining Philosophers](https://leetcode.com/problems/the-dining-philosophers/) | 🟡 Medium | - | - | - |
-| 22 | [1742. Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | 🟢 Easy | 87.5% | 6m+ | 74.7% |
-| 23 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | 🟢 Easy | - | - | - |
-| 24 | [1814. Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | 🟡 Medium | - | - | - |
-| 25 | [2603. Collect Coins in a Tree](https://leetcode.com/problems/collect-coins-in-a-tree/) | 🔴 Hard | 87.5% | 6m+ | 39.6% |
-| 26 | [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | 🟡 Medium | - | - | - |
-| 27 | [3034. Number of Subarrays That Match a Pattern I](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i/) | 🟡 Medium | - | - | - |
 
 ---
 
@@ -36468,31 +36468,6 @@
 
 ---
 
-## Duolingo
-
-> 🟢 Easy: 1 | 🟡 Medium: 13 | 🔴 Hard: 2 | Total: 16
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [61. Rotate List](https://leetcode.com/problems/rotate-list/) | 🟡 Medium | - | - | - |
-| 2 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | 🟡 Medium | - | - | - |
-| 3 | [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | 🔴 Hard | 3.5% | 6m | 56.3% |
-| 4 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | 🟢 Easy | - | - | - |
-| 5 | [855. Exam Room](https://leetcode.com/problems/exam-room/) | 🟡 Medium | - | - | - |
-| 6 | [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | 🟡 Medium | - | - | - |
-| 7 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | - | - | - |
-| 8 | [1066. Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/) | 🟡 Medium | - | - | - |
-| 9 | [1152. Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/) | 🟡 Medium | - | - | - |
-| 10 | [2227. Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/) | 🔴 Hard | 87.5% | 6m,6m+ | 38.0% |
-| 11 | [1733. Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/) | 🟡 Medium | 62.5% | 6m+ | 67.7% |
-| 12 | [2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/) | 🟡 Medium | 62.5% | 6m+ | 46.0% |
-| 13 | [2327. Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | 🟡 Medium | - | - | - |
-| 14 | [2365. Task Scheduler II](https://leetcode.com/problems/task-scheduler-ii/) | 🟡 Medium | 87.5% | 6m,6m+ | 54.7% |
-| 15 | [3071. Minimum Operations to Write the Letter Y on a Grid](https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid/) | 🟡 Medium | - | - | - |
-| 16 | [3552. Grid Teleportation Traversal](https://leetcode.com/problems/grid-teleportation-traversal/) | 🟡 Medium | - | - | - |
-
----
-
 ## Alibaba
 
 > 🟢 Easy: 4 | 🟡 Medium: 20 | 🔴 Hard: 7 | Total: 31
@@ -36530,6 +36505,31 @@
 | 29 | [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | 🟡 Medium | - | - | - |
 | 30 | [2742. Painting the Walls](https://leetcode.com/problems/painting-the-walls/) | 🔴 Hard | - | - | - |
 | 31 | [3177. Find the Maximum Length of a Good Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii/) | 🔴 Hard | - | - | - |
+
+---
+
+## Duolingo
+
+> 🟢 Easy: 1 | 🟡 Medium: 13 | 🔴 Hard: 2 | Total: 16
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [61. Rotate List](https://leetcode.com/problems/rotate-list/) | 🟡 Medium | - | - | - |
+| 2 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | 🟡 Medium | - | - | - |
+| 3 | [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | 🔴 Hard | 3.5% | 6m | 56.3% |
+| 4 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | 🟢 Easy | - | - | - |
+| 5 | [855. Exam Room](https://leetcode.com/problems/exam-room/) | 🟡 Medium | - | - | - |
+| 6 | [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | 🟡 Medium | - | - | - |
+| 7 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | - | - | - |
+| 8 | [1066. Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/) | 🟡 Medium | - | - | - |
+| 9 | [1152. Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/) | 🟡 Medium | - | - | - |
+| 10 | [2227. Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/) | 🔴 Hard | 87.5% | 6m,6m+ | 38.0% |
+| 11 | [1733. Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/) | 🟡 Medium | 62.5% | 6m+ | 67.7% |
+| 12 | [2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/) | 🟡 Medium | 62.5% | 6m+ | 46.0% |
+| 13 | [2327. Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | 🟡 Medium | - | - | - |
+| 14 | [2365. Task Scheduler II](https://leetcode.com/problems/task-scheduler-ii/) | 🟡 Medium | 87.5% | 6m,6m+ | 54.7% |
+| 15 | [3071. Minimum Operations to Write the Letter Y on a Grid](https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid/) | 🟡 Medium | - | - | - |
+| 16 | [3552. Grid Teleportation Traversal](https://leetcode.com/problems/grid-teleportation-traversal/) | 🟡 Medium | - | - | - |
 
 ---
 
@@ -36770,6 +36770,32 @@
 
 ---
 
+## Tripadvisor
+
+> 🟢 Easy: 9 | 🟡 Medium: 7 | 🔴 Hard: 1 | Total: 17
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
+| 2 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | 🟡 Medium | - | - | - |
+| 3 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | - | - | - |
+| 4 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | 5.5% | 3m,6m,6m+ | 43.7% |
+| 5 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | - | - | - |
+| 6 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 7.0% | 6m+ | 46.8% |
+| 7 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | - | - | - |
+| 8 | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | 🟢 Easy | - | - | - |
+| 9 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | - | - | - |
+| 10 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 🟡 Medium | 3.0% | - | 56.8% |
+| 11 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | - | - | - |
+| 12 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | - | - | - |
+| 13 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | 🟢 Easy | 3.4% | 6m+ | 65.6% |
+| 14 | [716. Max Stack](https://leetcode.com/problems/max-stack/) | 🔴 Hard | - | - | - |
+| 15 | [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/) | 🟢 Easy | 75.0% | 6m+ | 74.6% |
+| 16 | [1341. Movie Rating](https://leetcode.com/problems/movie-rating/) | 🟡 Medium | - | - | - |
+| 17 | [1731. The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | 🟢 Easy | - | - | - |
+
+---
+
 ## Remitly
 
 > 🟢 Easy: 3 | 🟡 Medium: 14 | 🔴 Hard: 1 | Total: 18
@@ -36794,32 +36820,6 @@
 | 16 | [1807. Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | 🟡 Medium | 62.5% | 6m+ | 69.2% |
 | 17 | [2365. Task Scheduler II](https://leetcode.com/problems/task-scheduler-ii/) | 🟡 Medium | - | - | - |
 | 18 | [3481. Apply Substitutions](https://leetcode.com/problems/apply-substitutions/) | 🟡 Medium | - | - | - |
-
----
-
-## Tripadvisor
-
-> 🟢 Easy: 9 | 🟡 Medium: 7 | 🔴 Hard: 1 | Total: 17
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
-| 2 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | 🟡 Medium | - | - | - |
-| 3 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | - | - | - |
-| 4 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | 5.5% | 3m,6m,6m+ | 43.7% |
-| 5 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | - | - | - |
-| 6 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 7.0% | 6m+ | 46.8% |
-| 7 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | - | - | - |
-| 8 | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | 🟢 Easy | - | - | - |
-| 9 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | - | - | - |
-| 10 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 🟡 Medium | 3.0% | - | 56.8% |
-| 11 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | - | - | - |
-| 12 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | - | - | - |
-| 13 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | 🟢 Easy | 3.4% | 6m+ | 65.6% |
-| 14 | [716. Max Stack](https://leetcode.com/problems/max-stack/) | 🔴 Hard | - | - | - |
-| 15 | [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/) | 🟢 Easy | 75.0% | 6m+ | 74.6% |
-| 16 | [1341. Movie Rating](https://leetcode.com/problems/movie-rating/) | 🟡 Medium | - | - | - |
-| 17 | [1731. The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | 🟢 Easy | - | - | - |
 
 ---
 
@@ -36858,6 +36858,55 @@
 | 27 | [2007. Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) | 🟡 Medium | 87.5% | 6m+ | 40.7% |
 | 28 | [2115. Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | 🟡 Medium | 87.5% | 6m+ | 56.8% |
 | 29 | [3380. Maximum Area Rectangle With Point Constraints I](https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i/) | 🟡 Medium | - | - | - |
+
+---
+
+## ZS Associates
+
+> 🟢 Easy: 13 | 🟡 Medium: 24 | 🔴 Hard: 3 | Total: 40
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | - | - | - |
+| 2 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 100.0% | 6m+ | 38.5% |
+| 3 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | 2.2% | 6m | 37.3% |
+| 4 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | - | - | - |
+| 5 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | - | - | - |
+| 6 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | 87.5% | - | 43.7% |
+| 7 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | - | - | - |
+| 8 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | 🟡 Medium | - | - | - |
+| 9 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
+| 10 | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | 🟡 Medium | - | - | - |
+| 11 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | 🟡 Medium | - | - | - |
+| 12 | [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | 🟡 Medium | 3.0% | 6m | 46.3% |
+| 13 | [177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | 🟡 Medium | 3.7% | 6m+ | 38.8% |
+| 14 | [185. Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | 🔴 Hard | - | - | - |
+| 15 | [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | 🟢 Easy | - | - | - |
+| 16 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | - | - | - |
+| 17 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | 🟡 Medium | - | - | - |
+| 18 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | - | - | - |
+| 19 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | 1.7% | 6m+ | 68.6% |
+| 20 | [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/) | 🟢 Easy | - | - | - |
+| 21 | [443. String Compression](https://leetcode.com/problems/string-compression/) | 🟡 Medium | - | - | - |
+| 22 | [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | 🟡 Medium | 87.5% | - | 48.9% |
+| 23 | [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | 🟢 Easy | 100.0% | 6m+ | 64.4% |
+| 24 | [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | 🟢 Easy | - | - | - |
+| 25 | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | 🟡 Medium | - | - | - |
+| 26 | [627. Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees/) | 🟢 Easy | - | - | - |
+| 27 | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | 🟡 Medium | - | - | - |
+| 28 | [943. Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | 🔴 Hard | - | - | - |
+| 29 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy | - | - | - |
+| 30 | [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | 🟡 Medium | - | - | - |
+| 31 | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | 🟡 Medium | - | - | - |
+| 32 | [1070. Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | 🟡 Medium | - | - | - |
+| 33 | [1139. Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | 🟡 Medium | 100.0% | 6m+ | 52.0% |
+| 34 | [1204. Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) | 🟡 Medium | - | - | - |
+| 35 | [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | 🟢 Easy | - | - | - |
+| 36 | [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | 🟢 Easy | - | - | - |
+| 37 | [1731. The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | 🟢 Easy | 100.0% | 6m+ | 53.0% |
+| 38 | [2762. Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/) | 🟡 Medium | - | - | - |
+| 39 | [2900. Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/) | 🟢 Easy | 100.0% | 6m+ | 66.9% |
+| 40 | [2929. Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/) | 🟡 Medium | 100.0% | 6m+ | 55.7% |
 
 ---
 
@@ -36962,55 +37011,6 @@
 
 ---
 
-## ZS Associates
-
-> 🟢 Easy: 13 | 🟡 Medium: 24 | 🔴 Hard: 3 | Total: 40
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | - | - | - |
-| 2 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | 100.0% | 6m+ | 38.5% |
-| 3 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | 2.2% | 6m | 37.3% |
-| 4 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | - | - | - |
-| 5 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | - | - | - |
-| 6 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | 87.5% | - | 43.7% |
-| 7 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | - | - | - |
-| 8 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | 🟡 Medium | - | - | - |
-| 9 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
-| 10 | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | 🟡 Medium | - | - | - |
-| 11 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | 🟡 Medium | - | - | - |
-| 12 | [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | 🟡 Medium | 3.0% | 6m | 46.3% |
-| 13 | [177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | 🟡 Medium | 3.7% | 6m+ | 38.8% |
-| 14 | [185. Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | 🔴 Hard | - | - | - |
-| 15 | [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | 🟢 Easy | - | - | - |
-| 16 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | - | - | - |
-| 17 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | 🟡 Medium | - | - | - |
-| 18 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | - | - | - |
-| 19 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | 1.7% | 6m+ | 68.6% |
-| 20 | [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/) | 🟢 Easy | - | - | - |
-| 21 | [443. String Compression](https://leetcode.com/problems/string-compression/) | 🟡 Medium | - | - | - |
-| 22 | [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | 🟡 Medium | 87.5% | - | 48.9% |
-| 23 | [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | 🟢 Easy | 100.0% | 6m+ | 64.4% |
-| 24 | [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | 🟢 Easy | - | - | - |
-| 25 | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | 🟡 Medium | - | - | - |
-| 26 | [627. Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees/) | 🟢 Easy | - | - | - |
-| 27 | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | 🟡 Medium | - | - | - |
-| 28 | [943. Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | 🔴 Hard | - | - | - |
-| 29 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy | - | - | - |
-| 30 | [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | 🟡 Medium | - | - | - |
-| 31 | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | 🟡 Medium | - | - | - |
-| 32 | [1070. Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | 🟡 Medium | - | - | - |
-| 33 | [1139. Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | 🟡 Medium | 100.0% | 6m+ | 52.0% |
-| 34 | [1204. Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) | 🟡 Medium | - | - | - |
-| 35 | [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | 🟢 Easy | - | - | - |
-| 36 | [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | 🟢 Easy | - | - | - |
-| 37 | [1731. The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | 🟢 Easy | 100.0% | 6m+ | 53.0% |
-| 38 | [2762. Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/) | 🟡 Medium | - | - | - |
-| 39 | [2900. Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/) | 🟢 Easy | 100.0% | 6m+ | 66.9% |
-| 40 | [2929. Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/) | 🟡 Medium | 100.0% | 6m+ | 55.7% |
-
----
-
 ## Toast
 
 > 🟢 Easy: 4 | 🟡 Medium: 8 | 🔴 Hard: 0 | Total: 12
@@ -37029,6 +37029,26 @@
 | 10 | [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | 🟡 Medium | - | - | - |
 | 11 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | 🟡 Medium | - | - | - |
 | 12 | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | 🟡 Medium | - | - | - |
+
+---
+
+## Asana
+
+> 🟢 Easy: 4 | 🟡 Medium: 5 | 🔴 Hard: 2 | Total: 11
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | - | - | - |
+| 2 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 Medium | - | - | - |
+| 3 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 Hard | - | - | - |
+| 4 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | - | - | - |
+| 5 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | 0.1% | 3m,6m,6m+ | 68.6% |
+| 6 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | 🟢 Easy | - | - | - |
+| 7 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 🟡 Medium | 100.0% | 30d,3m,6m,6m+ | 68.7% |
+| 8 | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | 🟢 Easy | - | - | - |
+| 9 | [1668. Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | 🟢 Easy | 62.5% | 6m+ | 41.1% |
+| 10 | [2157. Groups of Strings](https://leetcode.com/problems/groups-of-strings/) | 🔴 Hard | - | - | - |
+| 11 | [3650. Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/) | 🟡 Medium | 87.5% | - | 61.8% |
 
 ---
 
@@ -37051,32 +37071,6 @@
 | 11 | [1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | 🟡 Medium | - | - | - |
 | 12 | [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | 🟢 Easy | - | - | - |
 | 13 | [2591. Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children/) | 🟢 Easy | 100.0% | 3m,6m | 20.4% |
-
----
-
-## Chewy
-
-> 🟢 Easy: 4 | 🟡 Medium: 13 | 🔴 Hard: 0 | Total: 17
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
-| 2 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
-| 3 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | 87.5% | 6m+ | 43.7% |
-| 4 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | 1.8% | - | 51.1% |
-| 5 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | 🟡 Medium | - | - | - |
-| 6 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 87.5% | 6m+ | 46.8% |
-| 7 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | - | - | - |
-| 8 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | - | - | - |
-| 9 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | 3.5% | 6m+ | 65.8% |
-| 10 | [348. Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | 🟡 Medium | 87.5% | 6m+ | 58.7% |
-| 11 | [638. Shopping Offers](https://leetcode.com/problems/shopping-offers/) | 🟡 Medium | - | - | - |
-| 12 | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | 🟢 Easy | - | - | - |
-| 13 | [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | 🟡 Medium | - | - | - |
-| 14 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 🟡 Medium | - | - | - |
-| 15 | [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | 🟡 Medium | - | - | - |
-| 16 | [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | 🟡 Medium | - | - | - |
-| 17 | [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | 🟡 Medium | - | - | - |
 
 ---
 
@@ -37145,6 +37139,32 @@
 
 ---
 
+## Chewy
+
+> 🟢 Easy: 4 | 🟡 Medium: 13 | 🔴 Hard: 0 | Total: 17
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
+| 2 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
+| 3 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | 87.5% | 6m+ | 43.7% |
+| 4 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | 1.8% | - | 51.1% |
+| 5 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | 🟡 Medium | - | - | - |
+| 6 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 87.5% | 6m+ | 46.8% |
+| 7 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | - | - | - |
+| 8 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | - | - | - |
+| 9 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | 3.5% | 6m+ | 65.8% |
+| 10 | [348. Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | 🟡 Medium | 87.5% | 6m+ | 58.7% |
+| 11 | [638. Shopping Offers](https://leetcode.com/problems/shopping-offers/) | 🟡 Medium | - | - | - |
+| 12 | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | 🟢 Easy | - | - | - |
+| 13 | [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | 🟡 Medium | - | - | - |
+| 14 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 🟡 Medium | - | - | - |
+| 15 | [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | 🟡 Medium | - | - | - |
+| 16 | [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | 🟡 Medium | - | - | - |
+| 17 | [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | 🟡 Medium | - | - | - |
+
+---
+
 ## HP
 
 > 🟢 Easy: 5 | 🟡 Medium: 7 | 🔴 Hard: 0 | Total: 12
@@ -37163,68 +37183,6 @@
 | 10 | [1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | 🟡 Medium | - | - | - |
 | 11 | [2087. Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/) | 🟡 Medium | 87.5% | 6m+ | 51.6% |
 | 12 | [2379. Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | 🟢 Easy | 100.0% | 6m+ | 68.6% |
-
----
-
-## Hulu
-
-> 🟢 Easy: 0 | 🟡 Medium: 4 | 🔴 Hard: 3 | Total: 7
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | 🟡 Medium | 3.4% | 6m+ | 55.0% |
-| 2 | [440. K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | 🔴 Hard | - | 6m+ | 46.2% |
-| 3 | [772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) | 🔴 Hard | 100.0% | 6m+ | 53.1% |
-| 4 | [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | 🟡 Medium | 100.0% | 6m+ | 72.4% |
-| 5 | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | 🟡 Medium | - | - | - |
-| 6 | [1063. Number of Valid Subarrays](https://leetcode.com/problems/number-of-valid-subarrays/) | 🔴 Hard | 100.0% | 6m+ | 79.9% |
-| 7 | [10002. Design Log Aggregation System](https://leetcode.com/problems/design-log-aggregation-system/) | 🟡 Medium | - | - | - |
-
----
-
-## Asana
-
-> 🟢 Easy: 4 | 🟡 Medium: 5 | 🔴 Hard: 2 | Total: 11
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | - | - | - |
-| 2 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 Medium | - | - | - |
-| 3 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 Hard | - | - | - |
-| 4 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | - | - | - |
-| 5 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | 0.1% | 3m,6m,6m+ | 68.6% |
-| 6 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | 🟢 Easy | - | - | - |
-| 7 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 🟡 Medium | 100.0% | 30d,3m,6m,6m+ | 68.7% |
-| 8 | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | 🟢 Easy | - | - | - |
-| 9 | [1668. Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | 🟢 Easy | 62.5% | 6m+ | 41.1% |
-| 10 | [2157. Groups of Strings](https://leetcode.com/problems/groups-of-strings/) | 🔴 Hard | - | - | - |
-| 11 | [3650. Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/) | 🟡 Medium | 87.5% | - | 61.8% |
-
----
-
-## Lowe's
-
-> 🟢 Easy: 5 | 🟡 Medium: 8 | 🔴 Hard: 4 | Total: 17
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | 100.0% | 3m,6m | 57.1% |
-| 2 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | - | - | - |
-| 3 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | - | - | - |
-| 4 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | - | - | - |
-| 5 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | - | - | - |
-| 6 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | - | - | - |
-| 7 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | - | - | - |
-| 8 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | - | - | - |
-| 9 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | - | - | - |
-| 10 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 🔴 Hard | - | - | - |
-| 11 | [738. Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/) | 🟡 Medium | - | - | - |
-| 12 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 Easy | - | - | - |
-| 13 | [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | 🟢 Easy | - | - | - |
-| 14 | [1994. The Number of Good Subsets](https://leetcode.com/problems/the-number-of-good-subsets/) | 🔴 Hard | 62.5% | 6m+ | 37.1% |
-| 15 | [2157. Groups of Strings](https://leetcode.com/problems/groups-of-strings/) | 🔴 Hard | 62.5% | 6m+ | 27.4% |
-| 16 | [3330. Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/) | 🟢 Easy | 100.0% | 6m+ | 72.1% |
-| 17 | [3375. Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) | 🟢 Easy | 100.0% | 6m+ | 73.3% |
 
 ---
 
@@ -37281,6 +37239,32 @@
 | 45 | [2643. Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/) | 🟢 Easy | - | - | - |
 | 46 | [2904. Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | 🟡 Medium | - | - | - |
 | 47 | [3168. Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/) | 🟢 Easy | - | - | - |
+
+---
+
+## Lowe's
+
+> 🟢 Easy: 5 | 🟡 Medium: 8 | 🔴 Hard: 4 | Total: 17
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | 100.0% | 3m,6m | 57.1% |
+| 2 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | - | - | - |
+| 3 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | - | - | - |
+| 4 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | - | - | - |
+| 5 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | - | - | - |
+| 6 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | - | - | - |
+| 7 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | - | - | - |
+| 8 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | - | - | - |
+| 9 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | - | - | - |
+| 10 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 🔴 Hard | - | - | - |
+| 11 | [738. Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/) | 🟡 Medium | - | - | - |
+| 12 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 Easy | - | - | - |
+| 13 | [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | 🟢 Easy | - | - | - |
+| 14 | [1994. The Number of Good Subsets](https://leetcode.com/problems/the-number-of-good-subsets/) | 🔴 Hard | 62.5% | 6m+ | 37.1% |
+| 15 | [2157. Groups of Strings](https://leetcode.com/problems/groups-of-strings/) | 🔴 Hard | 62.5% | 6m+ | 27.4% |
+| 16 | [3330. Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/) | 🟢 Easy | 100.0% | 6m+ | 72.1% |
+| 17 | [3375. Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) | 🟢 Easy | 100.0% | 6m+ | 73.3% |
 
 ---
 
@@ -37345,6 +37329,22 @@
 | 9 | [1311. Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends/) | 🟡 Medium | - | - | - |
 | 10 | [1941. Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) | 🟢 Easy | 75.0% | 6m+ | 79.4% |
 | 11 | [2696. Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | 🟢 Easy | 62.5% | - | 77.1% |
+
+---
+
+## Hulu
+
+> 🟢 Easy: 0 | 🟡 Medium: 4 | 🔴 Hard: 3 | Total: 7
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | 🟡 Medium | 3.4% | 6m+ | 55.0% |
+| 2 | [440. K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | 🔴 Hard | - | 6m+ | 46.2% |
+| 3 | [772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) | 🔴 Hard | 100.0% | 6m+ | 53.1% |
+| 4 | [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | 🟡 Medium | 100.0% | 6m+ | 72.4% |
+| 5 | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | 🟡 Medium | - | - | - |
+| 6 | [1063. Number of Valid Subarrays](https://leetcode.com/problems/number-of-valid-subarrays/) | 🔴 Hard | 100.0% | 6m+ | 79.9% |
+| 7 | [10002. Design Log Aggregation System](https://leetcode.com/problems/design-log-aggregation-system/) | 🟡 Medium | - | - | - |
 
 ---
 
@@ -37881,29 +37881,6 @@
 
 ---
 
-## WorldQuant
-
-> 🟢 Easy: 2 | 🟡 Medium: 5 | 🔴 Hard: 7 | Total: 14
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | 🔴 Hard | 87.5% | 6m+ | 30.4% |
-| 2 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
-| 3 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | 🔴 Hard | - | - | - |
-| 4 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | 🟡 Medium | - | - | - |
-| 5 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | 🟡 Medium | 5.1% | 6m+ | 52.5% |
-| 6 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | - | - | - |
-| 7 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 🔴 Hard | 87.5% | 6m+ | 54.2% |
-| 8 | [494. Target Sum](https://leetcode.com/problems/target-sum/) | 🟡 Medium | - | - | - |
-| 9 | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | 🟡 Medium | - | - | - |
-| 10 | [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | 🟡 Medium | - | - | - |
-| 11 | [1691. Maximum Height by Stacking Cuboids ](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | 🔴 Hard | - | - | - |
-| 12 | [1373. Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | 🔴 Hard | - | - | - |
-| 13 | [1611. Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | 🔴 Hard | - | - | - |
-| 14 | [2617. Minimum Number of Visited Cells in a Grid](https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/) | 🔴 Hard | 87.5% | 6m+ | 23.6% |
-
----
-
 ## Tower Research Capital
 
 > 🟢 Easy: 2 | 🟡 Medium: 11 | 🔴 Hard: 2 | Total: 15
@@ -37925,6 +37902,48 @@
 | 13 | [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | 🟡 Medium | 100.0% | 6m | 59.3% |
 | 14 | [2434. Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | 🟡 Medium | 100.0% | 6m+ | 62.5% |
 | 15 | [2998. Minimum Number of Operations to Make X and Y Equal](https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal/) | 🟡 Medium | - | - | - |
+
+---
+
+## Riot Games
+
+> 🟢 Easy: 2 | 🟡 Medium: 7 | 🔴 Hard: 1 | Total: 10
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
+| 2 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | - | - | - |
+| 3 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | 87.5% | 6m+ | 64.1% |
+| 4 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | 🔴 Hard | 87.5% | 6m+ | 65.4% |
+| 5 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | 🟡 Medium | - | - | - |
+| 6 | [289. Game of Life](https://leetcode.com/problems/game-of-life/) | 🟡 Medium | 62.5% | - | 72.3% |
+| 7 | [443. String Compression](https://leetcode.com/problems/string-compression/) | 🟡 Medium | - | - | - |
+| 8 | [495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | 🟢 Easy | 6.8% | 6m+ | 57.5% |
+| 9 | [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | 🟡 Medium | - | - | - |
+| 10 | [3167. Better Compression of String](https://leetcode.com/problems/better-compression-of-string/) | 🟡 Medium | 87.5% | 6m+ | 75.2% |
+
+---
+
+## WorldQuant
+
+> 🟢 Easy: 2 | 🟡 Medium: 5 | 🔴 Hard: 7 | Total: 14
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | 🔴 Hard | 87.5% | 6m+ | 30.4% |
+| 2 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
+| 3 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | 🔴 Hard | - | - | - |
+| 4 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | 🟡 Medium | - | - | - |
+| 5 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | 🟡 Medium | 5.1% | 6m+ | 52.5% |
+| 6 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | - | - | - |
+| 7 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 🔴 Hard | 87.5% | 6m+ | 54.2% |
+| 8 | [494. Target Sum](https://leetcode.com/problems/target-sum/) | 🟡 Medium | - | - | - |
+| 9 | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | 🟡 Medium | - | - | - |
+| 10 | [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | 🟡 Medium | - | - | - |
+| 11 | [1691. Maximum Height by Stacking Cuboids ](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | 🔴 Hard | - | - | - |
+| 12 | [1373. Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | 🔴 Hard | - | - | - |
+| 13 | [1611. Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | 🔴 Hard | - | - | - |
+| 14 | [2617. Minimum Number of Visited Cells in a Grid](https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/) | 🔴 Hard | 87.5% | 6m+ | 23.6% |
 
 ---
 
@@ -37970,25 +37989,6 @@
 | 34 | [2591. Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children/) | 🟢 Easy | - | - | - |
 | 35 | [2677. Chunk Array](https://leetcode.com/problems/chunk-array/) | 🟢 Easy | - | - | - |
 | 36 | [3248. Snake in Matrix](https://leetcode.com/problems/snake-in-matrix/) | 🟢 Easy | - | - | - |
-
----
-
-## Riot Games
-
-> 🟢 Easy: 2 | 🟡 Medium: 7 | 🔴 Hard: 1 | Total: 10
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
-| 2 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | - | - | - |
-| 3 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | 87.5% | 6m+ | 64.1% |
-| 4 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | 🔴 Hard | 87.5% | 6m+ | 65.4% |
-| 5 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | 🟡 Medium | - | - | - |
-| 6 | [289. Game of Life](https://leetcode.com/problems/game-of-life/) | 🟡 Medium | 62.5% | - | 72.3% |
-| 7 | [443. String Compression](https://leetcode.com/problems/string-compression/) | 🟡 Medium | - | - | - |
-| 8 | [495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | 🟢 Easy | 6.8% | 6m+ | 57.5% |
-| 9 | [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | 🟡 Medium | - | - | - |
-| 10 | [3167. Better Compression of String](https://leetcode.com/problems/better-compression-of-string/) | 🟡 Medium | 87.5% | 6m+ | 75.2% |
 
 ---
 
@@ -38085,6 +38085,41 @@
 
 ---
 
+## Fortinet
+
+> 🟢 Easy: 7 | 🟡 Medium: 12 | 🔴 Hard: 7 | Total: 26
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | - | - | - |
+| 2 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | - | - | - |
+| 3 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
+| 4 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | - | - | - |
+| 5 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | - | - | - |
+| 6 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | 🟢 Easy | - | - | - |
+| 7 | [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | 🟡 Medium | - | - | - |
+| 8 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | 🟢 Easy | - | - | - |
+| 9 | [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | 🔴 Hard | - | - | - |
+| 10 | [616. Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) | 🟡 Medium | - | - | - |
+| 11 | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | 🟢 Easy | - | - | - |
+| 12 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | 🟢 Easy | 3.1% | 6m+ | 44.0% |
+| 13 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | 🟡 Medium | - | - | - |
+| 14 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | - | - | - |
+| 15 | [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | 🟡 Medium | - | - | - |
+| 16 | [908. Smallest Range I](https://leetcode.com/problems/smallest-range-i/) | 🟢 Easy | - | - | - |
+| 17 | [1036. Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/) | 🔴 Hard | - | - | - |
+| 18 | [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | 🟡 Medium | - | - | - |
+| 19 | [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | 🟢 Easy | - | - | - |
+| 20 | [1411. Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | 🔴 Hard | 87.5% | 6m+ | 80.5% |
+| 21 | [1526. Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | 🔴 Hard | - | - | - |
+| 22 | [1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | 🟢 Easy | 87.5% | 6m+ | 59.9% |
+| 23 | [1836. Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/) | 🟡 Medium | - | - | - |
+| 24 | [2182. Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | 🟡 Medium | 100.0% | 6m+ | 70.9% |
+| 25 | [3108. Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/) | 🔴 Hard | - | - | - |
+| 26 | [3655. XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/) | 🔴 Hard | - | - | - |
+
+---
+
 ## Nykaa
 
 > 🟢 Easy: 2 | 🟡 Medium: 22 | 🔴 Hard: 3 | Total: 27
@@ -38118,92 +38153,6 @@
 | 25 | [2375. Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/) | 🟡 Medium | - | - | - |
 | 26 | [2439. Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/) | 🟡 Medium | - | - | - |
 | 27 | [2938. Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/) | 🟡 Medium | - | - | - |
-
----
-
-## Jio
-
-> 🟢 Easy: 15 | 🟡 Medium: 23 | 🔴 Hard: 4 | Total: 42
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | 62.5% | 6m+ | 57.1% |
-| 2 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | - | - | - |
-| 3 | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | 🟡 Medium | - | - | - |
-| 4 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | - | - | - |
-| 5 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | - | - | - |
-| 6 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | - | - | - |
-| 7 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
-| 8 | [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | - | - | - |
-| 9 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | 2.9% | - | 72.2% |
-| 10 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | - | - | - |
-| 11 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
-| 12 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | 🟡 Medium | - | - | - |
-| 13 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | - | - | - |
-| 14 | [166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | 🟡 Medium | - | - | - |
-| 15 | [202. Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | - | - | - |
-| 16 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | 62.5% | - | 80.3% |
-| 17 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | - | - | - |
-| 18 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | - | - | - |
-| 19 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | 🟢 Easy | - | - | - |
-| 20 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | - | - | - |
-| 21 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | 🟢 Easy | - | - | - |
-| 22 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | - | - | - |
-| 23 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | - | - | - |
-| 24 | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | 🟡 Medium | - | - | - |
-| 25 | [626. Exchange Seats](https://leetcode.com/problems/exchange-seats/) | 🟡 Medium | - | - | - |
-| 26 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | 🟢 Easy | - | - | - |
-| 27 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | 🟡 Medium | - | - | - |
-| 28 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | - | - | - |
-| 29 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | - | - | - |
-| 30 | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | 🟡 Medium | - | - | - |
-| 31 | [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) | 🟡 Medium | - | - | - |
-| 32 | [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/) | 🟡 Medium | - | - | - |
-| 33 | [1668. Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | 🟢 Easy | - | - | - |
-| 34 | [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | 🟢 Easy | - | - | - |
-| 35 | [2620. Counter](https://leetcode.com/problems/counter/) | 🟢 Easy | - | - | - |
-| 36 | [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | 🟡 Medium | - | - | - |
-| 37 | [2929. Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/) | 🟡 Medium | - | - | - |
-| 38 | [3013. Divide an Array Into Subarrays With Minimum Cost II](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/) | 🔴 Hard | 100.0% | 6m+ | 54.8% |
-| 39 | [3030. Find the Grid of Region Average](https://leetcode.com/problems/find-the-grid-of-region-average/) | 🟡 Medium | 100.0% | 6m+ | 43.2% |
-| 40 | [3372. Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/) | 🟡 Medium | 100.0% | 6m+ | 69.5% |
-| 41 | [3373. Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | 🔴 Hard | 100.0% | 6m+ | 73.2% |
-| 42 | [3674. Minimum Operations to Equalize Array](https://leetcode.com/problems/minimum-operations-to-equalize-array/) | 🟢 Easy | - | - | - |
-
----
-
-## Fortinet
-
-> 🟢 Easy: 7 | 🟡 Medium: 12 | 🔴 Hard: 7 | Total: 26
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | - | - | - |
-| 2 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | - | - | - |
-| 3 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
-| 4 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | - | - | - |
-| 5 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | - | - | - |
-| 6 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | 🟢 Easy | - | - | - |
-| 7 | [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | 🟡 Medium | - | - | - |
-| 8 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | 🟢 Easy | - | - | - |
-| 9 | [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | 🔴 Hard | - | - | - |
-| 10 | [616. Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) | 🟡 Medium | - | - | - |
-| 11 | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | 🟢 Easy | - | - | - |
-| 12 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | 🟢 Easy | 3.1% | 6m+ | 44.0% |
-| 13 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | 🟡 Medium | - | - | - |
-| 14 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | - | - | - |
-| 15 | [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | 🟡 Medium | - | - | - |
-| 16 | [908. Smallest Range I](https://leetcode.com/problems/smallest-range-i/) | 🟢 Easy | - | - | - |
-| 17 | [1036. Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/) | 🔴 Hard | - | - | - |
-| 18 | [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | 🟡 Medium | - | - | - |
-| 19 | [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | 🟢 Easy | - | - | - |
-| 20 | [1411. Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | 🔴 Hard | 87.5% | 6m+ | 80.5% |
-| 21 | [1526. Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | 🔴 Hard | - | - | - |
-| 22 | [1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | 🟢 Easy | 87.5% | 6m+ | 59.9% |
-| 23 | [1836. Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/) | 🟡 Medium | - | - | - |
-| 24 | [2182. Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | 🟡 Medium | 100.0% | 6m+ | 70.9% |
-| 25 | [3108. Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/) | 🔴 Hard | - | - | - |
-| 26 | [3655. XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/) | 🔴 Hard | - | - | - |
 
 ---
 
@@ -38291,6 +38240,57 @@
 
 ---
 
+## Jio
+
+> 🟢 Easy: 15 | 🟡 Medium: 23 | 🔴 Hard: 4 | Total: 42
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | 62.5% | 6m+ | 57.1% |
+| 2 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | - | - | - |
+| 3 | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | 🟡 Medium | - | - | - |
+| 4 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | - | - | - |
+| 5 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | - | - | - |
+| 6 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | - | - | - |
+| 7 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
+| 8 | [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | - | - | - |
+| 9 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | 2.9% | - | 72.2% |
+| 10 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | - | - | - |
+| 11 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
+| 12 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | 🟡 Medium | - | - | - |
+| 13 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | - | - | - |
+| 14 | [166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | 🟡 Medium | - | - | - |
+| 15 | [202. Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | - | - | - |
+| 16 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | 62.5% | - | 80.3% |
+| 17 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | - | - | - |
+| 18 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | - | - | - |
+| 19 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | 🟢 Easy | - | - | - |
+| 20 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | - | - | - |
+| 21 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | 🟢 Easy | - | - | - |
+| 22 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | - | - | - |
+| 23 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | - | - | - |
+| 24 | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | 🟡 Medium | - | - | - |
+| 25 | [626. Exchange Seats](https://leetcode.com/problems/exchange-seats/) | 🟡 Medium | - | - | - |
+| 26 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | 🟢 Easy | - | - | - |
+| 27 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | 🟡 Medium | - | - | - |
+| 28 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | - | - | - |
+| 29 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | - | - | - |
+| 30 | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | 🟡 Medium | - | - | - |
+| 31 | [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) | 🟡 Medium | - | - | - |
+| 32 | [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/) | 🟡 Medium | - | - | - |
+| 33 | [1668. Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | 🟢 Easy | - | - | - |
+| 34 | [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | 🟢 Easy | - | - | - |
+| 35 | [2620. Counter](https://leetcode.com/problems/counter/) | 🟢 Easy | - | - | - |
+| 36 | [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | 🟡 Medium | - | - | - |
+| 37 | [2929. Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/) | 🟡 Medium | - | - | - |
+| 38 | [3013. Divide an Array Into Subarrays With Minimum Cost II](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/) | 🔴 Hard | 100.0% | 6m+ | 54.8% |
+| 39 | [3030. Find the Grid of Region Average](https://leetcode.com/problems/find-the-grid-of-region-average/) | 🟡 Medium | 100.0% | 6m+ | 43.2% |
+| 40 | [3372. Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/) | 🟡 Medium | 100.0% | 6m+ | 69.5% |
+| 41 | [3373. Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | 🔴 Hard | 100.0% | 6m+ | 73.2% |
+| 42 | [3674. Minimum Operations to Equalize Array](https://leetcode.com/problems/minimum-operations-to-equalize-array/) | 🟢 Easy | - | - | - |
+
+---
+
 ## Patreon
 
 > 🟢 Easy: 4 | 🟡 Medium: 4 | 🔴 Hard: 0 | Total: 8
@@ -38305,89 +38305,6 @@
 | 6 | [470. Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | 🟡 Medium | - | - | - |
 | 7 | [1731. The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | 🟢 Easy | - | - | - |
 | 8 | [2636. Promise Pool](https://leetcode.com/problems/promise-pool/) | 🟡 Medium | - | - | - |
-
----
-
-## Airbus SE
-
-> 🟢 Easy: 5 | 🟡 Medium: 13 | 🔴 Hard: 2 | Total: 20
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | 1.9% | 6m+ | 57.1% |
-| 2 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | - | - | - |
-| 3 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
-| 4 | [46. Permutations](https://leetcode.com/problems/permutations/) | 🟡 Medium | - | - | - |
-| 5 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | - | - | - |
-| 6 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | - | - | - |
-| 7 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 🟡 Medium | - | - | - |
-| 8 | [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | 🟡 Medium | - | - | - |
-| 9 | [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | 🟢 Easy | - | - | - |
-| 10 | [262. Trips and Users](https://leetcode.com/problems/trips-and-users/) | 🔴 Hard | - | - | - |
-| 11 | [633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | 🟡 Medium | - | - | - |
-| 12 | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | - | - | - |
-| 13 | [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | 🟢 Easy | - | - | - |
-| 14 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | 🟢 Easy | - | - | - |
-| 15 | [3164. Find the Number of Good Pairs II](https://leetcode.com/problems/find-the-number-of-good-pairs-ii/) | 🟡 Medium | 87.5% | 6m+ | 26.6% |
-| 16 | [3162. Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i/) | 🟢 Easy | 87.5% | 6m+ | 86.3% |
-| 17 | [3224. Minimum Array Changes to Make Differences Equal](https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal/) | 🟡 Medium | 87.5% | 6m+ | 24.3% |
-| 18 | [3356. Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/) | 🟡 Medium | - | - | - |
-| 19 | [3825. Longest Strictly Increasing Subsequence With Non-Zero Bitwise AND](https://leetcode.com/problems/longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/) | 🟡 Medium | - | - | - |
-| 20 | [3834. Merge Adjacent Equal Elements](https://leetcode.com/problems/merge-adjacent-equal-elements/) | 🟡 Medium | - | - | - |
-
----
-
-## Poshmark
-
-> 🟢 Easy: 0 | 🟡 Medium: 9 | 🔴 Hard: 2 | Total: 11
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
-| 2 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | - | - | - |
-| 3 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | - | - | - |
-| 4 | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | 🔴 Hard | - | - | - |
-| 5 | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | 🟡 Medium | - | - | - |
-| 6 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | - | - | - |
-| 7 | [648. Replace Words](https://leetcode.com/problems/replace-words/) | 🟡 Medium | - | - | - |
-| 8 | [769. Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | 🟡 Medium | 100.0% | 6m+ | 64.1% |
-| 9 | [1158. Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | 🟡 Medium | 100.0% | 6m+ | 57.2% |
-| 10 | [1159. Market Analysis II](https://leetcode.com/problems/market-analysis-ii/) | 🔴 Hard | 100.0% | 6m+ | 57.6% |
-| 11 | [2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | 🟡 Medium | 100.0% | 6m+ | 69.0% |
-
----
-
-## Careem
-
-> 🟢 Easy: 6 | 🟡 Medium: 16 | 🔴 Hard: 3 | Total: 25
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | 100.0% | - | 57.1% |
-| 2 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | 1.4% | - | - |
-| 3 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | - | - | - |
-| 4 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | - | - | - |
-| 5 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
-| 6 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 Medium | - | - | - |
-| 7 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🔴 Hard | - | - | - |
-| 8 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 Medium | 3.0% | 3m,6m | 70.7% |
-| 9 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 🟢 Easy | - | - | - |
-| 10 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | - | - | - |
-| 11 | [355. Design Twitter](https://leetcode.com/problems/design-twitter/) | 🟡 Medium | - | - | - |
-| 12 | [362. Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) | 🟡 Medium | 100.0% | 6m+ | 69.6% |
-| 13 | [423. Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | 🟡 Medium | - | - | - |
-| 14 | [443. String Compression](https://leetcode.com/problems/string-compression/) | 🟡 Medium | - | - | - |
-| 15 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | - | - | - |
-| 16 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | 2.0% | 6m+ | 64.6% |
-| 17 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | 🟡 Medium | - | - | - |
-| 18 | [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | 🟡 Medium | - | - | - |
-| 19 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | 🟢 Easy | - | - | - |
-| 20 | [1094. Car Pooling](https://leetcode.com/problems/car-pooling/) | 🟡 Medium | 100.0% | 6m+ | 56.2% |
-| 21 | [1600. Throne Inheritance](https://leetcode.com/problems/throne-inheritance/) | 🟡 Medium | - | - | - |
-| 22 | [1650. Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/) | 🟡 Medium | - | - | - |
-| 23 | [2116. Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/) | 🟡 Medium | - | - | - |
-| 24 | [2514. Count Anagrams](https://leetcode.com/problems/count-anagrams/) | 🔴 Hard | - | - | - |
-| 25 | [2704. To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | 🟢 Easy | - | - | - |
 
 ---
 
@@ -38428,6 +38345,89 @@
 | 13 | [1992. Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/) | 🟡 Medium | 100.0% | 6m+ | 75.5% |
 | 14 | [2840. Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/) | 🟡 Medium | 100.0% | 6m+ | 56.1% |
 | 15 | [2839. Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/) | 🟢 Easy | 100.0% | 6m+ | 47.7% |
+
+---
+
+## Poshmark
+
+> 🟢 Easy: 0 | 🟡 Medium: 9 | 🔴 Hard: 2 | Total: 11
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
+| 2 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | - | - | - |
+| 3 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | - | - | - |
+| 4 | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | 🔴 Hard | - | - | - |
+| 5 | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | 🟡 Medium | - | - | - |
+| 6 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | - | - | - |
+| 7 | [648. Replace Words](https://leetcode.com/problems/replace-words/) | 🟡 Medium | - | - | - |
+| 8 | [769. Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | 🟡 Medium | 100.0% | 6m+ | 64.1% |
+| 9 | [1158. Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | 🟡 Medium | 100.0% | 6m+ | 57.2% |
+| 10 | [1159. Market Analysis II](https://leetcode.com/problems/market-analysis-ii/) | 🔴 Hard | 100.0% | 6m+ | 57.6% |
+| 11 | [2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | 🟡 Medium | 100.0% | 6m+ | 69.0% |
+
+---
+
+## Airbus SE
+
+> 🟢 Easy: 5 | 🟡 Medium: 13 | 🔴 Hard: 2 | Total: 20
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | 1.9% | 6m+ | 57.1% |
+| 2 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | - | - | - |
+| 3 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
+| 4 | [46. Permutations](https://leetcode.com/problems/permutations/) | 🟡 Medium | - | - | - |
+| 5 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | - | - | - |
+| 6 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | - | - | - |
+| 7 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 🟡 Medium | - | - | - |
+| 8 | [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | 🟡 Medium | - | - | - |
+| 9 | [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | 🟢 Easy | - | - | - |
+| 10 | [262. Trips and Users](https://leetcode.com/problems/trips-and-users/) | 🔴 Hard | - | - | - |
+| 11 | [633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | 🟡 Medium | - | - | - |
+| 12 | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | - | - | - |
+| 13 | [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | 🟢 Easy | - | - | - |
+| 14 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | 🟢 Easy | - | - | - |
+| 15 | [3164. Find the Number of Good Pairs II](https://leetcode.com/problems/find-the-number-of-good-pairs-ii/) | 🟡 Medium | 87.5% | 6m+ | 26.6% |
+| 16 | [3162. Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i/) | 🟢 Easy | 87.5% | 6m+ | 86.3% |
+| 17 | [3224. Minimum Array Changes to Make Differences Equal](https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal/) | 🟡 Medium | 87.5% | 6m+ | 24.3% |
+| 18 | [3356. Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/) | 🟡 Medium | - | - | - |
+| 19 | [3825. Longest Strictly Increasing Subsequence With Non-Zero Bitwise AND](https://leetcode.com/problems/longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/) | 🟡 Medium | - | - | - |
+| 20 | [3834. Merge Adjacent Equal Elements](https://leetcode.com/problems/merge-adjacent-equal-elements/) | 🟡 Medium | - | - | - |
+
+---
+
+## Careem
+
+> 🟢 Easy: 6 | 🟡 Medium: 16 | 🔴 Hard: 3 | Total: 25
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | 100.0% | - | 57.1% |
+| 2 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | 1.4% | - | - |
+| 3 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | - | - | - |
+| 4 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | - | - | - |
+| 5 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
+| 6 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 Medium | - | - | - |
+| 7 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🔴 Hard | - | - | - |
+| 8 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 Medium | 3.0% | 3m,6m | 70.7% |
+| 9 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 🟢 Easy | - | - | - |
+| 10 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | - | - | - |
+| 11 | [355. Design Twitter](https://leetcode.com/problems/design-twitter/) | 🟡 Medium | - | - | - |
+| 12 | [362. Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) | 🟡 Medium | 100.0% | 6m+ | 69.6% |
+| 13 | [423. Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | 🟡 Medium | - | - | - |
+| 14 | [443. String Compression](https://leetcode.com/problems/string-compression/) | 🟡 Medium | - | - | - |
+| 15 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | - | - | - |
+| 16 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | 2.0% | 6m+ | 64.6% |
+| 17 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | 🟡 Medium | - | - | - |
+| 18 | [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | 🟡 Medium | - | - | - |
+| 19 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | 🟢 Easy | - | - | - |
+| 20 | [1094. Car Pooling](https://leetcode.com/problems/car-pooling/) | 🟡 Medium | 100.0% | 6m+ | 56.2% |
+| 21 | [1600. Throne Inheritance](https://leetcode.com/problems/throne-inheritance/) | 🟡 Medium | - | - | - |
+| 22 | [1650. Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/) | 🟡 Medium | - | - | - |
+| 23 | [2116. Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/) | 🟡 Medium | - | - | - |
+| 24 | [2514. Count Anagrams](https://leetcode.com/problems/count-anagrams/) | 🔴 Hard | - | - | - |
+| 25 | [2704. To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | 🟢 Easy | - | - | - |
 
 ---
 
@@ -38723,6 +38723,39 @@
 
 ---
 
+## Trexquant
+
+> 🟢 Easy: 2 | 🟡 Medium: 21 | 🔴 Hard: 1 | Total: 24
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
+| 2 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | 87.5% | 6m+ | 38.6% |
+| 3 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | 87.5% | 6m+ | 65.5% |
+| 4 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
+| 5 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
+| 6 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 Medium | - | - | - |
+| 7 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | - | - | - |
+| 8 | [443. String Compression](https://leetcode.com/problems/string-compression/) | 🟡 Medium | - | - | - |
+| 9 | [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/) | 🟢 Easy | - | - | - |
+| 10 | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | 🟡 Medium | - | - | - |
+| 11 | [554. Brick Wall](https://leetcode.com/problems/brick-wall/) | 🟡 Medium | 87.5% | 6m+ | 56.0% |
+| 12 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | 🟡 Medium | - | - | - |
+| 13 | [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/) | 🟡 Medium | - | - | - |
+| 14 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | 87.5% | 6m+ | 49.7% |
+| 15 | [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | 🟡 Medium | - | - | - |
+| 16 | [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | 🟡 Medium | - | - | - |
+| 17 | [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | 🟡 Medium | - | - | - |
+| 18 | [1432. Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | 🟡 Medium | 100.0% | 6m+ | 48.8% |
+| 19 | [1488. Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | 🟡 Medium | - | - | - |
+| 20 | [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | 🟡 Medium | - | - | - |
+| 21 | [1884. Egg Drop With 2 Eggs and N Floors](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/) | 🟡 Medium | - | - | - |
+| 22 | [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | 🟡 Medium | - | - | - |
+| 23 | [2498. Frog Jump II](https://leetcode.com/problems/frog-jump-ii/) | 🟡 Medium | - | - | - |
+| 24 | [3607. Power Grid Maintenance](https://leetcode.com/problems/power-grid-maintenance/) | 🟡 Medium | - | - | - |
+
+---
+
 ## DRW
 
 > 🟢 Easy: 4 | 🟡 Medium: 10 | 🔴 Hard: 5 | Total: 19
@@ -38822,6 +38855,50 @@
 
 ---
 
+## Tencent
+
+> 🟢 Easy: 6 | 🟡 Medium: 21 | 🔴 Hard: 8 | Total: 35
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
+| 2 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | - | - | - |
+| 3 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 Medium | - | - | - |
+| 4 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | - | - | - |
+| 5 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | - | - | - |
+| 6 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | 62.5% | 6m+ | 51.1% |
+| 7 | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | 🟡 Medium | - | - | - |
+| 8 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 Hard | - | - | - |
+| 9 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | - | - | - |
+| 10 | [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | 🟡 Medium | - | - | - |
+| 11 | [135. Candy](https://leetcode.com/problems/candy/) | 🔴 Hard | - | - | - |
+| 12 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 62.5% | - | 46.8% |
+| 13 | [184. Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | 🟡 Medium | 62.5% | 6m+ | 57.3% |
+| 14 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | - | - | - |
+| 15 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | 🟡 Medium | - | - | - |
+| 16 | [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | 🔴 Hard | 62.5% | 6m+ | 37.1% |
+| 17 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | 🟡 Medium | - | - | - |
+| 18 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | - | - | - |
+| 19 | [394. Decode String](https://leetcode.com/problems/decode-string/) | 🟡 Medium | 5.5% | 3m,6m,6m+ | 62.2% |
+| 20 | [495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | 🟢 Easy | - | - | - |
+| 21 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | - | - | - |
+| 22 | [546. Remove Boxes](https://leetcode.com/problems/remove-boxes/) | 🔴 Hard | - | 6m+ | 49.3% |
+| 23 | [625. Minimum Factorization](https://leetcode.com/problems/minimum-factorization/) | 🟡 Medium | - | 6m+ | 33.9% |
+| 24 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | 🟢 Easy | - | - | - |
+| 25 | [796. Rotate String](https://leetcode.com/problems/rotate-string/) | 🟢 Easy | - | - | - |
+| 26 | [470. Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | 🟡 Medium | 62.5% | 6m+ | 46.2% |
+| 27 | [1044. Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | 🔴 Hard | - | - | - |
+| 28 | [1174. Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | 🟡 Medium | - | - | - |
+| 29 | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | 🟡 Medium | 62.5% | 6m+ | 71.3% |
+| 30 | [1401. Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡 Medium | - | - | - |
+| 31 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | - | - | - |
+| 32 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | 🟡 Medium | - | - | - |
+| 33 | [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | 🔴 Hard | - | - | - |
+| 34 | [2376. Count Special Integers](https://leetcode.com/problems/count-special-integers/) | 🔴 Hard | - | - | - |
+| 35 | [2627. Debounce](https://leetcode.com/problems/debounce/) | 🟡 Medium | 62.5% | 6m+ | 91.8% |
+
+---
+
 ## Bank of America
 
 > 🟢 Easy: 14 | 🟡 Medium: 9 | 🔴 Hard: 6 | Total: 29
@@ -38857,6 +38934,116 @@
 | 27 | [3272. Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/) | 🔴 Hard | - | - | - |
 | 28 | [3507. Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | 🟢 Easy | - | - | - |
 | 29 | [3504. Longest Palindrome After Substring Concatenation II](https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-ii/) | 🔴 Hard | - | - | - |
+
+---
+
+## Samsara
+
+> 🟢 Easy: 2 | 🟡 Medium: 8 | 🔴 Hard: 2 | Total: 12
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | 0.4% | 6m,6m+ | 64.1% |
+| 2 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 Hard | 0.2% | 6m+ | 50.4% |
+| 3 | [136. Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | - | - | - |
+| 4 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | - | - | - |
+| 5 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | 🟡 Medium | - | - | - |
+| 6 | [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | 🟡 Medium | - | - | - |
+| 7 | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | - | - | - |
+| 8 | [2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | 🔴 Hard | - | - | - |
+| 9 | [2633. Convert Object to JSON String](https://leetcode.com/problems/convert-object-to-json-string/) | 🟡 Medium | - | - | - |
+| 10 | [3006. Find Beautiful Indices in the Given Array I](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/) | 🟡 Medium | 100.0% | 6m+ | 40.5% |
+| 11 | [3206. Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/) | 🟢 Easy | 75.0% | 6m+ | 68.8% |
+| 12 | [3208. Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/) | 🟡 Medium | 75.0% | 6m+ | 59.9% |
+
+---
+
+## Nextdoor
+
+> 🟢 Easy: 2 | 🟡 Medium: 14 | 🔴 Hard: 3 | Total: 19
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | - | - | - |
+| 2 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 🟡 Medium | - | - | - |
+| 3 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | - | - | - |
+| 4 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | 62.5% | 6m+ | 66.8% |
+| 5 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | - | - | - |
+| 6 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | 4.3% | 6m+ | 51.1% |
+| 7 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | 🟡 Medium | - | - | - |
+| 8 | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | 🟡 Medium | 7.8% | 6m,6m+ | 46.1% |
+| 9 | [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | 🟡 Medium | - | - | - |
+| 10 | [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | 🟡 Medium | - | - | - |
+| 11 | [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | 🟡 Medium | - | - | - |
+| 12 | [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | 🟢 Easy | - | - | - |
+| 13 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | 🟡 Medium | - | - | - |
+| 14 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | 🟢 Easy | - | - | - |
+| 15 | [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | 🔴 Hard | 100.0% | 6m+ | 44.1% |
+| 16 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | 🟡 Medium | - | - | - |
+| 17 | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | 🟡 Medium | - | - | - |
+| 18 | [2111. Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/) | 🔴 Hard | - | - | - |
+| 19 | [2196. Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | 🟡 Medium | - | - | - |
+
+---
+
+## Honeywell
+
+> 🟢 Easy: 4 | 🟡 Medium: 7 | 🔴 Hard: 3 | Total: 14
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | 87.5% | 6m+ | 57.1% |
+| 2 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard | - | - | - |
+| 3 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 Medium | - | - | - |
+| 4 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🔴 Hard | - | - | - |
+| 5 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | - | - | - |
+| 6 | [78. Subsets](https://leetcode.com/problems/subsets/) | 🟡 Medium | - | - | - |
+| 7 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🔴 Hard | - | - | - |
+| 8 | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | 🟡 Medium | - | - | - |
+| 9 | [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | 🟡 Medium | - | - | - |
+| 10 | [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | 🟢 Easy | - | - | - |
+| 11 | [1848. Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | 🟢 Easy | 87.5% | 6m+ | 54.2% |
+| 12 | [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | 🟡 Medium | - | 6m+ | 67.6% |
+| 13 | [2635. Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | 🟢 Easy | - | - | - |
+| 14 | [2747. Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | 🟡 Medium | 100.0% | 6m+ | 35.6% |
+
+---
+
+## Toptal
+
+> 🟢 Easy: 2 | 🟡 Medium: 2 | 🔴 Hard: 2 | Total: 6
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🔴 Hard | - | - | - |
+| 2 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | - | - | - |
+| 3 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | 🟡 Medium | - | - | - |
+| 4 | [661. Image Smoother](https://leetcode.com/problems/image-smoother/) | 🟢 Easy | - | - | - |
+| 5 | [1227. Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/) | 🟡 Medium | 100.0% | 6m+ | 67.2% |
+| 6 | [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/) | 🔴 Hard | 100.0% | 6m+ | 52.2% |
+
+---
+
+## Deliveroo
+
+> 🟢 Easy: 4 | 🟡 Medium: 5 | 🔴 Hard: 5 | Total: 14
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | 🔴 Hard | - | - | - |
+| 2 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
+| 3 | [164. Maximum Gap](https://leetcode.com/problems/maximum-gap/) | 🟡 Medium | - | - | - |
+| 4 | [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | 🔴 Hard | 5.2% | 6m+ | 49.8% |
+| 5 | [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | 🟢 Easy | - | - | - |
+| 6 | [539. Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | 🟡 Medium | - | - | - |
+| 7 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | 🟢 Easy | - | - | - |
+| 8 | [632. Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | 🔴 Hard | - | - | - |
+| 9 | [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | 🔴 Hard | 100.0% | 6m+ | 53.2% |
+| 10 | [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | 🟡 Medium | 100.0% | 6m+ | 74.8% |
+| 11 | [1797. Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager/) | 🟡 Medium | 100.0% | 3m,6m,6m+ | 58.4% |
+| 12 | [1842. Next Palindrome Using Same Digits](https://leetcode.com/problems/next-palindrome-using-same-digits/) | 🔴 Hard | - | - | - |
+| 13 | [2332. The Latest Time to Catch a Bus](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/) | 🟡 Medium | - | - | - |
+| 14 | [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | 🟢 Easy | 100.0% | 6m+ | 90.4% |
 
 ---
 
@@ -38902,197 +39089,6 @@
 | 34 | [2751. Robot Collisions](https://leetcode.com/problems/robot-collisions/) | 🔴 Hard | - | - | - |
 | 35 | [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | 🟡 Medium | - | - | - |
 | 36 | [3115. Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/) | 🟡 Medium | - | - | - |
-
----
-
-## Tencent
-
-> 🟢 Easy: 6 | 🟡 Medium: 21 | 🔴 Hard: 8 | Total: 35
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
-| 2 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | - | - | - |
-| 3 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 Medium | - | - | - |
-| 4 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | - | - | - |
-| 5 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | - | - | - |
-| 6 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | 62.5% | 6m+ | 51.1% |
-| 7 | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | 🟡 Medium | - | - | - |
-| 8 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 Hard | - | - | - |
-| 9 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | - | - | - |
-| 10 | [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | 🟡 Medium | - | - | - |
-| 11 | [135. Candy](https://leetcode.com/problems/candy/) | 🔴 Hard | - | - | - |
-| 12 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 62.5% | - | 46.8% |
-| 13 | [184. Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | 🟡 Medium | 62.5% | 6m+ | 57.3% |
-| 14 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | - | - | - |
-| 15 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | 🟡 Medium | - | - | - |
-| 16 | [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | 🔴 Hard | 62.5% | 6m+ | 37.1% |
-| 17 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | 🟡 Medium | - | - | - |
-| 18 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | - | - | - |
-| 19 | [394. Decode String](https://leetcode.com/problems/decode-string/) | 🟡 Medium | 5.5% | 3m,6m,6m+ | 62.2% |
-| 20 | [495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | 🟢 Easy | - | - | - |
-| 21 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | - | - | - |
-| 22 | [546. Remove Boxes](https://leetcode.com/problems/remove-boxes/) | 🔴 Hard | - | 6m+ | 49.3% |
-| 23 | [625. Minimum Factorization](https://leetcode.com/problems/minimum-factorization/) | 🟡 Medium | - | 6m+ | 33.9% |
-| 24 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | 🟢 Easy | - | - | - |
-| 25 | [796. Rotate String](https://leetcode.com/problems/rotate-string/) | 🟢 Easy | - | - | - |
-| 26 | [470. Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | 🟡 Medium | 62.5% | 6m+ | 46.2% |
-| 27 | [1044. Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | 🔴 Hard | - | - | - |
-| 28 | [1174. Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | 🟡 Medium | - | - | - |
-| 29 | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | 🟡 Medium | 62.5% | 6m+ | 71.3% |
-| 30 | [1401. Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡 Medium | - | - | - |
-| 31 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | - | - | - |
-| 32 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | 🟡 Medium | - | - | - |
-| 33 | [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | 🔴 Hard | - | - | - |
-| 34 | [2376. Count Special Integers](https://leetcode.com/problems/count-special-integers/) | 🔴 Hard | - | - | - |
-| 35 | [2627. Debounce](https://leetcode.com/problems/debounce/) | 🟡 Medium | 62.5% | 6m+ | 91.8% |
-
----
-
-## Honeywell
-
-> 🟢 Easy: 4 | 🟡 Medium: 7 | 🔴 Hard: 3 | Total: 14
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | 87.5% | 6m+ | 57.1% |
-| 2 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard | - | - | - |
-| 3 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 Medium | - | - | - |
-| 4 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🔴 Hard | - | - | - |
-| 5 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | - | - | - |
-| 6 | [78. Subsets](https://leetcode.com/problems/subsets/) | 🟡 Medium | - | - | - |
-| 7 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🔴 Hard | - | - | - |
-| 8 | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | 🟡 Medium | - | - | - |
-| 9 | [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | 🟡 Medium | - | - | - |
-| 10 | [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | 🟢 Easy | - | - | - |
-| 11 | [1848. Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | 🟢 Easy | 87.5% | 6m+ | 54.2% |
-| 12 | [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | 🟡 Medium | - | 6m+ | 67.6% |
-| 13 | [2635. Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | 🟢 Easy | - | - | - |
-| 14 | [2747. Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | 🟡 Medium | 100.0% | 6m+ | 35.6% |
-
----
-
-## Samsara
-
-> 🟢 Easy: 2 | 🟡 Medium: 8 | 🔴 Hard: 2 | Total: 12
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | 0.4% | 6m,6m+ | 64.1% |
-| 2 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 Hard | 0.2% | 6m+ | 50.4% |
-| 3 | [136. Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | - | - | - |
-| 4 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | - | - | - |
-| 5 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | 🟡 Medium | - | - | - |
-| 6 | [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | 🟡 Medium | - | - | - |
-| 7 | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 🟡 Medium | - | - | - |
-| 8 | [2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | 🔴 Hard | - | - | - |
-| 9 | [2633. Convert Object to JSON String](https://leetcode.com/problems/convert-object-to-json-string/) | 🟡 Medium | - | - | - |
-| 10 | [3006. Find Beautiful Indices in the Given Array I](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/) | 🟡 Medium | 100.0% | 6m+ | 40.5% |
-| 11 | [3206. Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/) | 🟢 Easy | 75.0% | 6m+ | 68.8% |
-| 12 | [3208. Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/) | 🟡 Medium | 75.0% | 6m+ | 59.9% |
-
----
-
-## Toptal
-
-> 🟢 Easy: 2 | 🟡 Medium: 2 | 🔴 Hard: 2 | Total: 6
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🔴 Hard | - | - | - |
-| 2 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | - | - | - |
-| 3 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | 🟡 Medium | - | - | - |
-| 4 | [661. Image Smoother](https://leetcode.com/problems/image-smoother/) | 🟢 Easy | - | - | - |
-| 5 | [1227. Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/) | 🟡 Medium | 100.0% | 6m+ | 67.2% |
-| 6 | [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/) | 🔴 Hard | 100.0% | 6m+ | 52.2% |
-
----
-
-## Deliveroo
-
-> 🟢 Easy: 4 | 🟡 Medium: 5 | 🔴 Hard: 5 | Total: 14
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | 🔴 Hard | - | - | - |
-| 2 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
-| 3 | [164. Maximum Gap](https://leetcode.com/problems/maximum-gap/) | 🟡 Medium | - | - | - |
-| 4 | [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | 🔴 Hard | 5.2% | 6m+ | 49.8% |
-| 5 | [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | 🟢 Easy | - | - | - |
-| 6 | [539. Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | 🟡 Medium | - | - | - |
-| 7 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | 🟢 Easy | - | - | - |
-| 8 | [632. Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | 🔴 Hard | - | - | - |
-| 9 | [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | 🔴 Hard | 100.0% | 6m+ | 53.2% |
-| 10 | [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | 🟡 Medium | 100.0% | 6m+ | 74.8% |
-| 11 | [1797. Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager/) | 🟡 Medium | 100.0% | 3m,6m,6m+ | 58.4% |
-| 12 | [1842. Next Palindrome Using Same Digits](https://leetcode.com/problems/next-palindrome-using-same-digits/) | 🔴 Hard | - | - | - |
-| 13 | [2332. The Latest Time to Catch a Bus](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/) | 🟡 Medium | - | - | - |
-| 14 | [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | 🟢 Easy | 100.0% | 6m+ | 90.4% |
-
----
-
-## Nextdoor
-
-> 🟢 Easy: 2 | 🟡 Medium: 14 | 🔴 Hard: 3 | Total: 19
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | - | - | - |
-| 2 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 🟡 Medium | - | - | - |
-| 3 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | - | - | - |
-| 4 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | 62.5% | 6m+ | 66.8% |
-| 5 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | - | - | - |
-| 6 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | 4.3% | 6m+ | 51.1% |
-| 7 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | 🟡 Medium | - | - | - |
-| 8 | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | 🟡 Medium | 7.8% | 6m,6m+ | 46.1% |
-| 9 | [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | 🟡 Medium | - | - | - |
-| 10 | [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | 🟡 Medium | - | - | - |
-| 11 | [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | 🟡 Medium | - | - | - |
-| 12 | [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | 🟢 Easy | - | - | - |
-| 13 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | 🟡 Medium | - | - | - |
-| 14 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | 🟢 Easy | - | - | - |
-| 15 | [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | 🔴 Hard | 100.0% | 6m+ | 44.1% |
-| 16 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | 🟡 Medium | - | - | - |
-| 17 | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | 🟡 Medium | - | - | - |
-| 18 | [2111. Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/) | 🔴 Hard | - | - | - |
-| 19 | [2196. Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | 🟡 Medium | - | - | - |
-
----
-
-## Nordstrom
-
-> 🟢 Easy: 6 | 🟡 Medium: 21 | 🔴 Hard: 1 | Total: 28
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
-| 2 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | - | - | - |
-| 3 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | - | - | - |
-| 4 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | - | - | - |
-| 5 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | - | - | - |
-| 6 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | - | - | - |
-| 7 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | - | - | - |
-| 8 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | 2.9% | 6m+ | 56.1% |
-| 9 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | - | - | - |
-| 10 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | 🟡 Medium | - | - | - |
-| 11 | [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | 🟡 Medium | - | - | - |
-| 12 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | - | - | - |
-| 13 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | 🟡 Medium | - | - | - |
-| 14 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 4.6% | 6m+ | 46.8% |
-| 15 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | - | - | - |
-| 16 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | 2.6% | 6m+ | 52.9% |
-| 17 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | 3.3% | 6m+ | 50.8% |
-| 18 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | 🟡 Medium | 3.4% | 6m+ | 44.6% |
-| 19 | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | 🟢 Easy | 87.5% | 6m+ | 68.6% |
-| 20 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | - | - | - |
-| 21 | [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | 🔴 Hard | 87.5% | 6m+ | 34.8% |
-| 22 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | - | - | - |
-| 23 | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | 🟢 Easy | - | - | - |
-| 24 | [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/) | 🟡 Medium | - | - | - |
-| 25 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | - | - | - |
-| 26 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | - | - | - |
-| 27 | [1418. Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | 🟡 Medium | 87.5% | 6m+ | 76.4% |
-| 28 | [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | 🟢 Easy | - | - | - |
 
 ---
 
@@ -39142,6 +39138,43 @@
 | 18 | [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | 🟡 Medium | - | - | - |
 | 19 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | 75.0% | 6m+ | 90.5% |
 | 20 | [3330. Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/) | 🟢 Easy | - | - | - |
+
+---
+
+## Nordstrom
+
+> 🟢 Easy: 6 | 🟡 Medium: 21 | 🔴 Hard: 1 | Total: 28
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
+| 2 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | - | - | - |
+| 3 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | - | - | - |
+| 4 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | - | - | - |
+| 5 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | - | - | - |
+| 6 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | - | - | - |
+| 7 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | - | - | - |
+| 8 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | 2.9% | 6m+ | 56.1% |
+| 9 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | - | - | - |
+| 10 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | 🟡 Medium | - | - | - |
+| 11 | [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | 🟡 Medium | - | - | - |
+| 12 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | - | - | - |
+| 13 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | 🟡 Medium | - | - | - |
+| 14 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 4.6% | 6m+ | 46.8% |
+| 15 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | - | - | - |
+| 16 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | 2.6% | 6m+ | 52.9% |
+| 17 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | 3.3% | 6m+ | 50.8% |
+| 18 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | 🟡 Medium | 3.4% | 6m+ | 44.6% |
+| 19 | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | 🟢 Easy | 87.5% | 6m+ | 68.6% |
+| 20 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | - | - | - |
+| 21 | [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | 🔴 Hard | 87.5% | 6m+ | 34.8% |
+| 22 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | - | - | - |
+| 23 | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | 🟢 Easy | - | - | - |
+| 24 | [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/) | 🟡 Medium | - | - | - |
+| 25 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | - | - | - |
+| 26 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | - | - | - |
+| 27 | [1418. Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | 🟡 Medium | 87.5% | 6m+ | 76.4% |
+| 28 | [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | 🟢 Easy | - | - | - |
 
 ---
 
@@ -39294,37 +39327,6 @@
 
 ---
 
-## Activision
-
-> 🟢 Easy: 6 | 🟡 Medium: 13 | 🔴 Hard: 3 | Total: 22
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | - | - | - |
-| 2 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 🟡 Medium | - | - | - |
-| 3 | [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | 🔴 Hard | - | - | - |
-| 4 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | - | - | - |
-| 5 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | - | - | - |
-| 6 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | - | - | - |
-| 7 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | 🟢 Easy | - | - | - |
-| 8 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 Medium | - | - | - |
-| 9 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | - | - | - |
-| 10 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | 🟢 Easy | - | - | - |
-| 11 | [394. Decode String](https://leetcode.com/problems/decode-string/) | 🟡 Medium | 2.5% | 3m,6m,6m+ | 62.2% |
-| 12 | [468. Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | 🟡 Medium | - | - | - |
-| 13 | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | - | - | - |
-| 14 | [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | 🟡 Medium | - | - | - |
-| 15 | [888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | 🟢 Easy | - | - | - |
-| 16 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | - | - | - |
-| 17 | [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) | 🟡 Medium | - | - | - |
-| 18 | [1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/) | 🔴 Hard | - | - | - |
-| 19 | [1694. Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | 🟢 Easy | 100.0% | 6m+ | 67.6% |
-| 20 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | 🟢 Easy | - | - | - |
-| 21 | [2964. Number of Divisible Triplet Sums](https://leetcode.com/problems/number-of-divisible-triplet-sums/) | 🟡 Medium | 100.0% | 6m+ | 67.6% |
-| 22 | [3035. Maximum Palindromes After Operations](https://leetcode.com/problems/maximum-palindromes-after-operations/) | 🟡 Medium | - | - | - |
-
----
-
 ## Tiger Analytics
 
 > 🟢 Easy: 9 | 🟡 Medium: 9 | 🔴 Hard: 3 | Total: 21
@@ -39376,29 +39378,6 @@
 
 ---
 
-## Philips
-
-> 🟢 Easy: 6 | 🟡 Medium: 6 | 🔴 Hard: 2 | Total: 14
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
-| 2 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | 100.0% | 6m+ | 66.2% |
-| 3 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 🟡 Medium | - | - | - |
-| 4 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
-| 5 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | 100.0% | 6m+ | 55.5% |
-| 6 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 🔴 Hard | - | - | - |
-| 7 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 🟢 Easy | - | - | - |
-| 8 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | - | - | - |
-| 9 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | - | - | - |
-| 10 | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | 🟢 Easy | - | - | - |
-| 11 | [561. Array Partition](https://leetcode.com/problems/array-partition/) | 🟢 Easy | - | - | - |
-| 12 | [781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/) | 🟡 Medium | - | - | - |
-| 13 | [967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | 🟡 Medium | - | - | - |
-| 14 | [982. Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | 🔴 Hard | 100.0% | 6m+ | 60.0% |
-
----
-
 ## Navi
 
 > 🟢 Easy: 0 | 🟡 Medium: 11 | 🔴 Hard: 7 | Total: 18
@@ -39423,6 +39402,37 @@
 | 16 | [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | 🟡 Medium | - | - | - |
 | 17 | [2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | 🟡 Medium | 100.0% | 6m+ | 50.9% |
 | 18 | [3394. Check if Grid can be Cut into Sections](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/) | 🟡 Medium | - | - | - |
+
+---
+
+## Activision
+
+> 🟢 Easy: 6 | 🟡 Medium: 13 | 🔴 Hard: 3 | Total: 22
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | - | - | - |
+| 2 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 🟡 Medium | - | - | - |
+| 3 | [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | 🔴 Hard | - | - | - |
+| 4 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | - | - | - |
+| 5 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | - | - | - |
+| 6 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | - | - | - |
+| 7 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | 🟢 Easy | - | - | - |
+| 8 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 Medium | - | - | - |
+| 9 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | - | - | - |
+| 10 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | 🟢 Easy | - | - | - |
+| 11 | [394. Decode String](https://leetcode.com/problems/decode-string/) | 🟡 Medium | 2.5% | 3m,6m,6m+ | 62.2% |
+| 12 | [468. Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | 🟡 Medium | - | - | - |
+| 13 | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | 🟡 Medium | - | - | - |
+| 14 | [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | 🟡 Medium | - | - | - |
+| 15 | [888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | 🟢 Easy | - | - | - |
+| 16 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | - | - | - |
+| 17 | [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) | 🟡 Medium | - | - | - |
+| 18 | [1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/) | 🔴 Hard | - | - | - |
+| 19 | [1694. Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | 🟢 Easy | 100.0% | 6m+ | 67.6% |
+| 20 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | 🟢 Easy | - | - | - |
+| 21 | [2964. Number of Divisible Triplet Sums](https://leetcode.com/problems/number-of-divisible-triplet-sums/) | 🟡 Medium | 100.0% | 6m+ | 67.6% |
+| 22 | [3035. Maximum Palindromes After Operations](https://leetcode.com/problems/maximum-palindromes-after-operations/) | 🟡 Medium | - | - | - |
 
 ---
 
@@ -39491,6 +39501,29 @@
 | 19 | [1864. Minimum Number of Swaps to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/) | 🟡 Medium | - | - | - |
 | 20 | [2062. Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/) | 🟢 Easy | 100.0% | 6m+ | 72.8% |
 | 21 | [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | 🟡 Medium | - | - | - |
+
+---
+
+## Philips
+
+> 🟢 Easy: 6 | 🟡 Medium: 6 | 🔴 Hard: 2 | Total: 14
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
+| 2 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | 100.0% | 6m+ | 66.2% |
+| 3 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 🟡 Medium | - | - | - |
+| 4 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
+| 5 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | 100.0% | 6m+ | 55.5% |
+| 6 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 🔴 Hard | - | - | - |
+| 7 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 🟢 Easy | - | - | - |
+| 8 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | - | - | - |
+| 9 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | - | - | - |
+| 10 | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | 🟢 Easy | - | - | - |
+| 11 | [561. Array Partition](https://leetcode.com/problems/array-partition/) | 🟢 Easy | - | - | - |
+| 12 | [781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/) | 🟡 Medium | - | - | - |
+| 13 | [967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | 🟡 Medium | - | - | - |
+| 14 | [982. Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | 🔴 Hard | 100.0% | 6m+ | 60.0% |
 
 ---
 
@@ -39800,35 +39833,6 @@
 
 ---
 
-## HiLabs
-
-> 🟢 Easy: 3 | 🟡 Medium: 8 | 🔴 Hard: 9 | Total: 20
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | - | - | - |
-| 2 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
-| 3 | [87. Scramble String](https://leetcode.com/problems/scramble-string/) | 🔴 Hard | - | - | - |
-| 4 | [135. Candy](https://leetcode.com/problems/candy/) | 🔴 Hard | - | - | - |
-| 5 | [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | 🔴 Hard | - | - | - |
-| 6 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | - | - | - |
-| 7 | [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | 🟡 Medium | - | - | - |
-| 8 | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | 🟡 Medium | - | - | - |
-| 9 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | 🟡 Medium | - | - | - |
-| 10 | [546. Remove Boxes](https://leetcode.com/problems/remove-boxes/) | 🔴 Hard | - | - | - |
-| 11 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | 🟡 Medium | - | - | - |
-| 12 | [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | 🟢 Easy | - | - | - |
-| 13 | [1106. Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | 🔴 Hard | 100.0% | 6m+ | 69.8% |
-| 14 | [1518. Water Bottles](https://leetcode.com/problems/water-bottles/) | 🟢 Easy | 100.0% | 6m+ | 72.6% |
-| 15 | [2400. Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | 🟡 Medium | - | - | - |
-| 16 | [2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/) | 🟡 Medium | - | - | - |
-| 17 | [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) | 🔴 Hard | - | - | - |
-| 18 | [3003. Maximize the Number of Partitions After Operations](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/) | 🔴 Hard | 100.0% | 6m+ | 53.6% |
-| 19 | [3307. Find the K-th Character in String Game II](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/) | 🔴 Hard | - | - | - |
-| 20 | [3584. Maximum Product of First and Last Elements of a Subsequence](https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence/) | 🟡 Medium | - | - | - |
-
----
-
 ## Odoo
 
 > 🟢 Easy: 8 | 🟡 Medium: 12 | 🔴 Hard: 1 | Total: 21
@@ -40069,39 +40073,6 @@
 
 ---
 
-## Trexquant
-
-> 🟢 Easy: 2 | 🟡 Medium: 21 | 🔴 Hard: 1 | Total: 24
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
-| 2 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | 87.5% | 6m+ | 38.6% |
-| 3 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | 87.5% | 6m+ | 65.5% |
-| 4 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
-| 5 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
-| 6 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 Medium | - | - | - |
-| 7 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | - | - | - |
-| 8 | [443. String Compression](https://leetcode.com/problems/string-compression/) | 🟡 Medium | - | - | - |
-| 9 | [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/) | 🟢 Easy | - | - | - |
-| 10 | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | 🟡 Medium | - | - | - |
-| 11 | [554. Brick Wall](https://leetcode.com/problems/brick-wall/) | 🟡 Medium | 87.5% | 6m+ | 56.0% |
-| 12 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | 🟡 Medium | - | - | - |
-| 13 | [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/) | 🟡 Medium | - | - | - |
-| 14 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | 87.5% | 6m+ | 49.7% |
-| 15 | [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | 🟡 Medium | - | - | - |
-| 16 | [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | 🟡 Medium | - | - | - |
-| 17 | [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | 🟡 Medium | - | - | - |
-| 18 | [1432. Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | 🟡 Medium | 100.0% | 6m+ | 48.8% |
-| 19 | [1488. Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | 🟡 Medium | - | - | - |
-| 20 | [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | 🟡 Medium | - | - | - |
-| 21 | [1884. Egg Drop With 2 Eggs and N Floors](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/) | 🟡 Medium | - | - | - |
-| 22 | [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | 🟡 Medium | - | - | - |
-| 23 | [2498. Frog Jump II](https://leetcode.com/problems/frog-jump-ii/) | 🟡 Medium | - | - | - |
-| 24 | [3607. Power Grid Maintenance](https://leetcode.com/problems/power-grid-maintenance/) | 🟡 Medium | - | - | - |
-
----
-
 ## Jump Trading
 
 > 🟢 Easy: 3 | 🟡 Medium: 8 | 🔴 Hard: 6 | Total: 17
@@ -40280,28 +40251,36 @@
 
 ---
 
-## Hotstar
+## Societe Generale
 
-> 🟢 Easy: 2 | 🟡 Medium: 11 | 🔴 Hard: 3 | Total: 16
+> 🟢 Easy: 9 | 🟡 Medium: 13 | 🔴 Hard: 2 | Total: 24
 
 | # | Problem | Difficulty | Freq | Recency | Acceptance |
 |---|---------|------------|------|---------|------------|
-| 1 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
-| 2 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | - | - | - |
-| 3 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
-| 4 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | 🔴 Hard | - | - | - |
-| 5 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | 🟡 Medium | - | - | - |
-| 6 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 Medium | - | - | - |
-| 7 | [179. Largest Number](https://leetcode.com/problems/largest-number/) | 🟡 Medium | - | - | - |
-| 8 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | - | - | - |
-| 9 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | 100.0% | 6m+ | 63.8% |
-| 10 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | 🟡 Medium | - | - | - |
-| 11 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | - | - | - |
-| 12 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | - | - | - |
-| 13 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | - | - | - |
-| 14 | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) | 🟡 Medium | - | - | - |
-| 15 | [927. Three Equal Parts](https://leetcode.com/problems/three-equal-parts/) | 🔴 Hard | 100.0% | 6m+ | 41.2% |
-| 16 | [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | 🟡 Medium | - | - | - |
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
+| 2 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
+| 3 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | 🟡 Medium | - | - | - |
+| 4 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | 1.1% | - | 65.5% |
+| 5 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
+| 6 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | - | - | - |
+| 7 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 Medium | - | - | - |
+| 8 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | 2.1% | 6m+ | 56.4% |
+| 9 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | - | - | - |
+| 10 | [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | 🟡 Medium | - | - | - |
+| 11 | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/) | 🟢 Easy | - | - | - |
+| 12 | [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | 🔴 Hard | - | - | - |
+| 13 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | - | - | - |
+| 14 | [443. String Compression](https://leetcode.com/problems/string-compression/) | 🟡 Medium | - | - | - |
+| 15 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | - | - | - |
+| 16 | [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | 🟢 Easy | - | - | - |
+| 17 | [752. Open the Lock](https://leetcode.com/problems/open-the-lock/) | 🟡 Medium | - | - | - |
+| 18 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy | - | - | - |
+| 19 | [1123. Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | 🟡 Medium | - | - | - |
+| 20 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | 🟢 Easy | - | - | - |
+| 21 | [1864. Minimum Number of Swaps to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/) | 🟡 Medium | 100.0% | 6m+ | 43.8% |
+| 22 | [2239. Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) | 🟢 Easy | - | - | - |
+| 23 | [2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | 🟡 Medium | - | - | - |
+| 24 | [2825. Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/) | 🟡 Medium | - | - | - |
 
 ---
 
@@ -40360,27 +40339,6 @@
 
 ---
 
-## instabase
-
-> 🟢 Easy: 3 | 🟡 Medium: 5 | 🔴 Hard: 4 | Total: 12
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
-| 2 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 Hard | - | - | - |
-| 3 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | - | - | - |
-| 4 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | 🟡 Medium | 3.0% | 6m+ | 69.2% |
-| 5 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | 🟡 Medium | 100.0% | 6m+ | 55.0% |
-| 6 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | - | - | - |
-| 7 | [2192. All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | 🟡 Medium | - | - | - |
-| 8 | [2050. Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/) | 🔴 Hard | - | - | - |
-| 9 | [2176. Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | 🟢 Easy | - | - | - |
-| 10 | [2334. Subarray With Elements Greater Than Varying Threshold](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/) | 🔴 Hard | 100.0% | 6m+ | 45.2% |
-| 11 | [3161. Block Placement Queries](https://leetcode.com/problems/block-placement-queries/) | 🔴 Hard | - | - | - |
-| 12 | [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | 🟡 Medium | - | - | - |
-
----
-
 ## BlackStone
 
 > 🟢 Easy: 7 | 🟡 Medium: 6 | 🔴 Hard: 4 | Total: 17
@@ -40429,39 +40387,6 @@
 
 ---
 
-## Societe Generale
-
-> 🟢 Easy: 9 | 🟡 Medium: 13 | 🔴 Hard: 2 | Total: 24
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
-| 2 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | - | - | - |
-| 3 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | 🟡 Medium | - | - | - |
-| 4 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | 1.1% | - | 65.5% |
-| 5 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
-| 6 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | - | - | - |
-| 7 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 Medium | - | - | - |
-| 8 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | 2.1% | 6m+ | 56.4% |
-| 9 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | - | - | - |
-| 10 | [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | 🟡 Medium | - | - | - |
-| 11 | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/) | 🟢 Easy | - | - | - |
-| 12 | [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | 🔴 Hard | - | - | - |
-| 13 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | - | - | - |
-| 14 | [443. String Compression](https://leetcode.com/problems/string-compression/) | 🟡 Medium | - | - | - |
-| 15 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | - | - | - |
-| 16 | [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | 🟢 Easy | - | - | - |
-| 17 | [752. Open the Lock](https://leetcode.com/problems/open-the-lock/) | 🟡 Medium | - | - | - |
-| 18 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy | - | - | - |
-| 19 | [1123. Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | 🟡 Medium | - | - | - |
-| 20 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | 🟢 Easy | - | - | - |
-| 21 | [1864. Minimum Number of Swaps to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/) | 🟡 Medium | 100.0% | 6m+ | 43.8% |
-| 22 | [2239. Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) | 🟢 Easy | - | - | - |
-| 23 | [2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | 🟡 Medium | - | - | - |
-| 24 | [2825. Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/) | 🟡 Medium | - | - | - |
-
----
-
 ## AppDynamics
 
 > 🟢 Easy: 1 | 🟡 Medium: 5 | 🔴 Hard: 0 | Total: 6
@@ -40477,26 +40402,46 @@
 
 ---
 
-## ADP
+## Hotstar
 
-> 🟢 Easy: 7 | 🟡 Medium: 6 | 🔴 Hard: 1 | Total: 14
+> 🟢 Easy: 2 | 🟡 Medium: 11 | 🔴 Hard: 3 | Total: 16
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
+| 2 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | - | - | - |
+| 3 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
+| 4 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | 🔴 Hard | - | - | - |
+| 5 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | 🟡 Medium | - | - | - |
+| 6 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 Medium | - | - | - |
+| 7 | [179. Largest Number](https://leetcode.com/problems/largest-number/) | 🟡 Medium | - | - | - |
+| 8 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | - | - | - |
+| 9 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | 100.0% | 6m+ | 63.8% |
+| 10 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | 🟡 Medium | - | - | - |
+| 11 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | - | - | - |
+| 12 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | - | - | - |
+| 13 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | - | - | - |
+| 14 | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) | 🟡 Medium | - | - | - |
+| 15 | [927. Three Equal Parts](https://leetcode.com/problems/three-equal-parts/) | 🔴 Hard | 100.0% | 6m+ | 41.2% |
+| 16 | [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | 🟡 Medium | - | - | - |
+
+---
+
+## Gartner
+
+> 🟢 Easy: 3 | 🟡 Medium: 6 | 🔴 Hard: 0 | Total: 9
 
 | # | Problem | Difficulty | Freq | Recency | Acceptance |
 |---|---------|------------|------|---------|------------|
 | 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
-| 2 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | 87.5% | - | 53.0% |
-| 3 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | - | - | - |
-| 4 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | - | - | - |
-| 5 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | - | - | - |
-| 6 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | 1.6% | - | 63.5% |
-| 7 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | - | - | - |
-| 8 | [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/) | 🟡 Medium | - | - | - |
-| 9 | [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | 🟡 Medium | - | - | - |
-| 10 | [1492. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | 🟡 Medium | - | - | - |
-| 11 | [2704. To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | 🟢 Easy | 87.5% | 6m+ | 63.3% |
-| 12 | [2831. Find the Longest Equal Subarray](https://leetcode.com/problems/find-the-longest-equal-subarray/) | 🟡 Medium | - | - | - |
-| 13 | [3318. Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | 🟢 Easy | - | - | - |
-| 14 | [3463. Check If Digits Are Equal in String After Operations II](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii/) | 🔴 Hard | 100.0% | 6m+ | 14.2% |
+| 2 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
+| 3 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 100.0% | 6m+ | 46.8% |
+| 4 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | - | - | - |
+| 5 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | 🟡 Medium | - | - | - |
+| 6 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | - | - | - |
+| 7 | [1016. Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) | 🟡 Medium | 87.5% | 6m+ | 58.4% |
+| 8 | [1195. Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/) | 🟡 Medium | 87.5% | 6m+ | 74.6% |
+| 9 | [1750. Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | 🟡 Medium | - | - | - |
 
 ---
 
@@ -40621,37 +40566,47 @@
 
 ---
 
-## Gartner
+## instabase
 
-> 🟢 Easy: 3 | 🟡 Medium: 6 | 🔴 Hard: 0 | Total: 9
+> 🟢 Easy: 3 | 🟡 Medium: 5 | 🔴 Hard: 4 | Total: 12
 
 | # | Problem | Difficulty | Freq | Recency | Acceptance |
 |---|---------|------------|------|---------|------------|
 | 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
-| 2 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
-| 3 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 100.0% | 6m+ | 46.8% |
-| 4 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | - | - | - |
-| 5 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | 🟡 Medium | - | - | - |
-| 6 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | - | - | - |
-| 7 | [1016. Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) | 🟡 Medium | 87.5% | 6m+ | 58.4% |
-| 8 | [1195. Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/) | 🟡 Medium | 87.5% | 6m+ | 74.6% |
-| 9 | [1750. Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | 🟡 Medium | - | - | - |
+| 2 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 Hard | - | - | - |
+| 3 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | - | - | - |
+| 4 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | 🟡 Medium | 3.0% | 6m+ | 69.2% |
+| 5 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | 🟡 Medium | 100.0% | 6m+ | 55.0% |
+| 6 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | - | - | - |
+| 7 | [2192. All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | 🟡 Medium | - | - | - |
+| 8 | [2050. Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/) | 🔴 Hard | - | - | - |
+| 9 | [2176. Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | 🟢 Easy | - | - | - |
+| 10 | [2334. Subarray With Elements Greater Than Varying Threshold](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/) | 🔴 Hard | 100.0% | 6m+ | 45.2% |
+| 11 | [3161. Block Placement Queries](https://leetcode.com/problems/block-placement-queries/) | 🔴 Hard | - | - | - |
+| 12 | [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | 🟡 Medium | - | - | - |
 
 ---
 
-## Unity
+## ADP
 
-> 🟢 Easy: 2 | 🟡 Medium: 5 | 🔴 Hard: 0 | Total: 7
+> 🟢 Easy: 7 | 🟡 Medium: 6 | 🔴 Hard: 1 | Total: 14
 
 | # | Problem | Difficulty | Freq | Recency | Acceptance |
 |---|---------|------------|------|---------|------------|
-| 1 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | - | - | - |
-| 2 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | - | - | - |
-| 3 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | 🟡 Medium | - | - | - |
-| 4 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | 🟢 Easy | - | - | - |
-| 5 | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | 🟡 Medium | - | - | - |
-| 6 | [2038. Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | 🟡 Medium | 87.5% | 6m+ | 63.0% |
-| 7 | [2470. Number of Subarrays With LCM Equal to K](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/) | 🟡 Medium | 100.0% | 6m+ | 43.3% |
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
+| 2 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | 87.5% | - | 53.0% |
+| 3 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | - | - | - |
+| 4 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | - | - | - |
+| 5 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | - | - | - |
+| 6 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | 1.6% | - | 63.5% |
+| 7 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | - | - | - |
+| 8 | [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/) | 🟡 Medium | - | - | - |
+| 9 | [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | 🟡 Medium | - | - | - |
+| 10 | [1492. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | 🟡 Medium | - | - | - |
+| 11 | [2704. To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | 🟢 Easy | 87.5% | 6m+ | 63.3% |
+| 12 | [2831. Find the Longest Equal Subarray](https://leetcode.com/problems/find-the-longest-equal-subarray/) | 🟡 Medium | - | - | - |
+| 13 | [3318. Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | 🟢 Easy | - | - | - |
+| 14 | [3463. Check If Digits Are Equal in String After Operations II](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii/) | 🔴 Hard | 100.0% | 6m+ | 14.2% |
 
 ---
 
@@ -40740,6 +40695,22 @@
 | 5 | [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | 🟡 Medium | 75.0% | 6m+ | 77.2% |
 | 6 | [2506. Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/) | 🟢 Easy | - | - | - |
 | 7 | [2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/) | 🟡 Medium | - | - | - |
+
+---
+
+## Unity
+
+> 🟢 Easy: 2 | 🟡 Medium: 5 | 🔴 Hard: 0 | Total: 7
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | - | - | - |
+| 2 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | - | - | - |
+| 3 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | 🟡 Medium | - | - | - |
+| 4 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | 🟢 Easy | - | - | - |
+| 5 | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | 🟡 Medium | - | - | - |
+| 6 | [2038. Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | 🟡 Medium | 87.5% | 6m+ | 63.0% |
+| 7 | [2470. Number of Subarrays With LCM Equal to K](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/) | 🟡 Medium | 100.0% | 6m+ | 43.3% |
 
 ---
 
@@ -40893,6 +40864,25 @@
 
 ---
 
+## PubMatic
+
+> 🟢 Easy: 4 | 🟡 Medium: 3 | 🔴 Hard: 3 | Total: 10
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | 100.0% | - | 59.5% |
+| 2 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | 2.1% | 6m+ | 47.1% |
+| 3 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | - | - | - |
+| 4 | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | 🔴 Hard | - | - | - |
+| 5 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | - | - | - |
+| 6 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | 🟡 Medium | - | - | - |
+| 7 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | - | - | - |
+| 8 | [819. Most Common Word](https://leetcode.com/problems/most-common-word/) | 🟢 Easy | - | - | - |
+| 9 | [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/) | 🔴 Hard | - | - | - |
+| 10 | [2514. Count Anagrams](https://leetcode.com/problems/count-anagrams/) | 🔴 Hard | - | - | - |
+
+---
+
 ## Schlumberger
 
 > 🟢 Easy: 3 | 🟡 Medium: 10 | 🔴 Hard: 0 | Total: 13
@@ -40912,23 +40902,6 @@
 | 11 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | 🟡 Medium | 100.0% | 6m+ | 73.8% |
 | 12 | [1432. Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | 🟡 Medium | - | - | - |
 | 13 | [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | 🟡 Medium | - | - | - |
-
----
-
-## Grubhub
-
-> 🟢 Easy: 1 | 🟡 Medium: 7 | 🔴 Hard: 0 | Total: 8
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | 4.1% | 6m,6m+ | 51.1% |
-| 2 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | 🟢 Easy | - | - | - |
-| 3 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 87.5% | 6m+ | 46.8% |
-| 4 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | - | - | - |
-| 5 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | 🟡 Medium | - | - | - |
-| 6 | [508. Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/) | 🟡 Medium | - | - | - |
-| 7 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | 🟡 Medium | 100.0% | 6m+ | 73.8% |
-| 8 | [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | 🟡 Medium | - | - | - |
 
 ---
 
@@ -41078,6 +41051,35 @@
 
 ---
 
+## HiLabs
+
+> 🟢 Easy: 3 | 🟡 Medium: 8 | 🔴 Hard: 9 | Total: 20
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | - | - | - |
+| 2 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
+| 3 | [87. Scramble String](https://leetcode.com/problems/scramble-string/) | 🔴 Hard | - | - | - |
+| 4 | [135. Candy](https://leetcode.com/problems/candy/) | 🔴 Hard | - | - | - |
+| 5 | [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | 🔴 Hard | - | - | - |
+| 6 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | - | - | - |
+| 7 | [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | 🟡 Medium | - | - | - |
+| 8 | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | 🟡 Medium | - | - | - |
+| 9 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | 🟡 Medium | - | - | - |
+| 10 | [546. Remove Boxes](https://leetcode.com/problems/remove-boxes/) | 🔴 Hard | - | - | - |
+| 11 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | 🟡 Medium | - | - | - |
+| 12 | [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | 🟢 Easy | - | - | - |
+| 13 | [1106. Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | 🔴 Hard | 100.0% | 6m+ | 69.8% |
+| 14 | [1518. Water Bottles](https://leetcode.com/problems/water-bottles/) | 🟢 Easy | 100.0% | 6m+ | 72.6% |
+| 15 | [2400. Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | 🟡 Medium | - | - | - |
+| 16 | [2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/) | 🟡 Medium | - | - | - |
+| 17 | [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) | 🔴 Hard | - | - | - |
+| 18 | [3003. Maximize the Number of Partitions After Operations](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/) | 🔴 Hard | 100.0% | 6m+ | 53.6% |
+| 19 | [3307. Find the K-th Character in String Game II](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/) | 🔴 Hard | - | - | - |
+| 20 | [3584. Maximum Product of First and Last Elements of a Subsequence](https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence/) | 🟡 Medium | - | - | - |
+
+---
+
 ## Chubb
 
 > 🟢 Easy: 8 | 🟡 Medium: 9 | 🔴 Hard: 3 | Total: 20
@@ -41135,25 +41137,6 @@
 | 1 | [577. Employee Bonus](https://leetcode.com/problems/employee-bonus/) | 🟢 Easy | - | 6m+ | 77.2% |
 | 2 | [2303. Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes/) | 🟢 Easy | - | - | - |
 | 3 | [1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | 🟢 Easy | 100.0% | 6m+ | 63.5% |
-
----
-
-## PubMatic
-
-> 🟢 Easy: 4 | 🟡 Medium: 3 | 🔴 Hard: 3 | Total: 10
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | 100.0% | - | 59.5% |
-| 2 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | 2.1% | 6m+ | 47.1% |
-| 3 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | - | - | - |
-| 4 | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | 🔴 Hard | - | - | - |
-| 5 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | - | - | - |
-| 6 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | 🟡 Medium | - | - | - |
-| 7 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | - | - | - |
-| 8 | [819. Most Common Word](https://leetcode.com/problems/most-common-word/) | 🟢 Easy | - | - | - |
-| 9 | [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/) | 🔴 Hard | - | - | - |
-| 10 | [2514. Count Anagrams](https://leetcode.com/problems/count-anagrams/) | 🔴 Hard | - | - | - |
 
 ---
 
@@ -41223,6 +41206,23 @@
 | 2 | [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | 🟡 Medium | 87.5% | 6m+ | 72.2% |
 | 3 | [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/) | 🔴 Hard | - | - | - |
 | 4 | [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | 🟡 Medium | 100.0% | 6m+ | 38.9% |
+
+---
+
+## Grubhub
+
+> 🟢 Easy: 1 | 🟡 Medium: 7 | 🔴 Hard: 0 | Total: 8
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | 4.1% | 6m,6m+ | 51.1% |
+| 2 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | 🟢 Easy | - | - | - |
+| 3 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | 87.5% | 6m+ | 46.8% |
+| 4 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟡 Medium | - | - | - |
+| 5 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | 🟡 Medium | - | - | - |
+| 6 | [508. Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/) | 🟡 Medium | - | - | - |
+| 7 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | 🟡 Medium | 100.0% | 6m+ | 73.8% |
+| 8 | [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | 🟡 Medium | - | - | - |
 
 ---
 
@@ -41963,6 +41963,19 @@
 
 ---
 
+## Wayve
+
+> 🟢 Easy: 1 | 🟡 Medium: 3 | 🔴 Hard: 0 | Total: 4
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/) | 🟡 Medium | - | - | - |
+| 2 | [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | 🟢 Easy | - | - | - |
+| 3 | [1570. Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/) | 🟡 Medium | - | - | - |
+| 4 | [2121. Intervals Between Identical Elements](https://leetcode.com/problems/intervals-between-identical-elements/) | 🟡 Medium | 100.0% | 6m+ | 45.5% |
+
+---
+
 ## SOTI
 
 > 🟢 Easy: 4 | 🟡 Medium: 13 | 🔴 Hard: 4 | Total: 21
@@ -41993,48 +42006,31 @@
 
 ---
 
-## Slice
+## Etsy
 
-> 🟢 Easy: 3 | 🟡 Medium: 14 | 🔴 Hard: 6 | Total: 23
+> 🟢 Easy: 4 | 🟡 Medium: 2 | 🔴 Hard: 1 | Total: 7
 
 | # | Problem | Difficulty | Freq | Recency | Acceptance |
 |---|---------|------------|------|---------|------------|
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
-| 2 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | - | - | - |
-| 3 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | - | - | - |
-| 4 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🔴 Hard | - | - | - |
-| 5 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
-| 6 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | 1.8% | 6m+ | 69.1% |
-| 7 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | - | - | - |
-| 8 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | 100.0% | 6m+ | 58.1% |
-| 9 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | - | - | - |
-| 10 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 Medium | - | - | - |
-| 11 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
-| 12 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 Medium | - | - | - |
-| 13 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | 🟡 Medium | - | - | - |
-| 14 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 🔴 Hard | - | - | - |
-| 15 | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | 🟡 Medium | - | - | - |
-| 16 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | 🟡 Medium | - | - | - |
-| 17 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | - | - | - |
-| 18 | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | 🟡 Medium | - | - | - |
-| 19 | [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | 🟡 Medium | - | - | - |
-| 20 | [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) | 🟡 Medium | - | - | - |
-| 21 | [975. Odd Even Jump](https://leetcode.com/problems/odd-even-jump/) | 🔴 Hard | - | - | - |
-| 22 | [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | 🟡 Medium | - | - | - |
-| 23 | [1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | 🟡 Medium | - | - | - |
+| 1 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | - | - | - |
+| 2 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | - | - | - |
+| 3 | [77. Combinations](https://leetcode.com/problems/combinations/) | 🟡 Medium | - | - | - |
+| 4 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | - | - | - |
+| 5 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | 🟢 Easy | - | - | - |
+| 6 | [1320. Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | 🔴 Hard | - | - | - |
+| 7 | [1582. Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | 🟢 Easy | 100.0% | 6m+ | 68.8% |
 
 ---
 
-## Wayve
+## Thumbtack
 
-> 🟢 Easy: 1 | 🟡 Medium: 3 | 🔴 Hard: 0 | Total: 4
+> 🟢 Easy: 0 | 🟡 Medium: 3 | 🔴 Hard: 0 | Total: 3
 
 | # | Problem | Difficulty | Freq | Recency | Acceptance |
 |---|---------|------------|------|---------|------------|
-| 1 | [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/) | 🟡 Medium | - | - | - |
-| 2 | [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | 🟢 Easy | - | - | - |
-| 3 | [1570. Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/) | 🟡 Medium | - | - | - |
-| 4 | [2121. Intervals Between Identical Elements](https://leetcode.com/problems/intervals-between-identical-elements/) | 🟡 Medium | 100.0% | 6m+ | 45.5% |
+| 1 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | - | - | - |
+| 2 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | 🟡 Medium | - | - | - |
+| 3 | [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | 🟡 Medium | 100.0% | 6m+ | 61.4% |
 
 ---
 
@@ -42085,19 +42081,35 @@
 
 ---
 
-## Etsy
+## Slice
 
-> 🟢 Easy: 4 | 🟡 Medium: 2 | 🔴 Hard: 1 | Total: 7
+> 🟢 Easy: 3 | 🟡 Medium: 14 | 🔴 Hard: 6 | Total: 23
 
 | # | Problem | Difficulty | Freq | Recency | Acceptance |
 |---|---------|------------|------|---------|------------|
-| 1 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | - | - | - |
-| 2 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | - | - | - |
-| 3 | [77. Combinations](https://leetcode.com/problems/combinations/) | 🟡 Medium | - | - | - |
-| 4 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | - | - | - |
-| 5 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | 🟢 Easy | - | - | - |
-| 6 | [1320. Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | 🔴 Hard | - | - | - |
-| 7 | [1582. Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | 🟢 Easy | 100.0% | 6m+ | 68.8% |
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | - | - | - |
+| 2 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | - | - | - |
+| 3 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | - | - | - |
+| 4 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🔴 Hard | - | - | - |
+| 5 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | - | - | - |
+| 6 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | 1.8% | 6m+ | 69.1% |
+| 7 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | - | - | - |
+| 8 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | 100.0% | 6m+ | 58.1% |
+| 9 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | - | - | - |
+| 10 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 Medium | - | - | - |
+| 11 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
+| 12 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 Medium | - | - | - |
+| 13 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | 🟡 Medium | - | - | - |
+| 14 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 🔴 Hard | - | - | - |
+| 15 | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | 🟡 Medium | - | - | - |
+| 16 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | 🟡 Medium | - | - | - |
+| 17 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | - | - | - |
+| 18 | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | 🟡 Medium | - | - | - |
+| 19 | [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | 🟡 Medium | - | - | - |
+| 20 | [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) | 🟡 Medium | - | - | - |
+| 21 | [975. Odd Even Jump](https://leetcode.com/problems/odd-even-jump/) | 🔴 Hard | - | - | - |
+| 22 | [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | 🟡 Medium | - | - | - |
+| 23 | [1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | 🟡 Medium | - | - | - |
 
 ---
 
@@ -42169,6 +42181,31 @@
 
 ---
 
+## CureFit
+
+> 🟢 Easy: 4 | 🟡 Medium: 9 | 🔴 Hard: 3 | Total: 16
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | - | - | - |
+| 2 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | - | - | - |
+| 3 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | - | - | - |
+| 4 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 Medium | - | - | - |
+| 5 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | 🟡 Medium | - | - | - |
+| 6 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | - | - | - |
+| 7 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | - | - | - |
+| 8 | [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | 🟡 Medium | - | - | - |
+| 9 | [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | 🟡 Medium | - | - | - |
+| 10 | [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | - | - | - |
+| 11 | [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | 🟡 Medium | - | - | - |
+| 12 | [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | 🔴 Hard | - | - | - |
+| 13 | [1674. Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | 🟡 Medium | 100.0% | 6m+ | 43.3% |
+| 14 | [1921. Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | 🟡 Medium | - | - | - |
+| 15 | [2196. Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | 🟡 Medium | - | - | - |
+| 16 | [3229. Minimum Operations to Make Array Equal to Target](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/) | 🔴 Hard | - | - | - |
+
+---
+
 ## Cleartrip
 
 > 🟢 Easy: 0 | 🟡 Medium: 11 | 🔴 Hard: 1 | Total: 12
@@ -42190,18 +42227,6 @@
 
 ---
 
-## Thumbtack
-
-> 🟢 Easy: 0 | 🟡 Medium: 3 | 🔴 Hard: 0 | Total: 3
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | - | - | - |
-| 2 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | 🟡 Medium | - | - | - |
-| 3 | [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | 🟡 Medium | 100.0% | 6m+ | 61.4% |
-
----
-
 ## General Electric
 
 > 🟢 Easy: 2 | 🟡 Medium: 1 | 🔴 Hard: 2 | Total: 5
@@ -42213,21 +42238,6 @@
 | 3 | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | 🟢 Easy | - | - | - |
 | 4 | [1751. Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | 🔴 Hard | 100.0% | 6m+ | 63.6% |
 | 5 | [2945. Find Maximum Non-decreasing Array Length](https://leetcode.com/problems/find-maximum-non-decreasing-array-length/) | 🔴 Hard | - | - | - |
-
----
-
-## Flatiron Health
-
-> 🟢 Easy: 1 | 🟡 Medium: 5 | 🔴 Hard: 0 | Total: 6
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | - | - | - |
-| 2 | [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | 🟡 Medium | - | - | - |
-| 3 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | - | - | - |
-| 4 | [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | 🟢 Easy | - | - | - |
-| 5 | [1664. Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/) | 🟡 Medium | 100.0% | 6m+ | 66.3% |
-| 6 | [3719. Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/) | 🟡 Medium | - | - | - |
 
 ---
 
@@ -42246,6 +42256,20 @@
 | 7 | [1197. Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | 🟡 Medium | - | - | - |
 | 8 | [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | 🟢 Easy | - | - | - |
 | 9 | [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | 🟡 Medium | - | - | - |
+
+---
+
+## FAST
+
+> 🟢 Easy: 1 | 🟡 Medium: 4 | 🔴 Hard: 0 | Total: 5
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | - | - | - |
+| 2 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | 🟡 Medium | - | - | - |
+| 3 | [204. Count Primes](https://leetcode.com/problems/count-primes/) | 🟡 Medium | 100.0% | - | 35.7% |
+| 4 | [394. Decode String](https://leetcode.com/problems/decode-string/) | 🟡 Medium | - | - | - |
+| 5 | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | 🟡 Medium | - | - | - |
 
 ---
 
@@ -42273,6 +42297,21 @@
 | 16 | [1866. Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | 🔴 Hard | - | - | - |
 | 17 | [3193. Count the Number of Inversions](https://leetcode.com/problems/count-the-number-of-inversions/) | 🔴 Hard | - | - | - |
 | 18 | [3316. Find Maximum Removals From Source String](https://leetcode.com/problems/find-maximum-removals-from-source-string/) | 🟡 Medium | - | - | - |
+
+---
+
+## Flatiron Health
+
+> 🟢 Easy: 1 | 🟡 Medium: 5 | 🔴 Hard: 0 | Total: 6
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | - | - | - |
+| 2 | [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | 🟡 Medium | - | - | - |
+| 3 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | - | - | - |
+| 4 | [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | 🟢 Easy | - | - | - |
+| 5 | [1664. Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/) | 🟡 Medium | 100.0% | 6m+ | 66.3% |
+| 6 | [3719. Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/) | 🟡 Medium | - | - | - |
 
 ---
 
@@ -42362,22 +42401,6 @@
 | 6 | [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | 🟢 Easy | - | - | - |
 | 7 | [1691. Maximum Height by Stacking Cuboids ](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | 🔴 Hard | - | - | - |
 | 8 | [3871. Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | 🟡 Medium | - | - | - |
-
----
-
-## Code Studio
-
-> 🟢 Easy: 3 | 🟡 Medium: 3 | 🔴 Hard: 1 | Total: 7
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 🔴 Hard | - | - | - |
-| 2 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | - | - | - |
-| 3 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 🟡 Medium | - | - | - |
-| 4 | [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | 🟢 Easy | - | - | - |
-| 5 | [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | 🟡 Medium | - | - | - |
-| 6 | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | 🟢 Easy | - | - | - |
-| 7 | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | 🟢 Easy | 100.0% | 6m+ | 69.1% |
 
 ---
 
@@ -42520,17 +42543,19 @@
 
 ---
 
-## FAST
+## Reliance Retails
 
-> 🟢 Easy: 1 | 🟡 Medium: 4 | 🔴 Hard: 0 | Total: 5
+> 🟢 Easy: 4 | 🟡 Medium: 1 | 🔴 Hard: 2 | Total: 7
 
 | # | Problem | Difficulty | Freq | Recency | Acceptance |
 |---|---------|------------|------|---------|------------|
-| 1 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | - | - | - |
-| 2 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | 🟡 Medium | - | - | - |
-| 3 | [204. Count Primes](https://leetcode.com/problems/count-primes/) | 🟡 Medium | 100.0% | - | 35.7% |
-| 4 | [394. Decode String](https://leetcode.com/problems/decode-string/) | 🟡 Medium | - | - | - |
-| 5 | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | 🟡 Medium | - | - | - |
+| 1 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🔴 Hard | - | - | - |
+| 2 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | - | - | - |
+| 3 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
+| 4 | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | 🟡 Medium | - | - | - |
+| 5 | [577. Employee Bonus](https://leetcode.com/problems/employee-bonus/) | 🟢 Easy | - | - | - |
+| 6 | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | 🟢 Easy | - | - | - |
+| 7 | [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | 🟢 Easy | - | - | - |
 
 ---
 
@@ -42542,31 +42567,6 @@
 |---|---------|------------|------|---------|------------|
 | 1 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | - | - | - |
 | 2 | [757. Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/) | 🔴 Hard | 100.0% | 6m+ | 57.9% |
-
----
-
-## CureFit
-
-> 🟢 Easy: 4 | 🟡 Medium: 9 | 🔴 Hard: 3 | Total: 16
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | - | - | - |
-| 2 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | - | - | - |
-| 3 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | - | - | - |
-| 4 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 Medium | - | - | - |
-| 5 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | 🟡 Medium | - | - | - |
-| 6 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | - | - | - |
-| 7 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | - | - | - |
-| 8 | [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | 🟡 Medium | - | - | - |
-| 9 | [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | 🟡 Medium | - | - | - |
-| 10 | [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | - | - | - |
-| 11 | [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | 🟡 Medium | - | - | - |
-| 12 | [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | 🔴 Hard | - | - | - |
-| 13 | [1674. Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | 🟡 Medium | 100.0% | 6m+ | 43.3% |
-| 14 | [1921. Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | 🟡 Medium | - | - | - |
-| 15 | [2196. Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | 🟡 Medium | - | - | - |
-| 16 | [3229. Minimum Operations to Make Array Equal to Target](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/) | 🔴 Hard | - | - | - |
 
 ---
 
@@ -42881,6 +42881,22 @@
 
 ---
 
+## Code Studio
+
+> 🟢 Easy: 3 | 🟡 Medium: 3 | 🔴 Hard: 1 | Total: 7
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 🔴 Hard | - | - | - |
+| 2 | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | - | - | - |
+| 3 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 🟡 Medium | - | - | - |
+| 4 | [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | 🟢 Easy | - | - | - |
+| 5 | [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | 🟡 Medium | - | - | - |
+| 6 | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | 🟢 Easy | - | - | - |
+| 7 | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | 🟢 Easy | 100.0% | 6m+ | 69.1% |
+
+---
+
 ## Murex
 
 > 🟢 Easy: 2 | 🟡 Medium: 4 | 🔴 Hard: 0 | Total: 6
@@ -42973,6 +42989,20 @@
 |---|---------|------------|------|---------|------------|
 | 1 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | - | - | - |
 | 2 | [2273. Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/) | 🟢 Easy | 100.0% | 6m+ | 69.9% |
+
+---
+
+## BT Group
+
+> 🟢 Easy: 2 | 🟡 Medium: 3 | 🔴 Hard: 0 | Total: 5
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | - | - | - |
+| 2 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | - | - | - |
+| 3 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | - | - | - |
+| 4 | [2780. Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/) | 🟡 Medium | - | - | - |
+| 5 | [2974. Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | 🟢 Easy | 100.0% | 6m+ | 85.3% |
 
 ---
 
@@ -43120,22 +43150,6 @@
 
 ---
 
-## Reliance Retails
-
-> 🟢 Easy: 4 | 🟡 Medium: 1 | 🔴 Hard: 2 | Total: 7
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🔴 Hard | - | - | - |
-| 2 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | - | - | - |
-| 3 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | - | - | - |
-| 4 | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | 🟡 Medium | - | - | - |
-| 5 | [577. Employee Bonus](https://leetcode.com/problems/employee-bonus/) | 🟢 Easy | - | - | - |
-| 6 | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | 🟢 Easy | - | - | - |
-| 7 | [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | 🟢 Easy | - | - | - |
-
----
-
 ## 1Kosmos
 
 > 🟢 Easy: 1 | 🟡 Medium: 4 | 🔴 Hard: 0 | Total: 5
@@ -43147,20 +43161,6 @@
 | 3 | [326. Power of Three](https://leetcode.com/problems/power-of-three/) | 🟢 Easy | - | - | - |
 | 4 | [2139. Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score/) | 🟡 Medium | - | - | - |
 | 5 | [2938. Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/) | 🟡 Medium | 100.0% | 6m+ | 64.0% |
-
----
-
-## BT Group
-
-> 🟢 Easy: 2 | 🟡 Medium: 3 | 🔴 Hard: 0 | Total: 5
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | - | - | - |
-| 2 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | - | - | - |
-| 3 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | - | - | - |
-| 4 | [2780. Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/) | 🟡 Medium | - | - | - |
-| 5 | [2974. Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | 🟢 Easy | 100.0% | 6m+ | 85.3% |
 
 ---
 
@@ -44050,16 +44050,6 @@
 
 ---
 
-## Strava
-
-> 🟢 Easy: 0 | 🟡 Medium: 1 | 🔴 Hard: 0 | Total: 1
-
-| # | Problem | Difficulty | Freq | Recency | Acceptance |
-|---|---------|------------|------|---------|------------|
-| 1 | [1990. Count the Number of Experiments](https://leetcode.com/problems/count-the-number-of-experiments/) | 🟡 Medium | 100.0% | 6m+ | 48.8% |
-
----
-
 ## Helix
 
 > 🟢 Easy: 1 | 🟡 Medium: 0 | 🔴 Hard: 0 | Total: 1
@@ -44097,6 +44087,16 @@
 | # | Problem | Difficulty | Freq | Recency | Acceptance |
 |---|---------|------------|------|---------|------------|
 | 1 | [2999. Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers/) | 🔴 Hard | 100.0% | 6m+ | 46.3% |
+
+---
+
+## Strava
+
+> 🟢 Easy: 0 | 🟡 Medium: 1 | 🔴 Hard: 0 | Total: 1
+
+| # | Problem | Difficulty | Freq | Recency | Acceptance |
+|---|---------|------------|------|---------|------------|
+| 1 | [1990. Count the Number of Experiments](https://leetcode.com/problems/count-the-number-of-experiments/) | 🟡 Medium | 100.0% | 6m+ | 48.8% |
 
 ---
 
